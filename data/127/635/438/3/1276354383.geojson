@@ -1,0 +1,67 @@
+{
+  "id": 1276354383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.66667,-11.28333,37.66667,-11.28333",
+    "geom:latitude":-11.28333,
+    "geom:longitude":37.66667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Katema",
+    "gn:country_code":"TZ",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158186,
+    "gn:latitude":-11.28333,
+    "gn:longitude":37.66667,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Katema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679723,
+        1108692985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158186
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"cff3bb0be0f05695cf6f4e56214f14fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692985,
+            "locality_id":1276354383,
+            "region_id":85679723
+        }
+    ],
+    "wof:id":1276354383,
+    "wof:lastmodified":1536750245,
+    "wof:name":"Katema",
+    "wof:parent_id":1108692985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.66667,
+    -11.28333,
+    37.66667,
+    -11.28333
+],
+  "geometry": {"coordinates":[37.66667,-11.28333],"type":"Point"}
+}

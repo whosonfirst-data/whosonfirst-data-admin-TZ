@@ -1,0 +1,72 @@
+{
+  "id": 1344160075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.73818,-7.22267,38.73818,-7.22267",
+    "geom:latitude":-7.22267,
+    "geom:longitude":38.73818,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0603",
+    "gn:admin3_code":"0603091",
+    "gn:asciiname":"Milima Zambi",
+    "gn:country_code":"TZ",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7390934,
+    "gn:latitude":-7.22267,
+    "gn:longitude":38.73818,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Milima Zambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Milima Zambi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        421192907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7390934
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"83d529100378b59003408ff929aec306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421192907,
+            "locality_id":1344160075,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1344160075,
+    "wof:lastmodified":1537710071,
+    "wof:name":"Milima Zambi",
+    "wof:parent_id":421192907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.73818,
+    -7.22267,
+    38.73818,
+    -7.22267
+],
+  "geometry": {"coordinates":[38.73818,-7.22267],"type":"Point"}
+}

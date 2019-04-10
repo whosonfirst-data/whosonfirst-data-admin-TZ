@@ -1,0 +1,63 @@
+{
+  "id": 1226262643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.56667,-1.7,33.56667,-1.7",
+    "geom:latitude":-1.7,
+    "geom:longitude":33.56667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Seme",
+    "gn:country_code":"TZ",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150124,
+    "gn:latitude":-1.7,
+    "gn:longitude":33.56667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Seme",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150124
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"adf2cb8214f78a9277877793bd02db23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226262643,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226262643,
+    "wof:lastmodified":1536909653,
+    "wof:name":"Seme",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.56667,
+    -1.7,
+    33.56667,
+    -1.7
+],
+  "geometry": {"coordinates":[33.56667,-1.7],"type":"Point"}
+}

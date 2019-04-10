@@ -1,0 +1,69 @@
+{
+  "id": 1209892003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.4,-5.7,38.4,-5.7",
+    "geom:latitude":-5.7,
+    "geom:longitude":38.4,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0406",
+    "gn:admin3_code":"0406181",
+    "gn:asciiname":"Watu",
+    "gn:country_code":"TZ",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148875,
+    "gn:latitude":-5.7,
+    "gn:longitude":38.4,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Watu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679747,
+        1108692923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148875
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"d77bc1e77307038c24961dfa17657f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692923,
+            "locality_id":1209892003,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":1209892003,
+    "wof:lastmodified":1536390314,
+    "wof:name":"Watu",
+    "wof:parent_id":1108692923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.4,
+    -5.7,
+    38.4,
+    -5.7
+],
+  "geometry": {"coordinates":[38.4,-5.7],"type":"Point"}
+}

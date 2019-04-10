@@ -1,0 +1,72 @@
+{
+  "id": 1210027927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.45,-6.93333,36.45,-6.93333",
+    "geom:latitude":-6.93333,
+    "geom:longitude":36.45,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0102",
+    "gn:admin3_code":"0102081",
+    "gn:asciiname":"Makose",
+    "gn:country_code":"TZ",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155119,
+    "gn:latitude":-6.93333,
+    "gn:longitude":36.45,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Makose",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makose"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679705,
+        1108692893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155119
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"7a6bb5ce6699baab045f3e9e1c1e0687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692893,
+            "locality_id":1210027927,
+            "region_id":85679705
+        }
+    ],
+    "wof:id":1210027927,
+    "wof:lastmodified":1537710025,
+    "wof:name":"Makose",
+    "wof:parent_id":1108692893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.45,
+    -6.93333,
+    36.45,
+    -6.93333
+],
+  "geometry": {"coordinates":[36.45,-6.93333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327126777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.11667,-3.25,37.11667,-3.25",
+    "geom:latitude":-3.25,
+    "geom:longitude":37.11667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"0305",
+    "gn:admin3_code":"0305083",
+    "gn:asciiname":"Bondeni Boloti",
+    "gn:country_code":"TZ",
+    "gn:dem":1080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161075,
+    "gn:latitude":-3.25,
+    "gn:longitude":37.11667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Bondeni Boloti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baloti",
+        "Bondeni Boloti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679737,
+        421202555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161075
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"b1678390a3ab3ec8b9de2fe4866319f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421202555,
+            "locality_id":1327126777,
+            "region_id":85679737
+        }
+    ],
+    "wof:id":1327126777,
+    "wof:lastmodified":1537710060,
+    "wof:name":"Bondeni Boloti",
+    "wof:parent_id":421202555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.11667,
+    -3.25,
+    37.11667,
+    -3.25
+],
+  "geometry": {"coordinates":[37.11667,-3.25],"type":"Point"}
+}

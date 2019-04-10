@@ -1,0 +1,73 @@
+{
+  "id": 1310596181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.43333,-7.36667,33.43333,-7.36667",
+    "geom:latitude":-7.36667,
+    "geom:longitude":33.43333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1201",
+    "gn:admin3_code":"1201021",
+    "gn:asciiname":"Ngululiro",
+    "gn:country_code":"TZ",
+    "gn:dem":1711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151583,
+    "gn:latitude":-7.36667,
+    "gn:longitude":33.43333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ngululiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Igululilo",
+        "Ngululiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679641,
+        1108693005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151583
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"84a952d20a462d4f2d9d16d6b3e7e690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693005,
+            "locality_id":1310596181,
+            "region_id":85679641
+        }
+    ],
+    "wof:id":1310596181,
+    "wof:lastmodified":1537710004,
+    "wof:name":"Ngululiro",
+    "wof:parent_id":1108693005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.43333,
+    -7.36667,
+    33.43333,
+    -7.36667
+],
+  "geometry": {"coordinates":[33.43333,-7.36667],"type":"Point"}
+}

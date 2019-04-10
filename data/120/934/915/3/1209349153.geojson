@@ -1,0 +1,63 @@
+{
+  "id": 1209349153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.85,-2.91667,33.85,-2.91667",
+    "geom:latitude":-2.91667,
+    "geom:longitude":33.85,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2402",
+    "gn:admin3_code":"2402181",
+    "gn:asciiname":"Tagawi",
+    "gn:country_code":"TZ",
+    "gn:dem":1308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149650,
+    "gn:latitude":-2.91667,
+    "gn:longitude":33.85,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Tagawi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149650
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"24521aec4d312b4faf6ef97acb2f2781",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209349153
+        }
+    ],
+    "wof:id":1209349153,
+    "wof:lastmodified":1536289806,
+    "wof:name":"Tagawi",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.85,
+    -2.91667,
+    33.85,
+    -2.91667
+],
+  "geometry": {"coordinates":[33.85,-2.91667],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209691803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.23333,-5.35,38.23333,-5.35",
+    "geom:latitude":-5.35,
+    "geom:longitude":38.23333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0406",
+    "gn:admin3_code":"0406101",
+    "gn:asciiname":"Sindeni",
+    "gn:country_code":"TZ",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149884,
+    "gn:latitude":-5.35,
+    "gn:longitude":38.23333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Sindeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149884
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"d6e94b1966541a6f6ae2db799db253c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209691803
+        }
+    ],
+    "wof:id":1209691803,
+    "wof:lastmodified":1536279213,
+    "wof:name":"Sindeni",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.23333,
+    -5.35,
+    38.23333,
+    -5.35
+],
+  "geometry": {"coordinates":[38.23333,-5.35],"type":"Point"}
+}

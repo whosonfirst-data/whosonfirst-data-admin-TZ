@@ -1,0 +1,63 @@
+{
+  "id": 1209089939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.9,-11.08333,34.9,-11.08333",
+    "geom:latitude":-11.08333,
+    "geom:longitude":34.9,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1003",
+    "gn:admin3_code":"1003151",
+    "gn:asciiname":"Mpapa",
+    "gn:country_code":"TZ",
+    "gn:dem":1632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877824,
+    "gn:latitude":-11.08333,
+    "gn:longitude":34.9,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mpapa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877824
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"4f1aad94d9b6ecc1aa6d0d842911091e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209089939
+        }
+    ],
+    "wof:id":1209089939,
+    "wof:lastmodified":1536298066,
+    "wof:name":"Mpapa",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.9,
+    -11.08333,
+    34.9,
+    -11.08333
+],
+  "geometry": {"coordinates":[34.9,-11.08333],"type":"Point"}
+}

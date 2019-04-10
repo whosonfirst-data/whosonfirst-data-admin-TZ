@@ -1,0 +1,84 @@
+{
+  "id": 421198673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.18333,-9.4,33.18333,-9.4",
+    "geom:latitude":-9.4,
+    "geom:longitude":33.18333,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:swa_x_preferred":[
+        "Itumba"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":158876,
+    "qs:gn_pop":13438,
+    "qs:name":"Itumba",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Mbeya",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":430958,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1444130,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679641,
+        1108693011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158876,
+        "gp:id":1444130,
+        "qs:id":430958,
+        "wd:id":"Q6095126"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009956,
+    "wof:geomhash":"cd24678cbb0d23d20715bdd34bd6f60c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693011,
+            "locality_id":421198673,
+            "region_id":85679641
+        }
+    ],
+    "wof:id":421198673,
+    "wof:lastmodified":1527716349,
+    "wof:name":"Itumba",
+    "wof:parent_id":1108693011,
+    "wof:placetype":"locality",
+    "wof:population":13438,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.18333,
+    -9.4,
+    33.18333,
+    -9.4
+],
+  "geometry": {"coordinates":[33.18333,-9.4],"type":"Point"}
+}

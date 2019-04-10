@@ -1,0 +1,78 @@
+{
+  "id": 1125961331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14028,-1.59111,31.14028,-1.59111",
+    "geom:latitude":-1.59111,
+    "geom:longitude":31.14028,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":10609,
+    "gn:population":10609,
+    "iso:country":"TZ",
+    "lbl:latitude":-1.59111,
+    "lbl:longitude":31.14028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":161022,
+    "qs_pg:gn_pop":10609,
+    "qs_pg:name":"Bugene",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":69383,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161022,
+        "qs_pg:id":69383
+    },
+    "wof:country":"TZ",
+    "wof:created":1497297808,
+    "wof:geomhash":"187e7768237b419999a34363d6e28cb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693085,
+            "locality_id":1125961331,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1125961331,
+    "wof:lastmodified":1509403337,
+    "wof:name":"Bugene",
+    "wof:parent_id":1108693085,
+    "wof:placetype":"locality",
+    "wof:population":10609,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14028,
+    -1.59111,
+    31.14028,
+    -1.59111
+],
+  "geometry": {"coordinates":[31.14028,-1.59111],"type":"Point"}
+}

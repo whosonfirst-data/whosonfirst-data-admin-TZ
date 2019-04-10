@@ -1,0 +1,72 @@
+{
+  "id": 1310613877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.98988,-7.93898,38.98988,-7.93898",
+    "geom:latitude":-7.93898,
+    "geom:longitude":38.98988,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0605",
+    "gn:admin3_code":"0605032",
+    "gn:asciiname":"Umwo",
+    "gn:country_code":"TZ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7391121,
+    "gn:latitude":-7.93898,
+    "gn:longitude":38.98988,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Umwo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Umwo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        421182255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7391121
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"020d1f0ee5c8f07ed25bda50c1edf829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421182255,
+            "locality_id":1310613877,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1310613877,
+    "wof:lastmodified":1537710072,
+    "wof:name":"Umwo",
+    "wof:parent_id":421182255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.98988,
+    -7.93898,
+    38.98988,
+    -7.93898
+],
+  "geometry": {"coordinates":[38.98988,-7.93898],"type":"Point"}
+}

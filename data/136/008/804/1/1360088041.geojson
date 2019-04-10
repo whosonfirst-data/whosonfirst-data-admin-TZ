@@ -1,0 +1,80 @@
+{
+  "id": 1360088041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.88351,-7.7716,39.88351,-7.7716",
+    "geom:latitude":-7.7716,
+    "geom:longitude":39.88351,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0606",
+    "gn:admin3_code":"0606021",
+    "gn:asciiname":"Jimbo",
+    "gn:country_code":"TZ",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158755,
+    "gn:latitude":-7.7716,
+    "gn:longitude":39.88351,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Jimbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jimbo"
+    ],
+    "name:eng_x_variant":[
+        "Jumbo",
+        "Dyimbo"
+    ],
+    "name:und_x_variant":[
+        "Dyimbo",
+        "Jumbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        1108692951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158755
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"36ea8d1dd2fa04b0f7f817140a40b674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692951,
+            "locality_id":1360088041,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1360088041,
+    "wof:lastmodified":1537710046,
+    "wof:name":"Jimbo",
+    "wof:parent_id":1108692951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.88351,
+    -7.7716,
+    39.88351,
+    -7.7716
+],
+  "geometry": {"coordinates":[39.88351,-7.7716],"type":"Point"}
+}

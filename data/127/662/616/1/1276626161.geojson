@@ -1,0 +1,64 @@
+{
+  "id": 1276626161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.66667,-4.96667,39.66667,-4.96667",
+    "geom:latitude":-4.96667,
+    "geom:longitude":39.66667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mbauni",
+    "gn:country_code":"TZ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":154399,
+    "gn:latitude":-4.96667,
+    "gn:longitude":39.66667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mbauni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154399
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"cc54161e23a5e39db3c068d4a24a93d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "locality_id":1276626161,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276626161,
+    "wof:lastmodified":1536883163,
+    "wof:name":"Mbauni",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.66667,
+    -4.96667,
+    39.66667,
+    -4.96667
+],
+  "geometry": {"coordinates":[39.66667,-4.96667],"type":"Point"}
+}

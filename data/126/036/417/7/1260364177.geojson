@@ -1,0 +1,69 @@
+{
+  "id": 1260364177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.76667,-5.26667,39.76667,-5.26667",
+    "geom:latitude":-5.26667,
+    "geom:longitude":39.76667,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"5501",
+    "gn:admin3_code":"5501013",
+    "gn:asciiname":"Mchekeni",
+    "gn:country_code":"TZ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":154219,
+    "gn:latitude":-5.26667,
+    "gn:longitude":39.76667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mchekeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679687,
+        421187955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154219
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"5fbc0c0577250e3a65f8c2d419580c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187955,
+            "locality_id":1260364177,
+            "region_id":85679687
+        }
+    ],
+    "wof:id":1260364177,
+    "wof:lastmodified":1536600546,
+    "wof:name":"Mchekeni",
+    "wof:parent_id":421187955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.76667,
+    -5.26667,
+    39.76667,
+    -5.26667
+],
+  "geometry": {"coordinates":[39.76667,-5.26667],"type":"Point"}
+}

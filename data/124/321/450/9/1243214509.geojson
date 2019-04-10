@@ -1,0 +1,80 @@
+{
+  "id": 1243214509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.36366,-6.16367,30.36366,-6.16367",
+    "geom:latitude":-6.16367,
+    "geom:longitude":30.36366,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"2302",
+    "gn:admin3_code":"2302031",
+    "gn:asciiname":"Munsalya",
+    "gn:country_code":"TZ",
+    "gn:dem":1499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":152524,
+    "gn:latitude":-6.16367,
+    "gn:longitude":30.36366,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Munsalya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Munsalya"
+    ],
+    "name:eng_x_variant":[
+        "Munsalla",
+        "Munsalia"
+    ],
+    "name:und_x_variant":[
+        "Munsalia",
+        "Munsalla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679751,
+        1108693149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152524
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"4a5617a94a185b38a4d5b34813b87d16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693149,
+            "locality_id":1243214509,
+            "region_id":85679751
+        }
+    ],
+    "wof:id":1243214509,
+    "wof:lastmodified":1537710009,
+    "wof:name":"Munsalya",
+    "wof:parent_id":1108693149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.36366,
+    -6.16367,
+    30.36366,
+    -6.16367
+],
+  "geometry": {"coordinates":[30.36366,-6.16367],"type":"Point"}
+}

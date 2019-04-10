@@ -1,0 +1,63 @@
+{
+  "id": 1209472863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.91667,-8.83333,31.91667,-8.83333",
+    "geom:latitude":-8.83333,
+    "geom:longitude":31.91667,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1501",
+    "gn:admin3_code":"1501091",
+    "gn:asciiname":"Kitanga",
+    "gn:country_code":"TZ",
+    "gn:dem":1510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156842,
+    "gn:latitude":-8.83333,
+    "gn:longitude":31.91667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kitanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156842
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"d69fa7cd056238a874ea4fd8d327426e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209472863
+        }
+    ],
+    "wof:id":1209472863,
+    "wof:lastmodified":1536286026,
+    "wof:name":"Kitanga",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.91667,
+    -8.83333,
+    31.91667,
+    -8.83333
+],
+  "geometry": {"coordinates":[31.91667,-8.83333],"type":"Point"}
+}

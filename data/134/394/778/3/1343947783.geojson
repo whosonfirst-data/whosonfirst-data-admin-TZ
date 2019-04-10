@@ -1,0 +1,69 @@
+{
+  "id": 1343947783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.73333,-8.2,33.73333,-8.2",
+    "geom:latitude":-8.2,
+    "geom:longitude":33.73333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1207",
+    "gn:admin3_code":"1207011",
+    "gn:asciiname":"Makanganyika",
+    "gn:country_code":"TZ",
+    "gn:dem":1599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155191,
+    "gn:latitude":-8.2,
+    "gn:longitude":33.73333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Makanganyika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679641,
+        1108693015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155191
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"3357a8fc6020f50d6636ae4d7e15a95b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693015,
+            "locality_id":1343947783,
+            "region_id":85679641
+        }
+    ],
+    "wof:id":1343947783,
+    "wof:lastmodified":1537036761,
+    "wof:name":"Makanganyika",
+    "wof:parent_id":1108693015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.73333,
+    -8.2,
+    33.73333,
+    -8.2
+],
+  "geometry": {"coordinates":[33.73333,-8.2],"type":"Point"}
+}

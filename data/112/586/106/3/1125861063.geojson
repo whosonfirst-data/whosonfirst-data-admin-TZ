@@ -1,0 +1,81 @@
+{
+  "id": 1125861063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.7,-5.38333,39.7,-5.38333",
+    "geom:latitude":-5.38333,
+    "geom:longitude":39.7,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6797,
+    "gn:population":6797,
+    "iso:country":"TZ",
+    "lbl:latitude":-5.38333,
+    "lbl:longitude":39.7,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Mwembeduka"
+    ],
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":152877,
+    "qs_pg:gn_pop":6797,
+    "qs_pg:name":"Mtambile",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":122511,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679687,
+        1108693175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152877,
+        "qs_pg:id":122511
+    },
+    "wof:country":"TZ",
+    "wof:created":1497293833,
+    "wof:geomhash":"5f9adcd96bdf520a943756043aded605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693175,
+            "locality_id":1125861063,
+            "region_id":85679687
+        }
+    ],
+    "wof:id":1125861063,
+    "wof:lastmodified":1509396634,
+    "wof:name":"Mtambile",
+    "wof:parent_id":1108693175,
+    "wof:placetype":"locality",
+    "wof:population":6797,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.7,
+    -5.38333,
+    39.7,
+    -5.38333
+],
+  "geometry": {"coordinates":[39.7,-5.38333],"type":"Point"}
+}

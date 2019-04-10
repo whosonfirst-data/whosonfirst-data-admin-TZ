@@ -1,0 +1,69 @@
+{
+  "id": 1259620181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.08333,-2.7,34.08333,-2.7",
+    "geom:latitude":-2.7,
+    "geom:longitude":34.08333,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2401",
+    "gn:admin3_code":"2401061",
+    "gn:asciiname":"Mamoto",
+    "gn:country_code":"TZ",
+    "gn:dem":1402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":154952,
+    "gn:latitude":-2.7,
+    "gn:longitude":34.08333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mamoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679755,
+        421187951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154952
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"7d2fc7d2951428a8f10a7019605b85d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187951,
+            "locality_id":1259620181,
+            "region_id":85679755
+        }
+    ],
+    "wof:id":1259620181,
+    "wof:lastmodified":1536661762,
+    "wof:name":"Mamoto",
+    "wof:parent_id":421187951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.08333,
+    -2.7,
+    34.08333,
+    -2.7
+],
+  "geometry": {"coordinates":[34.08333,-2.7],"type":"Point"}
+}

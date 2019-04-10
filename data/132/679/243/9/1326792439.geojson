@@ -1,0 +1,64 @@
+{
+  "id": 1326792439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.63333,-5.38333,39.63333,-5.38333",
+    "geom:latitude":-5.38333,
+    "geom:longitude":39.63333,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mzamborauni",
+    "gn:country_code":"TZ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":152080,
+    "gn:latitude":-5.38333,
+    "gn:longitude":39.63333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mzamborauni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152080
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"7c75c65a1305c5c45634ffdbea9f022f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "locality_id":1326792439,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326792439,
+    "wof:lastmodified":1536606157,
+    "wof:name":"Mzamborauni",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.63333,
+    -5.38333,
+    39.63333,
+    -5.38333
+],
+  "geometry": {"coordinates":[39.63333,-5.38333],"type":"Point"}
+}

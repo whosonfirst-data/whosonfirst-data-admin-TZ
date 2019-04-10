@@ -1,0 +1,73 @@
+{
+  "id": 1326753271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.17167,-3.94472,31.17167,-3.94472",
+    "geom:latitude":-3.94472,
+    "geom:longitude":31.17167,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1601",
+    "gn:admin3_code":"1601051",
+    "gn:asciiname":"Nyavihondo",
+    "gn:country_code":"TZ",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150988,
+    "gn:latitude":-3.94472,
+    "gn:longitude":31.17167,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nyavihondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyvihondo",
+        "Nyavihondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679669,
+        1108693059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150988
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"627c23316fb0572ebf5f9a6fb21c9032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693059,
+            "locality_id":1326753271,
+            "region_id":85679669
+        }
+    ],
+    "wof:id":1326753271,
+    "wof:lastmodified":1537710000,
+    "wof:name":"Nyavihondo",
+    "wof:parent_id":1108693059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.17167,
+    -3.94472,
+    31.17167,
+    -3.94472
+],
+  "geometry": {"coordinates":[31.17167,-3.94472],"type":"Point"}
+}

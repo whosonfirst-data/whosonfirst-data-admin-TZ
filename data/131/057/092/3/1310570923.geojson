@@ -1,0 +1,74 @@
+{
+  "id": 1310570923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.38333,-4.65,34.38333,-4.65",
+    "geom:latitude":-4.65,
+    "geom:longitude":34.38333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1301",
+    "gn:admin3_code":"1301151",
+    "gn:asciiname":"Ussure",
+    "gn:country_code":"TZ",
+    "gn:dem":1415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149110,
+    "gn:latitude":-4.65,
+    "gn:longitude":34.38333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ussure",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Usure",
+        "Usule",
+        "Ussure"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679727,
+        1108693023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149110
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"4bd62de9c4a2086e3c35ed5c3a29a8a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693023,
+            "locality_id":1310570923,
+            "region_id":85679727
+        }
+    ],
+    "wof:id":1310570923,
+    "wof:lastmodified":1537709990,
+    "wof:name":"Ussure",
+    "wof:parent_id":1108693023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.38333,
+    -4.65,
+    34.38333,
+    -4.65
+],
+  "geometry": {"coordinates":[34.38333,-4.65],"type":"Point"}
+}

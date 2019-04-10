@@ -1,0 +1,69 @@
+{
+  "id": 1293731409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.755,-2.81972,31.755,-2.81972",
+    "geom:latitude":-2.81972,
+    "geom:longitude":31.755,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"2505",
+    "gn:admin3_code":"2505141",
+    "gn:asciiname":"Nyakato",
+    "gn:country_code":"TZ",
+    "gn:dem":1166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151238,
+    "gn:latitude":-2.81972,
+    "gn:longitude":31.755,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nyakato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679761,
+        1108693171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151238
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"3e539bb3c01ad8adb0d08701840e8cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693171,
+            "locality_id":1293731409,
+            "region_id":85679761
+        }
+    ],
+    "wof:id":1293731409,
+    "wof:lastmodified":1536933364,
+    "wof:name":"Nyakato",
+    "wof:parent_id":1108693171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.755,
+    -2.81972,
+    31.755,
+    -2.81972
+],
+  "geometry": {"coordinates":[31.755,-2.81972],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343560157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.16299,-6.12556,30.16299,-6.12556",
+    "geom:latitude":-6.12556,
+    "geom:longitude":30.16299,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1605",
+    "gn:admin3_code":"1605031",
+    "gn:asciiname":"Lubalisi",
+    "gn:country_code":"TZ",
+    "gn:dem":1235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7391744,
+    "gn:latitude":-6.12556,
+    "gn:longitude":30.16299,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Lubalisi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lubalisi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679669,
+        1108693065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7391744
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"d61fb13a8e1d92a49e40188cb287699c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693065,
+            "locality_id":1343560157,
+            "region_id":85679669
+        }
+    ],
+    "wof:id":1343560157,
+    "wof:lastmodified":1537710072,
+    "wof:name":"Lubalisi",
+    "wof:parent_id":1108693065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.16299,
+    -6.12556,
+    30.16299,
+    -6.12556
+],
+  "geometry": {"coordinates":[30.16299,-6.12556],"type":"Point"}
+}

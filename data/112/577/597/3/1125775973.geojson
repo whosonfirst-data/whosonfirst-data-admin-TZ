@@ -1,0 +1,88 @@
+{
+  "id": 1125775973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.46667,-6.45,39.46667,-6.45",
+    "geom:latitude":-6.45,
+    "geom:longitude":39.46667,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5569,
+    "gn:population":5569,
+    "iso:country":"TZ",
+    "lbl:latitude":-6.45,
+    "lbl:longitude":39.46667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Mahonda"
+    ],
+    "name:eng_x_preferred":[
+        "Mahonda"
+    ],
+    "name:rum_x_preferred":[
+        "Mahonda"
+    ],
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":155263,
+    "qs_pg:gn_pop":5569,
+    "qs_pg:name":"Mahonda",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":523314,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679651,
+        421188197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155263,
+        "qs_pg:id":523314,
+        "wd:id":"Q6734767"
+    },
+    "wof:country":"TZ",
+    "wof:created":1497290257,
+    "wof:geomhash":"63714d6de3cd13774a72955aa0b0cfe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421188197,
+            "locality_id":1125775973,
+            "region_id":85679651
+        }
+    ],
+    "wof:id":1125775973,
+    "wof:lastmodified":1514508599,
+    "wof:name":"Mahonda",
+    "wof:parent_id":421188197,
+    "wof:placetype":"locality",
+    "wof:population":5569,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.46667,
+    -6.45,
+    39.46667,
+    -6.45
+],
+  "geometry": {"coordinates":[39.46667,-6.45],"type":"Point"}
+}

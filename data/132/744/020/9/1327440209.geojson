@@ -1,0 +1,78 @@
+{
+  "id": 1327440209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.38316,-7.18129,39.38316,-7.18129",
+    "geom:latitude":-7.18129,
+    "geom:longitude":39.38316,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0604",
+    "gn:admin3_code":"0604051",
+    "gn:asciiname":"Shungubweni",
+    "gn:country_code":"TZ",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149961,
+    "gn:latitude":-7.18129,
+    "gn:longitude":39.38316,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Shungubweni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shungubweni"
+    ],
+    "name:eng_x_variant":[
+        "Saungubweni"
+    ],
+    "name:und_x_variant":[
+        "Saungubweni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        421183841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149961
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"4fadef2e98543613d097c36a410d0335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421183841,
+            "locality_id":1327440209,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1327440209,
+    "wof:lastmodified":1537709995,
+    "wof:name":"Shungubweni",
+    "wof:parent_id":421183841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.38316,
+    -7.18129,
+    39.38316,
+    -7.18129
+],
+  "geometry": {"coordinates":[39.38316,-7.18129],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1210021143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.18333,-3.8,31.18333,-3.8",
+    "geom:latitude":-3.8,
+    "geom:longitude":31.18333,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1601",
+    "gn:admin3_code":"1601051",
+    "gn:asciiname":"Lulemera",
+    "gn:country_code":"TZ",
+    "gn:dem":1165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155636,
+    "gn:latitude":-3.8,
+    "gn:longitude":31.18333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Lulemera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lulumera",
+        "Lulemera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679669,
+        1108693059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155636
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"9015dd50287bacd179b1af992ea64d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693059,
+            "locality_id":1210021143,
+            "region_id":85679669
+        }
+    ],
+    "wof:id":1210021143,
+    "wof:lastmodified":1537710028,
+    "wof:name":"Lulemera",
+    "wof:parent_id":1108693059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.18333,
+    -3.8,
+    31.18333,
+    -3.8
+],
+  "geometry": {"coordinates":[31.18333,-3.8],"type":"Point"}
+}

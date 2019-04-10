@@ -1,0 +1,69 @@
+{
+  "id": 1225848135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.9,-6.68333,38.9,-6.68333",
+    "geom:latitude":-6.68333,
+    "geom:longitude":38.9,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0607",
+    "gn:admin3_code":"0607072",
+    "gn:asciiname":"Kumba",
+    "gn:country_code":"TZ",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156435,
+    "gn:latitude":-6.68333,
+    "gn:longitude":38.9,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        1108692953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156435
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"1d01a8f05015ba5d3e42122cfa964806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692953,
+            "locality_id":1225848135,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1225848135,
+    "wof:lastmodified":1537009496,
+    "wof:name":"Kumba",
+    "wof:parent_id":1108692953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.9,
+    -6.68333,
+    38.9,
+    -6.68333
+],
+  "geometry": {"coordinates":[38.9,-6.68333],"type":"Point"}
+}

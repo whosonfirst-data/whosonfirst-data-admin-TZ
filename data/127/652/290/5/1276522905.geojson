@@ -1,0 +1,69 @@
+{
+  "id": 1276522905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.03722,-2.66111,31.03722,-2.66111",
+    "geom:latitude":-2.66111,
+    "geom:longitude":31.03722,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1804",
+    "gn:admin3_code":"1804011",
+    "gn:asciiname":"Mukashorogo",
+    "gn:country_code":"TZ",
+    "gn:dem":1276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387738,
+    "gn:latitude":-2.66111,
+    "gn:longitude":31.03722,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mukashorogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387738
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"de96e6f7505ab31622f9e256e1a7bacf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693093,
+            "locality_id":1276522905,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1276522905,
+    "wof:lastmodified":1537021110,
+    "wof:name":"Mukashorogo",
+    "wof:parent_id":1108693093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.03722,
+    -2.66111,
+    31.03722,
+    -2.66111
+],
+  "geometry": {"coordinates":[31.03722,-2.66111],"type":"Point"}
+}

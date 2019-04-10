@@ -1,0 +1,67 @@
+{
+  "id": 1327204373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.13333,-3.63333,32.13333,-3.63333",
+    "geom:latitude":-3.63333,
+    "geom:longitude":32.13333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kabila",
+    "gn:country_code":"TZ",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158671,
+    "gn:latitude":-3.63333,
+    "gn:longitude":32.13333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kabila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679761,
+        1108693167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158671
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"ad58f3e5f1eb7989b02d1f9c64de7e5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693167,
+            "locality_id":1327204373,
+            "region_id":85679761
+        }
+    ],
+    "wof:id":1327204373,
+    "wof:lastmodified":1537009506,
+    "wof:name":"Kabila",
+    "wof:parent_id":1108693167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.13333,
+    -3.63333,
+    32.13333,
+    -3.63333
+],
+  "geometry": {"coordinates":[32.13333,-3.63333],"type":"Point"}
+}

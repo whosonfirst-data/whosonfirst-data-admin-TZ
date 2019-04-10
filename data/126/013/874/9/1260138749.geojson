@@ -1,0 +1,61 @@
+{
+  "id": 1260138749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.28333,-5.75,39.28333,-5.75",
+    "geom:latitude":-5.75,
+    "geom:longitude":39.28333,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kendwa",
+    "gn:country_code":"TZ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158078,
+    "gn:latitude":-5.75,
+    "gn:longitude":39.28333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kendwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158078
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"361ca026ca01bd624870c66ab990fbfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260138749,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260138749,
+    "wof:lastmodified":1536909675,
+    "wof:name":"Kendwa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.28333,
+    -5.75,
+    39.28333,
+    -5.75
+],
+  "geometry": {"coordinates":[39.28333,-5.75],"type":"Point"}
+}

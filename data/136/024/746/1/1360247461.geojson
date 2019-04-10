@@ -1,0 +1,74 @@
+{
+  "id": 1360247461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.86528,-1.62417,31.86528,-1.62417",
+    "geom:latitude":-1.62417,
+    "geom:longitude":31.86528,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1803",
+    "gn:admin3_code":"1803051",
+    "gn:asciiname":"Bumbire",
+    "gn:cc2":"TZ",
+    "gn:country_code":"TZ",
+    "gn:dem":1163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160913,
+    "gn:latitude":-1.62417,
+    "gn:longitude":31.86528,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Bumbire",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bumbiri",
+        "Bumbire"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160913
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"faa56f5ac21206ca351bf668d7a390c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693091,
+            "locality_id":1360247461,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1360247461,
+    "wof:lastmodified":1537710059,
+    "wof:name":"Bumbire",
+    "wof:parent_id":1108693091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.86528,
+    -1.62417,
+    31.86528,
+    -1.62417
+],
+  "geometry": {"coordinates":[31.86528,-1.62417],"type":"Point"}
+}

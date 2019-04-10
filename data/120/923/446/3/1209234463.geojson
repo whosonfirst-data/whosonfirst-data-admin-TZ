@@ -1,0 +1,67 @@
+{
+  "id": 1209234463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.55,-1.5,34.55,-1.5",
+    "geom:latitude":-1.5,
+    "geom:longitude":34.55,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"2001",
+    "gn:admin3_code":"2001121",
+    "gn:asciiname":"Mara",
+    "gn:country_code":"TZ",
+    "gn:dem":1196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":154786,
+    "gn:latitude":-1.5,
+    "gn:longitude":34.55,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mara Mine",
+        "Mara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154786
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"98cdc0511139b4fe0a7ad019b544b37a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209234463
+        }
+    ],
+    "wof:id":1209234463,
+    "wof:lastmodified":1537710023,
+    "wof:name":"Mara",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.55,
+    -1.5,
+    34.55,
+    -1.5
+],
+  "geometry": {"coordinates":[34.55,-1.5],"type":"Point"}
+}

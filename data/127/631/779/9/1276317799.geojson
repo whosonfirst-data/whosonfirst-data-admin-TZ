@@ -1,0 +1,73 @@
+{
+  "id": 1276317799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1,-8.96667,33.1,-8.96667",
+    "geom:latitude":-8.96667,
+    "geom:longitude":33.1,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1206",
+    "gn:admin3_code":"1206071",
+    "gn:asciiname":"Mlowas",
+    "gn:country_code":"TZ",
+    "gn:dem":1569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153354,
+    "gn:latitude":-8.96667,
+    "gn:longitude":33.1,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mlowas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mlowa",
+        "Mlowas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679641,
+        1108693013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153354
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"644e0d4a52e0c33fcdc7918b932b9f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693013,
+            "locality_id":1276317799,
+            "region_id":85679641
+        }
+    ],
+    "wof:id":1276317799,
+    "wof:lastmodified":1537710014,
+    "wof:name":"Mlowas",
+    "wof:parent_id":1108693013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1,
+    -8.96667,
+    33.1,
+    -8.96667
+],
+  "geometry": {"coordinates":[33.1,-8.96667],"type":"Point"}
+}

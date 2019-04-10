@@ -1,0 +1,70 @@
+{
+  "id": 1344151351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.75,-10.21667,38.75,-10.21667",
+    "geom:latitude":-10.21667,
+    "geom:longitude":38.75,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0803",
+    "gn:admin3_code":"0803241",
+    "gn:asciiname":"Marambo",
+    "gn:country_code":"TZ",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":878068,
+    "gn:latitude":-10.21667,
+    "gn:longitude":38.75,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Marambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679713,
+        1108692959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878068,
+        "wk:page":"Marambo"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"efa48de48932dc544dbea3e4b3cb9c66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692959,
+            "locality_id":1344151351,
+            "region_id":85679713
+        }
+    ],
+    "wof:id":1344151351,
+    "wof:lastmodified":1537574863,
+    "wof:name":"Marambo",
+    "wof:parent_id":1108692959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.75,
+    -10.21667,
+    38.75,
+    -10.21667
+],
+  "geometry": {"coordinates":[38.75,-10.21667],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209211585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.06667,-9.65,39.06667,-9.65",
+    "geom:latitude":-9.65,
+    "geom:longitude":39.06667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0801",
+    "gn:admin3_code":"0801121",
+    "gn:asciiname":"Nanjirinji",
+    "gn:country_code":"TZ",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151925,
+    "gn:latitude":-9.65,
+    "gn:longitude":39.06667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nanjirinji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151925
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"38bc72da72a397dbe599f046f5d73d0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209211585
+        }
+    ],
+    "wof:id":1209211585,
+    "wof:lastmodified":1536294273,
+    "wof:name":"Nanjirinji",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.06667,
+    -9.65,
+    39.06667,
+    -9.65
+],
+  "geometry": {"coordinates":[39.06667,-9.65],"type":"Point"}
+}

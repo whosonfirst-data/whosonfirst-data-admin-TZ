@@ -1,0 +1,68 @@
+{
+  "id": 1209226055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.68333,-5.95,36.68333,-5.95",
+    "geom:latitude":-5.95,
+    "geom:longitude":36.68333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0103",
+    "gn:admin3_code":"0103061",
+    "gn:asciiname":"Njoge",
+    "gn:country_code":"TZ",
+    "gn:dem":1366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151483,
+    "gn:latitude":-5.95,
+    "gn:longitude":36.68333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Njoge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngoji",
+        "Njoge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151483,
+        "wk:page":"Njoge"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"3b7721799d4abc1cd0b53c0e23ba76e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209226055
+        }
+    ],
+    "wof:id":1209226055,
+    "wof:lastmodified":1537710004,
+    "wof:name":"Njoge",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.68333,
+    -5.95,
+    36.68333,
+    -5.95
+],
+  "geometry": {"coordinates":[36.68333,-5.95],"type":"Point"}
+}

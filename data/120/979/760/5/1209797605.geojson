@@ -1,0 +1,69 @@
+{
+  "id": 1209797605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.26667,-4.33333,34.26667,-4.33333",
+    "geom:latitude":-4.33333,
+    "geom:longitude":34.26667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1301",
+    "gn:admin3_code":"1301053",
+    "gn:asciiname":"Usamila",
+    "gn:country_code":"TZ",
+    "gn:dem":1147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149145,
+    "gn:latitude":-4.33333,
+    "gn:longitude":34.26667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Usamila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679727,
+        1108693023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149145
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"5fb6c6842100d5dbd5ec8f96e1f0080d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693023,
+            "locality_id":1209797605,
+            "region_id":85679727
+        }
+    ],
+    "wof:id":1209797605,
+    "wof:lastmodified":1536392175,
+    "wof:name":"Usamila",
+    "wof:parent_id":1108693023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.26667,
+    -4.33333,
+    34.26667,
+    -4.33333
+],
+  "geometry": {"coordinates":[34.26667,-4.33333],"type":"Point"}
+}

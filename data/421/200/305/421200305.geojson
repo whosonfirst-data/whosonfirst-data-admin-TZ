@@ -1,0 +1,79 @@
+{
+  "id": 421200305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.73333,-6.7,38.73333,-6.7",
+    "geom:latitude":-6.7,
+    "geom:longitude":38.73333,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":153412,
+    "qs:gn_pop":29394,
+    "qs:name":"Mlandizi",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Pwani",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1298784,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1447462,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        1108692949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153412,
+        "gp:id":1447462,
+        "qs:id":1298784
+    },
+    "wof:country":"TZ",
+    "wof:created":1459010018,
+    "wof:geomhash":"8ce483b29cced879aa877334967b15fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692949,
+            "locality_id":421200305,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":421200305,
+    "wof:lastmodified":1505340768,
+    "wof:name":"Mlandizi",
+    "wof:parent_id":1108692949,
+    "wof:placetype":"locality",
+    "wof:population":29394,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.73333,
+    -6.7,
+    38.73333,
+    -6.7
+],
+  "geometry": {"coordinates":[38.73333,-6.7],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 890445577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.34881,-3.47512,35.34881,-3.47512",
+    "geom:latitude":-3.47512,
+    "geom:longitude":35.34881,
+    "gn:country":"TZ",
+    "gn:fcode":"CMP",
+    "gn:pop":12,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "qs:name":"Lake Eyasi Permanent Tented Camp",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6615412,
+        "gp:id":1446492,
+        "qs:id":642760
+    },
+    "wof:country":"TZ",
+    "wof:created":1469052515,
+    "wof:geomhash":"aee49902d4a564fc19511b86b280837a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "locality_id":890445577,
+            "region_id":85679731
+        }
+    ],
+    "wof:id":890445577,
+    "wof:lastmodified":1505343606,
+    "wof:name":"Lake Eyasi Permanent Tented Camp",
+    "wof:parent_id":85679731,
+    "wof:placetype":"locality",
+    "wof:population":12,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.34881,
+    -3.47512,
+    35.34881,
+    -3.47512
+],
+  "geometry": {"coordinates":[35.34881,-3.47512],"type":"Point"}
+}

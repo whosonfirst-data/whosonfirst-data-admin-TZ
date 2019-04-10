@@ -1,0 +1,67 @@
+{
+  "id": 1209600931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.96667,-1.41667,33.96667,-1.41667",
+    "geom:latitude":-1.41667,
+    "geom:longitude":33.96667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"2006",
+    "gn:admin3_code":"2006191",
+    "gn:asciiname":"Irenyi",
+    "gn:country_code":"TZ",
+    "gn:dem":1158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151197,
+    "gn:latitude":-1.41667,
+    "gn:longitude":33.96667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Irenyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyamaguku",
+        "Nyamanguku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151197
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"a561c4cc3dd26ee824e2cb4ea97d3124",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209600931
+        }
+    ],
+    "wof:id":1209600931,
+    "wof:lastmodified":1537710002,
+    "wof:name":"Irenyi",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.96667,
+    -1.41667,
+    33.96667,
+    -1.41667
+],
+  "geometry": {"coordinates":[33.96667,-1.41667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310112053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1,-7.25,36.1,-7.25",
+    "geom:latitude":-7.25,
+    "geom:longitude":36.1,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1101",
+    "gn:admin3_code":"1101201",
+    "gn:asciiname":"Luganga",
+    "gn:country_code":"TZ",
+    "gn:dem":877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155753,
+    "gn:latitude":-7.25,
+    "gn:longitude":36.1,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Luganga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Luganga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679711,
+        421187959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155753
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"585b5fb0e67dfcf0e0e18cb2b40a3e79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187959,
+            "locality_id":1310112053,
+            "region_id":85679711
+        }
+    ],
+    "wof:id":1310112053,
+    "wof:lastmodified":1537710028,
+    "wof:name":"Luganga",
+    "wof:parent_id":421187959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1,
+    -7.25,
+    36.1,
+    -7.25
+],
+  "geometry": {"coordinates":[36.1,-7.25],"type":"Point"}
+}

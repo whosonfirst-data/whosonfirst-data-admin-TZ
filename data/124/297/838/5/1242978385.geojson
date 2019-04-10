@@ -1,0 +1,69 @@
+{
+  "id": 1242978385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71667,-5.86667,35.71667,-5.86667",
+    "geom:latitude":-5.86667,
+    "geom:longitude":35.71667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0106",
+    "gn:admin3_code":"0106051",
+    "gn:asciiname":"Pasuta Msui",
+    "gn:country_code":"TZ",
+    "gn:dem":1147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150749,
+    "gn:latitude":-5.86667,
+    "gn:longitude":35.71667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Pasuta Msui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679705,
+        1108692899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150749
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"7bf70edac1e85d774dabfb6f46c56ab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692899,
+            "locality_id":1242978385,
+            "region_id":85679705
+        }
+    ],
+    "wof:id":1242978385,
+    "wof:lastmodified":1536982567,
+    "wof:name":"Pasuta Msui",
+    "wof:parent_id":1108692899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71667,
+    -5.86667,
+    35.71667,
+    -5.86667
+],
+  "geometry": {"coordinates":[35.71667,-5.86667],"type":"Point"}
+}

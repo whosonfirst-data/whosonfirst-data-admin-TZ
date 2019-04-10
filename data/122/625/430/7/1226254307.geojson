@@ -1,0 +1,72 @@
+{
+  "id": 1226254307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.49466,-7.02897,36.49466,-7.02897",
+    "geom:latitude":-7.02897,
+    "geom:longitude":36.49466,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0102",
+    "gn:admin3_code":"0102271",
+    "gn:asciiname":"Sindai",
+    "gn:country_code":"TZ",
+    "gn:dem":1588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7389446,
+    "gn:latitude":-7.02897,
+    "gn:longitude":36.49466,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Sindai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sindai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679705,
+        1108692893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7389446
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"29d27a79d63bbd3f796eb2567f299b72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692893,
+            "locality_id":1226254307,
+            "region_id":85679705
+        }
+    ],
+    "wof:id":1226254307,
+    "wof:lastmodified":1537710069,
+    "wof:name":"Sindai",
+    "wof:parent_id":1108692893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.49466,
+    -7.02897,
+    36.49466,
+    -7.02897
+],
+  "geometry": {"coordinates":[36.49466,-7.02897],"type":"Point"}
+}

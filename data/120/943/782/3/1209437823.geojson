@@ -1,0 +1,63 @@
+{
+  "id": 1209437823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.75,-4.58333,29.75,-4.58333",
+    "geom:latitude":-4.58333,
+    "geom:longitude":29.75,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1603",
+    "gn:admin3_code":"1603041",
+    "gn:asciiname":"Shonge",
+    "gn:country_code":"TZ",
+    "gn:dem":1584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149986,
+    "gn:latitude":-4.58333,
+    "gn:longitude":29.75,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Shonge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149986
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"131d2f0aa2fdc183d56a54f1f2b38d8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209437823
+        }
+    ],
+    "wof:id":1209437823,
+    "wof:lastmodified":1536287049,
+    "wof:name":"Shonge",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.75,
+    -4.58333,
+    29.75,
+    -4.58333
+],
+  "geometry": {"coordinates":[29.75,-4.58333],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209082053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.63333,-5.8,37.63333,-5.8",
+    "geom:latitude":-5.8,
+    "geom:longitude":37.63333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0407",
+    "gn:admin3_code":"0407061",
+    "gn:asciiname":"Kimbe",
+    "gn:country_code":"TZ",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":157345,
+    "gn:latitude":-5.8,
+    "gn:longitude":37.63333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kimbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":157345
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"3e70b95062c0eb2acfdc868fd7b53c62",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209082053
+        }
+    ],
+    "wof:id":1209082053,
+    "wof:lastmodified":1536298305,
+    "wof:name":"Kimbe",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.63333,
+    -5.8,
+    37.63333,
+    -5.8
+],
+  "geometry": {"coordinates":[37.63333,-5.8],"type":"Point"}
+}

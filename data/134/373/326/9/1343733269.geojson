@@ -1,0 +1,70 @@
+{
+  "id": 1343733269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.93333,-10.95,34.93333,-10.95",
+    "geom:latitude":-10.95,
+    "geom:longitude":34.93333,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1003",
+    "gn:admin3_code":"1003251",
+    "gn:asciiname":"Kindimba",
+    "gn:country_code":"TZ",
+    "gn:dem":1400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":878380,
+    "gn:latitude":-10.95,
+    "gn:longitude":34.93333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kindimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679723,
+        1108692989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878380,
+        "wk:page":"Kindimba"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"827546230809529b068be9a352858436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692989,
+            "locality_id":1343733269,
+            "region_id":85679723
+        }
+    ],
+    "wof:id":1343733269,
+    "wof:lastmodified":1537574864,
+    "wof:name":"Kindimba",
+    "wof:parent_id":1108692989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.93333,
+    -10.95,
+    34.93333,
+    -10.95
+],
+  "geometry": {"coordinates":[34.93333,-10.95],"type":"Point"}
+}

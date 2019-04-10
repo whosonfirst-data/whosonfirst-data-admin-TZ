@@ -1,0 +1,66 @@
+{
+  "id": 890415407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.73333,-10.71667,39.73333,-10.71667",
+    "geom:latitude":-10.71667,
+    "geom:longitude":39.73333,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
+    "gn:pop":16232,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kitama",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679717,
+        1108692969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878367,
+        "gp:id":1448392,
+        "qs:id":129843
+    },
+    "wof:country":"TZ",
+    "wof:created":1469051087,
+    "wof:geomhash":"39896d62db46c345ef998e9b50078857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692969,
+            "locality_id":890415407,
+            "region_id":85679717
+        }
+    ],
+    "wof:id":890415407,
+    "wof:lastmodified":1505343426,
+    "wof:name":"Kitama",
+    "wof:parent_id":1108692969,
+    "wof:placetype":"locality",
+    "wof:population":16232,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.73333,
+    -10.71667,
+    39.73333,
+    -10.71667
+],
+  "geometry": {"coordinates":[39.73333,-10.71667],"type":"Point"}
+}

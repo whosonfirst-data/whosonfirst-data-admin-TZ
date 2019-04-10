@@ -1,0 +1,69 @@
+{
+  "id": 1327330527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.25,-9.86667,39.25,-9.86667",
+    "geom:latitude":-9.86667,
+    "geom:longitude":39.25,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0802",
+    "gn:admin3_code":"0802251",
+    "gn:asciiname":"Nakawene",
+    "gn:country_code":"TZ",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":152008,
+    "gn:latitude":-9.86667,
+    "gn:longitude":39.25,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nakawene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679713,
+        1108692957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152008
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"7789225dfcf84a72a5ea249db7a84176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692957,
+            "locality_id":1327330527,
+            "region_id":85679713
+        }
+    ],
+    "wof:id":1327330527,
+    "wof:lastmodified":1536827019,
+    "wof:name":"Nakawene",
+    "wof:parent_id":1108692957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.25,
+    -9.86667,
+    39.25,
+    -9.86667
+],
+  "geometry": {"coordinates":[39.25,-9.86667],"type":"Point"}
+}

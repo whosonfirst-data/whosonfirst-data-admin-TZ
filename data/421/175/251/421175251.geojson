@@ -1,0 +1,93 @@
+{
+  "id": 421175251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.05,-5.06667,32.05,-5.06667",
+    "geom:latitude":-5.06667,
+    "geom:longitude":32.05,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Urambo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039f\u03c5\u03c1\u03ac\u03bc\u03c0\u03bf"
+    ],
+    "name:swa_x_preferred":[
+        "Wilaya ya Urambo"
+    ],
+    "name:vie_x_preferred":[
+        "Urambo"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":149172,
+    "qs:gn_pop":23724,
+    "qs:name":"Urambo",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Tabora",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":944855,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1449793,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":223,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679661,
+        1108693041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149172,
+        "gp:id":1449793,
+        "qs:id":944855,
+        "wd:id":"Q2500021"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009061,
+    "wof:geomhash":"2dee80a6416dcda7a4ec847953ad3464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693041,
+            "locality_id":421175251,
+            "region_id":85679661
+        }
+    ],
+    "wof:id":421175251,
+    "wof:lastmodified":1527716338,
+    "wof:name":"Urambo",
+    "wof:parent_id":1108693041,
+    "wof:placetype":"locality",
+    "wof:population":23724,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.05,
+    -5.06667,
+    32.05,
+    -5.06667
+],
+  "geometry": {"coordinates":[32.05,-5.06667],"type":"Point"}
+}

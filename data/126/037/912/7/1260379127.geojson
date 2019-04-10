@@ -1,0 +1,69 @@
+{
+  "id": 1260379127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.31667,-10.38333,40.31667,-10.38333",
+    "geom:latitude":-10.38333,
+    "geom:longitude":40.31667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0901",
+    "gn:admin3_code":"0901013",
+    "gn:asciiname":"Ntendachi",
+    "gn:country_code":"TZ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877479,
+    "gn:latitude":-10.38333,
+    "gn:longitude":40.31667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ntendachi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679717,
+        1108692969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877479
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"dab4f1cbc5fb05230b43b86ec3a01b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692969,
+            "locality_id":1260379127,
+            "region_id":85679717
+        }
+    ],
+    "wof:id":1260379127,
+    "wof:lastmodified":1537077750,
+    "wof:name":"Ntendachi",
+    "wof:parent_id":1108692969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.31667,
+    -10.38333,
+    40.31667,
+    -10.38333
+],
+  "geometry": {"coordinates":[40.31667,-10.38333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327434539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.86667,-6.38333,38.86667,-6.38333",
+    "geom:latitude":-6.38333,
+    "geom:longitude":38.86667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0601",
+    "gn:admin3_code":"0601053",
+    "gn:asciiname":"Nunge",
+    "gn:country_code":"TZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151322,
+    "gn:latitude":-6.38333,
+    "gn:longitude":38.86667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nunge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nungwe",
+        "Nunge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        1108692947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151322
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"e184cba65387d95633722189e4b9ff96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692947,
+            "locality_id":1327434539,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1327434539,
+    "wof:lastmodified":1537710003,
+    "wof:name":"Nunge",
+    "wof:parent_id":1108692947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.86667,
+    -6.38333,
+    38.86667,
+    -6.38333
+],
+  "geometry": {"coordinates":[38.86667,-6.38333],"type":"Point"}
+}

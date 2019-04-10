@@ -1,0 +1,63 @@
+{
+  "id": 1209276849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.46667,-1.71667,31.46667,-1.71667",
+    "geom:latitude":-1.71667,
+    "geom:longitude":31.46667,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1803",
+    "gn:admin3_code":"1803311",
+    "gn:asciiname":"Rushwa",
+    "gn:country_code":"TZ",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150390,
+    "gn:latitude":-1.71667,
+    "gn:longitude":31.46667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Rushwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150390
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"547af0fdfe8a25f38c768f406110056d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209276849
+        }
+    ],
+    "wof:id":1209276849,
+    "wof:lastmodified":1536292163,
+    "wof:name":"Rushwa",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.46667,
+    -1.71667,
+    31.46667,
+    -1.71667
+],
+  "geometry": {"coordinates":[31.46667,-1.71667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226505749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.11667,-4.73333,38.11667,-4.73333",
+    "geom:latitude":-4.73333,
+    "geom:longitude":38.11667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0402",
+    "gn:admin3_code":"0402161",
+    "gn:asciiname":"Mntindilo",
+    "gn:country_code":"TZ",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153310,
+    "gn:latitude":-4.73333,
+    "gn:longitude":38.11667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mntindilo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mtindilo",
+        "Mntindilo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679747,
+        1108692919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153310
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"be49ce33f9799291260c7503f6f79d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692919,
+            "locality_id":1226505749,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":1226505749,
+    "wof:lastmodified":1537710014,
+    "wof:name":"Mntindilo",
+    "wof:parent_id":1108692919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.11667,
+    -4.73333,
+    38.11667,
+    -4.73333
+],
+  "geometry": {"coordinates":[38.11667,-4.73333],"type":"Point"}
+}

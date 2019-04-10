@@ -1,0 +1,69 @@
+{
+  "id": 1260062245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.48333,-4.36667,34.48333,-4.36667",
+    "geom:latitude":-4.36667,
+    "geom:longitude":34.48333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1301",
+    "gn:admin3_code":"1301111",
+    "gn:asciiname":"Uwanza",
+    "gn:country_code":"TZ",
+    "gn:dem":1523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149040,
+    "gn:latitude":-4.36667,
+    "gn:longitude":34.48333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Uwanza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679727,
+        1108693023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149040
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"9be1f06a3b7aa55bceda0f9110679e34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693023,
+            "locality_id":1260062245,
+            "region_id":85679727
+        }
+    ],
+    "wof:id":1260062245,
+    "wof:lastmodified":1537017901,
+    "wof:name":"Uwanza",
+    "wof:parent_id":1108693023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.48333,
+    -4.36667,
+    34.48333,
+    -4.36667
+],
+  "geometry": {"coordinates":[34.48333,-4.36667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343370421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.44684,-7.09652,36.44684,-7.09652",
+    "geom:latitude":-7.09652,
+    "geom:longitude":36.44684,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0102",
+    "gn:admin3_code":"0102091",
+    "gn:asciiname":"Mangalisa",
+    "gn:country_code":"TZ",
+    "gn:dem":1668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":154902,
+    "gn:latitude":-7.09652,
+    "gn:longitude":36.44684,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mangalisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mangalisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679705,
+        1108692893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154902
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"55a9ccc244089c9230508935d59ec8dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692893,
+            "locality_id":1343370421,
+            "region_id":85679705
+        }
+    ],
+    "wof:id":1343370421,
+    "wof:lastmodified":1537710023,
+    "wof:name":"Mangalisa",
+    "wof:parent_id":1108692893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.44684,
+    -7.09652,
+    36.44684,
+    -7.09652
+],
+  "geometry": {"coordinates":[36.44684,-7.09652],"type":"Point"}
+}

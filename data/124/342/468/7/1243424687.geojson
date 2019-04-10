@@ -1,0 +1,69 @@
+{
+  "id": 1243424687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.8,-3.91667,33.8,-3.91667",
+    "geom:latitude":-3.91667,
+    "geom:longitude":33.8,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1702",
+    "gn:admin3_code":"1702161",
+    "gn:asciiname":"Ngovila",
+    "gn:country_code":"TZ",
+    "gn:dem":1096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151604,
+    "gn:latitude":-3.91667,
+    "gn:longitude":33.8,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ngovila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679657,
+        1108693077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151604
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"237f6732a27e8b576d5898d3979e0f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693077,
+            "locality_id":1243424687,
+            "region_id":85679657
+        }
+    ],
+    "wof:id":1243424687,
+    "wof:lastmodified":1536835919,
+    "wof:name":"Ngovila",
+    "wof:parent_id":1108693077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.8,
+    -3.91667,
+    33.8,
+    -3.91667
+],
+  "geometry": {"coordinates":[33.8,-3.91667],"type":"Point"}
+}

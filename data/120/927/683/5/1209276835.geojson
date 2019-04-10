@@ -1,0 +1,63 @@
+{
+  "id": 1209276835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.88889,-1.48639,30.88889,-1.48639",
+    "geom:latitude":-1.48639,
+    "geom:longitude":30.88889,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1808",
+    "gn:admin3_code":"1808151",
+    "gn:asciiname":"Nkwenda",
+    "gn:country_code":"TZ",
+    "gn:dem":1340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151406,
+    "gn:latitude":-1.48639,
+    "gn:longitude":30.88889,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nkwenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151406
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"394390d428a53fe9e638ad6789665a7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209276835
+        }
+    ],
+    "wof:id":1209276835,
+    "wof:lastmodified":1536292164,
+    "wof:name":"Nkwenda",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.888890000000004,
+    -1.48639,
+    30.888890000000004,
+    -1.48639
+],
+  "geometry": {"coordinates":[30.88889,-1.48639],"type":"Point"}
+}

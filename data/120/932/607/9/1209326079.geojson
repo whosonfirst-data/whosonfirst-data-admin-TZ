@@ -1,0 +1,67 @@
+{
+  "id": 1209326079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.76667,-5.33333,35.76667,-5.33333",
+    "geom:latitude":-5.33333,
+    "geom:longitude":35.76667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0107",
+    "gn:admin3_code":"0107151",
+    "gn:asciiname":"Lifatico",
+    "gn:country_code":"TZ",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155979,
+    "gn:latitude":-5.33333,
+    "gn:longitude":35.76667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Lifatico",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lifatiko",
+        "Lifatico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155979
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"c7cad57daee51848a20ca7f72c4ad10a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209326079
+        }
+    ],
+    "wof:id":1209326079,
+    "wof:lastmodified":1537710030,
+    "wof:name":"Lifatico",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.76667,
+    -5.33333,
+    35.76667,
+    -5.33333
+],
+  "geometry": {"coordinates":[35.76667,-5.33333],"type":"Point"}
+}

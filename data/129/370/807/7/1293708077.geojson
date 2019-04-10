@@ -1,0 +1,69 @@
+{
+  "id": 1293708077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.65,-9.26667,33.65,-9.26667",
+    "geom:latitude":-9.26667,
+    "geom:longitude":33.65,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1204",
+    "gn:admin3_code":"1204362",
+    "gn:asciiname":"Kasyeto",
+    "gn:country_code":"TZ",
+    "gn:dem":1475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158205,
+    "gn:latitude":-9.26667,
+    "gn:longitude":33.65,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kasyeto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679641,
+        1108693009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158205
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"eb8ee3f09f42ff5905cda04626919e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693009,
+            "locality_id":1293708077,
+            "region_id":85679641
+        }
+    ],
+    "wof:id":1293708077,
+    "wof:lastmodified":1536966218,
+    "wof:name":"Kasyeto",
+    "wof:parent_id":1108693009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.65,
+    -9.26667,
+    33.65,
+    -9.26667
+],
+  "geometry": {"coordinates":[33.65,-9.26667],"type":"Point"}
+}

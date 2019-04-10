@@ -1,0 +1,67 @@
+{
+  "id": 1343628109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.51667,-4.23333,37.51667,-4.23333",
+    "geom:latitude":-4.23333,
+    "geom:longitude":37.51667,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Naururu",
+    "gn:country_code":"TZ",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151886,
+    "gn:latitude":-4.23333,
+    "gn:longitude":37.51667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Naururu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679737,
+        1108692913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151886
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"5ee0b9b14b544de67dfb954f522e3a84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692913,
+            "locality_id":1343628109,
+            "region_id":85679737
+        }
+    ],
+    "wof:id":1343628109,
+    "wof:lastmodified":1537001043,
+    "wof:name":"Naururu",
+    "wof:parent_id":1108692913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.51667,
+    -4.23333,
+    37.51667,
+    -4.23333
+],
+  "geometry": {"coordinates":[37.51667,-4.23333],"type":"Point"}
+}

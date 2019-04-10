@@ -1,0 +1,69 @@
+{
+  "id": 1193254261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.13333,-5.85,38.13333,-5.85",
+    "geom:latitude":-5.85,
+    "geom:longitude":38.13333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0406",
+    "gn:admin3_code":"0406031",
+    "gn:asciiname":"Komnazi",
+    "gn:country_code":"TZ",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156520,
+    "gn:latitude":-5.85,
+    "gn:longitude":38.13333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Komnazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679747,
+        1108692923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156520
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"8615b81ba098e0004b20e3c65d296b14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692923,
+            "locality_id":1193254261,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":1193254261,
+    "wof:lastmodified":1536365477,
+    "wof:name":"Komnazi",
+    "wof:parent_id":1108692923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.13333,
+    -5.85,
+    38.13333,
+    -5.85
+],
+  "geometry": {"coordinates":[38.13333,-5.85],"type":"Point"}
+}

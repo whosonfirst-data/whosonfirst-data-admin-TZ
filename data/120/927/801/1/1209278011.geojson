@@ -1,0 +1,67 @@
+{
+  "id": 1209278011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.68333,-5.5,32.68333,-5.5",
+    "geom:latitude":-5.5,
+    "geom:longitude":32.68333,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1405",
+    "gn:admin3_code":"1405011",
+    "gn:asciiname":"Tutubu",
+    "gn:country_code":"TZ",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149374,
+    "gn:latitude":-5.5,
+    "gn:longitude":32.68333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Tutubu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndutuo",
+        "Tutubu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149374
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"08858d856e72c27e862de4d4591fc5e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209278011
+        }
+    ],
+    "wof:id":1209278011,
+    "wof:lastmodified":1537709993,
+    "wof:name":"Tutubu",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.68333,
+    -5.5,
+    32.68333,
+    -5.5
+],
+  "geometry": {"coordinates":[32.68333,-5.5],"type":"Point"}
+}

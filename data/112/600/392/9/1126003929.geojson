@@ -1,0 +1,81 @@
+{
+  "id": 1126003929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.00438,-7.60361,37.00438,-7.60361",
+    "geom:latitude":-7.60361,
+    "geom:longitude":37.00438,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":35953,
+    "gn:population":35953,
+    "iso:country":"TZ",
+    "lbl:latitude":-7.60361,
+    "lbl:longitude":37.00438,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Kidodi"
+    ],
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":157826,
+    "qs_pg:gn_pop":35953,
+    "qs_pg:name":"Kidodi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":524625,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        421204027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":157826,
+        "qs_pg:id":524625
+    },
+    "wof:country":"TZ",
+    "wof:created":1497299818,
+    "wof:geomhash":"1a4de5e057cc5dd1a9030b5e45bdfbe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421204027,
+            "locality_id":1126003929,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1126003929,
+    "wof:lastmodified":1509406318,
+    "wof:name":"Kidodi",
+    "wof:parent_id":421204027,
+    "wof:placetype":"locality",
+    "wof:population":35953,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.00438,
+    -7.60361,
+    37.00438,
+    -7.60361
+],
+  "geometry": {"coordinates":[37.00438,-7.60361],"type":"Point"}
+}

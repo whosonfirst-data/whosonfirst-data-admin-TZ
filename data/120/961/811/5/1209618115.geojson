@@ -1,0 +1,66 @@
+{
+  "id": 1209618115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.75929,-7.80828,39.75929,-7.80828",
+    "geom:latitude":-7.80828,
+    "geom:longitude":39.75929,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0606",
+    "gn:admin3_code":"0606081",
+    "gn:asciiname":"Kigomane",
+    "gn:country_code":"TZ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7388107,
+    "gn:latitude":-7.80828,
+    "gn:longitude":39.75929,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kigomane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kigomane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7388107
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"b44a927cc1526ec31b2691d44b69fc73",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209618115
+        }
+    ],
+    "wof:id":1209618115,
+    "wof:lastmodified":1537710068,
+    "wof:name":"Kigomane",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.75929,
+    -7.80828,
+    39.75929,
+    -7.80828
+],
+  "geometry": {"coordinates":[39.75929,-7.80828],"type":"Point"}
+}

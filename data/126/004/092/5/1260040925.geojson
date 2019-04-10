@@ -1,0 +1,66 @@
+{
+  "id": 1260040925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.40108,-6.74284,30.40108,-6.74284",
+    "geom:latitude":-6.74284,
+    "geom:longitude":30.40108,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Ikola",
+    "gn:country_code":"TZ",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159303,
+    "gn:latitude":-6.74284,
+    "gn:longitude":30.40108,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Ikola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ikola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159303
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"3a7bb78512c7bd4796273d59eed1d89b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1260040925,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260040925,
+    "wof:lastmodified":1537710050,
+    "wof:name":"Ikola",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.40108,
+    -6.74284,
+    30.40108,
+    -6.74284
+],
+  "geometry": {"coordinates":[30.40108,-6.74284],"type":"Point"}
+}

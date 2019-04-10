@@ -1,0 +1,69 @@
+{
+  "id": 1259383669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.05,-7.6,35.05,-7.6",
+    "geom:latitude":-7.6,
+    "geom:longitude":35.05,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1101",
+    "gn:admin3_code":"1101131",
+    "gn:asciiname":"Ifuguru",
+    "gn:country_code":"TZ",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159479,
+    "gn:latitude":-7.6,
+    "gn:longitude":35.05,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ifuguru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679711,
+        421187959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159479
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"0a9e67913532cd11fb17bfa34a2af571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187959,
+            "locality_id":1259383669,
+            "region_id":85679711
+        }
+    ],
+    "wof:id":1259383669,
+    "wof:lastmodified":1537001253,
+    "wof:name":"Ifuguru",
+    "wof:parent_id":421187959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.05,
+    -7.6,
+    35.05,
+    -7.6
+],
+  "geometry": {"coordinates":[35.05,-7.6],"type":"Point"}
+}

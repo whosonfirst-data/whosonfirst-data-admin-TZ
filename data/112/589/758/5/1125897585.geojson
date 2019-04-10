@@ -1,0 +1,78 @@
+{
+  "id": 1125897585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.93333,-4.93333,38.93333,-4.93333",
+    "geom:latitude":-4.93333,
+    "geom:longitude":38.93333,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":15576,
+    "gn:population":15576,
+    "iso:country":"TZ",
+    "lbl:latitude":-4.93333,
+    "lbl:longitude":38.93333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":153423,
+    "qs_pg:gn_pop":15576,
+    "qs_pg:name":"Mlalo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1026540,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679747,
+        1108692929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153423,
+        "qs_pg:id":1026540
+    },
+    "wof:country":"TZ",
+    "wof:created":1497295649,
+    "wof:geomhash":"bc481a2a2dcfeab6ad1ae94f4bac763b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692929,
+            "locality_id":1125897585,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":1125897585,
+    "wof:lastmodified":1509399210,
+    "wof:name":"Mlalo",
+    "wof:parent_id":1108692929,
+    "wof:placetype":"locality",
+    "wof:population":15576,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.93333,
+    -4.93333,
+    38.93333,
+    -4.93333
+],
+  "geometry": {"coordinates":[38.93333,-4.93333],"type":"Point"}
+}

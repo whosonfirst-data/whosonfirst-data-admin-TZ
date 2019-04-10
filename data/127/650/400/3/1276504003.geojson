@@ -1,0 +1,74 @@
+{
+  "id": 1276504003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.21667,-6.15,39.21667,-6.15",
+    "geom:latitude":-6.15,
+    "geom:longitude":39.21667,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"5302",
+    "gn:admin3_code":"5302402",
+    "gn:asciiname":"Chumbuni Dogo",
+    "gn:country_code":"TZ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160336,
+    "gn:latitude":-6.15,
+    "gn:longitude":39.21667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Chumbuni Dogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chumbuni Village",
+        "Chumbuni",
+        "Chumbuni Dogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679699,
+        1108693173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160336
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"34d6aa61ff700d83c73bbe94addd548f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693173,
+            "locality_id":1276504003,
+            "region_id":85679699
+        }
+    ],
+    "wof:id":1276504003,
+    "wof:lastmodified":1537710056,
+    "wof:name":"Chumbuni Dogo",
+    "wof:parent_id":1108693173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.21667,
+    -6.15,
+    39.21667,
+    -6.15
+],
+  "geometry": {"coordinates":[39.21667,-6.15],"type":"Point"}
+}

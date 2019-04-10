@@ -1,0 +1,81 @@
+{
+  "id": 1125941557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.29849,-7.00667,39.29849,-7.00667",
+    "geom:latitude":-7.00667,
+    "geom:longitude":39.29849,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":23307,
+    "gn:population":23307,
+    "iso:country":"TZ",
+    "lbl:latitude":-7.00667,
+    "lbl:longitude":39.29849,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Vikindu"
+    ],
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":148987,
+    "qs_pg:gn_pop":23307,
+    "qs_pg:name":"Vikindu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":67358,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        421183841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148987,
+        "qs_pg:id":67358
+    },
+    "wof:country":"TZ",
+    "wof:created":1497297135,
+    "wof:geomhash":"4fcf175672411efd7d27612e9c5eb02d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421183841,
+            "locality_id":1125941557,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1125941557,
+    "wof:lastmodified":1509402102,
+    "wof:name":"Vikindu",
+    "wof:parent_id":421183841,
+    "wof:placetype":"locality",
+    "wof:population":23307,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.29849,
+    -7.00667,
+    39.29849,
+    -7.00667
+],
+  "geometry": {"coordinates":[39.29849,-7.00667],"type":"Point"}
+}

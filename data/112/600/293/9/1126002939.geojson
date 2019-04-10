@@ -1,0 +1,81 @@
+{
+  "id": 1126002939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.95,-9.55,33.95,-9.55",
+    "geom:latitude":-9.55,
+    "geom:longitude":33.95,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7558,
+    "gn:population":7558,
+    "iso:country":"TZ",
+    "lbl:latitude":-9.55,
+    "lbl:longitude":33.95,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Mvaya"
+    ],
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":152183,
+    "qs_pg:gn_pop":7558,
+    "qs_pg:name":"Mwaya",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":520000,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679641,
+        421192909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152183,
+        "qs_pg:id":520000
+    },
+    "wof:country":"TZ",
+    "wof:created":1497299763,
+    "wof:geomhash":"e1882db5f2b8ba1398da5f4a1a508377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421192909,
+            "locality_id":1126002939,
+            "region_id":85679641
+        }
+    ],
+    "wof:id":1126002939,
+    "wof:lastmodified":1509406266,
+    "wof:name":"Mwaya",
+    "wof:parent_id":421192909,
+    "wof:placetype":"locality",
+    "wof:population":7558,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.95,
+    -9.55,
+    33.95,
+    -9.55
+],
+  "geometry": {"coordinates":[33.95,-9.55],"type":"Point"}
+}

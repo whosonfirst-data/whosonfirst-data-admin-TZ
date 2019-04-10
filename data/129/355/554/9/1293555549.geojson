@@ -1,0 +1,73 @@
+{
+  "id": 1293555549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.45,-5.06667,38.45,-5.06667",
+    "geom:latitude":-5.06667,
+    "geom:longitude":38.45,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0402",
+    "gn:admin3_code":"0402071",
+    "gn:asciiname":"Vugiri",
+    "gn:country_code":"TZ",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148961,
+    "gn:latitude":-5.06667,
+    "gn:longitude":38.45,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Vugiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vuguri",
+        "Vugiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679747,
+        1108692919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148961
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"f376752579c8d38276c008e793c2adb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692919,
+            "locality_id":1293555549,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":1293555549,
+    "wof:lastmodified":1537709989,
+    "wof:name":"Vugiri",
+    "wof:parent_id":1108692919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.45,
+    -5.06667,
+    38.45,
+    -5.06667
+],
+  "geometry": {"coordinates":[38.45,-5.06667],"type":"Point"}
+}

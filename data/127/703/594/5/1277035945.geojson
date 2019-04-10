@@ -1,0 +1,72 @@
+{
+  "id": 1277035945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.31445,-6.053,30.31445,-6.053",
+    "geom:latitude":-6.053,
+    "geom:longitude":30.31445,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"2302",
+    "gn:admin3_code":"2302031",
+    "gn:asciiname":"Nsana",
+    "gn:country_code":"TZ",
+    "gn:dem":1166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7391747,
+    "gn:latitude":-6.053,
+    "gn:longitude":30.31445,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nsana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nsana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679751,
+        1108693149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7391747
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"fd64064181b71f22051f9754d55a7ece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693149,
+            "locality_id":1277035945,
+            "region_id":85679751
+        }
+    ],
+    "wof:id":1277035945,
+    "wof:lastmodified":1537710072,
+    "wof:name":"Nsana",
+    "wof:parent_id":1108693149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.31445,
+    -6.053,
+    30.31445,
+    -6.053
+],
+  "geometry": {"coordinates":[30.31445,-6.053],"type":"Point"}
+}

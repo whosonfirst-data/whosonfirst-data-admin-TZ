@@ -1,0 +1,69 @@
+{
+  "id": 1293797147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.78333,-6.63333,38.78333,-6.63333",
+    "geom:latitude":-6.63333,
+    "geom:longitude":38.78333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0607",
+    "gn:admin3_code":"0607112",
+    "gn:asciiname":"Mbwawa",
+    "gn:country_code":"TZ",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":154279,
+    "gn:latitude":-6.63333,
+    "gn:longitude":38.78333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mbwawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        1108692953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154279
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"8d0451804d4d0da426b8a251fd2555a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692953,
+            "locality_id":1293797147,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1293797147,
+    "wof:lastmodified":1536836600,
+    "wof:name":"Mbwawa",
+    "wof:parent_id":1108692953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.78333,
+    -6.63333,
+    38.78333,
+    -6.63333
+],
+  "geometry": {"coordinates":[38.78333,-6.63333],"type":"Point"}
+}

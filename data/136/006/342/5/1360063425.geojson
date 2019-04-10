@@ -1,0 +1,69 @@
+{
+  "id": 1360063425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.83333,-10.85,38.83333,-10.85",
+    "geom:latitude":-10.85,
+    "geom:longitude":38.83333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0906",
+    "gn:admin3_code":"0906091",
+    "gn:asciiname":"Mtalikachau",
+    "gn:country_code":"TZ",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877785,
+    "gn:latitude":-10.85,
+    "gn:longitude":38.83333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mtalikachau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679717,
+        1108692979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877785
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"8a29bb7cdc18c420c09a536fa205794e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692979,
+            "locality_id":1360063425,
+            "region_id":85679717
+        }
+    ],
+    "wof:id":1360063425,
+    "wof:lastmodified":1536976442,
+    "wof:name":"Mtalikachau",
+    "wof:parent_id":1108692979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.83333,
+    -10.85,
+    38.83333,
+    -10.85
+],
+  "geometry": {"coordinates":[38.83333,-10.85],"type":"Point"}
+}

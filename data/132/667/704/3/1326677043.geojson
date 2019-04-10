@@ -1,0 +1,75 @@
+{
+  "id": 1326677043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.26811,-6.69313,31.26811,-6.69313",
+    "geom:latitude":-6.69313,
+    "geom:longitude":31.26811,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"2303",
+    "gn:admin3_code":"2303141",
+    "gn:asciiname":"Sikitiko",
+    "gn:country_code":"TZ",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149931,
+    "gn:latitude":-6.69313,
+    "gn:longitude":31.26811,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Sikitiko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sikitico"
+    ],
+    "name:eng_x_variant":[
+        "Sikitiko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679751,
+        1108693151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149931
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"5a7ff4db18c0cda6b937e5c3e43c4010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693151,
+            "locality_id":1326677043,
+            "region_id":85679751
+        }
+    ],
+    "wof:id":1326677043,
+    "wof:lastmodified":1537709995,
+    "wof:name":"Sikitiko",
+    "wof:parent_id":1108693151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.26811,
+    -6.69313,
+    31.26811,
+    -6.69313
+],
+  "geometry": {"coordinates":[31.26811,-6.69313],"type":"Point"}
+}

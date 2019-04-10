@@ -1,0 +1,73 @@
+{
+  "id": 1209710067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.86667,-9.6,33.86667,-9.6",
+    "geom:latitude":-9.6,
+    "geom:longitude":33.86667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1203",
+    "gn:admin3_code":"1203202",
+    "gn:asciiname":"Ipanya",
+    "gn:country_code":"TZ",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159121,
+    "gn:latitude":-9.6,
+    "gn:longitude":33.86667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ipanya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ipyana",
+        "Ipanya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679641,
+        421192909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159121
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"c0ebf26817944e4493b6781729f54ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421192909,
+            "locality_id":1209710067,
+            "region_id":85679641
+        }
+    ],
+    "wof:id":1209710067,
+    "wof:lastmodified":1537710049,
+    "wof:name":"Ipanya",
+    "wof:parent_id":421192909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.86667,
+    -9.6,
+    33.86667,
+    -9.6
+],
+  "geometry": {"coordinates":[33.86667,-9.6],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 421197313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.76667,-4.01667,35.76667,-4.01667",
+    "geom:latitude":-4.01667,
+    "geom:longitude":35.76667,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Magugu"
+    ],
+    "name:eng_x_preferred":[
+        "Magugu"
+    ],
+    "name:swa_x_preferred":[
+        "Magugu"
+    ],
+    "name:unk_x_variant":[
+        "Magagu"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":155310,
+    "qs:gn_pop":26131,
+    "qs:name":"Magugu",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Manyara",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":122542,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1446229,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":491,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679733,
+        1108693123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155310,
+        "gp:id":1446229,
+        "qs:id":122542,
+        "wd:id":"Q13123849",
+        "wk:page":"Magugu"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009909,
+    "wof:geomhash":"5a17ef7119285fcb9b0e62af7a116a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693123,
+            "locality_id":421197313,
+            "region_id":85679733
+        }
+    ],
+    "wof:id":421197313,
+    "wof:lastmodified":1527716403,
+    "wof:name":"Magugu",
+    "wof:parent_id":1108693123,
+    "wof:placetype":"locality",
+    "wof:population":26131,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.76667,
+    -4.01667,
+    35.76667,
+    -4.01667
+],
+  "geometry": {"coordinates":[35.76667,-4.01667],"type":"Point"}
+}

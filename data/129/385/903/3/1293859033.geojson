@@ -1,0 +1,74 @@
+{
+  "id": 1293859033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.69889,-1.66222,31.69889,-1.66222",
+    "geom:latitude":-1.66222,
+    "geom:longitude":31.69889,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1803",
+    "gn:admin3_code":"1803081",
+    "gn:asciiname":"Katoke",
+    "gn:cc2":"TZ",
+    "gn:country_code":"TZ",
+    "gn:dem":1270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158167,
+    "gn:latitude":-1.66222,
+    "gn:longitude":31.69889,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Katoke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karoke",
+        "Katoke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158167
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"ef0982b622b2abb904b0fa00c08eba3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693091,
+            "locality_id":1293859033,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1293859033,
+    "wof:lastmodified":1537710042,
+    "wof:name":"Katoke",
+    "wof:parent_id":1108693091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.69889,
+    -1.66222,
+    31.69889,
+    -1.66222
+],
+  "geometry": {"coordinates":[31.69889,-1.66222],"type":"Point"}
+}

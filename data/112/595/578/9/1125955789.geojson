@@ -1,0 +1,91 @@
+{
+  "id": 1125955789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.23333,-5.88333,35.23333,-5.88333",
+    "geom:latitude":-5.88333,
+    "geom:longitude":35.23333,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7906,
+    "gn:population":7906,
+    "iso:country":"TZ",
+    "lbl:latitude":-5.88333,
+    "lbl:longitude":35.23333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041a\u0438\u043d\u0442\u0438\u043d\u043a\u0443"
+    ],
+    "name:dut_x_preferred":[
+        "Kintinku"
+    ],
+    "name:eng_x_preferred":[
+        "Kintinku"
+    ],
+    "name:swa_x_preferred":[
+        "Kintinku"
+    ],
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":157247,
+    "qs_pg:gn_pop":7906,
+    "qs_pg:name":"Kintinku",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":68377,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679727,
+        421186277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":157247,
+        "qs_pg:id":68377,
+        "wd:id":"Q13123489"
+    },
+    "wof:country":"TZ",
+    "wof:created":1497297615,
+    "wof:geomhash":"c6c5925f1e8bfa4e03bc012a8f6252c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421186277,
+            "locality_id":1125955789,
+            "region_id":85679727
+        }
+    ],
+    "wof:id":1125955789,
+    "wof:lastmodified":1514508513,
+    "wof:name":"Kintinku",
+    "wof:parent_id":421186277,
+    "wof:placetype":"locality",
+    "wof:population":7906,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23333,
+    -5.88333,
+    35.23333,
+    -5.88333
+],
+  "geometry": {"coordinates":[35.23333,-5.88333],"type":"Point"}
+}

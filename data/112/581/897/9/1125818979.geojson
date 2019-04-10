@@ -1,0 +1,99 @@
+{
+  "id": 1125818979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.98309,-7.40409,36.98309,-7.40409",
+    "geom:latitude":-7.40409,
+    "geom:longitude":36.98309,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":16780,
+    "gn:population":16780,
+    "iso:country":"TZ",
+    "lbl:latitude":-7.40409,
+    "lbl:longitude":36.98309,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u043a\u0443\u043c\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Mikumi"
+    ],
+    "name:eng_x_preferred":[
+        "Mikumi"
+    ],
+    "name:fin_x_preferred":[
+        "Mikumi"
+    ],
+    "name:swa_x_preferred":[
+        "Mikumi"
+    ],
+    "name:tur_x_preferred":[
+        "Mikumi"
+    ],
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":153871,
+    "qs_pg:gn_pop":16780,
+    "qs_pg:name":"Mikumi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":122518,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        421204027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153871,
+        "qs_pg:id":122518,
+        "wd:id":"Q6850269"
+    },
+    "wof:country":"TZ",
+    "wof:created":1497291967,
+    "wof:geomhash":"371d5ad19ce180bbc6702de3bc85d463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421204027,
+            "locality_id":1125818979,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1125818979,
+    "wof:lastmodified":1534379470,
+    "wof:name":"Mikumi",
+    "wof:parent_id":421204027,
+    "wof:placetype":"locality",
+    "wof:population":16780,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1141907023
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.98309,
+    -7.40409,
+    36.98309,
+    -7.40409
+],
+  "geometry": {"coordinates":[36.98309,-7.40409],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 890436937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.58333,-10.46667,34.58333,-10.46667",
+    "geom:latitude":-10.46667,
+    "geom:longitude":34.58333,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
+    "gn:pop":8393,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "Bongo"
+    ],
+    "qs:name":"Manda",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":179,
+    "wof:belongsto":[
+        102191573,
+        85632383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878087,
+        "gp:id":1446459,
+        "qs:id":1029284,
+        "wk:page":"Manda"
+    },
+    "wof:country":"TZ",
+    "wof:created":1469052132,
+    "wof:geomhash":"1f379530dc496dcab6093789e7df0741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632383,
+            "locality_id":890436937
+        }
+    ],
+    "wof:id":890436937,
+    "wof:lastmodified":1527735400,
+    "wof:name":"Manda",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":8393,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.58333,
+    -10.46667,
+    34.58333,
+    -10.46667
+],
+  "geometry": {"coordinates":[34.58333,-10.46667],"type":"Point"}
+}

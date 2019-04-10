@@ -1,0 +1,90 @@
+{
+  "id": 421174091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.38333,-6.31667,39.38333,-6.31667",
+    "geom:latitude":-6.31667,
+    "geom:longitude":39.38333,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Unguja Ukuu"
+    ],
+    "name:eng_x_preferred":[
+        "Unguja Ukuu"
+    ],
+    "name:ita_x_preferred":[
+        "Unguja Ukuu"
+    ],
+    "name:unk_x_variant":[
+        "Unguja Mkuu"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":149192,
+    "qs:gn_pop":0,
+    "qs:name":"Unguja Ukuu",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Zanzibar South and Central",
+    "qs:photos":119,
+    "qs:photos_1k":24,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":119,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":316928,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1449782,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":2135,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679651,
+        421191173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149192,
+        "gp:id":1449782,
+        "qs:id":316928,
+        "wd:id":"Q4004662"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009019,
+    "wof:geomhash":"ce10db90a95aa14f5f0fb8563973bbef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421191173,
+            "locality_id":421174091,
+            "region_id":85679651
+        }
+    ],
+    "wof:id":421174091,
+    "wof:lastmodified":1527716225,
+    "wof:name":"Unguja Ukuu",
+    "wof:parent_id":421191173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.38333,
+    -6.31667,
+    39.38333,
+    -6.31667
+],
+  "geometry": {"coordinates":[39.38333,-6.31667],"type":"Point"}
+}

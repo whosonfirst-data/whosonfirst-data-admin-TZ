@@ -1,0 +1,72 @@
+{
+  "id": 1310502111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.54964,-7.64574,36.54964,-7.64574",
+    "geom:latitude":-7.64574,
+    "geom:longitude":36.54964,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1104",
+    "gn:admin3_code":"1104211",
+    "gn:asciiname":"Luwala",
+    "gn:country_code":"TZ",
+    "gn:dem":882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155541,
+    "gn:latitude":-7.64574,
+    "gn:longitude":36.54964,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Luwala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Luwala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679711,
+        1108693001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155541
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"3ce4983b49e62c3d45f10f268e2afad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693001,
+            "locality_id":1310502111,
+            "region_id":85679711
+        }
+    ],
+    "wof:id":1310502111,
+    "wof:lastmodified":1537710027,
+    "wof:name":"Luwala",
+    "wof:parent_id":1108693001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.54964,
+    -7.64574,
+    36.54964,
+    -7.64574
+],
+  "geometry": {"coordinates":[36.54964,-7.64574],"type":"Point"}
+}

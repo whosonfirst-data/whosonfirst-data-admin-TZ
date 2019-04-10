@@ -1,0 +1,67 @@
+{
+  "id": 1327085063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.65,-5.81667,31.65,-5.81667",
+    "geom:latitude":-5.81667,
+    "geom:longitude":31.65,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mhuba",
+    "gn:country_code":"TZ",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153986,
+    "gn:latitude":-5.81667,
+    "gn:longitude":31.65,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Mhuba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679661,
+        1108693047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153986
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"5f5bfe0f11cbeff0c4790ea35816778f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693047,
+            "locality_id":1327085063,
+            "region_id":85679661
+        }
+    ],
+    "wof:id":1327085063,
+    "wof:lastmodified":1536684636,
+    "wof:name":"Mhuba",
+    "wof:parent_id":1108693047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.65,
+    -5.81667,
+    31.65,
+    -5.81667
+],
+  "geometry": {"coordinates":[31.65,-5.81667],"type":"Point"}
+}

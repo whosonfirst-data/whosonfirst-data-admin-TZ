@@ -1,0 +1,69 @@
+{
+  "id": 1242759057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.28333,-10.98333,39.28333,-10.98333",
+    "geom:latitude":-10.98333,
+    "geom:longitude":39.28333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0902",
+    "gn:admin3_code":"0902213",
+    "gn:asciiname":"Makongonda",
+    "gn:country_code":"TZ",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":878109,
+    "gn:latitude":-10.98333,
+    "gn:longitude":39.28333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Makongonda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679717,
+        1108692971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878109
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"0aa6e75141a0eab94f0dcca404b263b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692971,
+            "locality_id":1242759057,
+            "region_id":85679717
+        }
+    ],
+    "wof:id":1242759057,
+    "wof:lastmodified":1536802339,
+    "wof:name":"Makongonda",
+    "wof:parent_id":1108692971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.28333,
+    -10.98333,
+    39.28333,
+    -10.98333
+],
+  "geometry": {"coordinates":[39.28333,-10.98333],"type":"Point"}
+}

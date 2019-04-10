@@ -1,0 +1,62 @@
+{
+  "id": 1309730831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.00935,-2.74536,32.00935,-2.74536",
+    "geom:latitude":-2.74536,
+    "geom:longitude":32.00935,
+    "gn:asciiname":"Buhangizi",
+    "gn:country_code":"TZ",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258359,
+    "gn:latitude":-2.74536,
+    "gn:longitude":32.00935,
+    "gn:modification_date":"2016-09-30",
+    "gn:name":"Buhangizi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258359
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"60412f29d3440d30d4fecc93d171ac9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1309730831,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309730831,
+    "wof:lastmodified":1537037546,
+    "wof:name":"Buhangizi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.00935,
+    -2.74536,
+    32.00935,
+    -2.74536
+],
+  "geometry": {"coordinates":[32.00935,-2.74536],"type":"Point"}
+}

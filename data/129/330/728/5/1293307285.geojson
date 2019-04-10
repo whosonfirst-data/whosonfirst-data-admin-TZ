@@ -1,0 +1,61 @@
+{
+  "id": 1293307285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.2,-6.23333,39.2,-6.23333",
+    "geom:latitude":-6.23333,
+    "geom:longitude":39.2,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kijangwani",
+    "gn:country_code":"TZ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":157648,
+    "gn:latitude":-6.23333,
+    "gn:longitude":39.2,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Kijangwani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":157648
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"4202e50701714f0d9f95507a88ccf620",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293307285,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293307285,
+    "wof:lastmodified":1537044883,
+    "wof:name":"Kijangwani",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.2,
+    -6.23333,
+    39.2,
+    -6.23333
+],
+  "geometry": {"coordinates":[39.2,-6.23333],"type":"Point"}
+}

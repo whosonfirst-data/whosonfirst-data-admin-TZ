@@ -1,0 +1,72 @@
+{
+  "id": 1310309855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7728,-6.21065,29.7728,-6.21065",
+    "geom:latitude":-6.21065,
+    "geom:longitude":29.7728,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1605",
+    "gn:admin3_code":"1605021",
+    "gn:asciiname":"Muhela",
+    "gn:country_code":"TZ",
+    "gn:dem":1579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":152638,
+    "gn:latitude":-6.21065,
+    "gn:longitude":29.7728,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Muhela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Muhela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679669,
+        1108693065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152638
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"cd76a54ab8124cdc442d905dbd4a4337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693065,
+            "locality_id":1310309855,
+            "region_id":85679669
+        }
+    ],
+    "wof:id":1310309855,
+    "wof:lastmodified":1537710010,
+    "wof:name":"Muhela",
+    "wof:parent_id":1108693065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7728,
+    -6.21065,
+    29.7728,
+    -6.21065
+],
+  "geometry": {"coordinates":[29.7728,-6.21065],"type":"Point"}
+}

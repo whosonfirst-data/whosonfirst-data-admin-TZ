@@ -1,0 +1,81 @@
+{
+  "id": 1126003891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.95,-4.13333,37.95,-4.13333",
+    "geom:latitude":-4.13333,
+    "geom:longitude":37.95,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7126,
+    "gn:population":7126,
+    "iso:country":"TZ",
+    "lbl:latitude":-4.13333,
+    "lbl:longitude":37.95,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Kiswani"
+    ],
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":156918,
+    "qs_pg:gn_pop":7126,
+    "qs_pg:name":"Kisiwani",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":524223,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679737,
+        1108692913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156918,
+        "qs_pg:id":524223
+    },
+    "wof:country":"TZ",
+    "wof:created":1497299813,
+    "wof:geomhash":"f2e79ccf930a7c11075690a017d620a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692913,
+            "locality_id":1126003891,
+            "region_id":85679737
+        }
+    ],
+    "wof:id":1126003891,
+    "wof:lastmodified":1509406316,
+    "wof:name":"Kisiwani",
+    "wof:parent_id":1108692913,
+    "wof:placetype":"locality",
+    "wof:population":7126,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.95,
+    -4.13333,
+    37.95,
+    -4.13333
+],
+  "geometry": {"coordinates":[37.95,-4.13333],"type":"Point"}
+}

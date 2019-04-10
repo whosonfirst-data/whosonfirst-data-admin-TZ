@@ -1,0 +1,78 @@
+{
+  "id": 1343766973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.76667,-6.15,29.76667,-6.15",
+    "geom:latitude":-6.15,
+    "geom:longitude":29.76667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1605",
+    "gn:admin3_code":"1605021",
+    "gn:asciiname":"Kasoge",
+    "gn:country_code":"TZ",
+    "gn:dem":1507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158227,
+    "gn:latitude":-6.15,
+    "gn:longitude":29.76667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kasoge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kasoge"
+    ],
+    "name:eng_x_variant":[
+        "Kasoje"
+    ],
+    "name:und_x_variant":[
+        "Kasoje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679669,
+        1108693065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158227
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"c4edfc1b6ba1c09278fe05cd0c13d227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693065,
+            "locality_id":1343766973,
+            "region_id":85679669
+        }
+    ],
+    "wof:id":1343766973,
+    "wof:lastmodified":1537710043,
+    "wof:name":"Kasoge",
+    "wof:parent_id":1108693065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.76667,
+    -6.15,
+    29.76667,
+    -6.15
+],
+  "geometry": {"coordinates":[29.76667,-6.15],"type":"Point"}
+}

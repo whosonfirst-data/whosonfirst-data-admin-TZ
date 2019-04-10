@@ -1,0 +1,73 @@
+{
+  "id": 1310400691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.01667,-6.73333,38.01667,-6.73333",
+    "geom:latitude":-6.73333,
+    "geom:longitude":38.01667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0502",
+    "gn:admin3_code":"0502271",
+    "gn:asciiname":"Kinonko",
+    "gn:country_code":"TZ",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":157252,
+    "gn:latitude":-6.73333,
+    "gn:longitude":38.01667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kinonko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kikonko",
+        "Kinonko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        421193165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":157252
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"546c407b8a695899f4efc46207fd0392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421193165,
+            "locality_id":1310400691,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1310400691,
+    "wof:lastmodified":1537710036,
+    "wof:name":"Kinonko",
+    "wof:parent_id":421193165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.01667,
+    -6.73333,
+    38.01667,
+    -6.73333
+],
+  "geometry": {"coordinates":[38.01667,-6.73333],"type":"Point"}
+}

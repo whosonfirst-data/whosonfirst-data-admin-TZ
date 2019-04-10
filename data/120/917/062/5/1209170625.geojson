@@ -1,0 +1,63 @@
+{
+  "id": 1209170625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.3,-5.78333,39.3,-5.78333",
+    "geom:latitude":-5.78333,
+    "geom:longitude":39.3,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"5101",
+    "gn:admin3_code":"5101141",
+    "gn:asciiname":"Chanjani",
+    "gn:country_code":"TZ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160579,
+    "gn:latitude":-5.78333,
+    "gn:longitude":39.3,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Chanjani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160579
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"c90bb538f9cf87b0a627e7422cca2f0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209170625
+        }
+    ],
+    "wof:id":1209170625,
+    "wof:lastmodified":1536295593,
+    "wof:name":"Chanjani",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.3,
+    -5.78333,
+    39.3,
+    -5.78333
+],
+  "geometry": {"coordinates":[39.3,-5.78333],"type":"Point"}
+}

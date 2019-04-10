@@ -1,0 +1,69 @@
+{
+  "id": 1276366181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.90993,-3.02364,33.90993,-3.02364",
+    "geom:latitude":-3.02364,
+    "geom:longitude":33.90993,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2402",
+    "gn:admin3_code":"2402153",
+    "gn:asciiname":"Mwamapalala",
+    "gn:country_code":"TZ",
+    "gn:dem":1304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8551306,
+    "gn:latitude":-3.02364,
+    "gn:longitude":33.90993,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mwamapalala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679755,
+        1108693153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8551306
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"836c686ea7a77800a3034c99c63571f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693153,
+            "locality_id":1276366181,
+            "region_id":85679755
+        }
+    ],
+    "wof:id":1276366181,
+    "wof:lastmodified":1536734768,
+    "wof:name":"Mwamapalala",
+    "wof:parent_id":1108693153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.90993,
+    -3.02364,
+    33.90993,
+    -3.02364
+],
+  "geometry": {"coordinates":[33.90993,-3.02364],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 421189825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.021945,-9.488852,34.021945,-9.488852",
+    "geom:latitude":-9.488852,
+    "geom:longitude":34.021945,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Matema"
+    ],
+    "name:dut_x_preferred":[
+        "Matema"
+    ],
+    "name:eng_x_preferred":[
+        "Matema"
+    ],
+    "name:fre_x_preferred":[
+        "Matema"
+    ],
+    "name:ger_x_preferred":[
+        "Matema"
+    ],
+    "name:ind_x_preferred":[
+        "Matema"
+    ],
+    "name:ita_x_preferred":[
+        "Matema"
+    ],
+    "name:swa_x_preferred":[
+        "Matema"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Matema",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Mbeya",
+    "qs:photos":41,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":41,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1117088,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1446669,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":75,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679641,
+        421192909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1446669,
+        "qs:id":1117088,
+        "wd:id":"Q637880"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009637,
+    "wof:geomhash":"cfda927bb824578961b390133b55e761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421192909,
+            "locality_id":421189825,
+            "region_id":85679641
+        }
+    ],
+    "wof:id":421189825,
+    "wof:lastmodified":1527716270,
+    "wof:name":"Matema",
+    "wof:parent_id":421192909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.021945,
+    -9.488852,
+    34.021945,
+    -9.488852
+],
+  "geometry": {"coordinates":[34.021945,-9.488852],"type":"Point"}
+}

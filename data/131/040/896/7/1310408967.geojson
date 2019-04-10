@@ -1,0 +1,72 @@
+{
+  "id": 1310408967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.63347,-7.93971,38.63347,-7.93971",
+    "geom:latitude":-7.93971,
+    "geom:longitude":38.63347,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0605",
+    "gn:admin3_code":"0605043",
+    "gn:asciiname":"Nyarwiru",
+    "gn:country_code":"TZ",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151009,
+    "gn:latitude":-7.93971,
+    "gn:longitude":38.63347,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nyarwiru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nyarwiru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        421182255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151009
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"f09cbe2a4c10ffe7d4ad13e7daa49f28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421182255,
+            "locality_id":1310408967,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1310408967,
+    "wof:lastmodified":1537710000,
+    "wof:name":"Nyarwiru",
+    "wof:parent_id":421182255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.63347,
+    -7.93971,
+    38.63347,
+    -7.93971
+],
+  "geometry": {"coordinates":[38.63347,-7.93971],"type":"Point"}
+}

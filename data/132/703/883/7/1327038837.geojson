@@ -1,0 +1,78 @@
+{
+  "id": 1327038837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.65194,-7.24098,38.65194,-7.24098",
+    "geom:latitude":-7.24098,
+    "geom:longitude":38.65194,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0603",
+    "gn:admin3_code":"0603091",
+    "gn:asciiname":"Sofu",
+    "gn:country_code":"TZ",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149819,
+    "gn:latitude":-7.24098,
+    "gn:longitude":38.65194,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Sofu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sofu"
+    ],
+    "name:eng_x_variant":[
+        "Safu"
+    ],
+    "name:und_x_variant":[
+        "Safu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        421192907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149819
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"c66f7e631deee7b1173e7b5e378043c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421192907,
+            "locality_id":1327038837,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1327038837,
+    "wof:lastmodified":1537709994,
+    "wof:name":"Sofu",
+    "wof:parent_id":421192907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.65194,
+    -7.24098,
+    38.65194,
+    -7.24098
+],
+  "geometry": {"coordinates":[38.65194,-7.24098],"type":"Point"}
+}

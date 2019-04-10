@@ -1,0 +1,74 @@
+{
+  "id": 1259556857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.53333,-3.36667,33.53333,-3.36667",
+    "geom:latitude":-3.36667,
+    "geom:longitude":33.53333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1702",
+    "gn:admin3_code":"1702051",
+    "gn:asciiname":"Wishiteleja",
+    "gn:country_code":"TZ",
+    "gn:dem":1208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":152110,
+    "gn:latitude":-3.36667,
+    "gn:longitude":33.53333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Wishiteleja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wishitereja",
+        "Mwishitereja",
+        "Wishiteleja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679657,
+        1108693077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152110
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"1684493da166942f48e34666c2dcd522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693077,
+            "locality_id":1259556857,
+            "region_id":85679657
+        }
+    ],
+    "wof:id":1259556857,
+    "wof:lastmodified":1537710007,
+    "wof:name":"Wishiteleja",
+    "wof:parent_id":1108693077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.53333,
+    -3.36667,
+    33.53333,
+    -3.36667
+],
+  "geometry": {"coordinates":[33.53333,-3.36667],"type":"Point"}
+}

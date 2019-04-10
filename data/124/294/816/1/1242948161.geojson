@@ -1,0 +1,73 @@
+{
+  "id": 1242948161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.715,-1.33556,30.715,-1.33556",
+    "geom:latitude":-1.33556,
+    "geom:longitude":30.715,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1808",
+    "gn:admin3_code":"1808011",
+    "gn:asciiname":"Katera",
+    "gn:country_code":"TZ",
+    "gn:dem":1404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158180,
+    "gn:latitude":-1.33556,
+    "gn:longitude":30.715,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Katera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katira",
+        "Katera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158180
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"8f78ec75c12aa6da88890a870735344a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693101,
+            "locality_id":1242948161,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1242948161,
+    "wof:lastmodified":1537710042,
+    "wof:name":"Katera",
+    "wof:parent_id":1108693101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.715,
+    -1.33556,
+    30.715,
+    -1.33556
+],
+  "geometry": {"coordinates":[30.715,-1.33556],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326915879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.13333,-1.35,34.13333,-1.35",
+    "geom:latitude":-1.35,
+    "geom:longitude":34.13333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"2006",
+    "gn:admin3_code":"2006161",
+    "gn:asciiname":"Kowak",
+    "gn:country_code":"TZ",
+    "gn:dem":1212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156463,
+    "gn:latitude":-1.35,
+    "gn:longitude":34.13333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kowak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kowaki",
+        "Kowak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679743,
+        1108693119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156463,
+        "wk:page":"Kowak"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"3eb3febd8223aadc286882fc8eb5c659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693119,
+            "locality_id":1326915879,
+            "region_id":85679743
+        }
+    ],
+    "wof:id":1326915879,
+    "wof:lastmodified":1537710032,
+    "wof:name":"Kowak",
+    "wof:parent_id":1108693119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.13333,
+    -1.35,
+    34.13333,
+    -1.35
+],
+  "geometry": {"coordinates":[34.13333,-1.35],"type":"Point"}
+}

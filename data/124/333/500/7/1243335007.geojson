@@ -1,0 +1,73 @@
+{
+  "id": 1243335007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8,-5.8,32.8,-5.8",
+    "geom:latitude":-5.8,
+    "geom:longitude":32.8,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1405",
+    "gn:admin3_code":"1405021",
+    "gn:asciiname":"Iwensate",
+    "gn:country_code":"TZ",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158845,
+    "gn:latitude":-5.8,
+    "gn:longitude":32.8,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Iwensate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iwensato",
+        "Iwensate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679661,
+        1108693043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158845
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"4c047fd877735a96dcfc47552abeac85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693043,
+            "locality_id":1243335007,
+            "region_id":85679661
+        }
+    ],
+    "wof:id":1243335007,
+    "wof:lastmodified":1537710047,
+    "wof:name":"Iwensate",
+    "wof:parent_id":1108693043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8,
+    -5.8,
+    32.8,
+    -5.8
+],
+  "geometry": {"coordinates":[32.8,-5.8],"type":"Point"}
+}

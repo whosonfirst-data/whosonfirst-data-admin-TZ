@@ -1,0 +1,69 @@
+{
+  "id": 1226668917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.01056,-4.60722,30.01056,-4.60722",
+    "geom:latitude":-4.60722,
+    "geom:longitude":30.01056,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1608",
+    "gn:admin3_code":"1608091",
+    "gn:asciiname":"Buhinga",
+    "gn:country_code":"TZ",
+    "gn:dem":1618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160993,
+    "gn:latitude":-4.60722,
+    "gn:longitude":30.01056,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Buhinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679669,
+        1108693073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160993
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"185b25b96dfd5a73d108e0ddaabdecb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693073,
+            "locality_id":1226668917,
+            "region_id":85679669
+        }
+    ],
+    "wof:id":1226668917,
+    "wof:lastmodified":1536825214,
+    "wof:name":"Buhinga",
+    "wof:parent_id":1108693073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.01056,
+    -4.60722,
+    30.01056,
+    -4.60722
+],
+  "geometry": {"coordinates":[30.01056,-4.60722],"type":"Point"}
+}

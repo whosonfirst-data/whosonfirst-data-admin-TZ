@@ -1,0 +1,78 @@
+{
+  "id": 1343265139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.90035,-7.88365,37.90035,-7.88365",
+    "geom:latitude":-7.88365,
+    "geom:longitude":37.90035,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0605",
+    "gn:admin3_code":"0605071",
+    "gn:asciiname":"Mkalinzu",
+    "gn:country_code":"TZ",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153657,
+    "gn:latitude":-7.88365,
+    "gn:longitude":37.90035,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mkalinzu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mkalinzu"
+    ],
+    "name:eng_x_variant":[
+        "Mkalinju"
+    ],
+    "name:und_x_variant":[
+        "Mkalinju"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        421182255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153657
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"bbc68be31ac6349e66dab41a126405ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421182255,
+            "locality_id":1343265139,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1343265139,
+    "wof:lastmodified":1537710016,
+    "wof:name":"Mkalinzu",
+    "wof:parent_id":421182255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.90035,
+    -7.88365,
+    37.90035,
+    -7.88365
+],
+  "geometry": {"coordinates":[37.90035,-7.88365],"type":"Point"}
+}

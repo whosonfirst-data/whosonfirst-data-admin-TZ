@@ -1,0 +1,63 @@
+{
+  "id": 1209491225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.63333,-4.95,38.63333,-4.95",
+    "geom:latitude":-4.95,
+    "geom:longitude":38.63333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0402",
+    "gn:admin3_code":"0402041",
+    "gn:asciiname":"Bwili",
+    "gn:country_code":"TZ",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160721,
+    "gn:latitude":-4.95,
+    "gn:longitude":38.63333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Bwili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160721
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"3041cc9fa84616ca52f03c7bbe84d7b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209491225
+        }
+    ],
+    "wof:id":1209491225,
+    "wof:lastmodified":1536285479,
+    "wof:name":"Bwili",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.63333,
+    -4.95,
+    38.63333,
+    -4.95
+],
+  "geometry": {"coordinates":[38.63333,-4.95],"type":"Point"}
+}

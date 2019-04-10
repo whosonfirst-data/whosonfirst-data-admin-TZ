@@ -1,0 +1,63 @@
+{
+  "id": 1209381069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.03333,-5.2,39.03333,-5.2",
+    "geom:latitude":-5.2,
+    "geom:longitude":39.03333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0404",
+    "gn:admin3_code":"0404151",
+    "gn:asciiname":"Migombani",
+    "gn:country_code":"TZ",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153925,
+    "gn:latitude":-5.2,
+    "gn:longitude":39.03333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Migombani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153925
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"2ddd35d6cdbb3e2a05f03d2043090cc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209381069
+        }
+    ],
+    "wof:id":1209381069,
+    "wof:lastmodified":1536288781,
+    "wof:name":"Migombani",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.03333,
+    -5.2,
+    39.03333,
+    -5.2
+],
+  "geometry": {"coordinates":[39.03333,-5.2],"type":"Point"}
+}

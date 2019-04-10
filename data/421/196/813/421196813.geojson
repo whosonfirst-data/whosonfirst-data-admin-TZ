@@ -1,0 +1,82 @@
+{
+  "id": 421196813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.7,-1.68333,33.7,-1.68333",
+    "geom:latitude":-1.68333,
+    "geom:longitude":33.7,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Mgango"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":152689,
+    "qs:gn_pop":10550,
+    "qs:name":"Mugango",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Mara",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1298793,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1447925,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679743,
+        421188919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152689,
+        "gp:id":1447925,
+        "qs:id":1298793
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009894,
+    "wof:geomhash":"1dec4dbbb856a4dd9a9fe6306569f339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421188919,
+            "locality_id":421196813,
+            "region_id":85679743
+        }
+    ],
+    "wof:id":421196813,
+    "wof:lastmodified":1505340749,
+    "wof:name":"Mugango",
+    "wof:parent_id":421188919,
+    "wof:placetype":"locality",
+    "wof:population":10550,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.7,
+    -1.68333,
+    33.7,
+    -1.68333
+],
+  "geometry": {"coordinates":[33.7,-1.68333],"type":"Point"}
+}

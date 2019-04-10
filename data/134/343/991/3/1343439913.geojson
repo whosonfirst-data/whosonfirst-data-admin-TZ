@@ -1,0 +1,69 @@
+{
+  "id": 1343439913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.46667,-11.35,37.46667,-11.35",
+    "geom:latitude":-11.35,
+    "geom:longitude":37.46667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1001",
+    "gn:admin3_code":"1001141",
+    "gn:asciiname":"Mautila",
+    "gn:country_code":"TZ",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":878033,
+    "gn:latitude":-11.35,
+    "gn:longitude":37.46667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mautila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679723,
+        1108692985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878033
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"277f4b4193002763b0ed2f2ed6546e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692985,
+            "locality_id":1343439913,
+            "region_id":85679723
+        }
+    ],
+    "wof:id":1343439913,
+    "wof:lastmodified":1536776538,
+    "wof:name":"Mautila",
+    "wof:parent_id":1108692985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.46667,
+    -11.35,
+    37.46667,
+    -11.35
+],
+  "geometry": {"coordinates":[37.46667,-11.35],"type":"Point"}
+}

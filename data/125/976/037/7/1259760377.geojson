@@ -1,0 +1,72 @@
+{
+  "id": 1259760377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.41667,-2.68333,33.41667,-2.68333",
+    "geom:latitude":-2.68333,
+    "geom:longitude":33.41667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1902",
+    "gn:admin3_code":"1902101",
+    "gn:asciiname":"Mwamabanza",
+    "gn:country_code":"TZ",
+    "gn:dem":1189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":152294,
+    "gn:latitude":-2.68333,
+    "gn:longitude":33.41667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mwamabanza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mwamwabanza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679655,
+        1108693105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152294
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"b6675b2de5699e97e883dac290436a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693105,
+            "locality_id":1259760377,
+            "region_id":85679655
+        }
+    ],
+    "wof:id":1259760377,
+    "wof:lastmodified":1537710008,
+    "wof:name":"Mwamabanza",
+    "wof:parent_id":1108693105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.41667,
+    -2.68333,
+    33.41667,
+    -2.68333
+],
+  "geometry": {"coordinates":[33.41667,-2.68333],"type":"Point"}
+}

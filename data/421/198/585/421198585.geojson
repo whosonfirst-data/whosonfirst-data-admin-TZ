@@ -1,0 +1,96 @@
+{
+  "id": 421198585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.93333,-9.11667,32.93333,-9.11667",
+    "geom:latitude":-9.11667,
+    "geom:longitude":32.93333,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Vwawa"
+    ],
+    "name:fin_x_preferred":[
+        "Vwawa"
+    ],
+    "name:fra_x_preferred":[
+        "Vwawa"
+    ],
+    "name:swa_x_preferred":[
+        "Vwawa"
+    ],
+    "name:unk_x_variant":[
+        "Vawa"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":148942,
+    "qs:gn_pop":40145,
+    "qs:name":"Vwawa",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Mbeya",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":183691,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1449943,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":158,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679641,
+        1108693013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148942,
+        "gp:id":1449943,
+        "qs:id":183691,
+        "wd:id":"Q2535530"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009953,
+    "wof:geomhash":"776edd3b4ea38bf311ee83610941fadb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693013,
+            "locality_id":421198585,
+            "region_id":85679641
+        }
+    ],
+    "wof:id":421198585,
+    "wof:lastmodified":1527716358,
+    "wof:name":"Vwawa",
+    "wof:parent_id":1108693013,
+    "wof:placetype":"locality",
+    "wof:population":40145,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.93333,
+    -9.11667,
+    32.93333,
+    -9.11667
+],
+  "geometry": {"coordinates":[32.93333,-9.11667],"type":"Point"}
+}

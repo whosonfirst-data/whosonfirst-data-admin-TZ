@@ -1,0 +1,69 @@
+{
+  "id": 1344024195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.6,-5.81667,38.6,-5.81667",
+    "geom:latitude":-5.81667,
+    "geom:longitude":38.6,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0406",
+    "gn:admin3_code":"0406041",
+    "gn:asciiname":"Pande",
+    "gn:country_code":"TZ",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150810,
+    "gn:latitude":-5.81667,
+    "gn:longitude":38.6,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Pande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679747,
+        1108692923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150810
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"4f90d182a38dfa8e23f99b04569858f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692923,
+            "locality_id":1344024195,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":1344024195,
+    "wof:lastmodified":1536928793,
+    "wof:name":"Pande",
+    "wof:parent_id":1108692923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.6,
+    -5.81667,
+    38.6,
+    -5.81667
+],
+  "geometry": {"coordinates":[38.6,-5.81667],"type":"Point"}
+}

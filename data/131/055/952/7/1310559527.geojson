@@ -1,0 +1,69 @@
+{
+  "id": 1310559527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0,-8.25,31.0,-8.25",
+    "geom:latitude":-8.25,
+    "geom:longitude":31.0,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1503",
+    "gn:admin3_code":"1503091",
+    "gn:asciiname":"Kirambo",
+    "gn:country_code":"TZ",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":157108,
+    "gn:latitude":-8.25,
+    "gn:longitude":31.0,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kirambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679645,
+        1108693055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":157108
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"f5b66cf859400a401bbcd79d17cd38cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693055,
+            "locality_id":1310559527,
+            "region_id":85679645
+        }
+    ],
+    "wof:id":1310559527,
+    "wof:lastmodified":1536838136,
+    "wof:name":"Kirambo",
+    "wof:parent_id":1108693055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0,
+    -8.25,
+    31.0,
+    -8.25
+],
+  "geometry": {"coordinates":[31.0,-8.25],"type":"Point"}
+}

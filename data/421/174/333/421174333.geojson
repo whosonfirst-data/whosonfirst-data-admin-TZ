@@ -1,0 +1,82 @@
+{
+  "id": 421174333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.38333,-4.06667,35.38333,-4.06667",
+    "geom:latitude":-4.06667,
+    "geom:longitude":35.38333,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Dongabesh"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":160172,
+    "qs:gn_pop":18864,
+    "qs:name":"Dongobesh",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Manyara",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":780718,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1443464,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679733,
+        1108693127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160172,
+        "gp:id":1443464,
+        "qs:id":780718
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009027,
+    "wof:geomhash":"40e2fd7ffe9a59a959850a5e4981bb80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693127,
+            "locality_id":421174333,
+            "region_id":85679733
+        }
+    ],
+    "wof:id":421174333,
+    "wof:lastmodified":1505340620,
+    "wof:name":"Dongobesh",
+    "wof:parent_id":1108693127,
+    "wof:placetype":"locality",
+    "wof:population":18864,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.38333,
+    -4.06667,
+    35.38333,
+    -4.06667
+],
+  "geometry": {"coordinates":[35.38333,-4.06667],"type":"Point"}
+}

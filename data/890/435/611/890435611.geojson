@@ -1,0 +1,66 @@
+{
+  "id": 890435611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0,-2.68333,33.0,-2.68333",
+    "geom:latitude":-2.68333,
+    "geom:longitude":33.0,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
+    "gn:pop":15514,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Usagara",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679655,
+        1108693115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149151,
+        "gp:id":1444928,
+        "qs:id":517211
+    },
+    "wof:country":"TZ",
+    "wof:created":1469052074,
+    "wof:geomhash":"cfb2cec441a5ff4e97b8d2804db8eb4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693115,
+            "locality_id":890435611,
+            "region_id":85679655
+        }
+    ],
+    "wof:id":890435611,
+    "wof:lastmodified":1505343548,
+    "wof:name":"Usagara",
+    "wof:parent_id":1108693115,
+    "wof:placetype":"locality",
+    "wof:population":15514,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0,
+    -2.68333,
+    33.0,
+    -2.68333
+],
+  "geometry": {"coordinates":[33.0,-2.68333],"type":"Point"}
+}

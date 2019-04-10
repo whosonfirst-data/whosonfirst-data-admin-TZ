@@ -1,0 +1,63 @@
+{
+  "id": 1209372159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.21667,-6.21667,39.21667,-6.21667",
+    "geom:latitude":-6.21667,
+    "geom:longitude":39.21667,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"5301",
+    "gn:admin3_code":"5301163",
+    "gn:asciiname":"Regeza Mwendo",
+    "gn:country_code":"TZ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150580,
+    "gn:latitude":-6.21667,
+    "gn:longitude":39.21667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Regeza Mwendo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150580
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"fa64f9188e46ab0e7a945769b7d5104f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209372159
+        }
+    ],
+    "wof:id":1209372159,
+    "wof:lastmodified":1536289070,
+    "wof:name":"Regeza Mwendo",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.21667,
+    -6.21667,
+    39.21667,
+    -6.21667
+],
+  "geometry": {"coordinates":[39.21667,-6.21667],"type":"Point"}
+}

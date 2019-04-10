@@ -1,0 +1,69 @@
+{
+  "id": 1310661761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.23333,-5.83333,30.23333,-5.83333",
+    "geom:latitude":-5.83333,
+    "geom:longitude":30.23333,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"2302",
+    "gn:admin3_code":"2302031",
+    "gn:asciiname":"Mugombazi",
+    "gn:country_code":"TZ",
+    "gn:dem":1121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":152672,
+    "gn:latitude":-5.83333,
+    "gn:longitude":30.23333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mugombazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679751,
+        1108693149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152672
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"fdbdcb55d0196a41ed9e23e1f9d9e88e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693149,
+            "locality_id":1310661761,
+            "region_id":85679751
+        }
+    ],
+    "wof:id":1310661761,
+    "wof:lastmodified":1536691751,
+    "wof:name":"Mugombazi",
+    "wof:parent_id":1108693149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.23333,
+    -5.83333,
+    30.23333,
+    -5.83333
+],
+  "geometry": {"coordinates":[30.23333,-5.83333],"type":"Point"}
+}

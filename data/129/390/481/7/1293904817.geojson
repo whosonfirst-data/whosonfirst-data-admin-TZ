@@ -1,0 +1,82 @@
+{
+  "id": 1293904817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.41251,-8.74724,39.41251,-8.74724",
+    "geom:latitude":-8.74724,
+    "geom:longitude":39.41251,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0801",
+    "gn:admin3_code":"0801183",
+    "gn:asciiname":"Kilwa Kivinje",
+    "gn:country_code":"TZ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":157379,
+    "gn:latitude":-8.74724,
+    "gn:longitude":39.41251,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kilwa Kivinje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kilwa Kivinje"
+    ],
+    "name:eng_x_variant":[
+        "Kilwa-Kiwindsche",
+        "Kilwa-Kiwindje",
+        "Kilwa"
+    ],
+    "name:und_x_variant":[
+        "Kilwa-Kiwindje",
+        "Kilwa-Kiwindsche",
+        "Kilwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679713,
+        421187961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":157379
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"fa4236adbd9b7cfd58a65e9801019f12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187961,
+            "locality_id":1293904817,
+            "region_id":85679713
+        }
+    ],
+    "wof:id":1293904817,
+    "wof:lastmodified":1537710037,
+    "wof:name":"Kilwa Kivinje",
+    "wof:parent_id":421187961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.41251,
+    -8.74724,
+    39.41251,
+    -8.74724
+],
+  "geometry": {"coordinates":[39.41251,-8.74724],"type":"Point"}
+}

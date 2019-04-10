@@ -1,0 +1,71 @@
+{
+  "id": 1259641423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13333,-7.11667,31.13333,-7.11667",
+    "geom:latitude":-7.11667,
+    "geom:longitude":31.13333,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ilalangulu",
+    "gn:country_code":"TZ",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159238,
+    "gn:latitude":-7.11667,
+    "gn:longitude":31.13333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ilalangulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lalangulu",
+        "Ilalangulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679751,
+        1108693151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159238
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"3e5c27c910220cc8c81f78dda1fc5621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693151,
+            "locality_id":1259641423,
+            "region_id":85679751
+        }
+    ],
+    "wof:id":1259641423,
+    "wof:lastmodified":1537710050,
+    "wof:name":"Ilalangulu",
+    "wof:parent_id":1108693151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13333,
+    -7.11667,
+    31.13333,
+    -7.11667
+],
+  "geometry": {"coordinates":[31.13333,-7.11667],"type":"Point"}
+}

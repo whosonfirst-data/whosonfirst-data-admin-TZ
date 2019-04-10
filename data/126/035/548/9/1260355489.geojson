@@ -1,0 +1,69 @@
+{
+  "id": 1260355489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.55,-5.03333,38.55,-5.03333",
+    "geom:latitude":-5.03333,
+    "geom:longitude":38.55,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0402",
+    "gn:admin3_code":"0402041",
+    "gn:asciiname":"Kerenge",
+    "gn:country_code":"TZ",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158066,
+    "gn:latitude":-5.03333,
+    "gn:longitude":38.55,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kerenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679747,
+        1108692919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158066
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"9daa69513e9c1cf06e3cba74133a4483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692919,
+            "locality_id":1260355489,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":1260355489,
+    "wof:lastmodified":1536613112,
+    "wof:name":"Kerenge",
+    "wof:parent_id":1108692919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.55,
+    -5.03333,
+    38.55,
+    -5.03333
+],
+  "geometry": {"coordinates":[38.55,-5.03333],"type":"Point"}
+}

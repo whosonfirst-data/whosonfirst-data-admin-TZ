@@ -1,0 +1,72 @@
+{
+  "id": 1343980667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.14452,-6.44596,30.14452,-6.44596",
+    "geom:latitude":-6.44596,
+    "geom:longitude":30.14452,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1605",
+    "gn:admin3_code":"1605011",
+    "gn:asciiname":"Isonga",
+    "gn:country_code":"TZ",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158979,
+    "gn:latitude":-6.44596,
+    "gn:longitude":30.14452,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Isonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Isonga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679669,
+        1108693065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158979
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"1df660af558f9746a5062f4196266bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693065,
+            "locality_id":1343980667,
+            "region_id":85679669
+        }
+    ],
+    "wof:id":1343980667,
+    "wof:lastmodified":1537710048,
+    "wof:name":"Isonga",
+    "wof:parent_id":1108693065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.14452,
+    -6.44596,
+    30.14452,
+    -6.44596
+],
+  "geometry": {"coordinates":[30.14452,-6.44596],"type":"Point"}
+}

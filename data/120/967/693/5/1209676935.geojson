@@ -1,0 +1,63 @@
+{
+  "id": 1209676935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.35,-2.9,32.35,-2.9",
+    "geom:latitude":-2.9,
+    "geom:longitude":32.35,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"2501",
+    "gn:admin3_code":"2501352",
+    "gn:asciiname":"Nyarakoma",
+    "gn:country_code":"TZ",
+    "gn:dem":1257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151028,
+    "gn:latitude":-2.9,
+    "gn:longitude":32.35,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nyarakoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151028
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"7edc5a1b0e5a415c2d9d8ba8a215d551",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209676935
+        }
+    ],
+    "wof:id":1209676935,
+    "wof:lastmodified":1536279717,
+    "wof:name":"Nyarakoma",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.35,
+    -2.9,
+    32.35,
+    -2.9
+],
+  "geometry": {"coordinates":[32.35,-2.9],"type":"Point"}
+}

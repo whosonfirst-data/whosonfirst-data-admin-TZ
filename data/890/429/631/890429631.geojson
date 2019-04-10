@@ -1,0 +1,72 @@
+{
+  "id": 890429631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.2987,-5.72651,39.2987,-5.72651",
+    "geom:latitude":-5.72651,
+    "geom:longitude":39.2987,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
+    "gn:pop":8000,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u043d\u0433\u0432\u0438"
+    ],
+    "qs:name":"Nungwi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":732,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679695,
+        890451535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7284275,
+        "gp:id":1448745,
+        "qs:id":106503,
+        "wd:id":"Q3376139",
+        "wk:page":"Nungwi"
+    },
+    "wof:country":"TZ",
+    "wof:created":1469051823,
+    "wof:geomhash":"9616953a930239c3be827a7bb8b2e7ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":890451535,
+            "locality_id":890429631,
+            "region_id":85679695
+        }
+    ],
+    "wof:id":890429631,
+    "wof:lastmodified":1527792796,
+    "wof:name":"Nungwi",
+    "wof:parent_id":890451535,
+    "wof:placetype":"locality",
+    "wof:population":8000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.2987,
+    -5.72651,
+    39.2987,
+    -5.72651
+],
+  "geometry": {"coordinates":[39.2987,-5.72651],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 421176901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.38333,-8.7,34.38333,-8.7",
+    "geom:latitude":-8.7,
+    "geom:longitude":34.38333,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Rujewa"
+    ],
+    "name:eng_x_preferred":[
+        "Rujewa"
+    ],
+    "name:swa_x_preferred":[
+        "Rujewa"
+    ],
+    "name:unk_x_variant":[
+        "Rujewo"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":150453,
+    "qs:gn_pop":29228,
+    "qs:name":"Rujewa",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Mbeya",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1090100,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1449172,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679641,
+        1108693015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150453,
+        "gp:id":1449172,
+        "qs:id":1090100,
+        "wd:id":"Q7378832",
+        "wk:page":"Rujewa"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009123,
+    "wof:geomhash":"113579c9c3a98b2816f101a1e13592d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693015,
+            "locality_id":421176901,
+            "region_id":85679641
+        }
+    ],
+    "wof:id":421176901,
+    "wof:lastmodified":1527726468,
+    "wof:name":"Rujewa",
+    "wof:parent_id":1108693015,
+    "wof:placetype":"locality",
+    "wof:population":29228,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.38333,
+    -8.7,
+    34.38333,
+    -8.7
+],
+  "geometry": {"coordinates":[34.38333,-8.7],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360089987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.81972,-3.68306,30.81972,-3.68306",
+    "geom:latitude":-3.68306,
+    "geom:longitude":30.81972,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1601",
+    "gn:admin3_code":"1601041",
+    "gn:asciiname":"Nyaviumbu",
+    "gn:country_code":"TZ",
+    "gn:dem":1244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150987,
+    "gn:latitude":-3.68306,
+    "gn:longitude":30.81972,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nyaviumbu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyaviyumbu",
+        "Nyaviumbu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679669,
+        1108693059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150987
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"0b0b6024988c35422d448fbf30daf1fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693059,
+            "locality_id":1360089987,
+            "region_id":85679669
+        }
+    ],
+    "wof:id":1360089987,
+    "wof:lastmodified":1537710000,
+    "wof:name":"Nyaviumbu",
+    "wof:parent_id":1108693059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.81972,
+    -3.68306,
+    30.81972,
+    -3.68306
+],
+  "geometry": {"coordinates":[30.81972,-3.68306],"type":"Point"}
+}

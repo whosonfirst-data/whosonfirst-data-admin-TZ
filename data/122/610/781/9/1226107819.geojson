@@ -1,0 +1,74 @@
+{
+  "id": 1226107819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14889,-1.5075,31.14889,-1.5075",
+    "geom:latitude":-1.5075,
+    "geom:longitude":31.14889,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1801",
+    "gn:admin3_code":"1801083",
+    "gn:asciiname":"Nyakihilingita",
+    "gn:cc2":"TZ",
+    "gn:country_code":"TZ",
+    "gn:dem":1572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389820,
+    "gn:latitude":-1.5075,
+    "gn:longitude":31.14889,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nyakihilingita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyakihilingite",
+        "Nyakihilingita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389820
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"e57375b8094b1ed4e20f8bb60fb1971f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693085,
+            "locality_id":1226107819,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1226107819,
+    "wof:lastmodified":1537710061,
+    "wof:name":"Nyakihilingita",
+    "wof:parent_id":1108693085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14889,
+    -1.5075,
+    31.14889,
+    -1.5075
+],
+  "geometry": {"coordinates":[31.14889,-1.5075],"type":"Point"}
+}

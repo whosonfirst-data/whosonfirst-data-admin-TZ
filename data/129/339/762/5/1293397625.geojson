@@ -1,0 +1,73 @@
+{
+  "id": 1293397625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98333,-6.05,35.98333,-6.05",
+    "geom:latitude":-6.05,
+    "geom:longitude":35.98333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0105",
+    "gn:admin3_code":"0105351",
+    "gn:asciiname":"Chahwa",
+    "gn:country_code":"TZ",
+    "gn:dem":1038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160686,
+    "gn:latitude":-6.05,
+    "gn:longitude":35.98333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Chahwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chawa",
+        "Chahwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679705,
+        421187957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160686
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"a1ceb4108405ccd19c76288d80d8722a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187957,
+            "locality_id":1293397625,
+            "region_id":85679705
+        }
+    ],
+    "wof:id":1293397625,
+    "wof:lastmodified":1537710057,
+    "wof:name":"Chahwa",
+    "wof:parent_id":421187957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98333,
+    -6.05,
+    35.98333,
+    -6.05
+],
+  "geometry": {"coordinates":[35.98333,-6.05],"type":"Point"}
+}

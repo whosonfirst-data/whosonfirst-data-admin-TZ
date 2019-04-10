@@ -1,0 +1,87 @@
+{
+  "id": 1125952413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.21047,-7.90577,39.21047,-7.90577",
+    "geom:latitude":-7.90577,
+    "geom:longitude":39.21047,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4305,
+    "gn:population":4305,
+    "iso:country":"TZ",
+    "lbl:latitude":-7.90577,
+    "lbl:longitude":39.21047,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Mbumi"
+    ],
+    "name:eng_x_variant":[
+        "Mbuni"
+    ],
+    "name:unk_x_variant":[
+        "Mbuni"
+    ],
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":154309,
+    "qs_pg:gn_pop":4305,
+    "qs_pg:name":"Mbumi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":68061,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        421182255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154309,
+        "qs_pg:id":68061
+    },
+    "wof:country":"TZ",
+    "wof:created":1497297507,
+    "wof:geomhash":"e0bac84125237f53736e290897630743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421182255,
+            "locality_id":1125952413,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1125952413,
+    "wof:lastmodified":1509402780,
+    "wof:name":"Mbumi",
+    "wof:parent_id":421182255,
+    "wof:placetype":"locality",
+    "wof:population":4305,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.21047,
+    -7.90577,
+    39.21047,
+    -7.90577
+],
+  "geometry": {"coordinates":[39.21047,-7.90577],"type":"Point"}
+}

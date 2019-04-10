@@ -1,0 +1,69 @@
+{
+  "id": 1326722321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.45,-9.41667,38.45,-9.41667",
+    "geom:latitude":-9.41667,
+    "geom:longitude":38.45,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0804",
+    "gn:admin3_code":"0804091",
+    "gn:asciiname":"Kimambi",
+    "gn:country_code":"TZ",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":157364,
+    "gn:latitude":-9.41667,
+    "gn:longitude":38.45,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kimambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679713,
+        1108692961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":157364
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"5d9f113f1d034e914bf8ba38f79d4bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692961,
+            "locality_id":1326722321,
+            "region_id":85679713
+        }
+    ],
+    "wof:id":1326722321,
+    "wof:lastmodified":1536710428,
+    "wof:name":"Kimambi",
+    "wof:parent_id":1108692961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.45,
+    -9.41667,
+    38.45,
+    -9.41667
+],
+  "geometry": {"coordinates":[38.45,-9.41667],"type":"Point"}
+}

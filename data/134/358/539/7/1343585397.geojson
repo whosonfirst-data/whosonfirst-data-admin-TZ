@@ -1,0 +1,78 @@
+{
+  "id": 1343585397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.17822,-7.36071,36.17822,-7.36071",
+    "geom:latitude":-7.36071,
+    "geom:longitude":36.17822,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1104",
+    "gn:admin3_code":"1104201",
+    "gn:asciiname":"Migu",
+    "gn:country_code":"TZ",
+    "gn:dem":1669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153919,
+    "gn:latitude":-7.36071,
+    "gn:longitude":36.17822,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Migu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Migu"
+    ],
+    "name:eng_x_variant":[
+        "Migo"
+    ],
+    "name:und_x_variant":[
+        "Migo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679711,
+        1108693001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153919
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"97e179bdbc0c4c89e1ed833146e61dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693001,
+            "locality_id":1343585397,
+            "region_id":85679711
+        }
+    ],
+    "wof:id":1343585397,
+    "wof:lastmodified":1537710017,
+    "wof:name":"Migu",
+    "wof:parent_id":1108693001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.17822,
+    -7.36071,
+    36.17822,
+    -7.36071
+],
+  "geometry": {"coordinates":[36.17822,-7.36071],"type":"Point"}
+}

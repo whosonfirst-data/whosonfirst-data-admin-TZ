@@ -1,0 +1,72 @@
+{
+  "id": 1343867109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.6239,-7.95667,39.6239,-7.95667",
+    "geom:latitude":-7.95667,
+    "geom:longitude":39.6239,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0606",
+    "gn:admin3_code":"0606051",
+    "gn:asciiname":"Dundani",
+    "gn:country_code":"TZ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7388078,
+    "gn:latitude":-7.95667,
+    "gn:longitude":39.6239,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Dundani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dundani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        1108692951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7388078
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"62c8192b6f6f8a4af12faf002d47a11f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692951,
+            "locality_id":1343867109,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1343867109,
+    "wof:lastmodified":1537710067,
+    "wof:name":"Dundani",
+    "wof:parent_id":1108692951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.6239,
+    -7.95667,
+    39.6239,
+    -7.95667
+],
+  "geometry": {"coordinates":[39.6239,-7.95667],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1292927365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.65,-10.1,39.65,-10.1",
+    "geom:latitude":-10.1,
+    "geom:longitude":39.65,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0806",
+    "gn:admin3_code":"0806142",
+    "gn:asciiname":"Ziwani",
+    "gn:country_code":"TZ",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877356,
+    "gn:latitude":-10.1,
+    "gn:longitude":39.65,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ziwani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679713,
+        1108692967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877356
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"6dd2672f4edd6eeb92b29e83f7826931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692967,
+            "locality_id":1292927365,
+            "region_id":85679713
+        }
+    ],
+    "wof:id":1292927365,
+    "wof:lastmodified":1537094455,
+    "wof:name":"Ziwani",
+    "wof:parent_id":1108692967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.65,
+    -10.1,
+    39.65,
+    -10.1
+],
+  "geometry": {"coordinates":[39.65,-10.1],"type":"Point"}
+}

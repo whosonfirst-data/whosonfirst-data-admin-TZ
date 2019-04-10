@@ -1,0 +1,66 @@
+{
+  "id": 890433247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.68333,-5.4,39.68333,-5.4",
+    "geom:latitude":-5.4,
+    "geom:longitude":39.68333,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
+    "gn:pop":2472,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Uwelini",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679687,
+        1108693175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149039,
+        "gp:id":1447340,
+        "qs:id":122440
+    },
+    "wof:country":"TZ",
+    "wof:created":1469051972,
+    "wof:geomhash":"7d153ebe2bfd6e20f4153c8e3196a632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693175,
+            "locality_id":890433247,
+            "region_id":85679687
+        }
+    ],
+    "wof:id":890433247,
+    "wof:lastmodified":1505343534,
+    "wof:name":"Uwelini",
+    "wof:parent_id":1108693175,
+    "wof:placetype":"locality",
+    "wof:population":2472,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.68333,
+    -5.4,
+    39.68333,
+    -5.4
+],
+  "geometry": {"coordinates":[39.68333,-5.4],"type":"Point"}
+}

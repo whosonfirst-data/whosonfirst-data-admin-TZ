@@ -1,0 +1,73 @@
+{
+  "id": 1293168545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.23333,-6.15,39.23333,-6.15",
+    "geom:latitude":-6.15,
+    "geom:longitude":39.23333,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"5301",
+    "gn:admin3_code":"5301233",
+    "gn:asciiname":"Chumbuni Kubwa",
+    "gn:country_code":"TZ",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160335,
+    "gn:latitude":-6.15,
+    "gn:longitude":39.23333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Chumbuni Kubwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chumbuni",
+        "Chumbuni Kubwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679699,
+        421202045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160335
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"8e616550eaaebb523f1c9b378c04136e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421202045,
+            "locality_id":1293168545,
+            "region_id":85679699
+        }
+    ],
+    "wof:id":1293168545,
+    "wof:lastmodified":1537710055,
+    "wof:name":"Chumbuni Kubwa",
+    "wof:parent_id":421202045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.23333,
+    -6.15,
+    39.23333,
+    -6.15
+],
+  "geometry": {"coordinates":[39.23333,-6.15],"type":"Point"}
+}

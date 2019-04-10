@@ -1,0 +1,79 @@
+{
+  "id": 421184977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.01667,-1.9,34.01667,-1.9",
+    "geom:latitude":-1.9,
+    "geom:longitude":34.01667,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":151108,
+    "qs:gn_pop":16507,
+    "qs:name":"Nyamuswa",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Mara",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1090087,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1448845,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679743,
+        421187953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151108,
+        "gp:id":1448845,
+        "qs:id":1090087
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009428,
+    "wof:geomhash":"b775e3eeb78f3f0b1bd16f225d6cd269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187953,
+            "locality_id":421184977,
+            "region_id":85679743
+        }
+    ],
+    "wof:id":421184977,
+    "wof:lastmodified":1505340690,
+    "wof:name":"Nyamuswa",
+    "wof:parent_id":421187953,
+    "wof:placetype":"locality",
+    "wof:population":16507,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.01667,
+    -1.9,
+    34.01667,
+    -1.9
+],
+  "geometry": {"coordinates":[34.01667,-1.9],"type":"Point"}
+}

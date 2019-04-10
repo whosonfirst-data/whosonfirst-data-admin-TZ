@@ -1,0 +1,61 @@
+{
+  "id": 1209079993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.56667,-10.51667,34.56667,-10.51667",
+    "geom:latitude":-10.51667,
+    "geom:longitude":34.56667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kutunga",
+    "gn:country_code":"TZ",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":878342,
+    "gn:latitude":-10.51667,
+    "gn:longitude":34.56667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kutunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878342
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"3a67f465c4722e174b55aa9efaa7c818",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209079993
+        }
+    ],
+    "wof:id":1209079993,
+    "wof:lastmodified":1536298370,
+    "wof:name":"Kutunga",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.56667,
+    -10.51667,
+    34.56667,
+    -10.51667
+],
+  "geometry": {"coordinates":[34.56667,-10.51667],"type":"Point"}
+}

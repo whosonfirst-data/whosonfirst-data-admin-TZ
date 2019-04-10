@@ -1,0 +1,63 @@
+{
+  "id": 1209373333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.33333,-5.96667,39.33333,-5.96667",
+    "geom:latitude":-5.96667,
+    "geom:longitude":39.33333,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"5102",
+    "gn:admin3_code":"5102181",
+    "gn:asciiname":"Jengandege",
+    "gn:country_code":"TZ",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158771,
+    "gn:latitude":-5.96667,
+    "gn:longitude":39.33333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Jengandege",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158771
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"8d45f3450012f990499c282321afb59f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209373333
+        }
+    ],
+    "wof:id":1209373333,
+    "wof:lastmodified":1536289034,
+    "wof:name":"Jengandege",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.33333,
+    -5.96667,
+    39.33333,
+    -5.96667
+],
+  "geometry": {"coordinates":[39.33333,-5.96667],"type":"Point"}
+}

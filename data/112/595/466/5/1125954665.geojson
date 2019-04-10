@@ -1,0 +1,91 @@
+{
+  "id": 1125954665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.68333,-2.73333,36.68333,-2.73333",
+    "geom:latitude":-2.73333,
+    "geom:longitude":36.68333,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":9403,
+    "gn:population":9403,
+    "iso:country":"TZ",
+    "lbl:latitude":-2.73333,
+    "lbl:longitude":36.68333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Longido"
+    ],
+    "name:eng_x_preferred":[
+        "Longido"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03bf\u03bd\u03b3\u03ba\u03af\u03bd\u03c4\u03bf"
+    ],
+    "name:swa_x_preferred":[
+        "Longido"
+    ],
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":155848,
+    "qs_pg:gn_pop":9403,
+    "qs_pg:name":"Longido",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":68204,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679731,
+        1108692911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155848,
+        "qs_pg:id":68204,
+        "wd:id":"Q6673922"
+    },
+    "wof:country":"TZ",
+    "wof:created":1497297578,
+    "wof:geomhash":"0225db7ef9a722080e5c7048b7c4f712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692911,
+            "locality_id":1125954665,
+            "region_id":85679731
+        }
+    ],
+    "wof:id":1125954665,
+    "wof:lastmodified":1514508597,
+    "wof:name":"Longido",
+    "wof:parent_id":1108692911,
+    "wof:placetype":"locality",
+    "wof:population":9403,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.68333,
+    -2.73333,
+    36.68333,
+    -2.73333
+],
+  "geometry": {"coordinates":[36.68333,-2.73333],"type":"Point"}
+}

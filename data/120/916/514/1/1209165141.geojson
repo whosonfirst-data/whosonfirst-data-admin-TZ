@@ -1,0 +1,66 @@
+{
+  "id": 1209165141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.38995,-6.47004,31.38995,-6.47004",
+    "geom:latitude":-6.47004,
+    "geom:longitude":31.38995,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"2303",
+    "gn:admin3_code":"2303111",
+    "gn:asciiname":"Utendesia",
+    "gn:country_code":"TZ",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149075,
+    "gn:latitude":-6.47004,
+    "gn:longitude":31.38995,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Utendesia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Utendesia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149075
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"c0f2b40a88f1dff4a11fef4d73da1ad5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209165141
+        }
+    ],
+    "wof:id":1209165141,
+    "wof:lastmodified":1537709990,
+    "wof:name":"Utendesia",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.38995,
+    -6.47004,
+    31.38995,
+    -6.47004
+],
+  "geometry": {"coordinates":[31.38995,-6.47004],"type":"Point"}
+}

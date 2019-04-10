@@ -1,0 +1,72 @@
+{
+  "id": 1259572267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.28333,-7.0,38.28333,-7.0",
+    "geom:latitude":-7.0,
+    "geom:longitude":38.28333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0502",
+    "gn:admin3_code":"0502121",
+    "gn:asciiname":"Kwaba",
+    "gn:country_code":"TZ",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156350,
+    "gn:latitude":-7.0,
+    "gn:longitude":38.28333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kwaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kwaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        421193165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156350
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"44c39853f69b4df6ac7fcbe0b4c45ab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421193165,
+            "locality_id":1259572267,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1259572267,
+    "wof:lastmodified":1537710031,
+    "wof:name":"Kwaba",
+    "wof:parent_id":421193165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.28333,
+    -7.0,
+    38.28333,
+    -7.0
+],
+  "geometry": {"coordinates":[38.28333,-7.0],"type":"Point"}
+}

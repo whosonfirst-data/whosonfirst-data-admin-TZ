@@ -1,0 +1,69 @@
+{
+  "id": 1259411397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.86667,-2.35,33.86667,-2.35",
+    "geom:latitude":-2.35,
+    "geom:longitude":33.86667,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2405",
+    "gn:admin3_code":"2405101",
+    "gn:asciiname":"Lutubigo",
+    "gn:country_code":"TZ",
+    "gn:dem":1313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155548,
+    "gn:latitude":-2.35,
+    "gn:longitude":33.86667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Lutubigo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679755,
+        1108693159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155548
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"dc2370fb25d55771e1a42ad939a4d07f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693159,
+            "locality_id":1259411397,
+            "region_id":85679755
+        }
+    ],
+    "wof:id":1259411397,
+    "wof:lastmodified":1536962350,
+    "wof:name":"Lutubigo",
+    "wof:parent_id":1108693159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.86667,
+    -2.35,
+    33.86667,
+    -2.35
+],
+  "geometry": {"coordinates":[33.86667,-2.35],"type":"Point"}
+}

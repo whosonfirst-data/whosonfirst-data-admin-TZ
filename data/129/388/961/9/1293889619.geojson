@@ -1,0 +1,75 @@
+{
+  "id": 1293889619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.22721,-7.42225,36.22721,-7.42225",
+    "geom:latitude":-7.42225,
+    "geom:longitude":36.22721,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1104",
+    "gn:admin3_code":"1104061",
+    "gn:asciiname":"Mwino",
+    "gn:country_code":"TZ",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148820,
+    "gn:latitude":-7.42225,
+    "gn:longitude":36.22721,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mwino",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mwino"
+    ],
+    "name:eng_x_variant":[
+        "Wino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679711,
+        1108693001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148820
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"83ec0710c35ad67a261390338d7e9187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693001,
+            "locality_id":1293889619,
+            "region_id":85679711
+        }
+    ],
+    "wof:id":1293889619,
+    "wof:lastmodified":1537709989,
+    "wof:name":"Mwino",
+    "wof:parent_id":1108693001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.22721,
+    -7.42225,
+    36.22721,
+    -7.42225
+],
+  "geometry": {"coordinates":[36.22721,-7.42225],"type":"Point"}
+}

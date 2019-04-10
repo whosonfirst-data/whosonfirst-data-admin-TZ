@@ -1,0 +1,66 @@
+{
+  "id": 1209518527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.34086,-7.28393,39.34086,-7.28393",
+    "geom:latitude":-7.28393,
+    "geom:longitude":39.34086,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0604",
+    "gn:admin3_code":"0604061",
+    "gn:asciiname":"Mpafu",
+    "gn:country_code":"TZ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153188,
+    "gn:latitude":-7.28393,
+    "gn:longitude":39.34086,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mpafu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mpafu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153188
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"f86e19b02fd5995aa1a2af96b4c88a79",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209518527
+        }
+    ],
+    "wof:id":1209518527,
+    "wof:lastmodified":1537710013,
+    "wof:name":"Mpafu",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.34086,
+    -7.28393,
+    39.34086,
+    -7.28393
+],
+  "geometry": {"coordinates":[39.34086,-7.28393],"type":"Point"}
+}

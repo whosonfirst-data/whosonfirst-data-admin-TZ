@@ -1,0 +1,73 @@
+{
+  "id": 1293495037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.15,-6.66667,36.15,-6.66667",
+    "geom:latitude":-6.66667,
+    "geom:longitude":36.15,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0102",
+    "gn:admin3_code":"0102131",
+    "gn:asciiname":"Igoje",
+    "gn:country_code":"TZ",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159424,
+    "gn:latitude":-6.66667,
+    "gn:longitude":36.15,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Igoje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Igoji",
+        "Igoje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679705,
+        1108692893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159424
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"a2810b21aec2d3872dd99feffd152ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692893,
+            "locality_id":1293495037,
+            "region_id":85679705
+        }
+    ],
+    "wof:id":1293495037,
+    "wof:lastmodified":1537710051,
+    "wof:name":"Igoje",
+    "wof:parent_id":1108692893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.15,
+    -6.66667,
+    36.15,
+    -6.66667
+],
+  "geometry": {"coordinates":[36.15,-6.66667],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 421194397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.95,-3.56667,36.95,-3.56667",
+    "geom:latitude":-3.56667,
+    "geom:longitude":36.95,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041c\u0431\u0443\u0433\u0443\u043d\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Mbuguni"
+    ],
+    "name:eng_x_preferred":[
+        "Mbuguni"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u0648\u06af\u0648\u0646\u06cc"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0645\u0628\u0648\u06af\u0648\u0646\u06cc"
+    ],
+    "name:swa_x_preferred":[
+        "Mbuguni"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":154321,
+    "qs:gn_pop":16442,
+    "qs:name":"Mbuguni",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Arusha",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1090008,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1446845,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679731,
+        1108692905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154321,
+        "gp:id":1446845,
+        "qs:id":1090008,
+        "wd:id":"Q6799799",
+        "wk:page":"Mbuguni"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009804,
+    "wof:geomhash":"8e9df9cc18f01318b8c26008e8a0b211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692905,
+            "locality_id":421194397,
+            "region_id":85679731
+        }
+    ],
+    "wof:id":421194397,
+    "wof:lastmodified":1527716128,
+    "wof:name":"Mbuguni",
+    "wof:parent_id":1108692905,
+    "wof:placetype":"locality",
+    "wof:population":16442,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.95,
+    -3.56667,
+    36.95,
+    -3.56667
+],
+  "geometry": {"coordinates":[36.95,-3.56667],"type":"Point"}
+}

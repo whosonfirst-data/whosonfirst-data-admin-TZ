@@ -1,0 +1,63 @@
+{
+  "id": 1209377485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.10389,-1.69139,31.10389,-1.69139",
+    "geom:latitude":-1.69139,
+    "geom:longitude":31.10389,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1801",
+    "gn:admin3_code":"1801203",
+    "gn:asciiname":"Lwandare",
+    "gn:country_code":"TZ",
+    "gn:dem":1620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389779,
+    "gn:latitude":-1.69139,
+    "gn:longitude":31.10389,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Lwandare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389779
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"2053ddf6e86ce5d3baa3af094ab3c778",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209377485
+        }
+    ],
+    "wof:id":1209377485,
+    "wof:lastmodified":1536288898,
+    "wof:name":"Lwandare",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.103890000000003,
+    -1.6913900000000002,
+    31.103890000000003,
+    -1.6913900000000002
+],
+  "geometry": {"coordinates":[31.10389,-1.69139],"type":"Point"}
+}

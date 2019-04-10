@@ -1,0 +1,64 @@
+{
+  "id": 1226400695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.36667,-6.85,39.36667,-6.85",
+    "geom:latitude":-6.85,
+    "geom:longitude":39.36667,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mjimwema",
+    "gn:country_code":"TZ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153682,
+    "gn:latitude":-6.85,
+    "gn:longitude":39.36667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mjimwema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153682,
+        "wk:page":"Mjimwema"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"f9d2e8a8716b2c79dfea27c557786bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226400695,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226400695,
+    "wof:lastmodified":1537574851,
+    "wof:name":"Mjimwema",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.36667,
+    -6.85,
+    39.36667,
+    -6.85
+],
+  "geometry": {"coordinates":[39.36667,-6.85],"type":"Point"}
+}

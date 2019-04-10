@@ -1,0 +1,63 @@
+{
+  "id": 1209437689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.16047,-4.48115,30.16047,-4.48115",
+    "geom:latitude":-4.48115,
+    "geom:longitude":30.16047,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1608",
+    "gn:admin3_code":"1608031",
+    "gn:asciiname":"Msambara",
+    "gn:country_code":"TZ",
+    "gn:dem":1268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11427447,
+    "gn:latitude":-4.48115,
+    "gn:longitude":30.16047,
+    "gn:modification_date":"2017-01-14",
+    "gn:name":"Msambara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11427447
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"af81d182fdd69c94513102584f48f97d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209437689
+        }
+    ],
+    "wof:id":1209437689,
+    "wof:lastmodified":1536287053,
+    "wof:name":"Msambara",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.16047,
+    -4.48115,
+    30.16047,
+    -4.48115
+],
+  "geometry": {"coordinates":[30.16047,-4.48115],"type":"Point"}
+}

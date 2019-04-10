@@ -1,0 +1,63 @@
+{
+  "id": 1209190721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.76667,-4.98333,39.76667,-4.98333",
+    "geom:latitude":-4.98333,
+    "geom:longitude":39.76667,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"5402",
+    "gn:admin3_code":"5402061",
+    "gn:asciiname":"Jondoli",
+    "gn:country_code":"TZ",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158730,
+    "gn:latitude":-4.98333,
+    "gn:longitude":39.76667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Jondoli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158730
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"e641bd33134db911fa5f7665936113d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209190721
+        }
+    ],
+    "wof:id":1209190721,
+    "wof:lastmodified":1536294944,
+    "wof:name":"Jondoli",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.76667,
+    -4.9833300000000005,
+    39.76667,
+    -4.9833300000000005
+],
+  "geometry": {"coordinates":[39.76667,-4.98333],"type":"Point"}
+}

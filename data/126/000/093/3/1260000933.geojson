@@ -1,0 +1,73 @@
+{
+  "id": 1260000933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.51667,-10.4,39.51667,-10.4",
+    "geom:latitude":-10.4,
+    "geom:longitude":39.51667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0802",
+    "gn:admin3_code":"0802161",
+    "gn:asciiname":"Nahukanhuka",
+    "gn:country_code":"TZ",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877694,
+    "gn:latitude":-10.4,
+    "gn:longitude":39.51667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nahukanhuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nahukahuka",
+        "Nahukanhuka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679713,
+        1108692957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877694
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"6a1d9c5d77dabe44007407e6717e666b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692957,
+            "locality_id":1260000933,
+            "region_id":85679713
+        }
+    ],
+    "wof:id":1260000933,
+    "wof:lastmodified":1537710063,
+    "wof:name":"Nahukanhuka",
+    "wof:parent_id":1108692957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.51667,
+    -10.4,
+    39.51667,
+    -10.4
+],
+  "geometry": {"coordinates":[39.51667,-10.4],"type":"Point"}
+}

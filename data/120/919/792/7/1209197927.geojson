@@ -1,0 +1,63 @@
+{
+  "id": 1209197927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.11667,-10.28333,36.11667,-10.28333",
+    "geom:latitude":-10.28333,
+    "geom:longitude":36.11667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1005",
+    "gn:admin3_code":"1005121",
+    "gn:asciiname":"Mindo",
+    "gn:country_code":"TZ",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877929,
+    "gn:latitude":-10.28333,
+    "gn:longitude":36.11667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mindo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877929
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"76aa1c6472e444ba4892aecd42012592",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209197927
+        }
+    ],
+    "wof:id":1209197927,
+    "wof:lastmodified":1536294709,
+    "wof:name":"Mindo",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.11667,
+    -10.28333,
+    36.11667,
+    -10.28333
+],
+  "geometry": {"coordinates":[36.11667,-10.28333],"type":"Point"}
+}

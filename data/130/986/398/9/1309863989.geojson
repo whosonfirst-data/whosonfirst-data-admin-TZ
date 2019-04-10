@@ -1,0 +1,69 @@
+{
+  "id": 1309863989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.32668,-6.82869,39.32668,-6.82869",
+    "geom:latitude":-6.82869,
+    "geom:longitude":39.32668,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"0703",
+    "gn:admin3_code":"0703252",
+    "gn:asciiname":"Tuamoyo",
+    "gn:country_code":"TZ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258185,
+    "gn:latitude":-6.82869,
+    "gn:longitude":39.32668,
+    "gn:modification_date":"2016-09-28",
+    "gn:name":"Tuamoyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679675,
+        421198913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258185
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"819dcda43b9b9efceb164ecab7aa5cd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421198913,
+            "locality_id":1309863989,
+            "region_id":85679675
+        }
+    ],
+    "wof:id":1309863989,
+    "wof:lastmodified":1536846304,
+    "wof:name":"Tuamoyo",
+    "wof:parent_id":421198913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.32668,
+    -6.82869,
+    39.32668,
+    -6.82869
+],
+  "geometry": {"coordinates":[39.32668,-6.82869],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 421187159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.801,-3.305,36.801,-3.305",
+    "geom:latitude":-3.305,
+    "geom:longitude":36.801,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Aru Meru"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"ADM2",
+    "qs:gn_id":161327,
+    "qs:gn_pop":500000,
+    "qs:name":"Arumeru",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Arusha",
+    "qs:photos":1449,
+    "qs:photos_1k":294,
+    "qs:photos_9k":7,
+    "qs:photos_9r":8,
+    "qs:photos_all":1687,
+    "qs:photos_sr":12,
+    "qs:placetype":"County",
+    "qs:pop_sr":"10",
+    "qs:qs_id":1081971,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":56025086,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161327,
+        "gp:id":56025086,
+        "qs:id":1081971,
+        "wd:id":"Q1111188",
+        "wk:page":"Arumeru District"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009503,
+    "wof:geomhash":"80af17d38f0cd3b6bac2ce07eb504827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187159,
+            "region_id":85679731
+        }
+    ],
+    "wof:id":421187159,
+    "wof:lastmodified":1505340697,
+    "wof:name":"Arumeru",
+    "wof:parent_id":85679731,
+    "wof:placetype":"county",
+    "wof:population":500000,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.801,
+    -3.305,
+    36.801,
+    -3.305
+],
+  "geometry": {"coordinates":[36.801,-3.305],"type":"Point"}
+}

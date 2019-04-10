@@ -1,0 +1,69 @@
+{
+  "id": 1293746195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.94528,-1.23889,30.94528,-1.23889",
+    "geom:latitude":-1.23889,
+    "geom:longitude":30.94528,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1808",
+    "gn:admin3_code":"1808081",
+    "gn:asciiname":"Mabira",
+    "gn:country_code":"TZ",
+    "gn:dem":1406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155500,
+    "gn:latitude":-1.23889,
+    "gn:longitude":30.94528,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mabira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155500
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"ddb859b435574ac0f48ffe0ad715f0cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693101,
+            "locality_id":1293746195,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1293746195,
+    "wof:lastmodified":1536911745,
+    "wof:name":"Mabira",
+    "wof:parent_id":1108693101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.94528,
+    -1.23889,
+    30.94528,
+    -1.23889
+],
+  "geometry": {"coordinates":[30.94528,-1.23889],"type":"Point"}
+}

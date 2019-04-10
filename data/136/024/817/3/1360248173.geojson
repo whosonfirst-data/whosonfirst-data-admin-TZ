@@ -1,0 +1,69 @@
+{
+  "id": 1360248173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.45623,-4.9013,38.45623,-4.9013",
+    "geom:latitude":-4.9013,
+    "geom:longitude":38.45623,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0401",
+    "gn:admin3_code":"0401121",
+    "gn:asciiname":"Funta",
+    "gn:country_code":"TZ",
+    "gn:dem":1273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11428101,
+    "gn:latitude":-4.9013,
+    "gn:longitude":38.45623,
+    "gn:modification_date":"2017-01-19",
+    "gn:name":"Funta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679747,
+        421175229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11428101
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"29b2eaacdea1969cce3be8dbb89d7e62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421175229,
+            "locality_id":1360248173,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":1360248173,
+    "wof:lastmodified":1536710789,
+    "wof:name":"Funta",
+    "wof:parent_id":421175229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.45623,
+    -4.9013,
+    38.45623,
+    -4.9013
+],
+  "geometry": {"coordinates":[38.45623,-4.9013],"type":"Point"}
+}

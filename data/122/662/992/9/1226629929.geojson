@@ -1,0 +1,72 @@
+{
+  "id": 1226629929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.86573,-7.20742,37.86573,-7.20742",
+    "geom:latitude":-7.20742,
+    "geom:longitude":37.86573,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0502",
+    "gn:admin3_code":"0502031",
+    "gn:asciiname":"Ngagama",
+    "gn:country_code":"TZ",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7390596,
+    "gn:latitude":-7.20742,
+    "gn:longitude":37.86573,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ngagama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ngagama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        421193165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7390596
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"2248557848ca220c7eddefafee3f62e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421193165,
+            "locality_id":1226629929,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1226629929,
+    "wof:lastmodified":1537710070,
+    "wof:name":"Ngagama",
+    "wof:parent_id":421193165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.86573,
+    -7.20742,
+    37.86573,
+    -7.20742
+],
+  "geometry": {"coordinates":[37.86573,-7.20742],"type":"Point"}
+}

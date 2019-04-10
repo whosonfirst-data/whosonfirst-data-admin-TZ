@@ -1,0 +1,63 @@
+{
+  "id": 1209615555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91667,-8.13333,35.91667,-8.13333",
+    "geom:latitude":-8.13333,
+    "geom:longitude":35.91667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1104",
+    "gn:admin3_code":"1104081",
+    "gn:asciiname":"Malambo",
+    "gn:country_code":"TZ",
+    "gn:dem":1904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155059,
+    "gn:latitude":-8.13333,
+    "gn:longitude":35.91667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Malambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155059
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"0db908a29b98b35c709f8179dd6a1e43",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209615555
+        }
+    ],
+    "wof:id":1209615555,
+    "wof:lastmodified":1536281700,
+    "wof:name":"Malambo",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91667,
+    -8.13333,
+    35.91667,
+    -8.13333
+],
+  "geometry": {"coordinates":[35.91667,-8.13333],"type":"Point"}
+}

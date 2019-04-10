@@ -1,0 +1,61 @@
+{
+  "id": 1310067437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.73333,-5.2,39.73333,-5.2",
+    "geom:latitude":-5.2,
+    "geom:longitude":39.73333,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kiuli",
+    "gn:country_code":"TZ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156720,
+    "gn:latitude":-5.2,
+    "gn:longitude":39.73333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kiuli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156720
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"cdbf61f659410bdecf8f9eab8fbeabc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310067437,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310067437,
+    "wof:lastmodified":1537049485,
+    "wof:name":"Kiuli",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.73333,
+    -5.2,
+    39.73333,
+    -5.2
+],
+  "geometry": {"coordinates":[39.73333,-5.2],"type":"Point"}
+}

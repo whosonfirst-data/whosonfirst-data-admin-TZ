@@ -1,0 +1,74 @@
+{
+  "id": 1292959347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.28333,-5.85,39.28333,-5.85",
+    "geom:latitude":-5.85,
+    "geom:longitude":39.28333,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"5101",
+    "gn:admin3_code":"5101111",
+    "gn:asciiname":"Potoa",
+    "gn:country_code":"TZ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150654,
+    "gn:latitude":-5.85,
+    "gn:longitude":39.28333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Potoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Potea",
+        "Potowa",
+        "Potoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679695,
+        890451535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150654
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"0caa7e5baabf7b722af30e9d6024103a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":890451535,
+            "locality_id":1292959347,
+            "region_id":85679695
+        }
+    ],
+    "wof:id":1292959347,
+    "wof:lastmodified":1537709998,
+    "wof:name":"Potoa",
+    "wof:parent_id":890451535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.28333,
+    -5.85,
+    39.28333,
+    -5.85
+],
+  "geometry": {"coordinates":[39.28333,-5.85],"type":"Point"}
+}

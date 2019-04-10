@@ -1,0 +1,69 @@
+{
+  "id": 1343648627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1,-2.98333,33.1,-2.98333",
+    "geom:latitude":-2.98333,
+    "geom:longitude":33.1,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1907",
+    "gn:admin3_code":"1907103",
+    "gn:asciiname":"Pambani",
+    "gn:country_code":"TZ",
+    "gn:dem":1144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150829,
+    "gn:latitude":-2.98333,
+    "gn:longitude":33.1,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Pambani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679655,
+        1108693115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150829
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"ad3ca6e8496f385d534ba09edd9d5e5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693115,
+            "locality_id":1343648627,
+            "region_id":85679655
+        }
+    ],
+    "wof:id":1343648627,
+    "wof:lastmodified":1536971740,
+    "wof:name":"Pambani",
+    "wof:parent_id":1108693115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1,
+    -2.98333,
+    33.1,
+    -2.98333
+],
+  "geometry": {"coordinates":[33.1,-2.98333],"type":"Point"}
+}

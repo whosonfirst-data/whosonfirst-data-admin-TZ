@@ -1,0 +1,69 @@
+{
+  "id": 1226806585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.22085,-6.22008,39.22085,-6.22008",
+    "geom:latitude":-6.22008,
+    "geom:longitude":39.22085,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"5301",
+    "gn:admin3_code":"5301163",
+    "gn:asciiname":"Kisauni",
+    "gn:country_code":"TZ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156987,
+    "gn:latitude":-6.22008,
+    "gn:longitude":39.22085,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kisauni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679699,
+        421202045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156987
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"bf92da4283aba747c2d3de5c0d72b530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421202045,
+            "locality_id":1226806585,
+            "region_id":85679699
+        }
+    ],
+    "wof:id":1226806585,
+    "wof:lastmodified":1536626240,
+    "wof:name":"Kisauni",
+    "wof:parent_id":421202045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.22085,
+    -6.22008,
+    39.22085,
+    -6.22008
+],
+  "geometry": {"coordinates":[39.22085,-6.22008],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209063167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.46783,-3.38005,35.46783,-3.38005",
+    "geom:latitude":-3.38005,
+    "geom:longitude":35.46783,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"0204",
+    "gn:admin3_code":"0204081",
+    "gn:asciiname":"Kambi ya Nzige",
+    "gn:country_code":"TZ",
+    "gn:dem":1842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8551657,
+    "gn:latitude":-3.38005,
+    "gn:longitude":35.46783,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kambi ya Nzige",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8551657
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"c467c0937aaa848f32916cb3fc65a2d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209063167
+        }
+    ],
+    "wof:id":1209063167,
+    "wof:lastmodified":1536298888,
+    "wof:name":"Kambi ya Nzige",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.46783,
+    -3.38005,
+    35.46783,
+    -3.38005
+],
+  "geometry": {"coordinates":[35.46783,-3.38005],"type":"Point"}
+}

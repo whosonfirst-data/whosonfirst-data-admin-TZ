@@ -1,0 +1,69 @@
+{
+  "id": 1293294731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.29283,-6.33284,35.29283,-6.33284",
+    "geom:latitude":-6.33284,
+    "geom:longitude":35.29283,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0106",
+    "gn:admin3_code":"0106141",
+    "gn:asciiname":"Chikopelo",
+    "gn:country_code":"TZ",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258463,
+    "gn:latitude":-6.33284,
+    "gn:longitude":35.29283,
+    "gn:modification_date":"2016-10-01",
+    "gn:name":"Chikopelo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679705,
+        1108692899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258463
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"159c719f5cfad5673c5935f66427c381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692899,
+            "locality_id":1293294731,
+            "region_id":85679705
+        }
+    ],
+    "wof:id":1293294731,
+    "wof:lastmodified":1537062132,
+    "wof:name":"Chikopelo",
+    "wof:parent_id":1108692899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.29283,
+    -6.33284,
+    35.29283,
+    -6.33284
+],
+  "geometry": {"coordinates":[35.29283,-6.33284],"type":"Point"}
+}

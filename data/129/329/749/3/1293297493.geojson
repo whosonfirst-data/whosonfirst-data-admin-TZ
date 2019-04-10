@@ -1,0 +1,72 @@
+{
+  "id": 1293297493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.61083,-5.20306,30.61083,-5.20306",
+    "geom:latitude":-5.20306,
+    "geom:longitude":30.61083,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ugolole",
+    "gn:cc2":"TZ",
+    "gn:country_code":"TZ",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149324,
+    "gn:latitude":-5.20306,
+    "gn:longitude":30.61083,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ugolole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ugoble",
+        "Ugolole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679751,
+        1108693149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149324
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"13e037eb7d0376100bc0f2d7d318440c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693149,
+            "locality_id":1293297493,
+            "region_id":85679751
+        }
+    ],
+    "wof:id":1293297493,
+    "wof:lastmodified":1537709992,
+    "wof:name":"Ugolole",
+    "wof:parent_id":1108693149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.61083,
+    -5.20306,
+    30.61083,
+    -5.20306
+],
+  "geometry": {"coordinates":[30.61083,-5.20306],"type":"Point"}
+}

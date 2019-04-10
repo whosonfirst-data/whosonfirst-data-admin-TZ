@@ -1,0 +1,73 @@
+{
+  "id": 1226536727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.16667,-10.3,38.16667,-10.3",
+    "geom:latitude":-10.3,
+    "geom:longitude":38.16667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0803",
+    "gn:admin3_code":"0803111",
+    "gn:asciiname":"Nakaronji",
+    "gn:country_code":"TZ",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877686,
+    "gn:latitude":-10.3,
+    "gn:longitude":38.16667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nakaronji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nakalonji",
+        "Nakaronji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679713,
+        1108692959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877686
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"ee4e69a947e9d4590b187db39ae71f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692959,
+            "locality_id":1226536727,
+            "region_id":85679713
+        }
+    ],
+    "wof:id":1226536727,
+    "wof:lastmodified":1537710063,
+    "wof:name":"Nakaronji",
+    "wof:parent_id":1108692959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.16667,
+    -10.3,
+    38.16667,
+    -10.3
+],
+  "geometry": {"coordinates":[38.16667,-10.3],"type":"Point"}
+}

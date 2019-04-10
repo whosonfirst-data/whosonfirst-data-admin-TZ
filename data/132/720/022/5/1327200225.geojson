@@ -1,0 +1,73 @@
+{
+  "id": 1327200225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.38333,-4.71667,38.38333,-4.71667",
+    "geom:latitude":-4.71667,
+    "geom:longitude":38.38333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0401",
+    "gn:admin3_code":"0401291",
+    "gn:asciiname":"Malibwi",
+    "gn:country_code":"TZ",
+    "gn:dem":1617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155026,
+    "gn:latitude":-4.71667,
+    "gn:longitude":38.38333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Malibwi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malibui",
+        "Malibwi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679747,
+        421175229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155026
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"3d9be28958a2fc5f1188cff885e797f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421175229,
+            "locality_id":1327200225,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":1327200225,
+    "wof:lastmodified":1537710024,
+    "wof:name":"Malibwi",
+    "wof:parent_id":421175229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.38333,
+    -4.71667,
+    38.38333,
+    -4.71667
+],
+  "geometry": {"coordinates":[38.38333,-4.71667],"type":"Point"}
+}

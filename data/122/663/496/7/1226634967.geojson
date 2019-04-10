@@ -1,0 +1,69 @@
+{
+  "id": 1226634967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.55,-7.45,37.55,-7.45",
+    "geom:latitude":-7.45,
+    "geom:longitude":37.55,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0502",
+    "gn:admin3_code":"0502081",
+    "gn:asciiname":"Zongomero",
+    "gn:country_code":"TZ",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148661,
+    "gn:latitude":-7.45,
+    "gn:longitude":37.55,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Zongomero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        421193165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148661
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"3bb80541c66af4b7a44f7cb919574cbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421193165,
+            "locality_id":1226634967,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1226634967,
+    "wof:lastmodified":1536874028,
+    "wof:name":"Zongomero",
+    "wof:parent_id":421193165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.55,
+    -7.45,
+    37.55,
+    -7.45
+],
+  "geometry": {"coordinates":[37.55,-7.45],"type":"Point"}
+}

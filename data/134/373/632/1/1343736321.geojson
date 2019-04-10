@@ -1,0 +1,74 @@
+{
+  "id": 1343736321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.51667,-6.15,39.51667,-6.15",
+    "geom:latitude":-6.15,
+    "geom:longitude":39.51667,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5201",
+    "gn:admin3_code":"5201361",
+    "gn:asciiname":"Pingwe",
+    "gn:country_code":"TZ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150702,
+    "gn:latitude":-6.15,
+    "gn:longitude":39.51667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Pingwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pingwi",
+        "Pingwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679651,
+        421191173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150702,
+        "wk:page":"Pingwe"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"7f77863b2fb8c2253512ab3329078105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421191173,
+            "locality_id":1343736321,
+            "region_id":85679651
+        }
+    ],
+    "wof:id":1343736321,
+    "wof:lastmodified":1537709999,
+    "wof:name":"Pingwe",
+    "wof:parent_id":421191173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.51667,
+    -6.15,
+    39.51667,
+    -6.15
+],
+  "geometry": {"coordinates":[39.51667,-6.15],"type":"Point"}
+}

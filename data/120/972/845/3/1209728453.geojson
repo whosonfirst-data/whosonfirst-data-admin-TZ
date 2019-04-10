@@ -1,0 +1,72 @@
+{
+  "id": 1209728453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.6849,-7.92591,39.6849,-7.92591",
+    "geom:latitude":-7.92591,
+    "geom:longitude":39.6849,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0606",
+    "gn:admin3_code":"0606061",
+    "gn:asciiname":"Kitemondo",
+    "gn:country_code":"TZ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7388086,
+    "gn:latitude":-7.92591,
+    "gn:longitude":39.6849,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kitemondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kitemondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        1108692951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7388086
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"bfcebcca4100b22c7a01600e258e6ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692951,
+            "locality_id":1209728453,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1209728453,
+    "wof:lastmodified":1537710067,
+    "wof:name":"Kitemondo",
+    "wof:parent_id":1108692951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.6849,
+    -7.92591,
+    39.6849,
+    -7.92591
+],
+  "geometry": {"coordinates":[39.6849,-7.92591],"type":"Point"}
+}

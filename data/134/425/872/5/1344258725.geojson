@@ -1,0 +1,70 @@
+{
+  "id": 1344258725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.16667,-6.23333,36.16667,-6.23333",
+    "geom:latitude":-6.23333,
+    "geom:longitude":36.16667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0104",
+    "gn:admin3_code":"0104111",
+    "gn:asciiname":"Ikowa",
+    "gn:country_code":"TZ",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159279,
+    "gn:latitude":-6.23333,
+    "gn:longitude":36.16667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ikowa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679705,
+        1108692897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159279,
+        "wk:page":"Ikowa"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"e1e98d09d4205f9b57c391138be1ae76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692897,
+            "locality_id":1344258725,
+            "region_id":85679705
+        }
+    ],
+    "wof:id":1344258725,
+    "wof:lastmodified":1537574859,
+    "wof:name":"Ikowa",
+    "wof:parent_id":1108692897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.16667,
+    -6.23333,
+    36.16667,
+    -6.23333
+],
+  "geometry": {"coordinates":[36.16667,-6.23333],"type":"Point"}
+}

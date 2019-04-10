@@ -1,0 +1,111 @@
+{
+  "id": 421189387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.86667,-2.05,33.86667,-2.05",
+    "geom:latitude":-2.05,
+    "geom:longitude":33.86667,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Bunda"
+    ],
+    "name:dut_x_preferred":[
+        "Bunda Town"
+    ],
+    "name:eng_x_preferred":[
+        "Bunda Town"
+    ],
+    "name:epo_x_preferred":[
+        "Bunda-urbo"
+    ],
+    "name:fin_x_preferred":[
+        "Bunda"
+    ],
+    "name:fra_x_preferred":[
+        "Bunda"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03bf\u03cd\u03bd\u03c4\u03b1"
+    ],
+    "name:ita_x_preferred":[
+        "Bunda"
+    ],
+    "name:por_x_preferred":[
+        "Bunda"
+    ],
+    "name:swa_x_preferred":[
+        "Bunda"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":160892,
+    "qs:gn_pop":50944,
+    "qs:name":"Bunda",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Mara",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":44326,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1443037,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":55,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679743,
+        421187953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160892,
+        "gp:id":1443037,
+        "qs:id":44326,
+        "wd:id":"Q4997481"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009623,
+    "wof:geomhash":"3410cdc4fef4f7700185e44d6169a84b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187953,
+            "locality_id":421189387,
+            "region_id":85679743
+        }
+    ],
+    "wof:id":421189387,
+    "wof:lastmodified":1527716272,
+    "wof:name":"Bunda",
+    "wof:parent_id":421187953,
+    "wof:placetype":"locality",
+    "wof:population":50944,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.86667,
+    -2.05,
+    33.86667,
+    -2.05
+],
+  "geometry": {"coordinates":[33.86667,-2.05],"type":"Point"}
+}

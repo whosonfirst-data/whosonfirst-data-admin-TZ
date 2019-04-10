@@ -1,0 +1,79 @@
+{
+  "id": 421171041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"37.459,-3.362,37.459,-3.362",
+    "geom:latitude":-3.362,
+    "geom:longitude":37.459,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Moshi"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"ADM2",
+    "qs:gn_id":7840035,
+    "qs:gn_pop":0,
+    "qs:name":"Moshi Rural",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Kilimanjaro",
+    "qs:photos":902,
+    "qs:photos_1k":183,
+    "qs:photos_9k":12,
+    "qs:photos_9r":10,
+    "qs:photos_all":2700,
+    "qs:photos_sr":10,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1205998,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":56025164,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7840035,
+        "gp:id":56025164,
+        "qs:id":1205998,
+        "wd:id":"Q3324799",
+        "wk:page":"Moshi Rural District"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459008879,
+    "wof:geomhash":"7df5d0d4cae9e4de12dd0fcabba1caf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421171041,
+            "region_id":85679737
+        }
+    ],
+    "wof:id":421171041,
+    "wof:lastmodified":1501273341,
+    "wof:name":"Moshi Rural",
+    "wof:parent_id":85679737,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.459,
+    -3.362,
+    37.459,
+    -3.362
+],
+  "geometry": {"coordinates":[37.459,-3.362],"type":"Point"}
+}

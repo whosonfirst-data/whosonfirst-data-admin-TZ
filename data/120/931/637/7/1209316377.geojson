@@ -1,0 +1,64 @@
+{
+  "id": 1209316377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.28333,-6.5,36.28333,-6.5",
+    "geom:latitude":-6.5,
+    "geom:longitude":36.28333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0102",
+    "gn:admin3_code":"0102141",
+    "gn:asciiname":"Berege",
+    "gn:country_code":"TZ",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161170,
+    "gn:latitude":-6.5,
+    "gn:longitude":36.28333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Berege",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161170,
+        "wk:page":"Berege"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"bd53f0885e0d4b9d735654da1869dd76",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209316377
+        }
+    ],
+    "wof:id":1209316377,
+    "wof:lastmodified":1537574863,
+    "wof:name":"Berege",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.28333,
+    -6.5,
+    36.28333,
+    -6.5
+],
+  "geometry": {"coordinates":[36.28333,-6.5],"type":"Point"}
+}

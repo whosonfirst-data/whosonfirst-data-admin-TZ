@@ -1,0 +1,100 @@
+{
+  "id": 890435625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.83333,-8.85,34.83333,-8.85",
+    "geom:latitude":-8.85,
+    "geom:longitude":34.83333,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
+    "gn:pop":53003,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043a\u0443\u043c\u0431\u0430\u043a\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Makambako"
+    ],
+    "name:eng_x_preferred":[
+        "Makambako"
+    ],
+    "name:fin_x_preferred":[
+        "Makambako"
+    ],
+    "name:fre_x_preferred":[
+        "Makambako"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03b1\u03ba\u03b1\u03bc\u03c0\u03ac\u03ba\u03bf"
+    ],
+    "name:nob_x_preferred":[
+        "Makambako"
+    ],
+    "name:pol_x_preferred":[
+        "Makambako"
+    ],
+    "name:rum_x_preferred":[
+        "Makambako"
+    ],
+    "name:swa_x_preferred":[
+        "Makambako"
+    ],
+    "name:unk_x_variant":[
+        "Makambako"
+    ],
+    "qs:name":"Makumbako",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679765,
+        1108693145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155101,
+        "gp:id":1446359,
+        "qs:id":523049,
+        "wd:id":"Q6272925"
+    },
+    "wof:country":"TZ",
+    "wof:created":1469052075,
+    "wof:geomhash":"0d56a169a41cfce00569ec69b840ec64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693145,
+            "locality_id":890435625,
+            "region_id":85679765
+        }
+    ],
+    "wof:id":890435625,
+    "wof:lastmodified":1514508599,
+    "wof:name":"Makumbako",
+    "wof:parent_id":1108693145,
+    "wof:placetype":"locality",
+    "wof:population":53003,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.83333,
+    -8.85,
+    34.83333,
+    -8.85
+],
+  "geometry": {"coordinates":[34.83333,-8.85],"type":"Point"}
+}

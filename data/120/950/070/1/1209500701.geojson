@@ -1,0 +1,63 @@
+{
+  "id": 1209500701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.51667,-1.83333,33.51667,-1.83333",
+    "geom:latitude":-1.83333,
+    "geom:longitude":33.51667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"2003",
+    "gn:admin3_code":"2003081",
+    "gn:asciiname":"Mrangi",
+    "gn:country_code":"TZ",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153090,
+    "gn:latitude":-1.83333,
+    "gn:longitude":33.51667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mrangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153090
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"a42624a2fd299da9443b637f4fca42c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209500701
+        }
+    ],
+    "wof:id":1209500701,
+    "wof:lastmodified":1536285193,
+    "wof:name":"Mrangi",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.51667,
+    -1.83333,
+    33.51667,
+    -1.83333
+],
+  "geometry": {"coordinates":[33.51667,-1.83333],"type":"Point"}
+}

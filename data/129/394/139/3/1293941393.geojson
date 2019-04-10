@@ -1,0 +1,73 @@
+{
+  "id": 1293941393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.51667,-8.66667,31.51667,-8.66667",
+    "geom:latitude":-8.66667,
+    "geom:longitude":31.51667,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1501",
+    "gn:admin3_code":"1501141",
+    "gn:asciiname":"Kankokwa",
+    "gn:country_code":"TZ",
+    "gn:dem":1664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158397,
+    "gn:latitude":-8.66667,
+    "gn:longitude":31.51667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kankokwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kankowa",
+        "Kankokwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679645,
+        1108693049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158397
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"95abfa8c773ace873078a5ad7002aff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693049,
+            "locality_id":1293941393,
+            "region_id":85679645
+        }
+    ],
+    "wof:id":1293941393,
+    "wof:lastmodified":1537710044,
+    "wof:name":"Kankokwa",
+    "wof:parent_id":1108693049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.51667,
+    -8.66667,
+    31.51667,
+    -8.66667
+],
+  "geometry": {"coordinates":[31.51667,-8.66667],"type":"Point"}
+}

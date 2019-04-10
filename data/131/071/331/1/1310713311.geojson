@@ -1,0 +1,74 @@
+{
+  "id": 1310713311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.83333,-4.73333,35.83333,-4.73333",
+    "geom:latitude":-4.73333,
+    "geom:longitude":35.83333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0101",
+    "gn:admin3_code":"0101241",
+    "gn:asciiname":"Kolo",
+    "gn:country_code":"TZ",
+    "gn:dem":1505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156557,
+    "gn:latitude":-4.73333,
+    "gn:longitude":35.83333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kola",
+        "Kolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679705,
+        1108692889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156557,
+        "wk:page":"Kolo_%28Tanzanian_ward%29"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"7320780f6d14cbe025ad0ee8a97d8780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692889,
+            "locality_id":1310713311,
+            "region_id":85679705
+        }
+    ],
+    "wof:id":1310713311,
+    "wof:lastmodified":1537710032,
+    "wof:name":"Kolo",
+    "wof:parent_id":1108692889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.83333,
+    -4.73333,
+    35.83333,
+    -4.73333
+],
+  "geometry": {"coordinates":[35.83333,-4.73333],"type":"Point"}
+}

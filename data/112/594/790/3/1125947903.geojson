@@ -1,0 +1,88 @@
+{
+  "id": 1125947903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.35,-4.6,34.35,-4.6",
+    "geom:latitude":-4.6,
+    "geom:longitude":34.35,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":13012,
+    "gn:population":13012,
+    "iso:country":"TZ",
+    "lbl:latitude":-4.6,
+    "lbl:longitude":34.35,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ndago"
+    ],
+    "name:eng_x_preferred":[
+        "Ndago"
+    ],
+    "name:swa_x_preferred":[
+        "Ndago"
+    ],
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":151872,
+    "qs_pg:gn_pop":13012,
+    "qs_pg:name":"Ndago",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":67705,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679727,
+        1108693023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151872,
+        "qs_pg:id":67705,
+        "wd:id":"Q6983666"
+    },
+    "wof:country":"TZ",
+    "wof:created":1497297351,
+    "wof:geomhash":"eee8ae77780249edab7f2651d1d2d99f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693023,
+            "locality_id":1125947903,
+            "region_id":85679727
+        }
+    ],
+    "wof:id":1125947903,
+    "wof:lastmodified":1514508775,
+    "wof:name":"Ndago",
+    "wof:parent_id":1108693023,
+    "wof:placetype":"locality",
+    "wof:population":13012,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.35,
+    -4.6,
+    34.35,
+    -4.6
+],
+  "geometry": {"coordinates":[34.35,-4.6],"type":"Point"}
+}

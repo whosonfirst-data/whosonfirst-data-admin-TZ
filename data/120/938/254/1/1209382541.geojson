@@ -1,0 +1,63 @@
+{
+  "id": 1209382541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.25,-6.21667,39.25,-6.21667",
+    "geom:latitude":-6.21667,
+    "geom:longitude":39.25,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"5301",
+    "gn:admin3_code":"5301273",
+    "gn:asciiname":"Kipungani Fuoni",
+    "gn:country_code":"TZ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":157119,
+    "gn:latitude":-6.21667,
+    "gn:longitude":39.25,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kipungani Fuoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":157119
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"9ecea02c544d6f9d77ae51aecaa63628",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209382541
+        }
+    ],
+    "wof:id":1209382541,
+    "wof:lastmodified":1536288733,
+    "wof:name":"Kipungani Fuoni",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.25,
+    -6.21667,
+    39.25,
+    -6.21667
+],
+  "geometry": {"coordinates":[39.25,-6.21667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193262143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.52529,-7.1165,37.52529,-7.1165",
+    "geom:latitude":-7.1165,
+    "geom:longitude":37.52529,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0506",
+    "gn:admin3_code":"0506111",
+    "gn:asciiname":"Sazima",
+    "gn:country_code":"TZ",
+    "gn:dem":1005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7390617,
+    "gn:latitude":-7.1165,
+    "gn:longitude":37.52529,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Sazima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sazima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        1108692941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7390617
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"919ee0ed1edc079604276428fb6966c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692941,
+            "locality_id":1193262143,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1193262143,
+    "wof:lastmodified":1537710070,
+    "wof:name":"Sazima",
+    "wof:parent_id":1108692941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.52529000000001,
+    -7.1165,
+    37.52529000000001,
+    -7.1165
+],
+  "geometry": {"coordinates":[37.52529000000001,-7.1165],"type":"Point"}
+}

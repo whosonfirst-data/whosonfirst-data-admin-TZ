@@ -1,0 +1,63 @@
+{
+  "id": 1209194585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.26667,-3.1,33.26667,-3.1",
+    "geom:latitude":-3.1,
+    "geom:longitude":33.26667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1904",
+    "gn:admin3_code":"1904171",
+    "gn:asciiname":"Runere",
+    "gn:country_code":"TZ",
+    "gn:dem":1176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150429,
+    "gn:latitude":-3.1,
+    "gn:longitude":33.26667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Runere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150429
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"033f1891bd216f031fe0b0e4cdbc426f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209194585
+        }
+    ],
+    "wof:id":1209194585,
+    "wof:lastmodified":1536294816,
+    "wof:name":"Runere",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.26667,
+    -3.1,
+    33.26667,
+    -3.1
+],
+  "geometry": {"coordinates":[33.26667,-3.1],"type":"Point"}
+}

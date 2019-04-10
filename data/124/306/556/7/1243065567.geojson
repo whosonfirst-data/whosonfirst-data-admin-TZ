@@ -1,0 +1,74 @@
+{
+  "id": 1243065567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.51667,-3.28333,37.51667,-3.28333",
+    "geom:latitude":-3.28333,
+    "geom:longitude":37.51667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"0304",
+    "gn:admin3_code":"0304051",
+    "gn:asciiname":"Marangu",
+    "gn:country_code":"TZ",
+    "gn:dem":1434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":154777,
+    "gn:latitude":-3.28333,
+    "gn:longitude":37.51667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Marangu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marang",
+        "Marangu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679737,
+        421171043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154777,
+        "wk:page":"Marangu"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"0559560679dbb04e56ab1f5448c38035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421171043,
+            "locality_id":1243065567,
+            "region_id":85679737
+        }
+    ],
+    "wof:id":1243065567,
+    "wof:lastmodified":1537710022,
+    "wof:name":"Marangu",
+    "wof:parent_id":421171043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.51667,
+    -3.28333,
+    37.51667,
+    -3.28333
+],
+  "geometry": {"coordinates":[37.51667,-3.28333],"type":"Point"}
+}

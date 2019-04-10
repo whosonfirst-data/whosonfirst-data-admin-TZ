@@ -1,0 +1,73 @@
+{
+  "id": 1225898659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.68333,-4.55,37.68333,-4.55",
+    "geom:latitude":-4.55,
+    "geom:longitude":37.68333,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"2104",
+    "gn:admin3_code":"2104121",
+    "gn:asciiname":"Remiti",
+    "gn:country_code":"TZ",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150577,
+    "gn:latitude":-4.55,
+    "gn:longitude":37.68333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Remiti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ruvu Remiti",
+        "Remiti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679733,
+        421178387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150577
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"1f5bba29b739b056c8d2a3c4ca34a604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421178387,
+            "locality_id":1225898659,
+            "region_id":85679733
+        }
+    ],
+    "wof:id":1225898659,
+    "wof:lastmodified":1537709998,
+    "wof:name":"Remiti",
+    "wof:parent_id":421178387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.68333,
+    -4.55,
+    37.68333,
+    -4.55
+],
+  "geometry": {"coordinates":[37.68333,-4.55],"type":"Point"}
+}

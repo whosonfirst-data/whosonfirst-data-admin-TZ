@@ -1,0 +1,63 @@
+{
+  "id": 1209405559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.65,-1.73333,33.65,-1.73333",
+    "geom:latitude":-1.73333,
+    "geom:longitude":33.65,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"2003",
+    "gn:admin3_code":"2003131",
+    "gn:asciiname":"Suguti",
+    "gn:country_code":"TZ",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149723,
+    "gn:latitude":-1.73333,
+    "gn:longitude":33.65,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Suguti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149723
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"61d37bfd7964baf9c2e285c75201aeda",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209405559
+        }
+    ],
+    "wof:id":1209405559,
+    "wof:lastmodified":1536288007,
+    "wof:name":"Suguti",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.65,
+    -1.73333,
+    33.65,
+    -1.73333
+],
+  "geometry": {"coordinates":[33.65,-1.73333],"type":"Point"}
+}

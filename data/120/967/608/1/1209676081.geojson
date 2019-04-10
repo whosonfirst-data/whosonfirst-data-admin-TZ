@@ -1,0 +1,63 @@
+{
+  "id": 1209676081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.88333,-9.45,34.88333,-9.45",
+    "geom:latitude":-9.45,
+    "geom:longitude":34.88333,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"2201",
+    "gn:admin3_code":"2201041",
+    "gn:asciiname":"Igominyi",
+    "gn:country_code":"TZ",
+    "gn:dem":1868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159411,
+    "gn:latitude":-9.45,
+    "gn:longitude":34.88333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Igominyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159411
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"af876bbd20c7b1ffc3be13d156ca467a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209676081
+        }
+    ],
+    "wof:id":1209676081,
+    "wof:lastmodified":1536279749,
+    "wof:name":"Igominyi",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.88333,
+    -9.45,
+    34.88333,
+    -9.45
+],
+  "geometry": {"coordinates":[34.88333,-9.45],"type":"Point"}
+}

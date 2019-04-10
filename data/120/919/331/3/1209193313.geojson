@@ -1,0 +1,63 @@
+{
+  "id": 1209193313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.81667,-10.45,35.81667,-10.45",
+    "geom:latitude":-10.45,
+    "geom:longitude":35.81667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1005",
+    "gn:admin3_code":"1005163",
+    "gn:asciiname":"Mtulanjiwa",
+    "gn:country_code":"TZ",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877752,
+    "gn:latitude":-10.45,
+    "gn:longitude":35.81667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mtulanjiwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877752
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"8cefa7309a4f4ac75bc0a75c35220b64",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209193313
+        }
+    ],
+    "wof:id":1209193313,
+    "wof:lastmodified":1536294858,
+    "wof:name":"Mtulanjiwa",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.81667,
+    -10.45,
+    35.81667,
+    -10.45
+],
+  "geometry": {"coordinates":[35.81667,-10.45],"type":"Point"}
+}

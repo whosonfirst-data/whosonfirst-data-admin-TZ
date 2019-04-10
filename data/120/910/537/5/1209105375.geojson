@@ -1,0 +1,63 @@
+{
+  "id": 1209105375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.01361,-4.8075,30.01361,-4.8075",
+    "geom:latitude":-4.8075,
+    "geom:longitude":30.01361,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1602",
+    "gn:admin3_code":"1602183",
+    "gn:asciiname":"Musosi",
+    "gn:country_code":"TZ",
+    "gn:dem":1285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387533,
+    "gn:latitude":-4.8075,
+    "gn:longitude":30.01361,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Musosi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387533
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"85097b1859642fc94b640f6384e1f35e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209105375
+        }
+    ],
+    "wof:id":1209105375,
+    "wof:lastmodified":1536297591,
+    "wof:name":"Musosi",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.01361,
+    -4.8075,
+    30.01361,
+    -4.8075
+],
+  "geometry": {"coordinates":[30.01361,-4.8075],"type":"Point"}
+}

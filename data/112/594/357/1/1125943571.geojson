@@ -1,0 +1,78 @@
+{
+  "id": 1125943571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.36667,-4.85,38.36667,-4.85",
+    "geom:latitude":-4.85,
+    "geom:longitude":38.36667,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":12402,
+    "gn:population":12402,
+    "iso:country":"TZ",
+    "lbl:latitude":-4.85,
+    "lbl:longitude":38.36667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":149768,
+    "qs_pg:gn_pop":12402,
+    "qs_pg:name":"Soni",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":67484,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679747,
+        421175229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149768,
+        "qs_pg:id":67484
+    },
+    "wof:country":"TZ",
+    "wof:created":1497297198,
+    "wof:geomhash":"8f70168d31599285eb329794522f5661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421175229,
+            "locality_id":1125943571,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":1125943571,
+    "wof:lastmodified":1509402226,
+    "wof:name":"Soni",
+    "wof:parent_id":421175229,
+    "wof:placetype":"locality",
+    "wof:population":12402,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.36667,
+    -4.85,
+    38.36667,
+    -4.85
+],
+  "geometry": {"coordinates":[38.36667,-4.85],"type":"Point"}
+}

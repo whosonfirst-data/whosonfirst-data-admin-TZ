@@ -1,0 +1,67 @@
+{
+  "id": 1209616889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91667,-5.23333,35.91667,-5.23333",
+    "geom:latitude":-5.23333,
+    "geom:longitude":35.91667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0107",
+    "gn:admin3_code":"0107131",
+    "gn:asciiname":"Chambalo",
+    "gn:country_code":"TZ",
+    "gn:dem":1301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160645,
+    "gn:latitude":-5.23333,
+    "gn:longitude":35.91667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Chambalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chambala",
+        "Chambalo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160645
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"49a9af6e21ee2373c3ece7f8e33b505d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209616889
+        }
+    ],
+    "wof:id":1209616889,
+    "wof:lastmodified":1537710057,
+    "wof:name":"Chambalo",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91667,
+    -5.23333,
+    35.91667,
+    -5.23333
+],
+  "geometry": {"coordinates":[35.91667,-5.23333],"type":"Point"}
+}

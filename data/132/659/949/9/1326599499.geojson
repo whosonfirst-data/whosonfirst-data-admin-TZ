@@ -1,0 +1,69 @@
+{
+  "id": 1326599499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.1,-6.38333,35.1,-6.38333",
+    "geom:latitude":-6.38333,
+    "geom:longitude":35.1,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1303",
+    "gn:admin3_code":"1303151",
+    "gn:asciiname":"Ntumbi",
+    "gn:country_code":"TZ",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151336,
+    "gn:latitude":-6.38333,
+    "gn:longitude":35.1,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ntumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679727,
+        421186277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151336
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"440260a215be8d3edf1123c40aca9355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421186277,
+            "locality_id":1326599499,
+            "region_id":85679727
+        }
+    ],
+    "wof:id":1326599499,
+    "wof:lastmodified":1536886678,
+    "wof:name":"Ntumbi",
+    "wof:parent_id":421186277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1,
+    -6.38333,
+    35.1,
+    -6.38333
+],
+  "geometry": {"coordinates":[35.1,-6.38333],"type":"Point"}
+}

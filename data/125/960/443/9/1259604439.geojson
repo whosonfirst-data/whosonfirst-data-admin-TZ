@@ -1,0 +1,79 @@
+{
+  "id": 1259604439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.5131,-8.9251,39.5131,-8.9251",
+    "geom:latitude":-8.9251,
+    "geom:longitude":39.5131,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0801",
+    "gn:admin3_code":"0801202",
+    "gn:asciiname":"Kilwa Masoko",
+    "gn:country_code":"TZ",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":157377,
+    "gn:latitude":-8.9251,
+    "gn:longitude":39.5131,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kilwa Masoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kilwa Masoko"
+    ],
+    "name:eng_x_variant":[
+        "Masoko"
+    ],
+    "name:und_x_variant":[
+        "Masoko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679713,
+        421187961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":157377,
+        "wk:page":"Kilwa_Masoko"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"c65e8ababb57527224b3c2ca42a2bb05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187961,
+            "locality_id":1259604439,
+            "region_id":85679713
+        }
+    ],
+    "wof:id":1259604439,
+    "wof:lastmodified":1537710037,
+    "wof:name":"Kilwa Masoko",
+    "wof:parent_id":421187961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.5131,
+    -8.9251,
+    39.5131,
+    -8.9251
+],
+  "geometry": {"coordinates":[39.5131,-8.9251],"type":"Point"}
+}

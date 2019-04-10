@@ -1,0 +1,69 @@
+{
+  "id": 1276431917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.43333,-2.03333,33.43333,-2.03333",
+    "geom:latitude":-2.03333,
+    "geom:longitude":33.43333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"2004",
+    "gn:admin3_code":"2004171",
+    "gn:asciiname":"Namuhura",
+    "gn:country_code":"TZ",
+    "gn:dem":1152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151949,
+    "gn:latitude":-2.03333,
+    "gn:longitude":33.43333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Namuhura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679743,
+        421187953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151949
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"23559cdc29e119cf8b889d4f73a4200b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187953,
+            "locality_id":1276431917,
+            "region_id":85679743
+        }
+    ],
+    "wof:id":1276431917,
+    "wof:lastmodified":1536646094,
+    "wof:name":"Namuhura",
+    "wof:parent_id":421187953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.43333,
+    -2.03333,
+    33.43333,
+    -2.03333
+],
+  "geometry": {"coordinates":[33.43333,-2.03333],"type":"Point"}
+}

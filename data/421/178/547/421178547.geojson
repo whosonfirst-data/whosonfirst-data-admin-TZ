@@ -1,0 +1,79 @@
+{
+  "id": 421178547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.9,-10.75,34.9,-10.75",
+    "geom:latitude":-10.75,
+    "geom:longitude":34.9,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":878041,
+    "qs:gn_pop":18830,
+    "qs:name":"Matiri",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Ruvuma",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":129834,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1446685,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679723,
+        1108692989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878041,
+        "gp:id":1446685,
+        "qs:id":129834
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009185,
+    "wof:geomhash":"5320c4e1b7c22847b49f7f1e1eec81f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692989,
+            "locality_id":421178547,
+            "region_id":85679723
+        }
+    ],
+    "wof:id":421178547,
+    "wof:lastmodified":1505340637,
+    "wof:name":"Matiri",
+    "wof:parent_id":1108692989,
+    "wof:placetype":"locality",
+    "wof:population":18830,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.9,
+    -10.75,
+    34.9,
+    -10.75
+],
+  "geometry": {"coordinates":[34.9,-10.75],"type":"Point"}
+}

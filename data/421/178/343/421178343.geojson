@@ -1,0 +1,88 @@
+{
+  "id": 421178343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.25,-6.8,39.25,-6.8",
+    "geom:latitude":-6.8,
+    "geom:longitude":39.25,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Magomeni"
+    ],
+    "name:swa_x_preferred":[
+        "Magomeni"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":155321,
+    "qs:gn_pop":19086,
+    "qs:name":"Magomeni",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Dar es Salaam",
+    "qs:photos":50,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":50,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"6",
+    "qs:qs_id":279464,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1446225,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        421202229,
+        85679675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155321,
+        "gp:id":1446225,
+        "qs:id":279464,
+        "wd:id":"Q3843397"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009178,
+    "wof:geomhash":"333bfbf55a8edc75101138970e5022dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421202229,
+            "locality_id":-1,
+            "neighbourhood_id":421178343,
+            "region_id":85679675
+        }
+    ],
+    "wof:id":421178343,
+    "wof:lastmodified":1531858450,
+    "wof:name":"Magomeni",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":19086,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.25,
+    -6.8,
+    39.25,
+    -6.8
+],
+  "geometry": {"coordinates":[39.25,-6.8],"type":"Point"}
+}

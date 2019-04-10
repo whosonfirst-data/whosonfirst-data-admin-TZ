@@ -1,0 +1,69 @@
+{
+  "id": 1310291375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.73333,-5.03333,39.73333,-5.03333",
+    "geom:latitude":-5.03333,
+    "geom:longitude":39.73333,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"5402",
+    "gn:admin3_code":"5402201",
+    "gn:asciiname":"Taif",
+    "gn:country_code":"TZ",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149649,
+    "gn:latitude":-5.03333,
+    "gn:longitude":39.73333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Taif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679683,
+        421198067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149649
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"accdd0aaab80834affd3f5c85cf6abfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421198067,
+            "locality_id":1310291375,
+            "region_id":85679683
+        }
+    ],
+    "wof:id":1310291375,
+    "wof:lastmodified":1536728711,
+    "wof:name":"Taif",
+    "wof:parent_id":421198067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.73333,
+    -5.03333,
+    39.73333,
+    -5.03333
+],
+  "geometry": {"coordinates":[39.73333,-5.03333],"type":"Point"}
+}

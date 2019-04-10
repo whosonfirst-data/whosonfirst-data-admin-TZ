@@ -1,0 +1,63 @@
+{
+  "id": 1209489791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.78333,-5.18333,39.78333,-5.18333",
+    "geom:latitude":-5.18333,
+    "geom:longitude":39.78333,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"5501",
+    "gn:admin3_code":"5501041",
+    "gn:asciiname":"Kungumoga",
+    "gn:country_code":"TZ",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156397,
+    "gn:latitude":-5.18333,
+    "gn:longitude":39.78333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kungumoga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156397
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"e1a11fae7f0ac73313bdef994ae5e12f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209489791
+        }
+    ],
+    "wof:id":1209489791,
+    "wof:lastmodified":1536285523,
+    "wof:name":"Kungumoga",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.78333,
+    -5.1833300000000015,
+    39.78333,
+    -5.1833300000000015
+],
+  "geometry": {"coordinates":[39.78333,-5.18333],"type":"Point"}
+}

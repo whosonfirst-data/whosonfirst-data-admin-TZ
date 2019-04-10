@@ -1,0 +1,72 @@
+{
+  "id": 1344260303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.87938,-7.73943,38.87938,-7.73943",
+    "geom:latitude":-7.73943,
+    "geom:longitude":38.87938,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0605",
+    "gn:admin3_code":"0605221",
+    "gn:asciiname":"Dimani",
+    "gn:country_code":"TZ",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7391079,
+    "gn:latitude":-7.73943,
+    "gn:longitude":38.87938,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Dimani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dimani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        421182255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7391079
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"3be4b174554524c8a78441ee7a8f3337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421182255,
+            "locality_id":1344260303,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1344260303,
+    "wof:lastmodified":1537710071,
+    "wof:name":"Dimani",
+    "wof:parent_id":421182255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.87938,
+    -7.73943,
+    38.87938,
+    -7.73943
+],
+  "geometry": {"coordinates":[38.87938,-7.73943],"type":"Point"}
+}

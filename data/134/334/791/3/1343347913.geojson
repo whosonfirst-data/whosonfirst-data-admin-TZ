@@ -1,0 +1,69 @@
+{
+  "id": 1343347913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.65,-5.05,39.65,-5.05",
+    "geom:latitude":-5.05,
+    "geom:longitude":39.65,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"5401",
+    "gn:admin3_code":"5401031",
+    "gn:asciiname":"Mipopo",
+    "gn:country_code":"TZ",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153794,
+    "gn:latitude":-5.05,
+    "gn:longitude":39.65,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mipopo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679683,
+        421190259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153794
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"e6a996e2725a59b8a3acf9207a489b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421190259,
+            "locality_id":1343347913,
+            "region_id":85679683
+        }
+    ],
+    "wof:id":1343347913,
+    "wof:lastmodified":1536909041,
+    "wof:name":"Mipopo",
+    "wof:parent_id":421190259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.65,
+    -5.05,
+    39.65,
+    -5.05
+],
+  "geometry": {"coordinates":[39.65,-5.05],"type":"Point"}
+}

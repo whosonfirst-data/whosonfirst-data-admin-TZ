@@ -1,0 +1,68 @@
+{
+  "id": 890415391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.03333,-11.3,35.03333,-11.3",
+    "geom:latitude":-11.3,
+    "geom:longitude":35.03333,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
+    "gn:pop":16315,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Tingi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":904,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679723,
+        1108692995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877384,
+        "gp:id":1448459,
+        "qs:id":129807,
+        "wk:page":"Tingi"
+    },
+    "wof:country":"TZ",
+    "wof:created":1469051086,
+    "wof:geomhash":"69bdb33526b5946f1877189338973e66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692995,
+            "locality_id":890415391,
+            "region_id":85679723
+        }
+    ],
+    "wof:id":890415391,
+    "wof:lastmodified":1527727236,
+    "wof:name":"Tingi",
+    "wof:parent_id":1108692995,
+    "wof:placetype":"locality",
+    "wof:population":16315,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.03333,
+    -11.3,
+    35.03333,
+    -11.3
+],
+  "geometry": {"coordinates":[35.03333,-11.3],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309956449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.23333,-7.08333,31.23333,-7.08333",
+    "geom:latitude":-7.08333,
+    "geom:longitude":31.23333,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"2303",
+    "gn:admin3_code":"2303201",
+    "gn:asciiname":"Ikuba",
+    "gn:country_code":"TZ",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159276,
+    "gn:latitude":-7.08333,
+    "gn:longitude":31.23333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ikuba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ikuba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679751,
+        1108693151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159276
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"d8e74f4680b1c7226a2ee35f73878563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693151,
+            "locality_id":1309956449,
+            "region_id":85679751
+        }
+    ],
+    "wof:id":1309956449,
+    "wof:lastmodified":1537710050,
+    "wof:name":"Ikuba",
+    "wof:parent_id":1108693151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.23333,
+    -7.08333,
+    31.23333,
+    -7.08333
+],
+  "geometry": {"coordinates":[31.23333,-7.08333],"type":"Point"}
+}

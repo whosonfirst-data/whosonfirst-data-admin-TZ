@@ -1,0 +1,63 @@
+{
+  "id": 1209591461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.35,-4.55,38.35,-4.55",
+    "geom:latitude":-4.55,
+    "geom:longitude":38.35,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0401",
+    "gn:admin3_code":"0401243",
+    "gn:asciiname":"Bagai",
+    "gn:country_code":"TZ",
+    "gn:dem":1201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161306,
+    "gn:latitude":-4.55,
+    "gn:longitude":38.35,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Bagai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161306
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"b1b2beb7dc2684df7af48e80efb18828",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209591461
+        }
+    ],
+    "wof:id":1209591461,
+    "wof:lastmodified":1536282465,
+    "wof:name":"Bagai",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.35,
+    -4.55,
+    38.35,
+    -4.55
+],
+  "geometry": {"coordinates":[38.35,-4.55],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209113807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.06667,-4.83333,36.06667,-4.83333",
+    "geom:latitude":-4.83333,
+    "geom:longitude":36.06667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0101",
+    "gn:admin3_code":"0101031",
+    "gn:asciiname":"Bonga",
+    "gn:country_code":"TZ",
+    "gn:dem":1225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161070,
+    "gn:latitude":-4.83333,
+    "gn:longitude":36.06667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Bonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161070
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"1c7c30587912e9140b2465f2c6849a4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209113807
+        }
+    ],
+    "wof:id":1209113807,
+    "wof:lastmodified":1536297320,
+    "wof:name":"Bonga",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.06667,
+    -4.83333,
+    36.06667,
+    -4.83333
+],
+  "geometry": {"coordinates":[36.06667,-4.83333],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1259642455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.36667,-6.31667,39.36667,-6.31667",
+    "geom:latitude":-6.31667,
+    "geom:longitude":39.36667,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Shangani",
+    "gn:country_code":"TZ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150049,
+    "gn:latitude":-6.31667,
+    "gn:longitude":39.36667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Shangani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150049
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"37584e9dd441cb5f62b8fdadcbb3028a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1259642455,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259642455,
+    "wof:lastmodified":1536628134,
+    "wof:name":"Shangani",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.36667,
+    -6.31667,
+    39.36667,
+    -6.31667
+],
+  "geometry": {"coordinates":[39.36667,-6.31667],"type":"Point"}
+}

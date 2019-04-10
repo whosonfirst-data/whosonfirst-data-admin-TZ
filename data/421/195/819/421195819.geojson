@@ -1,0 +1,80 @@
+{
+  "id": 421195819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.25,-4.8,38.25,-4.8",
+    "geom:latitude":-4.8,
+    "geom:longitude":38.25,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":154566,
+    "qs:gn_pop":20241,
+    "qs:name":"Matui",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Tanga",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":122537,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":56558439,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":16,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679747,
+        421175229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154566,
+        "gp:id":56558439,
+        "qs:id":122537
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009860,
+    "wof:geomhash":"cb698a95aa0d919b8fb7683c37ab1afa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421175229,
+            "locality_id":421195819,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":421195819,
+    "wof:lastmodified":1527716119,
+    "wof:name":"Matui",
+    "wof:parent_id":421175229,
+    "wof:placetype":"locality",
+    "wof:population":20241,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.25,
+    -4.8,
+    38.25,
+    -4.8
+],
+  "geometry": {"coordinates":[38.25,-4.8],"type":"Point"}
+}

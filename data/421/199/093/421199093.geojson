@@ -1,0 +1,87 @@
+{
+  "id": 421199093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.36667,-1.35,34.36667,-1.35",
+    "geom:latitude":-1.35,
+    "geom:longitude":34.36667,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ron_x_preferred":[
+        "Tarime"
+    ],
+    "name:swa_x_preferred":[
+        "Tarime"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":149581,
+    "qs:gn_pop":33094,
+    "qs:name":"Tarime",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Mara",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":137,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":189063,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1449561,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679743,
+        421175441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149581,
+        "gp:id":1449561,
+        "qs:id":189063,
+        "wd:id":"Q12741940"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009977,
+    "wof:geomhash":"df1f17aca343dc08f1193f4284eb1b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421175441,
+            "locality_id":421199093,
+            "region_id":85679743
+        }
+    ],
+    "wof:id":421199093,
+    "wof:lastmodified":1527716418,
+    "wof:name":"Tarime",
+    "wof:parent_id":421175441,
+    "wof:placetype":"locality",
+    "wof:population":33094,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.36667,
+    -1.35,
+    34.36667,
+    -1.35
+],
+  "geometry": {"coordinates":[34.36667,-1.35],"type":"Point"}
+}

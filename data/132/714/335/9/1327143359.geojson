@@ -1,0 +1,72 @@
+{
+  "id": 1327143359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.20433,-7.27696,39.20433,-7.27696",
+    "geom:latitude":-7.27696,
+    "geom:longitude":39.20433,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0604",
+    "gn:admin3_code":"0604081",
+    "gn:asciiname":"Mikere",
+    "gn:country_code":"TZ",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153894,
+    "gn:latitude":-7.27696,
+    "gn:longitude":39.20433,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mikere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mikere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        421183841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153894
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"6375c14ea60a71cc675caebfb1facdda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421183841,
+            "locality_id":1327143359,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1327143359,
+    "wof:lastmodified":1537710017,
+    "wof:name":"Mikere",
+    "wof:parent_id":421183841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.20433,
+    -7.27696,
+    39.20433,
+    -7.27696
+],
+  "geometry": {"coordinates":[39.20433,-7.27696],"type":"Point"}
+}

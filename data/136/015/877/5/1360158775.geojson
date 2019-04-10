@@ -1,0 +1,76 @@
+{
+  "id": 1360158775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.28333,-6.13333,39.28333,-6.13333",
+    "geom:latitude":-6.13333,
+    "geom:longitude":39.28333,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5201",
+    "gn:admin3_code":"5201093",
+    "gn:asciiname":"Koani",
+    "gn:country_code":"TZ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":156589,
+    "gn:latitude":-6.13333,
+    "gn:longitude":39.28333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Koani",
+    "gn:population":2211,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Koani"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679651,
+        421191173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156589,
+        "wk:page":"Koani"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"64e983331861d987d8264471f362a5af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421191173,
+            "locality_id":1360158775,
+            "region_id":85679651
+        }
+    ],
+    "wof:id":1360158775,
+    "wof:lastmodified":1537710033,
+    "wof:name":"Koani",
+    "wof:parent_id":421191173,
+    "wof:placetype":"locality",
+    "wof:population":2211,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.28333,
+    -6.13333,
+    39.28333,
+    -6.13333
+],
+  "geometry": {"coordinates":[39.28333,-6.13333],"type":"Point"}
+}

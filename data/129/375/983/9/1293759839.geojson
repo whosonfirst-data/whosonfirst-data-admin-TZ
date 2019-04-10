@@ -1,0 +1,73 @@
+{
+  "id": 1293759839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.16667,-4.31667,33.16667,-4.31667",
+    "geom:latitude":-4.31667,
+    "geom:longitude":33.16667,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1401",
+    "gn:admin3_code":"1401161",
+    "gn:asciiname":"Buitigu",
+    "gn:country_code":"TZ",
+    "gn:dem":1241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160978,
+    "gn:latitude":-4.31667,
+    "gn:longitude":33.16667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Buitigu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Utigu",
+        "Buitigu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679661,
+        1108693033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160978
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"edd3a0e2847eab98b328054d35d0c993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693033,
+            "locality_id":1293759839,
+            "region_id":85679661
+        }
+    ],
+    "wof:id":1293759839,
+    "wof:lastmodified":1537710059,
+    "wof:name":"Buitigu",
+    "wof:parent_id":1108693033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.16667,
+    -4.31667,
+    33.16667,
+    -4.31667
+],
+  "geometry": {"coordinates":[33.16667,-4.31667],"type":"Point"}
+}

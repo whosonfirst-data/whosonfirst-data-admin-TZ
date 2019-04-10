@@ -1,0 +1,81 @@
+{
+  "id": 1125358897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.36667,-6.28333,39.36667,-6.28333",
+    "geom:latitude":-6.28333,
+    "geom:longitude":39.36667,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1060416,
+    "gn:population":1060416,
+    "iso:country":"TZ",
+    "lbl:latitude":-6.28333,
+    "lbl:longitude":39.36667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Unguja Ukuu Kaebona"
+    ],
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":149193,
+    "qs_pg:gn_pop":1060416,
+    "qs_pg:name":"Unguja Ukuu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":12,
+    "qs_pg:qs_id":517259,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679651,
+        421191173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149193,
+        "qs_pg:id":517259
+    },
+    "wof:country":"TZ",
+    "wof:created":1497046652,
+    "wof:geomhash":"95f790456356a99ae719d14bec233f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421191173,
+            "localadmin_id":1125358897,
+            "region_id":85679651
+        }
+    ],
+    "wof:id":1125358897,
+    "wof:lastmodified":1509389023,
+    "wof:name":"Unguja Ukuu",
+    "wof:parent_id":421191173,
+    "wof:placetype":"localadmin",
+    "wof:population":1060416,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.36667,
+    -6.28333,
+    39.36667,
+    -6.28333
+],
+  "geometry": {"coordinates":[39.36667,-6.28333],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1292925731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.83333,-1.81667,33.83333,-1.81667",
+    "geom:latitude":-1.81667,
+    "geom:longitude":33.83333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"2007",
+    "gn:admin3_code":"2007101",
+    "gn:asciiname":"Muganza",
+    "gn:country_code":"TZ",
+    "gn:dem":1269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":152685,
+    "gn:latitude":-1.81667,
+    "gn:longitude":33.83333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Muganza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679743,
+        1108693121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152685
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"41d0aef6187e93660164fa0fab7e8da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693121,
+            "locality_id":1292925731,
+            "region_id":85679743
+        }
+    ],
+    "wof:id":1292925731,
+    "wof:lastmodified":1537096746,
+    "wof:name":"Muganza",
+    "wof:parent_id":1108693121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.83333,
+    -1.81667,
+    33.83333,
+    -1.81667
+],
+  "geometry": {"coordinates":[33.83333,-1.81667],"type":"Point"}
+}

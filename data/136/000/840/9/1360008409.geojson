@@ -1,0 +1,76 @@
+{
+  "id": 1360008409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.77444,-5.04056,29.77444,-5.04056",
+    "geom:latitude":-5.04056,
+    "geom:longitude":29.77444,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1605",
+    "gn:admin3_code":"1605071",
+    "gn:asciiname":"Bulombola",
+    "gn:cc2":"TZ",
+    "gn:country_code":"TZ",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149231,
+    "gn:latitude":-5.04056,
+    "gn:longitude":29.77444,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Bulombola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ulombolo",
+        "Bolombola",
+        "Ulombola",
+        "Bulombola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679669,
+        1108693065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149231
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"473f832c26ac5ff2e246688a5cd1eb13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693065,
+            "locality_id":1360008409,
+            "region_id":85679669
+        }
+    ],
+    "wof:id":1360008409,
+    "wof:lastmodified":1537709991,
+    "wof:name":"Bulombola",
+    "wof:parent_id":1108693065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.77444,
+    -5.04056,
+    29.77444,
+    -5.04056
+],
+  "geometry": {"coordinates":[29.77444,-5.04056],"type":"Point"}
+}

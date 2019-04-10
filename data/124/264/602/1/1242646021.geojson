@@ -1,0 +1,73 @@
+{
+  "id": 1242646021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.19467,-5.99215,39.19467,-5.99215",
+    "geom:latitude":-5.99215,
+    "geom:longitude":39.19467,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"5102",
+    "gn:admin3_code":"5102031",
+    "gn:asciiname":"Mangapwani",
+    "gn:country_code":"TZ",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":154898,
+    "gn:latitude":-5.99215,
+    "gn:longitude":39.19467,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mangapwani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mungopani",
+        "Mangapwani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679695,
+        421194823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154898
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"20ce1288eefb4c8b0591a628a87845b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421194823,
+            "locality_id":1242646021,
+            "region_id":85679695
+        }
+    ],
+    "wof:id":1242646021,
+    "wof:lastmodified":1537710023,
+    "wof:name":"Mangapwani",
+    "wof:parent_id":421194823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.19467,
+    -5.99215,
+    39.19467,
+    -5.99215
+],
+  "geometry": {"coordinates":[39.19467,-5.99215],"type":"Point"}
+}

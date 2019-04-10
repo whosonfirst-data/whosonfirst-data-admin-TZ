@@ -1,0 +1,71 @@
+{
+  "id": 1310272099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.13333,-2.86667,37.13333,-2.86667",
+    "geom:latitude":-2.86667,
+    "geom:longitude":37.13333,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ol Molog",
+    "gn:country_code":"TZ",
+    "gn:dem":1759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150873,
+    "gn:latitude":-2.86667,
+    "gn:longitude":37.13333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ol Molog",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ol Moloc",
+        "Ol Molog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679737,
+        1108692917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150873
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"618683ac19418cf7990804858d0bfd37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692917,
+            "locality_id":1310272099,
+            "region_id":85679737
+        }
+    ],
+    "wof:id":1310272099,
+    "wof:lastmodified":1537709999,
+    "wof:name":"Ol Molog",
+    "wof:parent_id":1108692917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.13333,
+    -2.86667,
+    37.13333,
+    -2.86667
+],
+  "geometry": {"coordinates":[37.13333,-2.86667],"type":"Point"}
+}

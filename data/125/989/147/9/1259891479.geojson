@@ -1,0 +1,69 @@
+{
+  "id": 1259891479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.8,-5.8,35.8,-5.8",
+    "geom:latitude":-5.8,
+    "geom:longitude":35.8,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0106",
+    "gn:admin3_code":"0106041",
+    "gn:asciiname":"Halo",
+    "gn:country_code":"TZ",
+    "gn:dem":1146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159696,
+    "gn:latitude":-5.8,
+    "gn:longitude":35.8,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Halo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679705,
+        1108692899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159696
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"d4a30e19099f0385cfab9a548ad65ba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692899,
+            "locality_id":1259891479,
+            "region_id":85679705
+        }
+    ],
+    "wof:id":1259891479,
+    "wof:lastmodified":1536768015,
+    "wof:name":"Halo",
+    "wof:parent_id":1108692899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.8,
+    -5.8,
+    35.8,
+    -5.8
+],
+  "geometry": {"coordinates":[35.8,-5.8],"type":"Point"}
+}

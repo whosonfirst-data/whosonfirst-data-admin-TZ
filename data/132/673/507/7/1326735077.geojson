@@ -1,0 +1,69 @@
+{
+  "id": 1326735077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.09361,-4.17917,30.09361,-4.17917",
+    "geom:latitude":-4.17917,
+    "geom:longitude":30.09361,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1606",
+    "gn:admin3_code":"1606061",
+    "gn:asciiname":"Kisuzi",
+    "gn:country_code":"TZ",
+    "gn:dem":1280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387484,
+    "gn:latitude":-4.17917,
+    "gn:longitude":30.09361,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kisuzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679669,
+        1108693067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387484
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"b5f760133a9db1aded545ef6ee5b92ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693067,
+            "locality_id":1326735077,
+            "region_id":85679669
+        }
+    ],
+    "wof:id":1326735077,
+    "wof:lastmodified":1536691751,
+    "wof:name":"Kisuzi",
+    "wof:parent_id":1108693067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.09361,
+    -4.17917,
+    30.09361,
+    -4.17917
+],
+  "geometry": {"coordinates":[30.09361,-4.17917],"type":"Point"}
+}

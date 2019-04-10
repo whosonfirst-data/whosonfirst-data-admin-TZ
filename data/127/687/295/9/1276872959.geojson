@@ -1,0 +1,69 @@
+{
+  "id": 1276872959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71667,-8.41667,35.71667,-8.41667",
+    "geom:latitude":-8.41667,
+    "geom:longitude":35.71667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1102",
+    "gn:admin3_code":"1102241",
+    "gn:asciiname":"Loduma",
+    "gn:country_code":"TZ",
+    "gn:dem":1668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155908,
+    "gn:latitude":-8.41667,
+    "gn:longitude":35.71667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Loduma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679711,
+        1108692997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155908
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"2162980eabd72bcf3b1601fea9e4f5bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692997,
+            "locality_id":1276872959,
+            "region_id":85679711
+        }
+    ],
+    "wof:id":1276872959,
+    "wof:lastmodified":1537048361,
+    "wof:name":"Loduma",
+    "wof:parent_id":1108692997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71667,
+    -8.41667,
+    35.71667,
+    -8.41667
+],
+  "geometry": {"coordinates":[35.71667,-8.41667],"type":"Point"}
+}

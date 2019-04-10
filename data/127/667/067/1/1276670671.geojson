@@ -1,0 +1,78 @@
+{
+  "id": 1276670671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.67917,-7.89949,39.67917,-7.89949",
+    "geom:latitude":-7.89949,
+    "geom:longitude":39.67917,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0606",
+    "gn:admin3_code":"0606043",
+    "gn:asciiname":"Magemani",
+    "gn:country_code":"TZ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155362,
+    "gn:latitude":-7.89949,
+    "gn:longitude":39.67917,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Magemani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Magemani"
+    ],
+    "name:eng_x_variant":[
+        "Magomani"
+    ],
+    "name:und_x_variant":[
+        "Magomani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        1108692951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155362
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"0c34d4906abe093ef468a8f68fc0813a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692951,
+            "locality_id":1276670671,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1276670671,
+    "wof:lastmodified":1537710026,
+    "wof:name":"Magemani",
+    "wof:parent_id":1108692951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.67917,
+    -7.89949,
+    39.67917,
+    -7.89949
+],
+  "geometry": {"coordinates":[39.67917,-7.89949],"type":"Point"}
+}

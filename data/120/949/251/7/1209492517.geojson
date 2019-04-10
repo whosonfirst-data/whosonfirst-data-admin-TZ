@@ -1,0 +1,63 @@
+{
+  "id": 1209492517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4,-2.81667,33.4,-2.81667",
+    "geom:latitude":-2.81667,
+    "geom:longitude":33.4,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1904",
+    "gn:admin3_code":"1904071",
+    "gn:asciiname":"Goshi",
+    "gn:country_code":"TZ",
+    "gn:dem":1221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159785,
+    "gn:latitude":-2.81667,
+    "gn:longitude":33.4,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Goshi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159785
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"3cbaf3e415601c472b94d2553be423d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209492517
+        }
+    ],
+    "wof:id":1209492517,
+    "wof:lastmodified":1536285440,
+    "wof:name":"Goshi",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4,
+    -2.81667,
+    33.4,
+    -2.81667
+],
+  "geometry": {"coordinates":[33.4,-2.81667],"type":"Point"}
+}

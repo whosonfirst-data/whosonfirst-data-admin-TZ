@@ -1,0 +1,66 @@
+{
+  "id": 1209524329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.18971,-7.76756,39.18971,-7.76756",
+    "geom:latitude":-7.76756,
+    "geom:longitude":39.18971,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0605",
+    "gn:admin3_code":"0605151",
+    "gn:asciiname":"Ruaruke",
+    "gn:country_code":"TZ",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150522,
+    "gn:latitude":-7.76756,
+    "gn:longitude":39.18971,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ruaruke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ruaruke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150522
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"8bc0d9b1664ee38d000e0d7f76da3f60",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209524329
+        }
+    ],
+    "wof:id":1209524329,
+    "wof:lastmodified":1537709998,
+    "wof:name":"Ruaruke",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.18971,
+    -7.76756,
+    39.18971,
+    -7.76756
+],
+  "geometry": {"coordinates":[39.18971,-7.76756],"type":"Point"}
+}

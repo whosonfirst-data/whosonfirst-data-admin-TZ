@@ -1,0 +1,81 @@
+{
+  "id": 1126002733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.75795,-7.98598,38.75795,-7.98598",
+    "geom:latitude":-7.98598,
+    "geom:longitude":38.75795,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":11888,
+    "gn:population":11888,
+    "iso:country":"TZ",
+    "lbl:latitude":-7.98598,
+    "lbl:longitude":38.75795,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Utete"
+    ],
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":149070,
+    "qs_pg:gn_pop":11888,
+    "qs_pg:name":"Utete",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":517128,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        421182255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149070,
+        "qs_pg:id":517128
+    },
+    "wof:country":"TZ",
+    "wof:created":1497299748,
+    "wof:geomhash":"ec236a5fd39a2476a2ea43c956188281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421182255,
+            "locality_id":1126002733,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1126002733,
+    "wof:lastmodified":1509406253,
+    "wof:name":"Utete",
+    "wof:parent_id":421182255,
+    "wof:placetype":"locality",
+    "wof:population":11888,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.75795,
+    -7.98598,
+    38.75795,
+    -7.98598
+],
+  "geometry": {"coordinates":[38.75795,-7.98598],"type":"Point"}
+}

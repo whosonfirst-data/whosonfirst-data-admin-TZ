@@ -1,0 +1,91 @@
+{
+  "id": 1125952167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.13333,-5.95,34.13333,-5.95",
+    "geom:latitude":-5.95,
+    "geom:longitude":34.13333,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":23718,
+    "gn:population":23718,
+    "iso:country":"TZ",
+    "lbl:latitude":-5.95,
+    "lbl:longitude":34.13333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u0433\u0430\u043d\u0434\u0443"
+    ],
+    "name:dut_x_preferred":[
+        "Mgandu"
+    ],
+    "name:eng_x_preferred":[
+        "Mgandu"
+    ],
+    "name:swa_x_preferred":[
+        "Mgandu"
+    ],
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":154097,
+    "qs_pg:gn_pop":23718,
+    "qs_pg:name":"Mgandu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":68029,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679727,
+        421186277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154097,
+        "qs_pg:id":68029,
+        "wd:id":"Q6826825"
+    },
+    "wof:country":"TZ",
+    "wof:created":1497297499,
+    "wof:geomhash":"079c55fccda92e8df979088f8061f753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421186277,
+            "locality_id":1125952167,
+            "region_id":85679727
+        }
+    ],
+    "wof:id":1125952167,
+    "wof:lastmodified":1514508663,
+    "wof:name":"Mgandu",
+    "wof:parent_id":421186277,
+    "wof:placetype":"locality",
+    "wof:population":23718,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.13333,
+    -5.95,
+    34.13333,
+    -5.95
+],
+  "geometry": {"coordinates":[34.13333,-5.95],"type":"Point"}
+}

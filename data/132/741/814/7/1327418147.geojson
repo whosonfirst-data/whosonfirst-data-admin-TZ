@@ -1,0 +1,69 @@
+{
+  "id": 1327418147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.03333,-8.7,33.03333,-8.7",
+    "geom:latitude":-8.7,
+    "geom:longitude":33.03333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1202",
+    "gn:admin3_code":"1202121",
+    "gn:asciiname":"Utambalila",
+    "gn:country_code":"TZ",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149082,
+    "gn:latitude":-8.7,
+    "gn:longitude":33.03333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Utambalila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679641,
+        1108693007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149082
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"091ecc285d8ff8fd66e406ad1efae962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693007,
+            "locality_id":1327418147,
+            "region_id":85679641
+        }
+    ],
+    "wof:id":1327418147,
+    "wof:lastmodified":1536701645,
+    "wof:name":"Utambalila",
+    "wof:parent_id":1108693007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.03333,
+    -8.7,
+    33.03333,
+    -8.7
+],
+  "geometry": {"coordinates":[33.03333,-8.7],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 1125958157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.73333,-7.2,35.73333,-7.2",
+    "geom:latitude":-7.2,
+    "geom:longitude":35.73333,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":18010,
+    "gn:population":18010,
+    "iso:country":"TZ",
+    "lbl:latitude":-7.2,
+    "lbl:longitude":35.73333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0418\u0437\u0430\u0437\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Izazi"
+    ],
+    "name:eng_x_preferred":[
+        "Izazi"
+    ],
+    "name:swa_x_preferred":[
+        "Izazi"
+    ],
+    "name:unk_x_variant":[
+        "Zasi"
+    ],
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":158825,
+    "qs_pg:gn_pop":18010,
+    "qs_pg:name":"Izazi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":68797,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679711,
+        421187959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158825,
+        "qs_pg:id":68797,
+        "wd:id":"Q6101781"
+    },
+    "wof:country":"TZ",
+    "wof:created":1497297691,
+    "wof:geomhash":"7a134bc8bf9d069011f484ac5fb7ec0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187959,
+            "locality_id":1125958157,
+            "region_id":85679711
+        }
+    ],
+    "wof:id":1125958157,
+    "wof:lastmodified":1514508414,
+    "wof:name":"Izazi",
+    "wof:parent_id":421187959,
+    "wof:placetype":"locality",
+    "wof:population":18010,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.73333,
+    -7.2,
+    35.73333,
+    -7.2
+],
+  "geometry": {"coordinates":[35.73333,-7.2],"type":"Point"}
+}

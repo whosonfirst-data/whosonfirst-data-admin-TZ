@@ -1,0 +1,78 @@
+{
+  "id": 1125949571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.7,-1.85,34.7,-1.85",
+    "geom:latitude":-1.85,
+    "geom:longitude":34.7,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":18431,
+    "gn:population":18431,
+    "iso:country":"TZ",
+    "lbl:latitude":-1.85,
+    "lbl:longitude":34.7,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":152663,
+    "qs_pg:gn_pop":18431,
+    "qs_pg:name":"Mugumu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":67780,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679743,
+        421170243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152663,
+        "qs_pg:id":67780
+    },
+    "wof:country":"TZ",
+    "wof:created":1497297405,
+    "wof:geomhash":"4435a07da5b7e0471a89167384772ddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421170243,
+            "locality_id":1125949571,
+            "region_id":85679743
+        }
+    ],
+    "wof:id":1125949571,
+    "wof:lastmodified":1509402608,
+    "wof:name":"Mugumu",
+    "wof:parent_id":421170243,
+    "wof:placetype":"locality",
+    "wof:population":18431,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.7,
+    -1.85,
+    34.7,
+    -1.85
+],
+  "geometry": {"coordinates":[34.7,-1.85],"type":"Point"}
+}

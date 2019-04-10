@@ -1,0 +1,72 @@
+{
+  "id": 1344257227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.58395,-7.63158,36.58395,-7.63158",
+    "geom:latitude":-7.63158,
+    "geom:longitude":36.58395,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1104",
+    "gn:admin3_code":"1104211",
+    "gn:asciiname":"Ikimba",
+    "gn:country_code":"TZ",
+    "gn:dem":1088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159310,
+    "gn:latitude":-7.63158,
+    "gn:longitude":36.58395,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ikimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ikimba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679711,
+        1108693001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159310
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"14fd28c0486c634f117fda95152d6c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693001,
+            "locality_id":1344257227,
+            "region_id":85679711
+        }
+    ],
+    "wof:id":1344257227,
+    "wof:lastmodified":1537710050,
+    "wof:name":"Ikimba",
+    "wof:parent_id":1108693001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.58395,
+    -7.63158,
+    36.58395,
+    -7.63158
+],
+  "geometry": {"coordinates":[36.58395,-7.63158],"type":"Point"}
+}

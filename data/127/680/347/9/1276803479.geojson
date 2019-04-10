@@ -1,0 +1,73 @@
+{
+  "id": 1276803479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.6,-2.85,33.6,-2.85",
+    "geom:latitude":-2.85,
+    "geom:longitude":33.6,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2404",
+    "gn:admin3_code":"2404191",
+    "gn:asciiname":"Ijinga",
+    "gn:country_code":"TZ",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159326,
+    "gn:latitude":-2.85,
+    "gn:longitude":33.6,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ijinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jinga",
+        "Ijinga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679755,
+        1108693157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159326
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"ffb234244bb0ed79cec32c012ecde60a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693157,
+            "locality_id":1276803479,
+            "region_id":85679755
+        }
+    ],
+    "wof:id":1276803479,
+    "wof:lastmodified":1537710051,
+    "wof:name":"Ijinga",
+    "wof:parent_id":1108693157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.6,
+    -2.85,
+    33.6,
+    -2.85
+],
+  "geometry": {"coordinates":[33.6,-2.85],"type":"Point"}
+}

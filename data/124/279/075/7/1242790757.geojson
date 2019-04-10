@@ -1,0 +1,72 @@
+{
+  "id": 1242790757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.22454,-7.30361,39.22454,-7.30361",
+    "geom:latitude":-7.30361,
+    "geom:longitude":39.22454,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0604",
+    "gn:admin3_code":"0604061",
+    "gn:asciiname":"Njianne",
+    "gn:country_code":"TZ",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151492,
+    "gn:latitude":-7.30361,
+    "gn:longitude":39.22454,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Njianne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Njianne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        421183841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151492
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"8a3015a363221e30b46901234b68c3ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421183841,
+            "locality_id":1242790757,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1242790757,
+    "wof:lastmodified":1537710004,
+    "wof:name":"Njianne",
+    "wof:parent_id":421183841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.22454000000001,
+    -7.30361,
+    39.22454000000001,
+    -7.30361
+],
+  "geometry": {"coordinates":[39.22454000000001,-7.30361],"type":"Point"}
+}

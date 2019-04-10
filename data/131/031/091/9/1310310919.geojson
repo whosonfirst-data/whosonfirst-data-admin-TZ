@@ -1,0 +1,72 @@
+{
+  "id": 1310310919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.2228,-7.21751,36.2228,-7.21751",
+    "geom:latitude":-7.21751,
+    "geom:longitude":36.2228,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1104",
+    "gn:admin3_code":"1104061",
+    "gn:asciiname":"Kisega",
+    "gn:country_code":"TZ",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156984,
+    "gn:latitude":-7.21751,
+    "gn:longitude":36.2228,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kisega",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kisega"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679711,
+        1108693001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156984
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"5d5f8e2817a33de800ff2fb9d8567c84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693001,
+            "locality_id":1310310919,
+            "region_id":85679711
+        }
+    ],
+    "wof:id":1310310919,
+    "wof:lastmodified":1537710035,
+    "wof:name":"Kisega",
+    "wof:parent_id":1108693001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.2228,
+    -7.21751,
+    36.2228,
+    -7.21751
+],
+  "geometry": {"coordinates":[36.2228,-7.21751],"type":"Point"}
+}

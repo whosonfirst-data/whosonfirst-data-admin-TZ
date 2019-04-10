@@ -1,0 +1,63 @@
+{
+  "id": 1209574419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.35,-6.06667,39.35,-6.06667",
+    "geom:latitude":-6.06667,
+    "geom:longitude":39.35,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5201",
+    "gn:admin3_code":"5201141",
+    "gn:asciiname":"Bambi",
+    "gn:country_code":"TZ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161266,
+    "gn:latitude":-6.06667,
+    "gn:longitude":39.35,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Bambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161266
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"bc5a1be13c6c343d2e02ea3a13b7a3d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209574419
+        }
+    ],
+    "wof:id":1209574419,
+    "wof:lastmodified":1536282983,
+    "wof:name":"Bambi",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.35,
+    -6.0666699999999985,
+    39.35,
+    -6.0666699999999985
+],
+  "geometry": {"coordinates":[39.35,-6.06667],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209309601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.9,-6.46667,36.9,-6.46667",
+    "geom:latitude":-6.46667,
+    "geom:longitude":36.9,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0507",
+    "gn:admin3_code":"0507111",
+    "gn:asciiname":"Nongwe",
+    "gn:country_code":"TZ",
+    "gn:dem":1553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151395,
+    "gn:latitude":-6.46667,
+    "gn:longitude":36.9,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nongwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151395
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"907bfe3e10a064383e4f63100e005ae2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209309601
+        }
+    ],
+    "wof:id":1209309601,
+    "wof:lastmodified":1536291075,
+    "wof:name":"Nongwe",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.9,
+    -6.46667,
+    36.9,
+    -6.46667
+],
+  "geometry": {"coordinates":[36.9,-6.46667],"type":"Point"}
+}

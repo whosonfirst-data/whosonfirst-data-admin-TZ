@@ -1,0 +1,73 @@
+{
+  "id": 1260362719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.03333,-3.73333,33.03333,-3.73333",
+    "geom:latitude":-3.73333,
+    "geom:longitude":33.03333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1703",
+    "gn:admin3_code":"1703031",
+    "gn:asciiname":"Kulikilo",
+    "gn:country_code":"TZ",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156442,
+    "gn:latitude":-3.73333,
+    "gn:longitude":33.03333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kulikilo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kilikilo",
+        "Kulikilo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679657,
+        1108693079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156442
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"2b0d20eaee4c79111b5b3d588a101745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693079,
+            "locality_id":1260362719,
+            "region_id":85679657
+        }
+    ],
+    "wof:id":1260362719,
+    "wof:lastmodified":1537710032,
+    "wof:name":"Kulikilo",
+    "wof:parent_id":1108693079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.03333,
+    -3.73333,
+    33.03333,
+    -3.73333
+],
+  "geometry": {"coordinates":[33.03333,-3.73333],"type":"Point"}
+}

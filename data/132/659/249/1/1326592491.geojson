@@ -1,0 +1,69 @@
+{
+  "id": 1326592491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93389,-2.63222,30.93389,-2.63222",
+    "geom:latitude":-2.63222,
+    "geom:longitude":30.93389,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1804",
+    "gn:admin3_code":"1804011",
+    "gn:asciiname":"Nyaruvanga",
+    "gn:country_code":"TZ",
+    "gn:dem":1325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387719,
+    "gn:latitude":-2.63222,
+    "gn:longitude":30.93389,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nyaruvanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387719
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"bcd9d18c9626fe2aa97ed900d65fe354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693093,
+            "locality_id":1326592491,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1326592491,
+    "wof:lastmodified":1536897159,
+    "wof:name":"Nyaruvanga",
+    "wof:parent_id":1108693093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.93389,
+    -2.63222,
+    30.93389,
+    -2.63222
+],
+  "geometry": {"coordinates":[30.93389,-2.63222],"type":"Point"}
+}

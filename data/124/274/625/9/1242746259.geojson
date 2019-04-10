@@ -1,0 +1,70 @@
+{
+  "id": 1242746259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.48706,-6.83201,30.48706,-6.83201",
+    "geom:latitude":-6.83201,
+    "geom:longitude":30.48706,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kapalamasenga",
+    "gn:country_code":"TZ",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158364,
+    "gn:latitude":-6.83201,
+    "gn:longitude":30.48706,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kapalamasenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kapalamasenga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679751,
+        1108693149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158364
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"f2ccbf9416e37e603ecf97113a232cb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693149,
+            "locality_id":1242746259,
+            "region_id":85679751
+        }
+    ],
+    "wof:id":1242746259,
+    "wof:lastmodified":1537710044,
+    "wof:name":"Kapalamasenga",
+    "wof:parent_id":1108693149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.48706,
+    -6.83201,
+    30.48706,
+    -6.83201
+],
+  "geometry": {"coordinates":[30.48706,-6.83201],"type":"Point"}
+}

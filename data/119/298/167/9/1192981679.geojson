@@ -1,0 +1,69 @@
+{
+  "id": 1192981679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.96667,-5.55,37.96667,-5.55",
+    "geom:latitude":-5.55,
+    "geom:longitude":37.96667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0410",
+    "gn:admin3_code":"0410082",
+    "gn:asciiname":"Mambassa",
+    "gn:country_code":"TZ",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":154985,
+    "gn:latitude":-5.55,
+    "gn:longitude":37.96667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mambassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679747,
+        1108692933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154985
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"f1204ce41e117f29cf340ebf7c1cdb69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692933,
+            "locality_id":1192981679,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":1192981679,
+    "wof:lastmodified":1536367265,
+    "wof:name":"Mambassa",
+    "wof:parent_id":1108692933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.96667,
+    -5.55,
+    37.96667,
+    -5.55
+],
+  "geometry": {"coordinates":[37.96667,-5.55],"type":"Point"}
+}

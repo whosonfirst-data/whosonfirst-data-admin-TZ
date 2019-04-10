@@ -1,0 +1,81 @@
+{
+  "id": 890442357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.58333,-8.9,34.58333,-8.9",
+    "geom:latitude":-8.9,
+    "geom:longitude":34.58333,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
+    "gn:pop":18870,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0418\u043b\u0435\u043c\u0431\u0443\u043b\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Ilembula"
+    ],
+    "name:eng_x_preferred":[
+        "Ilembula"
+    ],
+    "name:swa_x_preferred":[
+        "Ilembula"
+    ],
+    "qs:name":"Ilembula",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":90,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679765,
+        1108693135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159218,
+        "gp:id":1444149,
+        "qs:id":525571,
+        "wd:id":"Q10995812",
+        "wk:page":"Ilembula"
+    },
+    "wof:country":"TZ",
+    "wof:created":1469052360,
+    "wof:geomhash":"d1633157a2c119d31260f368a7bbcdcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693135,
+            "locality_id":890442357,
+            "region_id":85679765
+        }
+    ],
+    "wof:id":890442357,
+    "wof:lastmodified":1527792856,
+    "wof:name":"Ilembula",
+    "wof:parent_id":1108693135,
+    "wof:placetype":"locality",
+    "wof:population":18870,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.58333,
+    -8.9,
+    34.58333,
+    -8.9
+],
+  "geometry": {"coordinates":[34.58333,-8.9],"type":"Point"}
+}

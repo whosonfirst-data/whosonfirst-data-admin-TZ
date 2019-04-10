@@ -1,0 +1,73 @@
+{
+  "id": 1192964831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.81667,-10.01667,34.81667,-10.01667",
+    "geom:latitude":-10.01667,
+    "geom:longitude":34.81667,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"2205",
+    "gn:admin3_code":"2205101",
+    "gn:asciiname":"Mahonzelo",
+    "gn:country_code":"TZ",
+    "gn:dem":1371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":878124,
+    "gn:latitude":-10.01667,
+    "gn:longitude":34.81667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mahonzelo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahanselo",
+        "Mahonzelo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679765,
+        1108693141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878124
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"a4186b0ddc2aca05aa0c6e2a99710540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693141,
+            "locality_id":1192964831,
+            "region_id":85679765
+        }
+    ],
+    "wof:id":1192964831,
+    "wof:lastmodified":1537710065,
+    "wof:name":"Mahonzelo",
+    "wof:parent_id":1108693141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.81667,
+    -10.01667,
+    34.81667,
+    -10.01667
+],
+  "geometry": {"coordinates":[34.81667,-10.01667],"type":"Point"}
+}

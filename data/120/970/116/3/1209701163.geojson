@@ -1,0 +1,70 @@
+{
+  "id": 1209701163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.81984,-2.43596,34.81984,-2.43596",
+    "geom:latitude":-2.43596,
+    "geom:longitude":34.81984,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"2002",
+    "gn:admin3_code":"2002101",
+    "gn:asciiname":"Seronera",
+    "gn:country_code":"TZ",
+    "gn:dem":1502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9412889,
+    "gn:latitude":-2.43596,
+    "gn:longitude":34.81984,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Seronera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679743,
+        421170243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9412889,
+        "wk:page":"Seronera"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"49e193ea732fb44b241a41a228745a92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421170243,
+            "locality_id":1209701163,
+            "region_id":85679743
+        }
+    ],
+    "wof:id":1209701163,
+    "wof:lastmodified":1537574866,
+    "wof:name":"Seronera",
+    "wof:parent_id":421170243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.81984,
+    -2.43596,
+    34.81984,
+    -2.43596
+],
+  "geometry": {"coordinates":[34.81984,-2.43596],"type":"Point"}
+}

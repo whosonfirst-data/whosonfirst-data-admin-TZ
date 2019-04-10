@@ -1,0 +1,69 @@
+{
+  "id": 1310276363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.36667,-4.13333,33.36667,-4.13333",
+    "geom:latitude":-4.13333,
+    "geom:longitude":33.36667,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1402",
+    "gn:admin3_code":"1402181",
+    "gn:asciiname":"Bulangamilwa",
+    "gn:country_code":"TZ",
+    "gn:dem":1147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160934,
+    "gn:latitude":-4.13333,
+    "gn:longitude":33.36667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Bulangamilwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679661,
+        1108693037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160934
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"45d2de3812837949782cb8cfeafe4250",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693037,
+            "locality_id":1310276363,
+            "region_id":85679661
+        }
+    ],
+    "wof:id":1310276363,
+    "wof:lastmodified":1536749913,
+    "wof:name":"Bulangamilwa",
+    "wof:parent_id":1108693037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.36667,
+    -4.13333,
+    33.36667,
+    -4.13333
+],
+  "geometry": {"coordinates":[33.36667,-4.13333],"type":"Point"}
+}

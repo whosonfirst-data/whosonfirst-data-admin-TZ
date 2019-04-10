@@ -1,0 +1,72 @@
+{
+  "id": 1344060109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.82814,-7.17274,38.82814,-7.17274",
+    "geom:latitude":-7.17274,
+    "geom:longitude":38.82814,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0603",
+    "gn:admin3_code":"0603063",
+    "gn:asciiname":"Vigogoni",
+    "gn:country_code":"TZ",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7390946,
+    "gn:latitude":-7.17274,
+    "gn:longitude":38.82814,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Vigogoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vigogoni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        421192907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7390946
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"a9448062600df9ff9a555a785642ce36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421192907,
+            "locality_id":1344060109,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1344060109,
+    "wof:lastmodified":1537710071,
+    "wof:name":"Vigogoni",
+    "wof:parent_id":421192907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.82814000000001,
+    -7.17274,
+    38.82814000000001,
+    -7.17274
+],
+  "geometry": {"coordinates":[38.82814000000001,-7.17274],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1242624545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3775,-5.22833,30.3775,-5.22833",
+    "geom:latitude":-5.22833,
+    "geom:longitude":30.3775,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"2302",
+    "gn:admin3_code":"2302013",
+    "gn:asciiname":"Kabulela",
+    "gn:country_code":"TZ",
+    "gn:dem":1269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158656,
+    "gn:latitude":-5.22833,
+    "gn:longitude":30.3775,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kabulela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679751,
+        1108693149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158656
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"1ca0e14673b4f3106166e52677148944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693149,
+            "locality_id":1242624545,
+            "region_id":85679751
+        }
+    ],
+    "wof:id":1242624545,
+    "wof:lastmodified":1536995425,
+    "wof:name":"Kabulela",
+    "wof:parent_id":1108693149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3775,
+    -5.22833,
+    30.3775,
+    -5.22833
+],
+  "geometry": {"coordinates":[30.3775,-5.22833],"type":"Point"}
+}

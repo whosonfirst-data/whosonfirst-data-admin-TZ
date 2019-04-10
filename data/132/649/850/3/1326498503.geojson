@@ -1,0 +1,69 @@
+{
+  "id": 1326498503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4,-7.58333,31.4,-7.58333",
+    "geom:latitude":-7.58333,
+    "geom:longitude":31.4,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1503",
+    "gn:admin3_code":"1503031",
+    "gn:asciiname":"Swaila",
+    "gn:country_code":"TZ",
+    "gn:dem":1820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149668,
+    "gn:latitude":-7.58333,
+    "gn:longitude":31.4,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Swaila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679645,
+        1108693055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149668
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"fc6f25137bf9541071ba83121680aa32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693055,
+            "locality_id":1326498503,
+            "region_id":85679645
+        }
+    ],
+    "wof:id":1326498503,
+    "wof:lastmodified":1537031369,
+    "wof:name":"Swaila",
+    "wof:parent_id":1108693055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4,
+    -7.58333,
+    31.4,
+    -7.58333
+],
+  "geometry": {"coordinates":[31.4,-7.58333],"type":"Point"}
+}

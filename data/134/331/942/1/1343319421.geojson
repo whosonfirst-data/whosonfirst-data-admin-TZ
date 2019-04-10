@@ -1,0 +1,69 @@
+{
+  "id": 1343319421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.25,-6.26667,39.25,-6.26667",
+    "geom:latitude":-6.26667,
+    "geom:longitude":39.25,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"5301",
+    "gn:admin3_code":"5301391",
+    "gn:asciiname":"Minazi Mikinda",
+    "gn:country_code":"TZ",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153824,
+    "gn:latitude":-6.26667,
+    "gn:longitude":39.25,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Minazi Mikinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679699,
+        421202045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153824
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"ee27998c11d2267fd04b15614a18e699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421202045,
+            "locality_id":1343319421,
+            "region_id":85679699
+        }
+    ],
+    "wof:id":1343319421,
+    "wof:lastmodified":1536950227,
+    "wof:name":"Minazi Mikinda",
+    "wof:parent_id":421202045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.25,
+    -6.26667,
+    39.25,
+    -6.26667
+],
+  "geometry": {"coordinates":[39.25,-6.26667],"type":"Point"}
+}

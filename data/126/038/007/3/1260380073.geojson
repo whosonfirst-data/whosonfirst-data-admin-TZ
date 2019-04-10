@@ -1,0 +1,73 @@
+{
+  "id": 1260380073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.55,-5.95,37.55,-5.95",
+    "geom:latitude":-5.95,
+    "geom:longitude":37.55,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0506",
+    "gn:admin3_code":"0506041",
+    "gn:asciiname":"Sagasa",
+    "gn:country_code":"TZ",
+    "gn:dem":830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150333,
+    "gn:latitude":-5.95,
+    "gn:longitude":37.55,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Sagasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sagassa",
+        "Sagasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        1108692941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150333
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"4c348532238007c0475f6561073edec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692941,
+            "locality_id":1260380073,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1260380073,
+    "wof:lastmodified":1537709997,
+    "wof:name":"Sagasa",
+    "wof:parent_id":1108692941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.55,
+    -5.95,
+    37.55,
+    -5.95
+],
+  "geometry": {"coordinates":[37.55,-5.95],"type":"Point"}
+}

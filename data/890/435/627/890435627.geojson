@@ -1,0 +1,78 @@
+{
+  "id": 890435627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.36667,-6.71667,36.36667,-6.71667",
+    "geom:latitude":-6.71667,
+    "geom:longitude":36.36667,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
+    "gn:pop":19526,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Kibakwe"
+    ],
+    "name:eng_x_preferred":[
+        "Kibakwe"
+    ],
+    "name:swa_x_preferred":[
+        "Kibakwe"
+    ],
+    "qs:name":"Kibakwe",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":98,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679705,
+        1108692893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158024,
+        "gp:id":1444626,
+        "qs:id":524809,
+        "wd:id":"Q6403941",
+        "wk:page":"Kibakwe"
+    },
+    "wof:country":"TZ",
+    "wof:created":1469052075,
+    "wof:geomhash":"fbfe7885dc787777b5faee83a8e5edce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692893,
+            "locality_id":890435627,
+            "region_id":85679705
+        }
+    ],
+    "wof:id":890435627,
+    "wof:lastmodified":1553816397,
+    "wof:name":"Kibakwe",
+    "wof:parent_id":1108692893,
+    "wof:placetype":"locality",
+    "wof:population":19526,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.36667,
+    -6.71667,
+    36.36667,
+    -6.71667
+],
+  "geometry": {"coordinates":[36.36667,-6.71667],"type":"Point"}
+}

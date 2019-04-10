@@ -1,0 +1,73 @@
+{
+  "id": 1277158415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.13333,-10.71667,39.13333,-10.71667",
+    "geom:latitude":-10.71667,
+    "geom:longitude":39.13333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0902",
+    "gn:admin3_code":"0902091",
+    "gn:asciiname":"Mjembe",
+    "gn:country_code":"TZ",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877909,
+    "gn:latitude":-10.71667,
+    "gn:longitude":39.13333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mjembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Majembe",
+        "Mjembe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679717,
+        1108692971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877909
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"a1f521ca16c76f5cc00a1b7ab962b50d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692971,
+            "locality_id":1277158415,
+            "region_id":85679717
+        }
+    ],
+    "wof:id":1277158415,
+    "wof:lastmodified":1537710065,
+    "wof:name":"Mjembe",
+    "wof:parent_id":1108692971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.13333,
+    -10.71667,
+    39.13333,
+    -10.71667
+],
+  "geometry": {"coordinates":[39.13333,-10.71667],"type":"Point"}
+}

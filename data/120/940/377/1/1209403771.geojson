@@ -1,0 +1,63 @@
+{
+  "id": 1209403771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.13333,-8.31667,36.13333,-8.31667",
+    "geom:latitude":-8.31667,
+    "geom:longitude":36.13333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0503",
+    "gn:admin3_code":"0503131",
+    "gn:asciiname":"Mgeta",
+    "gn:country_code":"TZ",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":154078,
+    "gn:latitude":-8.31667,
+    "gn:longitude":36.13333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mgeta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154078
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"d74ae034180ee23a1aeac930cfb4be5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209403771
+        }
+    ],
+    "wof:id":1209403771,
+    "wof:lastmodified":1536288060,
+    "wof:name":"Mgeta",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.13333,
+    -8.31667,
+    36.13333,
+    -8.31667
+],
+  "geometry": {"coordinates":[36.13333,-8.31667],"type":"Point"}
+}

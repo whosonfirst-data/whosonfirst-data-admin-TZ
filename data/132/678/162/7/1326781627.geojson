@@ -1,0 +1,71 @@
+{
+  "id": 1326781627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.75,-3.38333,32.75,-3.38333",
+    "geom:latitude":-3.38333,
+    "geom:longitude":32.75,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Kitaloma",
+    "gn:country_code":"TZ",
+    "gn:dem":1153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156856,
+    "gn:latitude":-3.38333,
+    "gn:longitude":32.75,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Kitaloma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kitalama",
+        "Kitaloma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679657,
+        1108693079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156856
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"1e112fd76c8910fbbcd79caf0893c6ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693079,
+            "locality_id":1326781627,
+            "region_id":85679657
+        }
+    ],
+    "wof:id":1326781627,
+    "wof:lastmodified":1537710034,
+    "wof:name":"Kitaloma",
+    "wof:parent_id":1108693079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.75,
+    -3.38333,
+    32.75,
+    -3.38333
+],
+  "geometry": {"coordinates":[32.75,-3.38333],"type":"Point"}
+}

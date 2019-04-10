@@ -1,0 +1,70 @@
+{
+  "id": 1293289149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.65,-8.03333,32.65,-8.03333",
+    "geom:latitude":-8.03333,
+    "geom:longitude":32.65,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1201",
+    "gn:admin3_code":"1201201",
+    "gn:asciiname":"Kapalala",
+    "gn:country_code":"TZ",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158365,
+    "gn:latitude":-8.03333,
+    "gn:longitude":32.65,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kapalala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679641,
+        1108693005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158365,
+        "wk:page":"Kapalala"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"3b1da3e3f559e9fcffb5c4fb40c85420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693005,
+            "locality_id":1293289149,
+            "region_id":85679641
+        }
+    ],
+    "wof:id":1293289149,
+    "wof:lastmodified":1537574857,
+    "wof:name":"Kapalala",
+    "wof:parent_id":1108693005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.65,
+    -8.03333,
+    32.65,
+    -8.03333
+],
+  "geometry": {"coordinates":[32.65,-8.03333],"type":"Point"}
+}

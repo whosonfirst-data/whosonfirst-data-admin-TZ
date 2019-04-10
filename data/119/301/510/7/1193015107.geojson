@@ -1,0 +1,72 @@
+{
+  "id": 1193015107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.08712,-6.44483,30.08712,-6.44483",
+    "geom:latitude":-6.44483,
+    "geom:longitude":30.08712,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1605",
+    "gn:admin3_code":"1605011",
+    "gn:asciiname":"Bwaga",
+    "gn:country_code":"TZ",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160757,
+    "gn:latitude":-6.44483,
+    "gn:longitude":30.08712,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Bwaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bwaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679669,
+        1108693065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160757
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"a646f160668bbbb4aada6452338f7323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693065,
+            "locality_id":1193015107,
+            "region_id":85679669
+        }
+    ],
+    "wof:id":1193015107,
+    "wof:lastmodified":1537710058,
+    "wof:name":"Bwaga",
+    "wof:parent_id":1108693065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.08712,
+    -6.44483,
+    30.08712,
+    -6.44483
+],
+  "geometry": {"coordinates":[30.08712,-6.44483],"type":"Point"}
+}

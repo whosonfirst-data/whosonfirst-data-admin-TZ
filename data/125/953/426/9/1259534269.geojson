@@ -1,0 +1,72 @@
+{
+  "id": 1259534269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.38935,-6.48081,31.38935,-6.48081",
+    "geom:latitude":-6.48081,
+    "geom:longitude":31.38935,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"2303",
+    "gn:admin3_code":"2303111",
+    "gn:asciiname":"Galukilo",
+    "gn:country_code":"TZ",
+    "gn:dem":1060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159943,
+    "gn:latitude":-6.48081,
+    "gn:longitude":31.38935,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Galukilo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Galukilo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679751,
+        1108693151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159943
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"963ec26a62ec8d3ce08c285c3768fc43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693151,
+            "locality_id":1259534269,
+            "region_id":85679751
+        }
+    ],
+    "wof:id":1259534269,
+    "wof:lastmodified":1537710053,
+    "wof:name":"Galukilo",
+    "wof:parent_id":1108693151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.38935,
+    -6.48081,
+    31.38935,
+    -6.48081
+],
+  "geometry": {"coordinates":[31.38935,-6.48081],"type":"Point"}
+}

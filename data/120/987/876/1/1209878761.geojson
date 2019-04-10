@@ -1,0 +1,69 @@
+{
+  "id": 1209878761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.155,-1.53306,31.155,-1.53306",
+    "geom:latitude":-1.53306,
+    "geom:longitude":31.155,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1801",
+    "gn:admin3_code":"1801063",
+    "gn:asciiname":"Kayanga",
+    "gn:country_code":"TZ",
+    "gn:dem":1658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389814,
+    "gn:latitude":-1.53306,
+    "gn:longitude":31.155,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kayanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389814
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"8981f8b49b37f3102428ef6aef9c489b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693085,
+            "locality_id":1209878761,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1209878761,
+    "wof:lastmodified":1536396015,
+    "wof:name":"Kayanga",
+    "wof:parent_id":1108693085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.155,
+    -1.53306,
+    31.155,
+    -1.53306
+],
+  "geometry": {"coordinates":[31.155,-1.53306],"type":"Point"}
+}

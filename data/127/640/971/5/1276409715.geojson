@@ -1,0 +1,70 @@
+{
+  "id": 1276409715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.6,-4.23333,34.6,-4.23333",
+    "geom:latitude":-4.23333,
+    "geom:longitude":34.6,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1306",
+    "gn:admin3_code":"1306061",
+    "gn:asciiname":"Gumanga",
+    "gn:country_code":"TZ",
+    "gn:dem":1456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159750,
+    "gn:latitude":-4.23333,
+    "gn:longitude":34.6,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Gumanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679727,
+        1108693031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159750,
+        "wk:page":"Gumanga"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"e55e649dbdec7516caecebc3cb334ff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693031,
+            "locality_id":1276409715,
+            "region_id":85679727
+        }
+    ],
+    "wof:id":1276409715,
+    "wof:lastmodified":1537574861,
+    "wof:name":"Gumanga",
+    "wof:parent_id":1108693031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.6,
+    -4.23333,
+    34.6,
+    -4.23333
+],
+  "geometry": {"coordinates":[34.6,-4.23333],"type":"Point"}
+}

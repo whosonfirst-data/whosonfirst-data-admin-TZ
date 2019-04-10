@@ -1,0 +1,72 @@
+{
+  "id": 1360285919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31667,-7.53333,36.31667,-7.53333",
+    "geom:latitude":-7.53333,
+    "geom:longitude":36.31667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1104",
+    "gn:admin3_code":"1104061",
+    "gn:asciiname":"Mdahira",
+    "gn:country_code":"TZ",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":154194,
+    "gn:latitude":-7.53333,
+    "gn:longitude":36.31667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mdahira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mdahira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679711,
+        1108693001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154194
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"2cd05bc5b661af38950e9ee16c0a5c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693001,
+            "locality_id":1360285919,
+            "region_id":85679711
+        }
+    ],
+    "wof:id":1360285919,
+    "wof:lastmodified":1537710019,
+    "wof:name":"Mdahira",
+    "wof:parent_id":1108693001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31667,
+    -7.53333,
+    36.31667,
+    -7.53333
+],
+  "geometry": {"coordinates":[36.31667,-7.53333],"type":"Point"}
+}

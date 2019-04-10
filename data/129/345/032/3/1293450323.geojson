@@ -1,0 +1,67 @@
+{
+  "id": 1293450323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.16667,-8.85,34.16667,-8.85",
+    "geom:latitude":-8.85,
+    "geom:longitude":34.16667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Kimani",
+    "gn:country_code":"TZ",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":157355,
+    "gn:latitude":-8.85,
+    "gn:longitude":34.16667,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Kimani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679641,
+        1108693015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":157355
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"d12279374a7ed2a42d08ecff5fdc801a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693015,
+            "locality_id":1293450323,
+            "region_id":85679641
+        }
+    ],
+    "wof:id":1293450323,
+    "wof:lastmodified":1536839769,
+    "wof:name":"Kimani",
+    "wof:parent_id":1108693015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.16667,
+    -8.85,
+    34.16667,
+    -8.85
+],
+  "geometry": {"coordinates":[34.16667,-8.85],"type":"Point"}
+}

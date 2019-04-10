@@ -1,0 +1,72 @@
+{
+  "id": 1276210271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.68568,-7.25907,37.68568,-7.25907",
+    "geom:latitude":-7.25907,
+    "geom:longitude":37.68568,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0502",
+    "gn:admin3_code":"0502091",
+    "gn:asciiname":"Singiza",
+    "gn:country_code":"TZ",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149872,
+    "gn:latitude":-7.25907,
+    "gn:longitude":37.68568,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Singiza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Singiza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        421193165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149872
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"1cf473a9d2a00b5441503fff9035c45d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421193165,
+            "locality_id":1276210271,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1276210271,
+    "wof:lastmodified":1537709994,
+    "wof:name":"Singiza",
+    "wof:parent_id":421193165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.68568,
+    -7.25907,
+    37.68568,
+    -7.25907
+],
+  "geometry": {"coordinates":[37.68568,-7.25907],"type":"Point"}
+}

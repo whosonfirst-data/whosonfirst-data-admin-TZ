@@ -1,0 +1,71 @@
+{
+  "id": 1343618071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.26667,-6.03333,39.26667,-6.03333",
+    "geom:latitude":-6.03333,
+    "geom:longitude":39.26667,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mbaleni Mkubwa",
+    "gn:country_code":"TZ",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":154428,
+    "gn:latitude":-6.03333,
+    "gn:longitude":39.26667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mbaleni Mkubwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbaleni",
+        "Mbaleni Mkubwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679699,
+        421202045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154428
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"5fdcdb7f02b409e7d287ee14de4a48c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421202045,
+            "locality_id":1343618071,
+            "region_id":85679699
+        }
+    ],
+    "wof:id":1343618071,
+    "wof:lastmodified":1537710020,
+    "wof:name":"Mbaleni Mkubwa",
+    "wof:parent_id":421202045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.26667,
+    -6.03333,
+    39.26667,
+    -6.03333
+],
+  "geometry": {"coordinates":[39.26667,-6.03333],"type":"Point"}
+}

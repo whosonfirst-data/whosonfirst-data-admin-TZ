@@ -1,0 +1,69 @@
+{
+  "id": 1327408363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.78333,-5.2,39.78333,-5.2",
+    "geom:latitude":-5.2,
+    "geom:longitude":39.78333,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"5501",
+    "gn:admin3_code":"5501231",
+    "gn:asciiname":"Mjananza",
+    "gn:country_code":"TZ",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153691,
+    "gn:latitude":-5.2,
+    "gn:longitude":39.78333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mjananza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679687,
+        421187955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153691
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"8c4e13555068a371a9f803c901bcac9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187955,
+            "locality_id":1327408363,
+            "region_id":85679687
+        }
+    ],
+    "wof:id":1327408363,
+    "wof:lastmodified":1536715859,
+    "wof:name":"Mjananza",
+    "wof:parent_id":421187955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.78333,
+    -5.2,
+    39.78333,
+    -5.2
+],
+  "geometry": {"coordinates":[39.78333,-5.2],"type":"Point"}
+}

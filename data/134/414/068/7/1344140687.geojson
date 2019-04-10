@@ -1,0 +1,73 @@
+{
+  "id": 1344140687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.25,-8.93333,36.25,-8.93333",
+    "geom:latitude":-8.93333,
+    "geom:longitude":36.25,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0504",
+    "gn:admin3_code":"0504201",
+    "gn:asciiname":"Ngongwa",
+    "gn:country_code":"TZ",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151617,
+    "gn:latitude":-8.93333,
+    "gn:longitude":36.25,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ngongwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngongoi",
+        "Ngongwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        1108692937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151617
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"ac9ea98278ea0a74e34e5af9e12098f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692937,
+            "locality_id":1344140687,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1344140687,
+    "wof:lastmodified":1537710005,
+    "wof:name":"Ngongwa",
+    "wof:parent_id":1108692937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.25,
+    -8.93333,
+    36.25,
+    -8.93333
+],
+  "geometry": {"coordinates":[36.25,-8.93333],"type":"Point"}
+}

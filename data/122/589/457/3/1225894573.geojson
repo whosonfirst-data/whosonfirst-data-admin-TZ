@@ -1,0 +1,68 @@
+{
+  "id": 1225894573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.11667,-8.83333,34.11667,-8.83333",
+    "geom:latitude":-8.83333,
+    "geom:longitude":34.11667,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"878221",
+    "gn:asciiname":"Mapogoro",
+    "gn:country_code":"TZ",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":154795,
+    "gn:latitude":-8.83333,
+    "gn:longitude":34.11667,
+    "gn:modification_date":"2014-08-18",
+    "gn:name":"Mapogoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679641,
+        1108693015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154795
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"4fe940cf6d4cd4a04189c4734275020c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693015,
+            "locality_id":1225894573,
+            "region_id":85679641
+        }
+    ],
+    "wof:id":1225894573,
+    "wof:lastmodified":1536943932,
+    "wof:name":"Mapogoro",
+    "wof:parent_id":1108693015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.11667,
+    -8.83333,
+    34.11667,
+    -8.83333
+],
+  "geometry": {"coordinates":[34.11667,-8.83333],"type":"Point"}
+}

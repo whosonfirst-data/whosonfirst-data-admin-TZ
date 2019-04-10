@@ -1,0 +1,78 @@
+{
+  "id": 1126002979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.35,-8.78333,36.35,-8.78333",
+    "geom:latitude":-8.78333,
+    "geom:longitude":36.35,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":11122,
+    "gn:population":11122,
+    "iso:country":"TZ",
+    "lbl:latitude":-8.78333,
+    "lbl:longitude":36.35,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":152793,
+    "qs_pg:gn_pop":11122,
+    "qs_pg:name":"Mtimbira",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":520642,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        1108692937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152793,
+        "qs_pg:id":520642
+    },
+    "wof:country":"TZ",
+    "wof:created":1497299765,
+    "wof:geomhash":"de67eeada8c59cee4303e7d599df4b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692937,
+            "locality_id":1126002979,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1126002979,
+    "wof:lastmodified":1509406268,
+    "wof:name":"Mtimbira",
+    "wof:parent_id":1108692937,
+    "wof:placetype":"locality",
+    "wof:population":11122,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.35,
+    -8.78333,
+    36.35,
+    -8.78333
+],
+  "geometry": {"coordinates":[36.35,-8.78333],"type":"Point"}
+}

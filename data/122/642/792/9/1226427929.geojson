@@ -1,0 +1,67 @@
+{
+  "id": 1226427929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.91667,-1.93333,32.91667,-1.93333",
+    "geom:latitude":-1.93333,
+    "geom:longitude":32.91667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mibungo",
+    "gn:country_code":"TZ",
+    "gn:dem":1191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153972,
+    "gn:latitude":-1.93333,
+    "gn:longitude":32.91667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mibungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679655,
+        1108693103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153972
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"c9aaabfb367b7f05ad30caf98174742e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693103,
+            "locality_id":1226427929,
+            "region_id":85679655
+        }
+    ],
+    "wof:id":1226427929,
+    "wof:lastmodified":1536671146,
+    "wof:name":"Mibungo",
+    "wof:parent_id":1108693103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.91667,
+    -1.93333,
+    32.91667,
+    -1.93333
+],
+  "geometry": {"coordinates":[32.91667,-1.93333],"type":"Point"}
+}

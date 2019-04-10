@@ -1,0 +1,63 @@
+{
+  "id": 1209614393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93639,-4.79528,30.93639,-4.79528",
+    "geom:latitude":-4.79528,
+    "geom:longitude":30.93639,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1601",
+    "gn:admin3_code":"1601051",
+    "gn:asciiname":"Kabuga",
+    "gn:country_code":"TZ",
+    "gn:dem":1092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158658,
+    "gn:latitude":-4.79528,
+    "gn:longitude":30.93639,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kabuga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158658
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"b8285c8999cd94bb4f91f45cca72e23a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209614393
+        }
+    ],
+    "wof:id":1209614393,
+    "wof:lastmodified":1536281739,
+    "wof:name":"Kabuga",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.936390000000006,
+    -4.79528,
+    30.936390000000006,
+    -4.79528
+],
+  "geometry": {"coordinates":[30.93639000000001,-4.79528],"type":"Point"}
+}

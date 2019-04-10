@@ -1,0 +1,73 @@
+{
+  "id": 1327221823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.26667,-10.86667,39.26667,-10.86667",
+    "geom:latitude":-10.86667,
+    "geom:longitude":39.26667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0902",
+    "gn:admin3_code":"0902221",
+    "gn:asciiname":"Nambunga",
+    "gn:country_code":"TZ",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877644,
+    "gn:latitude":-10.86667,
+    "gn:longitude":39.26667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nambunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namkunga",
+        "Nambunga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679717,
+        1108692971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877644
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"f0b58b1a585d3a4b65af3ed05b1ec512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692971,
+            "locality_id":1327221823,
+            "region_id":85679717
+        }
+    ],
+    "wof:id":1327221823,
+    "wof:lastmodified":1537710063,
+    "wof:name":"Nambunga",
+    "wof:parent_id":1108692971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.26667,
+    -10.86667,
+    39.26667,
+    -10.86667
+],
+  "geometry": {"coordinates":[39.26667,-10.86667],"type":"Point"}
+}

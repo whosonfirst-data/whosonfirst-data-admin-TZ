@@ -1,0 +1,72 @@
+{
+  "id": 1343864381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95,-7.36667,35.95,-7.36667",
+    "geom:latitude":-7.36667,
+    "geom:longitude":35.95,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1101",
+    "gn:admin3_code":"1101201",
+    "gn:asciiname":"Nyongamiho",
+    "gn:country_code":"TZ",
+    "gn:dem":1099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150949,
+    "gn:latitude":-7.36667,
+    "gn:longitude":35.95,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nyongamiho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nyongamiho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679711,
+        421187959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150949
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"2c7251f5e93770640e3a5b6807ce81aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187959,
+            "locality_id":1343864381,
+            "region_id":85679711
+        }
+    ],
+    "wof:id":1343864381,
+    "wof:lastmodified":1537710000,
+    "wof:name":"Nyongamiho",
+    "wof:parent_id":421187959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95,
+    -7.36667,
+    35.95,
+    -7.36667
+],
+  "geometry": {"coordinates":[35.95,-7.36667],"type":"Point"}
+}

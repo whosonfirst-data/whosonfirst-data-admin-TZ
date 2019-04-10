@@ -1,0 +1,66 @@
+{
+  "id": 1209109251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.51478,-7.83577,38.51478,-7.83577",
+    "geom:latitude":-7.83577,
+    "geom:longitude":38.51478,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0605",
+    "gn:admin3_code":"0605061",
+    "gn:asciiname":"Kipungira",
+    "gn:country_code":"TZ",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7391081,
+    "gn:latitude":-7.83577,
+    "gn:longitude":38.51478,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kipungira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kipungira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7391081
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"e8123b982ca7a04faa0253f7ecb85042",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209109251
+        }
+    ],
+    "wof:id":1209109251,
+    "wof:lastmodified":1537710071,
+    "wof:name":"Kipungira",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.51478,
+    -7.83577,
+    38.51478,
+    -7.83577
+],
+  "geometry": {"coordinates":[38.51478,-7.83577],"type":"Point"}
+}

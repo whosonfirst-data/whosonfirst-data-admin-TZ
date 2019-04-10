@@ -1,0 +1,78 @@
+{
+  "id": 1125776497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.56667,-5.3,36.56667,-5.3",
+    "geom:latitude":-5.3,
+    "geom:longitude":36.56667,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5028,
+    "gn:population":5028,
+    "iso:country":"TZ",
+    "lbl:latitude":-5.3,
+    "lbl:longitude":36.56667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":158006,
+    "qs_pg:gn_pop":5028,
+    "qs_pg:name":"Kibaya",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":524745,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679733,
+        1108693129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158006,
+        "qs_pg:id":524745
+    },
+    "wof:country":"TZ",
+    "wof:created":1497290282,
+    "wof:geomhash":"b95b9a80554290bdcfd1c3bd5fbf78db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693129,
+            "locality_id":1125776497,
+            "region_id":85679733
+        }
+    ],
+    "wof:id":1125776497,
+    "wof:lastmodified":1509391317,
+    "wof:name":"Kibaya",
+    "wof:parent_id":1108693129,
+    "wof:placetype":"locality",
+    "wof:population":5028,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.56667,
+    -5.3,
+    36.56667,
+    -5.3
+],
+  "geometry": {"coordinates":[36.56667,-5.3],"type":"Point"}
+}

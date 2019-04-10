@@ -1,0 +1,78 @@
+{
+  "id": 1126002823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4,-3.55,33.4,-3.55",
+    "geom:latitude":-3.55,
+    "geom:longitude":33.4,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":23747,
+    "gn:population":23747,
+    "iso:country":"TZ",
+    "lbl:latitude":-3.55,
+    "lbl:longitude":33.4,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":150885,
+    "qs_pg:gn_pop":23747,
+    "qs_pg:name":"Old Shinyanga",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":518912,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679657,
+        1108693075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150885,
+        "qs_pg:id":518912
+    },
+    "wof:country":"TZ",
+    "wof:created":1497299753,
+    "wof:geomhash":"1d53bbeef7cc43e88ea17c690c803e20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693075,
+            "locality_id":1126002823,
+            "region_id":85679657
+        }
+    ],
+    "wof:id":1126002823,
+    "wof:lastmodified":1509406261,
+    "wof:name":"Old Shinyanga",
+    "wof:parent_id":1108693075,
+    "wof:placetype":"locality",
+    "wof:population":23747,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4,
+    -3.55,
+    33.4,
+    -3.55
+],
+  "geometry": {"coordinates":[33.4,-3.55],"type":"Point"}
+}

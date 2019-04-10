@@ -1,0 +1,72 @@
+{
+  "id": 1293772745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.86282,-7.89656,36.86282,-7.89656",
+    "geom:latitude":-7.89656,
+    "geom:longitude":36.86282,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0503",
+    "gn:admin3_code":"0503043",
+    "gn:asciiname":"Kisawasawa",
+    "gn:country_code":"TZ",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156986,
+    "gn:latitude":-7.89656,
+    "gn:longitude":36.86282,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kisawasawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kisawasawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        1108692935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156986
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"9f1c525f02705eaa8b3ce6f9f2418763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692935,
+            "locality_id":1293772745,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1293772745,
+    "wof:lastmodified":1537710035,
+    "wof:name":"Kisawasawa",
+    "wof:parent_id":1108692935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.86282,
+    -7.89656,
+    36.86282,
+    -7.89656
+],
+  "geometry": {"coordinates":[36.86282,-7.89656],"type":"Point"}
+}

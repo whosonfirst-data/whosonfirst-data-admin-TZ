@@ -1,0 +1,69 @@
+{
+  "id": 1225868893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.98333,-8.15,34.98333,-8.15",
+    "geom:latitude":-8.15,
+    "geom:longitude":34.98333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1102",
+    "gn:admin3_code":"1102141",
+    "gn:asciiname":"Waga",
+    "gn:country_code":"TZ",
+    "gn:dem":1479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148933,
+    "gn:latitude":-8.15,
+    "gn:longitude":34.98333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Waga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679711,
+        1108692997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148933
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"0609dd74f7071493df939ae0540edfaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692997,
+            "locality_id":1225868893,
+            "region_id":85679711
+        }
+    ],
+    "wof:id":1225868893,
+    "wof:lastmodified":1536979678,
+    "wof:name":"Waga",
+    "wof:parent_id":1108692997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.98333,
+    -8.15,
+    34.98333,
+    -8.15
+],
+  "geometry": {"coordinates":[34.98333,-8.15],"type":"Point"}
+}

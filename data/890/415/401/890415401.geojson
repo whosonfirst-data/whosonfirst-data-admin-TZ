@@ -1,0 +1,69 @@
+{
+  "id": 890415401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.33333,-10.9,39.33333,-10.9",
+    "geom:latitude":-10.9,
+    "geom:longitude":39.33333,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
+    "gn:pop":25145,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Luchingu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":125,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679717,
+        1108692971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878223,
+        "gp:id":1448503,
+        "qs:id":129841,
+        "wd:id":"Q7016553",
+        "wk:page":"Newala District"
+    },
+    "wof:country":"TZ",
+    "wof:created":1469051086,
+    "wof:geomhash":"de696f40ba7b9d2747c11ae9ac97278e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692971,
+            "locality_id":890415401,
+            "region_id":85679717
+        }
+    ],
+    "wof:id":890415401,
+    "wof:lastmodified":1527727237,
+    "wof:name":"Luchingu",
+    "wof:parent_id":1108692971,
+    "wof:placetype":"locality",
+    "wof:population":25145,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.33333,
+    -10.9,
+    39.33333,
+    -10.9
+],
+  "geometry": {"coordinates":[39.33333,-10.9],"type":"Point"}
+}

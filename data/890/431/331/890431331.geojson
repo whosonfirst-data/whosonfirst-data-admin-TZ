@@ -1,0 +1,68 @@
+{
+  "id": 890431331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.33333,-10.4,40.33333,-10.4",
+    "geom:latitude":-10.4,
+    "geom:longitude":40.33333,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
+    "gn:pop":12507,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Madimba",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":56,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679717,
+        1108692969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878141,
+        "gp:id":1445896,
+        "qs:id":275801,
+        "wk:page":"Madimba"
+    },
+    "wof:country":"TZ",
+    "wof:created":1469051887,
+    "wof:geomhash":"10893233859946489cf422d4badf5594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692969,
+            "locality_id":890431331,
+            "region_id":85679717
+        }
+    ],
+    "wof:id":890431331,
+    "wof:lastmodified":1527735408,
+    "wof:name":"Madimba",
+    "wof:parent_id":1108692969,
+    "wof:placetype":"locality",
+    "wof:population":12507,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.33333,
+    -10.4,
+    40.33333,
+    -10.4
+],
+  "geometry": {"coordinates":[40.33333,-10.4],"type":"Point"}
+}

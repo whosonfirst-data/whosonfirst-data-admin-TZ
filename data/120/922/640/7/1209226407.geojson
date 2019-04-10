@@ -1,0 +1,63 @@
+{
+  "id": 1209226407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.36667,-6.55,35.36667,-6.55",
+    "geom:latitude":-6.55,
+    "geom:longitude":35.36667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0106",
+    "gn:admin3_code":"0106151",
+    "gn:asciiname":"Maganga",
+    "gn:country_code":"TZ",
+    "gn:dem":921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155381,
+    "gn:latitude":-6.55,
+    "gn:longitude":35.36667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Maganga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155381
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"527c794611c10214f63267ef59f2fcfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209226407
+        }
+    ],
+    "wof:id":1209226407,
+    "wof:lastmodified":1536293785,
+    "wof:name":"Maganga",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.36667,
+    -6.55,
+    35.36667,
+    -6.55
+],
+  "geometry": {"coordinates":[35.36667,-6.55],"type":"Point"}
+}

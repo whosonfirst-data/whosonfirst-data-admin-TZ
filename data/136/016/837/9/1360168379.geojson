@@ -1,0 +1,72 @@
+{
+  "id": 1360168379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.7604,-7.40084,37.7604,-7.40084",
+    "geom:latitude":-7.40084,
+    "geom:longitude":37.7604,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0502",
+    "gn:admin3_code":"0502051",
+    "gn:asciiname":"Bwakira Chini",
+    "gn:country_code":"TZ",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160754,
+    "gn:latitude":-7.40084,
+    "gn:longitude":37.7604,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Bwakira Chini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bwakira Chini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        421193165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160754
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"c2a40c1e16d2474bb945f26cc475b1ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421193165,
+            "locality_id":1360168379,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1360168379,
+    "wof:lastmodified":1537710058,
+    "wof:name":"Bwakira Chini",
+    "wof:parent_id":421193165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.7604,
+    -7.40084,
+    37.7604,
+    -7.40084
+],
+  "geometry": {"coordinates":[37.7604,-7.40084],"type":"Point"}
+}

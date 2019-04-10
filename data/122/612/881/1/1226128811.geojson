@@ -1,0 +1,61 @@
+{
+  "id": 1226128811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.73333,-4.9,39.73333,-4.9",
+    "geom:latitude":-4.9,
+    "geom:longitude":39.73333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Chumbani",
+    "gn:country_code":"TZ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160341,
+    "gn:latitude":-4.9,
+    "gn:longitude":39.73333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Chumbani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160341
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"4f83a468c88cf6a26c1db5e04e14de5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226128811,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226128811,
+    "wof:lastmodified":1536602153,
+    "wof:name":"Chumbani",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.73333,
+    -4.9,
+    39.73333,
+    -4.9
+],
+  "geometry": {"coordinates":[39.73333,-4.9],"type":"Point"}
+}

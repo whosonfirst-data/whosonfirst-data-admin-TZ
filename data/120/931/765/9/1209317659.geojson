@@ -1,0 +1,66 @@
+{
+  "id": 1209317659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.29326,-7.1787,39.29326,-7.1787",
+    "geom:latitude":-7.1787,
+    "geom:longitude":39.29326,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0604",
+    "gn:admin3_code":"0604041",
+    "gn:asciiname":"Msorwa",
+    "gn:country_code":"TZ",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":152934,
+    "gn:latitude":-7.1787,
+    "gn:longitude":39.29326,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Msorwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Msorwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152934
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"30f2d4f445660c5f834a23a3173fc25d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209317659
+        }
+    ],
+    "wof:id":1209317659,
+    "wof:lastmodified":1537710011,
+    "wof:name":"Msorwa",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.29326,
+    -7.1787,
+    39.29326,
+    -7.1787
+],
+  "geometry": {"coordinates":[39.29326,-7.1787],"type":"Point"}
+}

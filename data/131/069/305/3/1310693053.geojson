@@ -1,0 +1,73 @@
+{
+  "id": 1310693053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.9,-10.21667,39.9,-10.21667",
+    "geom:latitude":-10.21667,
+    "geom:longitude":39.9,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0802",
+    "gn:admin3_code":"0802091",
+    "gn:asciiname":"Ntegu",
+    "gn:country_code":"TZ",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877480,
+    "gn:latitude":-10.21667,
+    "gn:longitude":39.9,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ntegu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mtegu",
+        "Ntegu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679713,
+        1108692957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877480
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"505cf307dc977522c9ef1e268278e9a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692957,
+            "locality_id":1310693053,
+            "region_id":85679713
+        }
+    ],
+    "wof:id":1310693053,
+    "wof:lastmodified":1537710062,
+    "wof:name":"Ntegu",
+    "wof:parent_id":1108692957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.9,
+    -10.21667,
+    39.9,
+    -10.21667
+],
+  "geometry": {"coordinates":[39.9,-10.21667],"type":"Point"}
+}

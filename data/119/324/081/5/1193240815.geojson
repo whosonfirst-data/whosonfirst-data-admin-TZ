@@ -1,0 +1,79 @@
+{
+  "id": 1193240815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.50083,-2.50972,30.50083,-2.50972",
+    "geom:latitude":-2.50972,
+    "geom:longitude":30.50083,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1805",
+    "gn:admin3_code":"1805121",
+    "gn:asciiname":"Murutabo",
+    "gn:country_code":"TZ",
+    "gn:dem":1729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387428,
+    "gn:latitude":-2.50972,
+    "gn:longitude":30.50083,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Murutabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632285,
+        85668787,
+        1108759399,
+        85632227,
+        85679665,
+        1108693095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387428
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"7a7c115366604aead5ef3a4742809f97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759399,
+            "locality_id":1193240815,
+            "region_id":85668787
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693095,
+            "locality_id":1193240815,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1193240815,
+    "wof:lastmodified":1536378625,
+    "wof:name":"Murutabo",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.50083,
+    -2.50972,
+    30.50083,
+    -2.50972
+],
+  "geometry": {"coordinates":[30.50083,-2.50972],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1260334631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.18333,-9.35,34.18333,-9.35",
+    "geom:latitude":-9.35,
+    "geom:longitude":34.18333,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"2203",
+    "gn:admin3_code":"2203011",
+    "gn:asciiname":"Lupalilo",
+    "gn:country_code":"TZ",
+    "gn:dem":2025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155594,
+    "gn:latitude":-9.35,
+    "gn:longitude":34.18333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Lupalilo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679765,
+        1108693137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155594
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"24766f19568cb488d43afd4cc41f8f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693137,
+            "locality_id":1260334631,
+            "region_id":85679765
+        }
+    ],
+    "wof:id":1260334631,
+    "wof:lastmodified":1536642761,
+    "wof:name":"Lupalilo",
+    "wof:parent_id":1108693137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.18333,
+    -9.35,
+    34.18333,
+    -9.35
+],
+  "geometry": {"coordinates":[34.18333,-9.35],"type":"Point"}
+}

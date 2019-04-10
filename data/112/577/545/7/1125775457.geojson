@@ -1,0 +1,94 @@
+{
+  "id": 1125775457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.08333,-2.85,33.08333,-2.85",
+    "geom:latitude":-2.85,
+    "geom:longitude":33.08333,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":35530,
+    "gn:population":35530,
+    "iso:country":"TZ",
+    "lbl:latitude":-2.85,
+    "lbl:longitude":33.08333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Misungwi"
+    ],
+    "name:eng_x_preferred":[
+        "Misungwi"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03b9\u03c3\u03bf\u03c5\u03bd\u03b3\u03ba\u03bf\u03cd\u03b9"
+    ],
+    "name:swa_x_preferred":[
+        "Wilaya ya Misungwi"
+    ],
+    "name:unk_x_variant":[
+        "Isungwi"
+    ],
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":153759,
+    "qs_pg:gn_pop":35530,
+    "qs_pg:name":"Missungwi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":522157,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679655,
+        1108693115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153759,
+        "qs_pg:id":522157,
+        "wd:id":"Q6880637"
+    },
+    "wof:country":"TZ",
+    "wof:created":1497290237,
+    "wof:geomhash":"f7d4371b1737748cc87dd0b77d28c1ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693115,
+            "locality_id":1125775457,
+            "region_id":85679655
+        }
+    ],
+    "wof:id":1125775457,
+    "wof:lastmodified":1514508664,
+    "wof:name":"Missungwi",
+    "wof:parent_id":1108693115,
+    "wof:placetype":"locality",
+    "wof:population":35530,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.08333,
+    -2.85,
+    33.08333,
+    -2.85
+],
+  "geometry": {"coordinates":[33.08333,-2.85],"type":"Point"}
+}

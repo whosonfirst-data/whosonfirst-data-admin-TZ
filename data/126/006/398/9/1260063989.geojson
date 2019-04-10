@@ -1,0 +1,81 @@
+{
+  "id": 1260063989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.51492,-7.17858,37.51492,-7.17858",
+    "geom:latitude":-7.17858,
+    "geom:longitude":37.51492,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0506",
+    "gn:admin3_code":"0506111",
+    "gn:asciiname":"Chkurufumi",
+    "gn:country_code":"TZ",
+    "gn:dem":1276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150016,
+    "gn:latitude":-7.17858,
+    "gn:longitude":37.51492,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Chkurufumi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chkurufumi"
+    ],
+    "name:eng_x_variant":[
+        "Shikurufumi",
+        "Chikarafumi",
+        "Chigarafumi"
+    ],
+    "name:und_x_variant":[
+        "Chikarafumi",
+        "Chigarafumi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        1108692941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150016
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"df9f4d91a4fca8ed188362894f30bd21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692941,
+            "locality_id":1260063989,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1260063989,
+    "wof:lastmodified":1537709996,
+    "wof:name":"Chkurufumi",
+    "wof:parent_id":1108692941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.51492,
+    -7.17858,
+    37.51492,
+    -7.17858
+],
+  "geometry": {"coordinates":[37.51492,-7.17858],"type":"Point"}
+}

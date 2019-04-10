@@ -1,0 +1,63 @@
+{
+  "id": 1209040827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.6,-3.23333,33.6,-3.23333",
+    "geom:latitude":-3.23333,
+    "geom:longitude":33.6,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2404",
+    "gn:admin3_code":"2404141",
+    "gn:asciiname":"Ngegemu",
+    "gn:country_code":"TZ",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151690,
+    "gn:latitude":-3.23333,
+    "gn:longitude":33.6,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ngegemu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151690
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"d1d6c36ad982d4dba2b6692c62ca9abb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209040827
+        }
+    ],
+    "wof:id":1209040827,
+    "wof:lastmodified":1536299551,
+    "wof:name":"Ngegemu",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.6,
+    -3.23333,
+    33.6,
+    -3.23333
+],
+  "geometry": {"coordinates":[33.6,-3.23333],"type":"Point"}
+}

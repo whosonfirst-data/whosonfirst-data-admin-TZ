@@ -1,0 +1,67 @@
+{
+  "id": 1242764671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.29469,-2.67063,32.29469,-2.67063",
+    "geom:latitude":-2.67063,
+    "geom:longitude":32.29469,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kishinda",
+    "gn:country_code":"TZ",
+    "gn:dem":1267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8549551,
+    "gn:latitude":-2.67063,
+    "gn:longitude":32.29469,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Kishinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679761,
+        1108693163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8549551
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"b5842b4f1d875e2eecb23591ab831762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693163,
+            "locality_id":1242764671,
+            "region_id":85679761
+        }
+    ],
+    "wof:id":1242764671,
+    "wof:lastmodified":1536794505,
+    "wof:name":"Kishinda",
+    "wof:parent_id":1108693163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.29469,
+    -2.67063,
+    32.29469,
+    -2.67063
+],
+  "geometry": {"coordinates":[32.29469,-2.67063],"type":"Point"}
+}

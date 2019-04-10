@@ -1,0 +1,70 @@
+{
+  "id": 1259657439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.38333,-10.7,35.38333,-10.7",
+    "geom:latitude":-10.7,
+    "geom:longitude":35.38333,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1002",
+    "gn:admin3_code":"1002171",
+    "gn:asciiname":"Matamondo",
+    "gn:country_code":"TZ",
+    "gn:dem":931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":878049,
+    "gn:latitude":-10.7,
+    "gn:longitude":35.38333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Matamondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679723,
+        1108692987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878049,
+        "wk:page":"Matamondo"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"29ff0db2cfa76c48be97b4521d2d3b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692987,
+            "locality_id":1259657439,
+            "region_id":85679723
+        }
+    ],
+    "wof:id":1259657439,
+    "wof:lastmodified":1537574863,
+    "wof:name":"Matamondo",
+    "wof:parent_id":1108692987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.38333,
+    -10.7,
+    35.38333,
+    -10.7
+],
+  "geometry": {"coordinates":[35.38333,-10.7],"type":"Point"}
+}

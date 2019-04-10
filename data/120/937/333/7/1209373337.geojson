@@ -1,0 +1,63 @@
+{
+  "id": 1209373337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.3,-5.83333,39.3,-5.83333",
+    "geom:latitude":-5.83333,
+    "geom:longitude":39.3,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"5101",
+    "gn:admin3_code":"5101121",
+    "gn:asciiname":"Kigongoni",
+    "gn:country_code":"TZ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":157711,
+    "gn:latitude":-5.83333,
+    "gn:longitude":39.3,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kigongoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":157711
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"fdc66b7997d70229bc645221f2981bea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209373337
+        }
+    ],
+    "wof:id":1209373337,
+    "wof:lastmodified":1536289034,
+    "wof:name":"Kigongoni",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.3,
+    -5.83333,
+    39.3,
+    -5.83333
+],
+  "geometry": {"coordinates":[39.3,-5.83333],"type":"Point"}
+}

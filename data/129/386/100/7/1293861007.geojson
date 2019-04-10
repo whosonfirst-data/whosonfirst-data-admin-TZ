@@ -1,0 +1,67 @@
+{
+  "id": 1293861007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.12866,-2.57308,32.12866,-2.57308",
+    "geom:latitude":-2.57308,
+    "geom:longitude":32.12866,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nzera",
+    "gn:country_code":"TZ",
+    "gn:dem":1167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150925,
+    "gn:latitude":-2.57308,
+    "gn:longitude":32.12866,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Nzera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679761,
+        1108693163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150925
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"160d66b88662f88ae6fa0338a7e193a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693163,
+            "locality_id":1293861007,
+            "region_id":85679761
+        }
+    ],
+    "wof:id":1293861007,
+    "wof:lastmodified":1536745470,
+    "wof:name":"Nzera",
+    "wof:parent_id":1108693163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.12866,
+    -2.57308,
+    32.12866,
+    -2.57308
+],
+  "geometry": {"coordinates":[32.12866,-2.57308],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1126003577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.28333,-8.73333,35.28333,-8.73333",
+    "geom:latitude":-8.73333,
+    "geom:longitude":35.28333,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":10291,
+    "gn:population":10291,
+    "iso:country":"TZ",
+    "lbl:latitude":-8.73333,
+    "lbl:longitude":35.28333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Makuugu"
+    ],
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":155093,
+    "qs_pg:gn_pop":10291,
+    "qs_pg:name":"Makungu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":522903,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679711,
+        1108692997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155093,
+        "qs_pg:id":522903
+    },
+    "wof:country":"TZ",
+    "wof:created":1497299798,
+    "wof:geomhash":"7071919f3d5e575722c9b4cb35303220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692997,
+            "locality_id":1126003577,
+            "region_id":85679711
+        }
+    ],
+    "wof:id":1126003577,
+    "wof:lastmodified":1509406298,
+    "wof:name":"Makungu",
+    "wof:parent_id":1108692997,
+    "wof:placetype":"locality",
+    "wof:population":10291,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.28333,
+    -8.73333,
+    35.28333,
+    -8.73333
+],
+  "geometry": {"coordinates":[35.28333,-8.73333],"type":"Point"}
+}

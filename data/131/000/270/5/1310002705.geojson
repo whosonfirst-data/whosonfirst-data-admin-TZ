@@ -1,0 +1,67 @@
+{
+  "id": 1310002705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.85,-2.03333,32.85,-2.03333",
+    "geom:latitude":-2.03333,
+    "geom:longitude":32.85,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bwiru",
+    "gn:country_code":"TZ",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160717,
+    "gn:latitude":-2.03333,
+    "gn:longitude":32.85,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Bwiru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679655,
+        1108693103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160717
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"dd7e0eebc9def92f68c31b90492045c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693103,
+            "locality_id":1310002705,
+            "region_id":85679655
+        }
+    ],
+    "wof:id":1310002705,
+    "wof:lastmodified":1536646970,
+    "wof:name":"Bwiru",
+    "wof:parent_id":1108693103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.85,
+    -2.03333,
+    32.85,
+    -2.03333
+],
+  "geometry": {"coordinates":[32.85,-2.03333],"type":"Point"}
+}

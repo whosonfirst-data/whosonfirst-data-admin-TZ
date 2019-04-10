@@ -1,0 +1,78 @@
+{
+  "id": 1126003517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.51667,-8.3,31.51667,-8.3",
+    "geom:latitude":-8.3,
+    "geom:longitude":31.51667,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":24070,
+    "gn:population":24070,
+    "iso:country":"TZ",
+    "lbl:latitude":-8.3,
+    "lbl:longitude":31.51667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":154638,
+    "qs_pg:gn_pop":24070,
+    "qs_pg:name":"Matai",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":522760,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679645,
+        1108693049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154638,
+        "qs_pg:id":522760
+    },
+    "wof:country":"TZ",
+    "wof:created":1497299793,
+    "wof:geomhash":"65e28f52e3ce5731a93a048f97e50c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693049,
+            "locality_id":1126003517,
+            "region_id":85679645
+        }
+    ],
+    "wof:id":1126003517,
+    "wof:lastmodified":1509406296,
+    "wof:name":"Matai",
+    "wof:parent_id":1108693049,
+    "wof:placetype":"locality",
+    "wof:population":24070,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.51667,
+    -8.3,
+    31.51667,
+    -8.3
+],
+  "geometry": {"coordinates":[31.51667,-8.3],"type":"Point"}
+}

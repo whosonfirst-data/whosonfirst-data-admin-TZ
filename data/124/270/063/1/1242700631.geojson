@@ -1,0 +1,72 @@
+{
+  "id": 1242700631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1296,-6.29483,30.1296,-6.29483",
+    "geom:latitude":-6.29483,
+    "geom:longitude":30.1296,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1605",
+    "gn:admin3_code":"1605031",
+    "gn:asciiname":"Bugala",
+    "gn:country_code":"TZ",
+    "gn:dem":1080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161031,
+    "gn:latitude":-6.29483,
+    "gn:longitude":30.1296,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Bugala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bugala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679669,
+        1108693065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161031
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"8743df871ef79856416588895af95233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693065,
+            "locality_id":1242700631,
+            "region_id":85679669
+        }
+    ],
+    "wof:id":1242700631,
+    "wof:lastmodified":1537710060,
+    "wof:name":"Bugala",
+    "wof:parent_id":1108693065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1296,
+    -6.29483,
+    30.1296,
+    -6.29483
+],
+  "geometry": {"coordinates":[30.1296,-6.29483],"type":"Point"}
+}

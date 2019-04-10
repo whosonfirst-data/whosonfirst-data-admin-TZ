@@ -1,0 +1,61 @@
+{
+  "id": 1260038845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.33333,-6.28333,39.33333,-6.28333",
+    "geom:latitude":-6.28333,
+    "geom:longitude":39.33333,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kikungwi",
+    "gn:country_code":"TZ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":157536,
+    "gn:latitude":-6.28333,
+    "gn:longitude":39.33333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kikungwi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":157536
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"bb4871e207c36d4e3aaa3f7a19164e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260038845,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260038845,
+    "wof:lastmodified":1537050359,
+    "wof:name":"Kikungwi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.33333,
+    -6.28333,
+    39.33333,
+    -6.28333
+],
+  "geometry": {"coordinates":[39.33333,-6.28333],"type":"Point"}
+}

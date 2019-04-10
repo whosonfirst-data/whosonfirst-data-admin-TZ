@@ -1,0 +1,80 @@
+{
+  "id": 1226541629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.50571,-7.13297,36.50571,-7.13297",
+    "geom:latitude":-7.13297,
+    "geom:longitude":36.50571,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0102",
+    "gn:admin3_code":"0102091",
+    "gn:asciiname":"Irondo",
+    "gn:country_code":"TZ",
+    "gn:dem":1170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159060,
+    "gn:latitude":-7.13297,
+    "gn:longitude":36.50571,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Irondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Irondo"
+    ],
+    "name:eng_x_variant":[
+        "Iranda",
+        "Ipera"
+    ],
+    "name:und_x_variant":[
+        "Ipera",
+        "Iranda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679705,
+        1108692893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159060
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"1f9d016b6b88f4ca9ee6024c434882cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692893,
+            "locality_id":1226541629,
+            "region_id":85679705
+        }
+    ],
+    "wof:id":1226541629,
+    "wof:lastmodified":1537710049,
+    "wof:name":"Irondo",
+    "wof:parent_id":1108692893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.50571,
+    -7.13297,
+    36.50571,
+    -7.13297
+],
+  "geometry": {"coordinates":[36.50571,-7.13297],"type":"Point"}
+}

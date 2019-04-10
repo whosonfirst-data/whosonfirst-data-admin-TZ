@@ -1,0 +1,78 @@
+{
+  "id": 1126002747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2,-3.88333,33.2,-3.88333",
+    "geom:latitude":-3.88333,
+    "geom:longitude":33.2,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":22082,
+    "gn:population":22082,
+    "iso:country":"TZ",
+    "lbl:latitude":-3.88333,
+    "lbl:longitude":33.2,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":149512,
+    "qs_pg:gn_pop":22082,
+    "qs_pg:name":"Tinde",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":517443,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679657,
+        1108693079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149512,
+        "qs_pg:id":517443
+    },
+    "wof:country":"TZ",
+    "wof:created":1497299749,
+    "wof:geomhash":"d2f844f260633d9e92e7147cf27e3663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693079,
+            "locality_id":1126002747,
+            "region_id":85679657
+        }
+    ],
+    "wof:id":1126002747,
+    "wof:lastmodified":1509406254,
+    "wof:name":"Tinde",
+    "wof:parent_id":1108693079,
+    "wof:placetype":"locality",
+    "wof:population":22082,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2,
+    -3.88333,
+    33.2,
+    -3.88333
+],
+  "geometry": {"coordinates":[33.2,-3.88333],"type":"Point"}
+}

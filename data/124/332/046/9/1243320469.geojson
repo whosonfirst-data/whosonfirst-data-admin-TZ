@@ -1,0 +1,76 @@
+{
+  "id": 1243320469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.26667,-2.73333,36.26667,-2.73333",
+    "geom:latitude":-2.73333,
+    "geom:longitude":36.26667,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"0207",
+    "gn:admin3_code":"0207011",
+    "gn:asciiname":"Kitumbeine",
+    "gn:country_code":"TZ",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156755,
+    "gn:latitude":-2.73333,
+    "gn:longitude":36.26667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kitumbeine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ketumbeine",
+        "Kmumbeine",
+        "Ketumbaine",
+        "Kitumbeine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679731,
+        1108692911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156755,
+        "wk:page":"Kitumbeine"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"781de6a3d39b32ff0000e437432f5692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692911,
+            "locality_id":1243320469,
+            "region_id":85679731
+        }
+    ],
+    "wof:id":1243320469,
+    "wof:lastmodified":1537710034,
+    "wof:name":"Kitumbeine",
+    "wof:parent_id":1108692911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.26667,
+    -2.73333,
+    36.26667,
+    -2.73333
+],
+  "geometry": {"coordinates":[36.26667,-2.73333],"type":"Point"}
+}

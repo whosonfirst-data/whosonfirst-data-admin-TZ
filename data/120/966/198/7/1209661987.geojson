@@ -1,0 +1,63 @@
+{
+  "id": 1209661987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.83333,-10.1,34.83333,-10.1",
+    "geom:latitude":-10.1,
+    "geom:longitude":34.83333,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"2205",
+    "gn:admin3_code":"2205121",
+    "gn:asciiname":"Mariza",
+    "gn:country_code":"TZ",
+    "gn:dem":1502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":878064,
+    "gn:latitude":-10.1,
+    "gn:longitude":34.83333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mariza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878064
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"26c24e5ceaa837e40f8289aea0130c44",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209661987
+        }
+    ],
+    "wof:id":1209661987,
+    "wof:lastmodified":1536280222,
+    "wof:name":"Mariza",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.83333,
+    -10.1,
+    34.83333,
+    -10.1
+],
+  "geometry": {"coordinates":[34.83333,-10.1],"type":"Point"}
+}

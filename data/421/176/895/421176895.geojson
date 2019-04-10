@@ -1,0 +1,92 @@
+{
+  "id": 421176895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.05,-2.13333,33.05,-2.13333",
+    "geom:latitude":-2.13333,
+    "geom:longitude":33.05,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041d\u0430\u043d\u0441\u0438\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Nansio"
+    ],
+    "name:eng_x_preferred":[
+        "Nansio"
+    ],
+    "name:swa_x_preferred":[
+        "Nansio"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":151920,
+    "qs:gn_pop":6437,
+    "qs:name":"Nansio",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Mwanza",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":25,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1090056,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1448391,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":101,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151920,
+        "gp:id":1448391,
+        "qs:id":1090056,
+        "wd:id":"Q10996284",
+        "wk:page":"Nansio"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009123,
+    "wof:geomhash":"3ef8e9fb905583707a46e71a45b03494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "locality_id":421176895,
+            "region_id":85679655
+        }
+    ],
+    "wof:id":421176895,
+    "wof:lastmodified":1527726470,
+    "wof:name":"Nansio",
+    "wof:parent_id":85679655,
+    "wof:placetype":"locality",
+    "wof:population":6437,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.05,
+    -2.13333,
+    33.05,
+    -2.13333
+],
+  "geometry": {"coordinates":[33.05,-2.13333],"type":"Point"}
+}

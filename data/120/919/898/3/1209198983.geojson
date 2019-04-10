@@ -1,0 +1,63 @@
+{
+  "id": 1209198983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.78333,-9.0,32.78333,-9.0",
+    "geom:latitude":-9.0,
+    "geom:longitude":32.78333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1206",
+    "gn:admin3_code":"1206141",
+    "gn:asciiname":"Nkota",
+    "gn:country_code":"TZ",
+    "gn:dem":1421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151425,
+    "gn:latitude":-9.0,
+    "gn:longitude":32.78333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nkota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151425
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"86974cde003f58fe29303e8f18558878",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209198983
+        }
+    ],
+    "wof:id":1209198983,
+    "wof:lastmodified":1536294675,
+    "wof:name":"Nkota",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.78333,
+    -9.0,
+    32.78333,
+    -9.0
+],
+  "geometry": {"coordinates":[32.78333,-9.0],"type":"Point"}
+}

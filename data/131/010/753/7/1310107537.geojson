@@ -1,0 +1,69 @@
+{
+  "id": 1310107537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.05,-4.53333,36.05,-4.53333",
+    "geom:latitude":-4.53333,
+    "geom:longitude":36.05,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0101",
+    "gn:admin3_code":"0101201",
+    "gn:asciiname":"Chubi",
+    "gn:country_code":"TZ",
+    "gn:dem":1190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160360,
+    "gn:latitude":-4.53333,
+    "gn:longitude":36.05,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Chubi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679705,
+        1108692889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160360
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"1a55e27f3f2a4ef5b68ff3db46bcf3af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692889,
+            "locality_id":1310107537,
+            "region_id":85679705
+        }
+    ],
+    "wof:id":1310107537,
+    "wof:lastmodified":1536992700,
+    "wof:name":"Chubi",
+    "wof:parent_id":1108692889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.05,
+    -4.53333,
+    36.05,
+    -4.53333
+],
+  "geometry": {"coordinates":[36.05,-4.53333],"type":"Point"}
+}

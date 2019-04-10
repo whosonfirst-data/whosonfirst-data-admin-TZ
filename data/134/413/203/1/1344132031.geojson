@@ -1,0 +1,69 @@
+{
+  "id": 1344132031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.61056,-1.27194,30.61056,-1.27194",
+    "geom:latitude":-1.27194,
+    "geom:longitude":30.61056,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1808",
+    "gn:admin3_code":"1808021",
+    "gn:asciiname":"Nyakakoni",
+    "gn:country_code":"TZ",
+    "gn:dem":1375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442844,
+    "gn:latitude":-1.27194,
+    "gn:longitude":30.61056,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nyakakoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442844
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"3f191287b17e245959ea0af38d08bab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693101,
+            "locality_id":1344132031,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1344132031,
+    "wof:lastmodified":1536773010,
+    "wof:name":"Nyakakoni",
+    "wof:parent_id":1108693101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.61056,
+    -1.27194,
+    30.61056,
+    -1.27194
+],
+  "geometry": {"coordinates":[30.61056,-1.27194],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1243137665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.41194,-1.08861,31.41194,-1.08861",
+    "geom:latitude":-1.08861,
+    "geom:longitude":31.41194,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1807",
+    "gn:admin3_code":"1807021",
+    "gn:asciiname":"Kabwoba",
+    "gn:country_code":"TZ",
+    "gn:dem":1192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158646,
+    "gn:latitude":-1.08861,
+    "gn:longitude":31.41194,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kabwoba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158646
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"862b7006e402a37a99ab7694aaa72434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693099,
+            "locality_id":1243137665,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1243137665,
+    "wof:lastmodified":1536753887,
+    "wof:name":"Kabwoba",
+    "wof:parent_id":1108693099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.41194,
+    -1.08861,
+    31.41194,
+    -1.08861
+],
+  "geometry": {"coordinates":[31.41194,-1.08861],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 421178415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.05,-7.51667,31.05,-7.51667",
+    "geom:latitude":-7.51667,
+    "geom:longitude":31.05,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":151986,
+    "qs:gn_pop":28218,
+    "qs:name":"Namanyere",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Rukwa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":122506,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1448299,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679645,
+        1108693055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151986,
+        "gp:id":1448299,
+        "qs:id":122506
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009181,
+    "wof:geomhash":"a258627841522d898c8201eeb24a4e6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693055,
+            "locality_id":421178415,
+            "region_id":85679645
+        }
+    ],
+    "wof:id":421178415,
+    "wof:lastmodified":1505340636,
+    "wof:name":"Namanyere",
+    "wof:parent_id":1108693055,
+    "wof:placetype":"locality",
+    "wof:population":28218,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.05,
+    -7.51667,
+    31.05,
+    -7.51667
+],
+  "geometry": {"coordinates":[31.05,-7.51667],"type":"Point"}
+}

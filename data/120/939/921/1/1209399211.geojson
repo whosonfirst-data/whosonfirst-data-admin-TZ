@@ -1,0 +1,68 @@
+{
+  "id": 1209399211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.93333,-9.58333,33.93333,-9.58333",
+    "geom:latitude":-9.58333,
+    "geom:longitude":33.93333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1203",
+    "gn:admin3_code":"1203061",
+    "gn:asciiname":"Itungi Port",
+    "gn:country_code":"TZ",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158867,
+    "gn:latitude":-9.58333,
+    "gn:longitude":33.93333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Itungi Port",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Itungi",
+        "Itunge",
+        "Itungi Port"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158867
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"049da698e7c6743870ff7f523f14ccc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209399211
+        }
+    ],
+    "wof:id":1209399211,
+    "wof:lastmodified":1537710047,
+    "wof:name":"Itungi Port",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.93333,
+    -9.58333,
+    33.93333,
+    -9.58333
+],
+  "geometry": {"coordinates":[33.93333,-9.58333],"type":"Point"}
+}

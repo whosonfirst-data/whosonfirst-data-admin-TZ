@@ -1,0 +1,61 @@
+{
+  "id": 1276611133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.26667,-6.31667,39.26667,-6.31667",
+    "geom:latitude":-6.31667,
+    "geom:longitude":39.26667,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Chaleni",
+    "gn:country_code":"TZ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160662,
+    "gn:latitude":-6.31667,
+    "gn:longitude":39.26667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Chaleni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160662
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"2c07cfc2e62f24b79d486f3b2b9ee86a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276611133,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276611133,
+    "wof:lastmodified":1536904191,
+    "wof:name":"Chaleni",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.26667,
+    -6.31667,
+    39.26667,
+    -6.31667
+],
+  "geometry": {"coordinates":[39.26667,-6.31667],"type":"Point"}
+}

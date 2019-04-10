@@ -1,0 +1,63 @@
+{
+  "id": 1209362093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1,-3.01667,32.1,-3.01667",
+    "geom:latitude":-3.01667,
+    "geom:longitude":32.1,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"2501",
+    "gn:admin3_code":"2501271",
+    "gn:asciiname":"Nyambale",
+    "gn:country_code":"TZ",
+    "gn:dem":1308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151168,
+    "gn:latitude":-3.01667,
+    "gn:longitude":32.1,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nyambale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151168
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"bfe2e3316abc14eaeb5f4a91226c1fac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209362093
+        }
+    ],
+    "wof:id":1209362093,
+    "wof:lastmodified":1536289388,
+    "wof:name":"Nyambale",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1,
+    -3.01667,
+    32.1,
+    -3.01667
+],
+  "geometry": {"coordinates":[32.1,-3.01667],"type":"Point"}
+}

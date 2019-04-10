@@ -1,0 +1,67 @@
+{
+  "id": 1193098849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.8,-5.2,39.8,-5.2",
+    "geom:latitude":-5.2,
+    "geom:longitude":39.8,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Vikongoni",
+    "gn:country_code":"TZ",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148983,
+    "gn:latitude":-5.2,
+    "gn:longitude":39.8,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Vikongoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679683,
+        421190259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148983
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"bcba6bb55ab11b05c289406bd44cb8bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421190259,
+            "locality_id":1193098849,
+            "region_id":85679683
+        }
+    ],
+    "wof:id":1193098849,
+    "wof:lastmodified":1536364059,
+    "wof:name":"Vikongoni",
+    "wof:parent_id":421190259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.8,
+    -5.2,
+    39.8,
+    -5.2
+],
+  "geometry": {"coordinates":[39.8,-5.2],"type":"Point"}
+}

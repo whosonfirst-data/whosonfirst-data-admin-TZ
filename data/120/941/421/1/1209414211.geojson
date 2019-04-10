@@ -1,0 +1,66 @@
+{
+  "id": 1209414211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.06979,-6.19723,30.06979,-6.19723",
+    "geom:latitude":-6.19723,
+    "geom:longitude":30.06979,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1605",
+    "gn:admin3_code":"1605021",
+    "gn:asciiname":"Masaba",
+    "gn:country_code":"TZ",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":154746,
+    "gn:latitude":-6.19723,
+    "gn:longitude":30.06979,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Masaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Masaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154746
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"daf784d9d3b61d6ba309ab3058974622",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209414211
+        }
+    ],
+    "wof:id":1209414211,
+    "wof:lastmodified":1537710022,
+    "wof:name":"Masaba",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.06979,
+    -6.19723,
+    30.06979,
+    -6.19723
+],
+  "geometry": {"coordinates":[30.06979,-6.19723],"type":"Point"}
+}

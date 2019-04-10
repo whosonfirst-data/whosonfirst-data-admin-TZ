@@ -1,0 +1,69 @@
+{
+  "id": 1343926673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.28333,-5.98333,39.28333,-5.98333",
+    "geom:latitude":-5.98333,
+    "geom:longitude":39.28333,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"5102",
+    "gn:admin3_code":"5102221",
+    "gn:asciiname":"Mvumo Cheche",
+    "gn:country_code":"TZ",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":152390,
+    "gn:latitude":-5.98333,
+    "gn:longitude":39.28333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mvumo Cheche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679695,
+        421194823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152390
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"b2bd64c8d7d1a02ffed246b3e029c19e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421194823,
+            "locality_id":1343926673,
+            "region_id":85679695
+        }
+    ],
+    "wof:id":1343926673,
+    "wof:lastmodified":1537065961,
+    "wof:name":"Mvumo Cheche",
+    "wof:parent_id":421194823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.28333,
+    -5.98333,
+    39.28333,
+    -5.98333
+],
+  "geometry": {"coordinates":[39.28333,-5.98333],"type":"Point"}
+}

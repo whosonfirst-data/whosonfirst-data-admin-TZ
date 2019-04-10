@@ -1,0 +1,63 @@
+{
+  "id": 1209288499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.31667,-6.18333,39.31667,-6.18333",
+    "geom:latitude":-6.18333,
+    "geom:longitude":39.31667,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5201",
+    "gn:admin3_code":"5201261",
+    "gn:asciiname":"Kikozi",
+    "gn:country_code":"TZ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":157549,
+    "gn:latitude":-6.18333,
+    "gn:longitude":39.31667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kikozi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":157549
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"88b72a2aa54b29ca690c1392b78ad5b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209288499
+        }
+    ],
+    "wof:id":1209288499,
+    "wof:lastmodified":1536291776,
+    "wof:name":"Kikozi",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.31667,
+    -6.1833300000000015,
+    39.31667,
+    -6.1833300000000015
+],
+  "geometry": {"coordinates":[39.31667,-6.18333],"type":"Point"}
+}

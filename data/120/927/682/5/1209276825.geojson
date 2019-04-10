@@ -1,0 +1,63 @@
+{
+  "id": 1209276825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.91111,-1.41806,30.91111,-1.41806",
+    "geom:latitude":-1.41806,
+    "geom:longitude":30.91111,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1808",
+    "gn:admin3_code":"1808121",
+    "gn:asciiname":"Kakanja",
+    "gn:country_code":"TZ",
+    "gn:dem":1300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389637,
+    "gn:latitude":-1.41806,
+    "gn:longitude":30.91111,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kakanja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389637
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"7fc7f27123be01bc80d5642f45aed709",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209276825
+        }
+    ],
+    "wof:id":1209276825,
+    "wof:lastmodified":1536292164,
+    "wof:name":"Kakanja",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.91111,
+    -1.41806,
+    30.91111,
+    -1.41806
+],
+  "geometry": {"coordinates":[30.91111,-1.41806],"type":"Point"}
+}

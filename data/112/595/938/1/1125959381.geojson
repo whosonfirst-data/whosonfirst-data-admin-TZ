@@ -1,0 +1,78 @@
+{
+  "id": 1125959381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.51667,-4.41667,35.51667,-4.41667",
+    "geom:latitude":-4.41667,
+    "geom:longitude":35.51667,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":14576,
+    "gn:population":14576,
+    "iso:country":"TZ",
+    "lbl:latitude":-4.41667,
+    "lbl:longitude":35.51667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":160073,
+    "qs_pg:gn_pop":14576,
+    "qs_pg:name":"Endasak",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":69117,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679733,
+        421171039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160073,
+        "qs_pg:id":69117
+    },
+    "wof:country":"TZ",
+    "wof:created":1497297740,
+    "wof:geomhash":"330d86a94948638cb36d6fccc9a9cbc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421171039,
+            "locality_id":1125959381,
+            "region_id":85679733
+        }
+    ],
+    "wof:id":1125959381,
+    "wof:lastmodified":1509403196,
+    "wof:name":"Endasak",
+    "wof:parent_id":421171039,
+    "wof:placetype":"locality",
+    "wof:population":14576,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.51667,
+    -4.41667,
+    35.51667,
+    -4.41667
+],
+  "geometry": {"coordinates":[35.51667,-4.41667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209600753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.21667,-2.15,33.21667,-2.15",
+    "geom:latitude":-2.15,
+    "geom:longitude":33.21667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kisoria",
+    "gn:country_code":"TZ",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156891,
+    "gn:latitude":-2.15,
+    "gn:longitude":33.21667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kisoria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156891
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"bd502944d634e615d9f5f888a01b2bc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209600753
+        }
+    ],
+    "wof:id":1209600753,
+    "wof:lastmodified":1536282176,
+    "wof:name":"Kisoria",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.21667,
+    -2.15,
+    33.21667,
+    -2.15
+],
+  "geometry": {"coordinates":[33.21667,-2.15],"type":"Point"}
+}

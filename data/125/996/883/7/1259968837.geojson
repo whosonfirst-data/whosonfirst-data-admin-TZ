@@ -1,0 +1,69 @@
+{
+  "id": 1259968837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.83333,-6.1,37.83333,-6.1",
+    "geom:latitude":-6.1,
+    "geom:longitude":37.83333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0506",
+    "gn:admin3_code":"0506091",
+    "gn:asciiname":"Mapagano",
+    "gn:country_code":"TZ",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":154823,
+    "gn:latitude":-6.1,
+    "gn:longitude":37.83333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mapagano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        1108692941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154823
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"b586a68ef24dbf7a11de9734d4a412ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692941,
+            "locality_id":1259968837,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1259968837,
+    "wof:lastmodified":1536656336,
+    "wof:name":"Mapagano",
+    "wof:parent_id":1108692941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.83333,
+    -6.1,
+    37.83333,
+    -6.1
+],
+  "geometry": {"coordinates":[37.83333,-6.1],"type":"Point"}
+}

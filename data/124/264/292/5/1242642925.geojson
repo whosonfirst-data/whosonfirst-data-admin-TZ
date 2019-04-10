@@ -1,0 +1,74 @@
+{
+  "id": 1242642925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.20389,-1.19306,31.20389,-1.19306",
+    "geom:latitude":-1.19306,
+    "geom:longitude":31.20389,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1807",
+    "gn:admin3_code":"1807021",
+    "gn:asciiname":"Nyakanyasi",
+    "gn:cc2":"TZ",
+    "gn:country_code":"TZ",
+    "gn:dem":1156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151252,
+    "gn:latitude":-1.19306,
+    "gn:longitude":31.20389,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nyakanyasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kagera Port",
+        "Nyakanyasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151252
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"760280a360e625931633da377bd7d5c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693099,
+            "locality_id":1242642925,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1242642925,
+    "wof:lastmodified":1537710002,
+    "wof:name":"Nyakanyasi",
+    "wof:parent_id":1108693099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.20389,
+    -1.19306,
+    31.20389,
+    -1.19306
+],
+  "geometry": {"coordinates":[31.20389,-1.19306],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209611049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.9,-9.6,33.9,-9.6",
+    "geom:latitude":-9.6,
+    "geom:longitude":33.9,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1203",
+    "gn:admin3_code":"1203061",
+    "gn:asciiname":"Kanjumjumere",
+    "gn:country_code":"TZ",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158402,
+    "gn:latitude":-9.6,
+    "gn:longitude":33.9,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kanjumjumere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanjunjumere",
+        "Kanjumjumer",
+        "Kanjumjumere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158402
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"79ba00f04e0589a0fa375c84e3e525e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209611049
+        }
+    ],
+    "wof:id":1209611049,
+    "wof:lastmodified":1537710044,
+    "wof:name":"Kanjumjumere",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.9,
+    -9.6,
+    33.9,
+    -9.6
+],
+  "geometry": {"coordinates":[33.9,-9.6],"type":"Point"}
+}

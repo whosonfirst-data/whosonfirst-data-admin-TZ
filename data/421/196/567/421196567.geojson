@@ -1,0 +1,96 @@
+{
+  "id": 421196567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.76667,-10.38333,38.76667,-10.38333",
+    "geom:latitude":-10.38333,
+    "geom:longitude":38.76667,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Nachingwea"
+    ],
+    "name:eng_x_preferred":[
+        "Nachingwea"
+    ],
+    "name:fre_x_preferred":[
+        "Nachingwea"
+    ],
+    "name:ger_x_preferred":[
+        "Nachingwea"
+    ],
+    "name:unk_x_variant":[
+        "Nachingwa"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":877702,
+    "qs:gn_pop":18058,
+    "qs:name":"Nachingwea",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Lindi",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":11,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":780770,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1448254,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679713,
+        1108692959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877702,
+        "gp:id":1448254,
+        "qs:id":780770,
+        "wd:id":"Q15260737",
+        "wk:page":"Nachingwea District"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009885,
+    "wof:geomhash":"3fb2398518b69d134f5cbaa16ab9db63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692959,
+            "locality_id":421196567,
+            "region_id":85679713
+        }
+    ],
+    "wof:id":421196567,
+    "wof:lastmodified":1514508774,
+    "wof:name":"Nachingwea",
+    "wof:parent_id":1108692959,
+    "wof:placetype":"locality",
+    "wof:population":18058,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.76667,
+    -10.38333,
+    38.76667,
+    -10.38333
+],
+  "geometry": {"coordinates":[38.76667,-10.38333],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293754709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.65,-11.1,34.65,-11.1",
+    "geom:latitude":-11.1,
+    "geom:longitude":34.65,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1006",
+    "gn:admin3_code":"1006103",
+    "gn:asciiname":"Hongi",
+    "gn:country_code":"TZ",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":878427,
+    "gn:latitude":-11.1,
+    "gn:longitude":34.65,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Hongi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679723,
+        1108692995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878427
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"336910c8b90595edf3e7445d80da7677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692995,
+            "locality_id":1293754709,
+            "region_id":85679723
+        }
+    ],
+    "wof:id":1293754709,
+    "wof:lastmodified":1536899017,
+    "wof:name":"Hongi",
+    "wof:parent_id":1108692995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.65,
+    -11.1,
+    34.65,
+    -11.1
+],
+  "geometry": {"coordinates":[34.65,-11.1],"type":"Point"}
+}

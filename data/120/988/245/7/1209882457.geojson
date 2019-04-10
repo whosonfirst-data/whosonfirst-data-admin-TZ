@@ -1,0 +1,73 @@
+{
+  "id": 1209882457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.63333,-4.75,38.63333,-4.75",
+    "geom:latitude":-4.75,
+    "geom:longitude":38.63333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0402",
+    "gn:admin3_code":"0402011",
+    "gn:asciiname":"Msalaka",
+    "gn:country_code":"TZ",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153064,
+    "gn:latitude":-4.75,
+    "gn:longitude":38.63333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Msalaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Misilaka",
+        "Msalaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679747,
+        1108692919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153064
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"d5d164d7c1e92f637d840cc46f502f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692919,
+            "locality_id":1209882457,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":1209882457,
+    "wof:lastmodified":1537710013,
+    "wof:name":"Msalaka",
+    "wof:parent_id":1108692919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.63333,
+    -4.75,
+    38.63333,
+    -4.75
+],
+  "geometry": {"coordinates":[38.63333,-4.75],"type":"Point"}
+}

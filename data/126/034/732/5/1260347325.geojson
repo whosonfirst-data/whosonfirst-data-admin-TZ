@@ -1,0 +1,61 @@
+{
+  "id": 1260347325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.21667,-5.9,39.21667,-5.9",
+    "geom:latitude":-5.9,
+    "geom:longitude":39.21667,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mwanda",
+    "gn:country_code":"TZ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":152274,
+    "gn:latitude":-5.9,
+    "gn:longitude":39.21667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mwanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152274
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"14689bdd397710a7fdbb77bd534f5c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260347325,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260347325,
+    "wof:lastmodified":1536624663,
+    "wof:name":"Mwanda",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.21667,
+    -5.9,
+    39.21667,
+    -5.9
+],
+  "geometry": {"coordinates":[39.21667,-5.9],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260050921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.76667,-10.9,35.76667,-10.9",
+    "geom:latitude":-10.9,
+    "geom:longitude":35.76667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1002",
+    "gn:admin3_code":"1002141",
+    "gn:asciiname":"Kiyaya",
+    "gn:country_code":"TZ",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":878348,
+    "gn:latitude":-10.9,
+    "gn:longitude":35.76667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kiyaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kikunja",
+        "Kiyaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679723,
+        1108692987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878348
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"d47cbec927864026bc1b262f0e0c2cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692987,
+            "locality_id":1260050921,
+            "region_id":85679723
+        }
+    ],
+    "wof:id":1260050921,
+    "wof:lastmodified":1537710066,
+    "wof:name":"Kiyaya",
+    "wof:parent_id":1108692987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.76667,
+    -10.9,
+    35.76667,
+    -10.9
+],
+  "geometry": {"coordinates":[35.76667,-10.9],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276971101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.15223,-8.54796,39.15223,-8.54796",
+    "geom:latitude":-8.54796,
+    "geom:longitude":39.15223,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0801",
+    "gn:admin3_code":"0801031",
+    "gn:asciiname":"Mingumbi",
+    "gn:country_code":"TZ",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153811,
+    "gn:latitude":-8.54796,
+    "gn:longitude":39.15223,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mingumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mingumbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679713,
+        421187961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153811
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"61e036fc261f09ae03939ba48b628ac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187961,
+            "locality_id":1276971101,
+            "region_id":85679713
+        }
+    ],
+    "wof:id":1276971101,
+    "wof:lastmodified":1537710017,
+    "wof:name":"Mingumbi",
+    "wof:parent_id":421187961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.15223,
+    -8.54796,
+    39.15223,
+    -8.54796
+],
+  "geometry": {"coordinates":[39.15223,-8.54796],"type":"Point"}
+}

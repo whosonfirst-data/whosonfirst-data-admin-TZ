@@ -1,0 +1,97 @@
+{
+  "id": 421166969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.2,-4.36667,34.2,-4.36667",
+    "geom:latitude":-4.36667,
+    "geom:longitude":34.2,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0428\u0435\u043b\u0443\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Shelui"
+    ],
+    "name:eng_x_preferred":[
+        "Shelui"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b5\u03bb\u03bf\u03cd\u03b9"
+    ],
+    "name:swa_x_preferred":[
+        "Shelui"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":150037,
+    "qs:gn_pop":24817,
+    "qs:name":"Shelui",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Singida",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":122464,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1449359,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679727,
+        1108693023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150037,
+        "gp:id":1449359,
+        "qs:id":122464,
+        "wd:id":"Q7494040",
+        "wk:page":"Shelui"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459008709,
+    "wof:geomhash":"dd0c25c5c96a71b20af37941269e3356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693023,
+            "locality_id":421166969,
+            "region_id":85679727
+        }
+    ],
+    "wof:id":421166969,
+    "wof:lastmodified":1527716105,
+    "wof:name":"Shelui",
+    "wof:parent_id":1108693023,
+    "wof:placetype":"locality",
+    "wof:population":24817,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.2,
+    -4.36667,
+    34.2,
+    -4.36667
+],
+  "geometry": {"coordinates":[34.2,-4.36667],"type":"Point"}
+}

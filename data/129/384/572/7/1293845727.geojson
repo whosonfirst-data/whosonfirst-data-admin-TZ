@@ -1,0 +1,69 @@
+{
+  "id": 1293845727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.68333,-5.38333,39.68333,-5.38333",
+    "geom:latitude":-5.38333,
+    "geom:longitude":39.68333,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"5502",
+    "gn:admin3_code":"5502133",
+    "gn:asciiname":"Mtemani",
+    "gn:country_code":"TZ",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":152815,
+    "gn:latitude":-5.38333,
+    "gn:longitude":39.68333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mtemani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679687,
+        1108693175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152815
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"00da4b85064d448d24250bcaee98a9e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693175,
+            "locality_id":1293845727,
+            "region_id":85679687
+        }
+    ],
+    "wof:id":1293845727,
+    "wof:lastmodified":1536768346,
+    "wof:name":"Mtemani",
+    "wof:parent_id":1108693175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.68333,
+    -5.38333,
+    39.68333,
+    -5.38333
+],
+  "geometry": {"coordinates":[39.68333,-5.38333],"type":"Point"}
+}

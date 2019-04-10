@@ -1,0 +1,61 @@
+{
+  "id": 1326806735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.96667,-5.06667,39.96667,-5.06667",
+    "geom:latitude":-5.06667,
+    "geom:longitude":39.96667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Move",
+    "gn:country_code":"TZ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153201,
+    "gn:latitude":-5.06667,
+    "gn:longitude":39.96667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Move",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153201
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"8b6ca230c742060fb43ab05c43ef8d32",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326806735,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326806735,
+    "wof:lastmodified":1537082427,
+    "wof:name":"Move",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.96667,
+    -5.06667,
+    39.96667,
+    -5.06667
+],
+  "geometry": {"coordinates":[39.96667,-5.06667],"type":"Point"}
+}

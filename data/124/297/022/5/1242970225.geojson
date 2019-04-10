@@ -1,0 +1,69 @@
+{
+  "id": 1242970225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.85806,-2.98528,30.85806,-2.98528",
+    "geom:latitude":-2.98528,
+    "geom:longitude":30.85806,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1607",
+    "gn:admin3_code":"1607011",
+    "gn:asciiname":"Nyavivuye",
+    "gn:country_code":"TZ",
+    "gn:dem":1378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387799,
+    "gn:latitude":-2.98528,
+    "gn:longitude":30.85806,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nyavivuye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679669,
+        1108693069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387799
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"c5db36740aacf8abe826ebb31f551d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693069,
+            "locality_id":1242970225,
+            "region_id":85679669
+        }
+    ],
+    "wof:id":1242970225,
+    "wof:lastmodified":1536994329,
+    "wof:name":"Nyavivuye",
+    "wof:parent_id":1108693069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85806,
+    -2.98528,
+    30.85806,
+    -2.98528
+],
+  "geometry": {"coordinates":[30.85806,-2.98528],"type":"Point"}
+}

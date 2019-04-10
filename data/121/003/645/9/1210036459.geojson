@@ -1,0 +1,69 @@
+{
+  "id": 1210036459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.56667,-1.78333,33.56667,-1.78333",
+    "geom:latitude":-1.78333,
+    "geom:longitude":33.56667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"2003",
+    "gn:admin3_code":"2003081",
+    "gn:asciiname":"Kasoma",
+    "gn:country_code":"TZ",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158226,
+    "gn:latitude":-1.78333,
+    "gn:longitude":33.56667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kasoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679743,
+        421188919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158226
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"34bcfd24793ab87dba44a231a2f241fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421188919,
+            "locality_id":1210036459,
+            "region_id":85679743
+        }
+    ],
+    "wof:id":1210036459,
+    "wof:lastmodified":1536386276,
+    "wof:name":"Kasoma",
+    "wof:parent_id":421188919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.56667,
+    -1.78333,
+    33.56667,
+    -1.78333
+],
+  "geometry": {"coordinates":[33.56667,-1.78333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309930033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.65,-8.8,35.65,-8.8",
+    "geom:latitude":-8.8,
+    "geom:longitude":35.65,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Irangi",
+    "gn:country_code":"TZ",
+    "gn:dem":831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159079,
+    "gn:latitude":-8.8,
+    "gn:longitude":35.65,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Irangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        1108692935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159079
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"021e695f182674e91aea19662d78a99b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692935,
+            "locality_id":1309930033,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1309930033,
+    "wof:lastmodified":1536751998,
+    "wof:name":"Irangi",
+    "wof:parent_id":1108692935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.65,
+    -8.8,
+    35.65,
+    -8.8
+],
+  "geometry": {"coordinates":[35.65,-8.8],"type":"Point"}
+}

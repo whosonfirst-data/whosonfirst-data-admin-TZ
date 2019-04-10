@@ -1,0 +1,72 @@
+{
+  "id": 1276374271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.96667,-2.51667,33.96667,-2.51667",
+    "geom:latitude":-2.51667,
+    "geom:longitude":33.96667,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2401",
+    "gn:admin3_code":"2401183",
+    "gn:asciiname":"Dutwa",
+    "gn:country_code":"TZ",
+    "gn:dem":1254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149060,
+    "gn:latitude":-2.51667,
+    "gn:longitude":33.96667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Dutwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ututwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679755,
+        421187951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149060
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"11f2fb80a6ec293c05190b6be6c8103e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187951,
+            "locality_id":1276374271,
+            "region_id":85679755
+        }
+    ],
+    "wof:id":1276374271,
+    "wof:lastmodified":1537709990,
+    "wof:name":"Dutwa",
+    "wof:parent_id":421187951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.96667,
+    -2.51667,
+    33.96667,
+    -2.51667
+],
+  "geometry": {"coordinates":[33.96667,-2.51667],"type":"Point"}
+}

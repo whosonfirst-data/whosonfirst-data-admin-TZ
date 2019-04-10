@@ -1,0 +1,63 @@
+{
+  "id": 1209304121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.55,-9.1,32.55,-9.1",
+    "geom:latitude":-9.1,
+    "geom:longitude":32.55,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1209",
+    "gn:admin3_code":"1209101",
+    "gn:asciiname":"Nsalawu",
+    "gn:country_code":"TZ",
+    "gn:dem":1575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151380,
+    "gn:latitude":-9.1,
+    "gn:longitude":32.55,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nsalawu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151380
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"42aa42c7ccaf29c90b30e4d769b5327a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209304121
+        }
+    ],
+    "wof:id":1209304121,
+    "wof:lastmodified":1536291254,
+    "wof:name":"Nsalawu",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.55,
+    -9.1,
+    32.55,
+    -9.1
+],
+  "geometry": {"coordinates":[32.55,-9.1],"type":"Point"}
+}

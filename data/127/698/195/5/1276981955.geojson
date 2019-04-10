@@ -1,0 +1,78 @@
+{
+  "id": 1276981955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95,-7.1,35.95,-7.1",
+    "geom:latitude":-7.1,
+    "geom:longitude":35.95,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0102",
+    "gn:admin3_code":"0102281",
+    "gn:asciiname":"Makatapora",
+    "gn:country_code":"TZ",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155174,
+    "gn:latitude":-7.1,
+    "gn:longitude":35.95,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Makatapora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makatapora"
+    ],
+    "name:eng_x_variant":[
+        "Mkutubora"
+    ],
+    "name:und_x_variant":[
+        "Mkutubora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679705,
+        1108692893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155174
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"6f893c83ad2eda8f91fbabede526b4c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692893,
+            "locality_id":1276981955,
+            "region_id":85679705
+        }
+    ],
+    "wof:id":1276981955,
+    "wof:lastmodified":1537710025,
+    "wof:name":"Makatapora",
+    "wof:parent_id":1108692893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95,
+    -7.1,
+    35.95,
+    -7.1
+],
+  "geometry": {"coordinates":[35.95,-7.1],"type":"Point"}
+}

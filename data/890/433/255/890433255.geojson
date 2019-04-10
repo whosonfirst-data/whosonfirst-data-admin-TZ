@@ -1,0 +1,72 @@
+{
+  "id": 890433255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.35,-2.58333,33.35,-2.58333",
+    "geom:latitude":-2.58333,
+    "geom:longitude":33.35,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
+    "gn:pop":19082,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Kihangara"
+    ],
+    "qs:name":"Magu Kahangara",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":272,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679655,
+        1108693105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155307,
+        "gp:id":56125787,
+        "qs:id":122541,
+        "wd:id":"Q1888265",
+        "wk:page":"Magu District"
+    },
+    "wof:country":"TZ",
+    "wof:created":1469051972,
+    "wof:geomhash":"353915024d04f354a98695f975137a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693105,
+            "locality_id":890433255,
+            "region_id":85679655
+        }
+    ],
+    "wof:id":890433255,
+    "wof:lastmodified":1527792957,
+    "wof:name":"Magu Kahangara",
+    "wof:parent_id":1108693105,
+    "wof:placetype":"locality",
+    "wof:population":19082,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.35,
+    -2.58333,
+    33.35,
+    -2.58333
+],
+  "geometry": {"coordinates":[33.35,-2.58333],"type":"Point"}
+}

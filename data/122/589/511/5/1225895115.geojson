@@ -1,0 +1,72 @@
+{
+  "id": 1225895115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.05,-6.3,31.05,-6.3",
+    "geom:latitude":-6.3,
+    "geom:longitude":31.05,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"2303",
+    "gn:admin3_code":"2303011",
+    "gn:asciiname":"Milala",
+    "gn:country_code":"TZ",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153857,
+    "gn:latitude":-6.3,
+    "gn:longitude":31.05,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Milala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Milala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679751,
+        1108693151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153857
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"76b8395d1603d86282ef061e3f41ada5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693151,
+            "locality_id":1225895115,
+            "region_id":85679751
+        }
+    ],
+    "wof:id":1225895115,
+    "wof:lastmodified":1537710017,
+    "wof:name":"Milala",
+    "wof:parent_id":1108693151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.05,
+    -6.3,
+    31.05,
+    -6.3
+],
+  "geometry": {"coordinates":[31.05,-6.3],"type":"Point"}
+}

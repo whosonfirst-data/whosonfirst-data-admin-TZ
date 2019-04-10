@@ -1,0 +1,100 @@
+{
+  "id": 1125774289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.11667,-6.75,38.11667,-6.75",
+    "geom:latitude":-6.75,
+    "geom:longitude":38.11667,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":17181,
+    "gn:population":17181,
+    "iso:country":"TZ",
+    "lbl:latitude":-6.75,
+    "lbl:longitude":38.11667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ngerengere"
+    ],
+    "name:eng_x_preferred":[
+        "Ngerengere"
+    ],
+    "name:fre_x_preferred":[
+        "Ngerengere"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03b3\u03ba\u03b5\u03c1\u03b5\u03bd\u03b3\u03ba\u03ad\u03c1\u03b5"
+    ],
+    "name:ita_x_preferred":[
+        "Ngerengere"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f3\u30b2\u30ec\u30f3\u30b2\u30ec"
+    ],
+    "name:spa_x_preferred":[
+        "Ngerengere"
+    ],
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":151678,
+    "qs_pg:gn_pop":17181,
+    "qs_pg:name":"Ngerengere",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":519162,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        421193165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151678,
+        "qs_pg:id":519162,
+        "wd:id":"Q3875760"
+    },
+    "wof:country":"TZ",
+    "wof:created":1497290192,
+    "wof:geomhash":"1df29c5076d95fb9d9c99ad655d7f46b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421193165,
+            "locality_id":1125774289,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1125774289,
+    "wof:lastmodified":1514508775,
+    "wof:name":"Ngerengere",
+    "wof:parent_id":421193165,
+    "wof:placetype":"locality",
+    "wof:population":17181,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.11667,
+    -6.75,
+    38.11667,
+    -6.75
+],
+  "geometry": {"coordinates":[38.11667,-6.75],"type":"Point"}
+}

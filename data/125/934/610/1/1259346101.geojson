@@ -1,0 +1,73 @@
+{
+  "id": 1259346101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.05,-5.18333,39.05,-5.18333",
+    "geom:latitude":-5.18333,
+    "geom:longitude":39.05,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0404",
+    "gn:admin3_code":"0404151",
+    "gn:asciiname":"Katipeni",
+    "gn:country_code":"TZ",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158172,
+    "gn:latitude":-5.18333,
+    "gn:longitude":39.05,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Katipeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katopeni",
+        "Katipeni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679747,
+        421188923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158172
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"61a4958faf71d14718cc3ac371231bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421188923,
+            "locality_id":1259346101,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":1259346101,
+    "wof:lastmodified":1537710042,
+    "wof:name":"Katipeni",
+    "wof:parent_id":421188923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.05,
+    -5.18333,
+    39.05,
+    -5.18333
+],
+  "geometry": {"coordinates":[39.05,-5.18333],"type":"Point"}
+}

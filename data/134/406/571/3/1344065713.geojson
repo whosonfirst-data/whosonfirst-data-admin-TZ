@@ -1,0 +1,70 @@
+{
+  "id": 1344065713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.65,-6.8,38.65,-6.8",
+    "geom:latitude":-6.8,
+    "geom:longitude":38.65,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0602",
+    "gn:admin3_code":"0602061",
+    "gn:asciiname":"Ruvu",
+    "gn:country_code":"TZ",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150374,
+    "gn:latitude":-6.8,
+    "gn:longitude":38.65,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ruvu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        1108692949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150374,
+        "wk:page":"Ruvu%2C_Town"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"881c1095e7407cf1997b9c90b0fe6e92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692949,
+            "locality_id":1344065713,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1344065713,
+    "wof:lastmodified":1537574846,
+    "wof:name":"Ruvu",
+    "wof:parent_id":1108692949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.65,
+    -6.8,
+    38.65,
+    -6.8
+],
+  "geometry": {"coordinates":[38.65,-6.8],"type":"Point"}
+}

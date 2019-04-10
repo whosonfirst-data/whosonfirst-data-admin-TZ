@@ -1,0 +1,61 @@
+{
+  "id": 1209662527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.83333,-5.71667,31.83333,-5.71667",
+    "geom:latitude":-5.71667,
+    "geom:longitude":31.83333,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Sire",
+    "gn:country_code":"TZ",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149853,
+    "gn:latitude":-5.71667,
+    "gn:longitude":31.83333,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Sire",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149853
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"348294cc506eacf93e98d060c478c4e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209662527
+        }
+    ],
+    "wof:id":1209662527,
+    "wof:lastmodified":1536280204,
+    "wof:name":"Sire",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.83333,
+    -5.71667,
+    31.83333,
+    -5.71667
+],
+  "geometry": {"coordinates":[31.83333,-5.71667],"type":"Point"}
+}

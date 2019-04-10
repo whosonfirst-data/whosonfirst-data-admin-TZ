@@ -1,0 +1,72 @@
+{
+  "id": 1209750301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.96667,-2.91667,33.96667,-2.91667",
+    "geom:latitude":-2.91667,
+    "geom:longitude":33.96667,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2402",
+    "gn:admin3_code":"2402173",
+    "gn:asciiname":"Lugulu",
+    "gn:country_code":"TZ",
+    "gn:dem":1352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155716,
+    "gn:latitude":-2.91667,
+    "gn:longitude":33.96667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Lugulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luguru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679755,
+        1108693153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155716
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"f2409b32798395d03d6c724ae7c4c3fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693153,
+            "locality_id":1209750301,
+            "region_id":85679755
+        }
+    ],
+    "wof:id":1209750301,
+    "wof:lastmodified":1537710028,
+    "wof:name":"Lugulu",
+    "wof:parent_id":1108693153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.96667,
+    -2.91667,
+    33.96667,
+    -2.91667
+],
+  "geometry": {"coordinates":[33.96667,-2.91667],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1243335091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.55,-5.33333,33.55,-5.33333",
+    "geom:latitude":-5.33333,
+    "geom:longitude":33.55,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1403",
+    "gn:admin3_code":"1403021",
+    "gn:asciiname":"Kisengi",
+    "gn:country_code":"TZ",
+    "gn:dem":1212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156979,
+    "gn:latitude":-5.33333,
+    "gn:longitude":33.55,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kisengi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679661,
+        1108693039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156979
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"799bf19320373b8afd5b259b8d40359b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693039,
+            "locality_id":1243335091,
+            "region_id":85679661
+        }
+    ],
+    "wof:id":1243335091,
+    "wof:lastmodified":1536965990,
+    "wof:name":"Kisengi",
+    "wof:parent_id":1108693039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.55,
+    -5.33333,
+    33.55,
+    -5.33333
+],
+  "geometry": {"coordinates":[33.55,-5.33333],"type":"Point"}
+}

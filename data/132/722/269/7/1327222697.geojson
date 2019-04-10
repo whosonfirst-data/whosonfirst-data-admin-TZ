@@ -1,0 +1,69 @@
+{
+  "id": 1327222697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.05,-8.8,36.05,-8.8",
+    "geom:latitude":-8.8,
+    "geom:longitude":36.05,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0504",
+    "gn:admin3_code":"0504193",
+    "gn:asciiname":"Mpapalar",
+    "gn:country_code":"TZ",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153153,
+    "gn:latitude":-8.8,
+    "gn:longitude":36.05,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mpapalar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        1108692937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153153
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"a9a07eb48886775e267f7b3785739739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692937,
+            "locality_id":1327222697,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1327222697,
+    "wof:lastmodified":1536982916,
+    "wof:name":"Mpapalar",
+    "wof:parent_id":1108692937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.05,
+    -8.8,
+    36.05,
+    -8.8
+],
+  "geometry": {"coordinates":[36.05,-8.8],"type":"Point"}
+}

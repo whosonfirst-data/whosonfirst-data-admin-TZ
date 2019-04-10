@@ -1,0 +1,67 @@
+{
+  "id": 1209398395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.46667,-10.7,35.46667,-10.7",
+    "geom:latitude":-10.7,
+    "geom:longitude":35.46667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1004",
+    "gn:admin3_code":"1004172",
+    "gn:asciiname":"Fusi",
+    "gn:country_code":"TZ",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":878439,
+    "gn:latitude":-10.7,
+    "gn:longitude":35.46667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Fusi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Likuyu Fusi",
+        "Fusi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878439
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"e75e3d6a6c158650e7d92e87da897cd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209398395
+        }
+    ],
+    "wof:id":1209398395,
+    "wof:lastmodified":1537710066,
+    "wof:name":"Fusi",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.46667,
+    -10.7,
+    35.46667,
+    -10.7
+],
+  "geometry": {"coordinates":[35.46667,-10.7],"type":"Point"}
+}

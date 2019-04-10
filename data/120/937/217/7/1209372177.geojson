@@ -1,0 +1,68 @@
+{
+  "id": 1209372177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.26667,-6.08333,39.26667,-6.08333",
+    "geom:latitude":-6.08333,
+    "geom:longitude":39.26667,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"5301",
+    "gn:admin3_code":"5301111",
+    "gn:asciiname":"Kizimbani",
+    "gn:cc2":"TZ",
+    "gn:country_code":"TZ",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156612,
+    "gn:latitude":-6.08333,
+    "gn:longitude":39.26667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kizimbani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kisimbani",
+        "Kizimbani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156612
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"2f584ca10d94efc6f8cb3917689467b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209372177
+        }
+    ],
+    "wof:id":1209372177,
+    "wof:lastmodified":1537710033,
+    "wof:name":"Kizimbani",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.26667,
+    -6.08333,
+    39.26667,
+    -6.08333
+],
+  "geometry": {"coordinates":[39.26667,-6.08333],"type":"Point"}
+}

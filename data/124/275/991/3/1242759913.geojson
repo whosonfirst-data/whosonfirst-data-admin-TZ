@@ -1,0 +1,69 @@
+{
+  "id": 1242759913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.45,-4.68333,34.45,-4.68333",
+    "geom:latitude":-4.68333,
+    "geom:longitude":34.45,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1301",
+    "gn:admin3_code":"1301151",
+    "gn:asciiname":"Ikongi",
+    "gn:country_code":"TZ",
+    "gn:dem":1386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159290,
+    "gn:latitude":-4.68333,
+    "gn:longitude":34.45,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ikongi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679727,
+        1108693023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159290
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"0ab715a44903779cfab289dcf5baac6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693023,
+            "locality_id":1242759913,
+            "region_id":85679727
+        }
+    ],
+    "wof:id":1242759913,
+    "wof:lastmodified":1536801128,
+    "wof:name":"Ikongi",
+    "wof:parent_id":1108693023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.45,
+    -4.68333,
+    34.45,
+    -4.68333
+],
+  "geometry": {"coordinates":[34.45,-4.68333],"type":"Point"}
+}

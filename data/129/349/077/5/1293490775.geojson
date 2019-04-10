@@ -1,0 +1,78 @@
+{
+  "id": 1293490775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.87858,-7.7296,39.87858,-7.7296",
+    "geom:latitude":-7.7296,
+    "geom:longitude":39.87858,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0606",
+    "gn:admin3_code":"0606011",
+    "gn:asciiname":"Mrali",
+    "gn:country_code":"TZ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153092,
+    "gn:latitude":-7.7296,
+    "gn:longitude":39.87858,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mrali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mrali"
+    ],
+    "name:eng_x_variant":[
+        "Mnali"
+    ],
+    "name:und_x_variant":[
+        "Mnali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        1108692951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153092
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"8fee2cbf767d51a46d3b8539ac8efcd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692951,
+            "locality_id":1293490775,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1293490775,
+    "wof:lastmodified":1537710013,
+    "wof:name":"Mrali",
+    "wof:parent_id":1108692951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.87858,
+    -7.7296,
+    39.87858,
+    -7.7296
+],
+  "geometry": {"coordinates":[39.87858,-7.7296],"type":"Point"}
+}

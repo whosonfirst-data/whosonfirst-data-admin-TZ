@@ -1,0 +1,63 @@
+{
+  "id": 1209236633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.75,-3.65,37.75,-3.65",
+    "geom:latitude":-3.65,
+    "geom:longitude":37.75,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"0302",
+    "gn:admin3_code":"0302191",
+    "gn:asciiname":"Ruru",
+    "gn:country_code":"TZ",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150402,
+    "gn:latitude":-3.65,
+    "gn:longitude":37.75,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ruru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150402
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"8cf45c7b5fbe148bc82ebc1a3e22757f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209236633
+        }
+    ],
+    "wof:id":1209236633,
+    "wof:lastmodified":1536293457,
+    "wof:name":"Ruru",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.75,
+    -3.65,
+    37.75,
+    -3.65
+],
+  "geometry": {"coordinates":[37.75,-3.65],"type":"Point"}
+}

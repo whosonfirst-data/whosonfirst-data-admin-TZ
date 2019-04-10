@@ -1,0 +1,73 @@
+{
+  "id": 1209888699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.6,-4.7,34.6,-4.7",
+    "geom:latitude":-4.7,
+    "geom:longitude":34.6,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1305",
+    "gn:admin3_code":"1305261",
+    "gn:asciiname":"Ilisya",
+    "gn:country_code":"TZ",
+    "gn:dem":1465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159209,
+    "gn:latitude":-4.7,
+    "gn:longitude":34.6,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ilisya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Elisia",
+        "Ilisya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679727,
+        1108693029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159209
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"126a8bd41563e2c9c5c742004a44b27a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693029,
+            "locality_id":1209888699,
+            "region_id":85679727
+        }
+    ],
+    "wof:id":1209888699,
+    "wof:lastmodified":1537710050,
+    "wof:name":"Ilisya",
+    "wof:parent_id":1108693029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.6,
+    -4.7,
+    34.6,
+    -4.7
+],
+  "geometry": {"coordinates":[34.6,-4.7],"type":"Point"}
+}

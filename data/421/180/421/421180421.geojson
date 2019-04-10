@@ -1,0 +1,79 @@
+{
+  "id": 421180421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.33333,-9.93333,35.33333,-9.93333",
+    "geom:latitude":-9.93333,
+    "geom:longitude":35.33333,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":155285,
+    "qs:gn_pop":15009,
+    "qs:name":"Mahanje",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Ruvuma",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":431013,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1446246,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679723,
+        1108692987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155285,
+        "gp:id":1446246,
+        "qs:id":431013
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009258,
+    "wof:geomhash":"497cab48e91eadb7ffc4a203b2d1ffd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692987,
+            "locality_id":421180421,
+            "region_id":85679723
+        }
+    ],
+    "wof:id":421180421,
+    "wof:lastmodified":1505340647,
+    "wof:name":"Mahanje",
+    "wof:parent_id":1108692987,
+    "wof:placetype":"locality",
+    "wof:population":15009,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.33333,
+    -9.93333,
+    35.33333,
+    -9.93333
+],
+  "geometry": {"coordinates":[35.33333,-9.93333],"type":"Point"}
+}

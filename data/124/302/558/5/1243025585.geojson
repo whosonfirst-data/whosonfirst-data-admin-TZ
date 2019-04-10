@@ -1,0 +1,69 @@
+{
+  "id": 1243025585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.2242,-6.0832,39.2242,-6.0832",
+    "geom:latitude":-6.0832,
+    "geom:longitude":39.2242,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"5301",
+    "gn:admin3_code":"5301333",
+    "gn:asciiname":"Chuini",
+    "gn:country_code":"TZ",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160354,
+    "gn:latitude":-6.0832,
+    "gn:longitude":39.2242,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Chuini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679699,
+        421202045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160354
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"c51ce576b5d3f7707b9f828005bb196e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421202045,
+            "locality_id":1243025585,
+            "region_id":85679699
+        }
+    ],
+    "wof:id":1243025585,
+    "wof:lastmodified":1536915833,
+    "wof:name":"Chuini",
+    "wof:parent_id":421202045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.2242,
+    -6.0832,
+    39.2242,
+    -6.0832
+],
+  "geometry": {"coordinates":[39.2242,-6.0832],"type":"Point"}
+}

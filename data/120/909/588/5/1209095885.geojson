@@ -1,0 +1,63 @@
+{
+  "id": 1209095885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.6,-7.53333,33.6,-7.53333",
+    "geom:latitude":-7.53333,
+    "geom:longitude":33.6,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1201",
+    "gn:admin3_code":"1201021",
+    "gn:asciiname":"Usule",
+    "gn:country_code":"TZ",
+    "gn:dem":1486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149106,
+    "gn:latitude":-7.53333,
+    "gn:longitude":33.6,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Usule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149106
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"817cf1db17228205faa8a29df740d221",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209095885
+        }
+    ],
+    "wof:id":1209095885,
+    "wof:lastmodified":1536297888,
+    "wof:name":"Usule",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.6,
+    -7.53333,
+    33.6,
+    -7.53333
+],
+  "geometry": {"coordinates":[33.6,-7.53333],"type":"Point"}
+}

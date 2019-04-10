@@ -1,0 +1,73 @@
+{
+  "id": 1343408937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.17059,-3.97255,35.17059,-3.97255",
+    "geom:latitude":-3.97255,
+    "geom:longitude":35.17059,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"2103",
+    "gn:admin3_code":"2103151",
+    "gn:asciiname":"Yaeda",
+    "gn:country_code":"TZ",
+    "gn:dem":1355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148792,
+    "gn:latitude":-3.97255,
+    "gn:longitude":35.17059,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Yaeda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yaida",
+        "Yaeda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679733,
+        1108693127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148792
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"2c0f595e83d247d4f41a358b2e6dcbc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693127,
+            "locality_id":1343408937,
+            "region_id":85679733
+        }
+    ],
+    "wof:id":1343408937,
+    "wof:lastmodified":1537709988,
+    "wof:name":"Yaeda",
+    "wof:parent_id":1108693127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.17059,
+    -3.97255,
+    35.17059,
+    -3.97255
+],
+  "geometry": {"coordinates":[35.17059,-3.97255],"type":"Point"}
+}

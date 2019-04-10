@@ -1,0 +1,79 @@
+{
+  "id": 421182411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.85,-3.15,36.85,-3.15",
+    "geom:latitude":-3.15,
+    "geom:longitude":36.85,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Engare Nanyuki"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":160060,
+    "qs:gn_pop":0,
+    "qs:name":"Ngare Nanyuki",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Arusha",
+    "qs:photos":19,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":19,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":910613,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1448535,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679731,
+        1108692905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160060,
+        "gp:id":1448535,
+        "qs:id":910613
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009329,
+    "wof:geomhash":"1a2647addb59c0a4ab26071668ff3544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692905,
+            "locality_id":421182411,
+            "region_id":85679731
+        }
+    ],
+    "wof:id":421182411,
+    "wof:lastmodified":1501212696,
+    "wof:name":"Ngare Nanyuki",
+    "wof:parent_id":1108692905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.85,
+    -3.15,
+    36.85,
+    -3.15
+],
+  "geometry": {"coordinates":[36.85,-3.15],"type":"Point"}
+}

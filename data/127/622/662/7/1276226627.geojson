@@ -1,0 +1,78 @@
+{
+  "id": 1276226627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.16366,-6.13417,30.16366,-6.13417",
+    "geom:latitude":-6.13417,
+    "geom:longitude":30.16366,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1605",
+    "gn:admin3_code":"1605031",
+    "gn:asciiname":"Itindakusya",
+    "gn:country_code":"TZ",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158898,
+    "gn:latitude":-6.13417,
+    "gn:longitude":30.16366,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Itindakusya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Itindakusya"
+    ],
+    "name:eng_x_variant":[
+        "Itindakusia"
+    ],
+    "name:und_x_variant":[
+        "Itindakusia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679669,
+        1108693065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158898
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"f9197c4f9b714ccc9cb88a27f8be2536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693065,
+            "locality_id":1276226627,
+            "region_id":85679669
+        }
+    ],
+    "wof:id":1276226627,
+    "wof:lastmodified":1537710047,
+    "wof:name":"Itindakusya",
+    "wof:parent_id":1108693065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.16366,
+    -6.13417,
+    30.16366,
+    -6.13417
+],
+  "geometry": {"coordinates":[30.16366,-6.13417],"type":"Point"}
+}

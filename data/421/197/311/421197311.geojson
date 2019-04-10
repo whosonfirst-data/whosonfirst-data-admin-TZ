@@ -1,0 +1,91 @@
+{
+  "id": 421197311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.8,-9.01667,34.8,-9.01667",
+    "geom:latitude":-9.01667,
+    "geom:longitude":34.8,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Mtwango"
+    ],
+    "name:eng_x_preferred":[
+        "Mtwango"
+    ],
+    "name:swa_x_preferred":[
+        "Mtwango"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":152718,
+    "qs:gn_pop":19040,
+    "qs:name":"Mtwango",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Iringa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":122510,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1447908,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":65,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679765,
+        1108693139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152718,
+        "gp:id":1447908,
+        "qs:id":122510,
+        "wd:id":"Q6930518",
+        "wk:page":"Mtwango, Njombe"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009909,
+    "wof:geomhash":"b739309b10129ca541f031ebea9396e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693139,
+            "locality_id":421197311,
+            "region_id":85679765
+        }
+    ],
+    "wof:id":421197311,
+    "wof:lastmodified":1527716407,
+    "wof:name":"Mtwango",
+    "wof:parent_id":1108693139,
+    "wof:placetype":"locality",
+    "wof:population":19040,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.8,
+    -9.01667,
+    34.8,
+    -9.01667
+],
+  "geometry": {"coordinates":[34.8,-9.01667],"type":"Point"}
+}

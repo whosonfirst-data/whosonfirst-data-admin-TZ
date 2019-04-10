@@ -1,0 +1,67 @@
+{
+  "id": 1209072489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.05,-5.03333,39.05,-5.03333",
+    "geom:latitude":-5.03333,
+    "geom:longitude":39.05,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0404",
+    "gn:admin3_code":"0404203",
+    "gn:asciiname":"Mabokweni",
+    "gn:country_code":"TZ",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155490,
+    "gn:latitude":-5.03333,
+    "gn:longitude":39.05,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mabokweni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mabukweni",
+        "Mabokweni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155490
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"ea8a1f8f6ca5ac1f3efa06633fe9ef8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209072489
+        }
+    ],
+    "wof:id":1209072489,
+    "wof:lastmodified":1537710027,
+    "wof:name":"Mabokweni",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.05,
+    -5.03333,
+    39.05,
+    -5.03333
+],
+  "geometry": {"coordinates":[39.05,-5.03333],"type":"Point"}
+}

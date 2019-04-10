@@ -1,0 +1,72 @@
+{
+  "id": 1226203487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.11474,-6.73134,31.11474,-6.73134",
+    "geom:latitude":-6.73134,
+    "geom:longitude":31.11474,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"2303",
+    "gn:admin3_code":"2303141",
+    "gn:asciiname":"Mivunda",
+    "gn:country_code":"TZ",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153713,
+    "gn:latitude":-6.73134,
+    "gn:longitude":31.11474,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mivunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mivunda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679751,
+        1108693151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153713
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"fefa8a34dd5ba3480b90cbd1b80a4ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693151,
+            "locality_id":1226203487,
+            "region_id":85679751
+        }
+    ],
+    "wof:id":1226203487,
+    "wof:lastmodified":1537710016,
+    "wof:name":"Mivunda",
+    "wof:parent_id":1108693151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.11474,
+    -6.73134,
+    31.11474,
+    -6.73134
+],
+  "geometry": {"coordinates":[31.11474,-6.73134],"type":"Point"}
+}

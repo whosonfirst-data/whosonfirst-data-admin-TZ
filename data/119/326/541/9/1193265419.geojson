@@ -1,0 +1,73 @@
+{
+  "id": 1193265419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.66667,-2.51667,32.66667,-2.51667",
+    "geom:latitude":-2.51667,
+    "geom:longitude":32.66667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1905",
+    "gn:admin3_code":"1905041",
+    "gn:asciiname":"Katunguru",
+    "gn:country_code":"TZ",
+    "gn:dem":1145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158143,
+    "gn:latitude":-2.51667,
+    "gn:longitude":32.66667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Katunguru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katungulu",
+        "Katunguru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679655,
+        1108693113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158143
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"96c76a8ccfd53a725fb73596d68f79d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693113,
+            "locality_id":1193265419,
+            "region_id":85679655
+        }
+    ],
+    "wof:id":1193265419,
+    "wof:lastmodified":1537710042,
+    "wof:name":"Katunguru",
+    "wof:parent_id":1108693113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.66667,
+    -2.51667,
+    32.66667,
+    -2.51667
+],
+  "geometry": {"coordinates":[32.66667,-2.51667],"type":"Point"}
+}

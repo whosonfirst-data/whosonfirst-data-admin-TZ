@@ -1,0 +1,78 @@
+{
+  "id": 1125942593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.73333,-5.06667,32.73333,-5.06667",
+    "geom:latitude":-5.06667,
+    "geom:longitude":32.73333,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":32900,
+    "gn:population":32900,
+    "iso:country":"TZ",
+    "lbl:latitude":-5.06667,
+    "lbl:longitude":32.73333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":149418,
+    "qs_pg:gn_pop":32900,
+    "qs_pg:name":"Tumbi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":67458,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679661,
+        1108693045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149418,
+        "qs_pg:id":67458
+    },
+    "wof:country":"TZ",
+    "wof:created":1497297168,
+    "wof:geomhash":"018b3b5ab4f1bdeb7c692b46d81c50db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693045,
+            "locality_id":1125942593,
+            "region_id":85679661
+        }
+    ],
+    "wof:id":1125942593,
+    "wof:lastmodified":1509402166,
+    "wof:name":"Tumbi",
+    "wof:parent_id":1108693045,
+    "wof:placetype":"locality",
+    "wof:population":32900,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.73333,
+    -5.06667,
+    32.73333,
+    -5.06667
+],
+  "geometry": {"coordinates":[32.73333,-5.06667],"type":"Point"}
+}

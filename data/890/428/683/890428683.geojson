@@ -1,0 +1,69 @@
+{
+  "id": 890428683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.38333,-9.25,33.38333,-9.25",
+    "geom:latitude":-9.25,
+    "geom:longitude":33.38333,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
+    "gn:pop":2607,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Ilembo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":51,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679641,
+        1108693007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159219,
+        "gp:id":1444091,
+        "qs:id":525584,
+        "wd:id":"Q5997528",
+        "wk:page":"Ilembo"
+    },
+    "wof:country":"TZ",
+    "wof:created":1469051764,
+    "wof:geomhash":"adf4321fc12f9a0f8c854fd63f3c96f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693007,
+            "locality_id":890428683,
+            "region_id":85679641
+        }
+    ],
+    "wof:id":890428683,
+    "wof:lastmodified":1527782118,
+    "wof:name":"Ilembo",
+    "wof:parent_id":1108693007,
+    "wof:placetype":"locality",
+    "wof:population":2607,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.38333,
+    -9.25,
+    33.38333,
+    -9.25
+],
+  "geometry": {"coordinates":[33.38333,-9.25],"type":"Point"}
+}

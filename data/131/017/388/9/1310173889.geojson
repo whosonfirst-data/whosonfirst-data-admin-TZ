@@ -1,0 +1,78 @@
+{
+  "id": 1310173889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.51089,-7.12323,39.51089,-7.12323",
+    "geom:latitude":-7.12323,
+    "geom:longitude":39.51089,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"0703",
+    "gn:admin3_code":"0703232",
+    "gn:asciiname":"Buyuni",
+    "gn:country_code":"TZ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160766,
+    "gn:latitude":-7.12323,
+    "gn:longitude":39.51089,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Buyuni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buyuni"
+    ],
+    "name:eng_x_variant":[
+        "Buuni Village"
+    ],
+    "name:und_x_variant":[
+        "Buuni Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679675,
+        421198913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160766
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"28e16d6c461da6312cedc990e3ca27d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421198913,
+            "locality_id":1310173889,
+            "region_id":85679675
+        }
+    ],
+    "wof:id":1310173889,
+    "wof:lastmodified":1537710058,
+    "wof:name":"Buyuni",
+    "wof:parent_id":421198913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.51089,
+    -7.12323,
+    39.51089,
+    -7.12323
+],
+  "geometry": {"coordinates":[39.51089,-7.12323],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 890415397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.4,-10.58333,35.4,-10.58333",
+    "geom:latitude":-10.58333,
+    "geom:longitude":35.4,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
+    "gn:pop":19472,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Maposeni",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679723,
+        1108692987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878073,
+        "gp:id":1449038,
+        "qs:id":129836
+    },
+    "wof:country":"TZ",
+    "wof:created":1469051086,
+    "wof:geomhash":"4320a3d090b8782cfe8ccc673f428e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692987,
+            "locality_id":890415397,
+            "region_id":85679723
+        }
+    ],
+    "wof:id":890415397,
+    "wof:lastmodified":1505343425,
+    "wof:name":"Maposeni",
+    "wof:parent_id":1108692987,
+    "wof:placetype":"locality",
+    "wof:population":19472,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.4,
+    -10.58333,
+    35.4,
+    -10.58333
+],
+  "geometry": {"coordinates":[35.4,-10.58333],"type":"Point"}
+}

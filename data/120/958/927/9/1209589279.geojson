@@ -1,0 +1,63 @@
+{
+  "id": 1209589279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1,-10.98333,36.1,-10.98333",
+    "geom:latitude":-10.98333,
+    "geom:longitude":36.1,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1005",
+    "gn:admin3_code":"1005041",
+    "gn:asciiname":"Ligera",
+    "gn:country_code":"TZ",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":878320,
+    "gn:latitude":-10.98333,
+    "gn:longitude":36.1,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ligera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878320
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"6998d7e18c66ca468728543655ca9bcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209589279
+        }
+    ],
+    "wof:id":1209589279,
+    "wof:lastmodified":1536282532,
+    "wof:name":"Ligera",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1,
+    -10.98333,
+    36.1,
+    -10.98333
+],
+  "geometry": {"coordinates":[36.1,-10.98333],"type":"Point"}
+}

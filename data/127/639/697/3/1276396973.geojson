@@ -1,0 +1,72 @@
+{
+  "id": 1276396973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.69278,-6.96113,30.69278,-6.96113",
+    "geom:latitude":-6.96113,
+    "geom:longitude":30.69278,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1503",
+    "gn:admin3_code":"1503133",
+    "gn:asciiname":"Ipolomelo",
+    "gn:country_code":"TZ",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159099,
+    "gn:latitude":-6.96113,
+    "gn:longitude":30.69278,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ipolomelo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ipolomelo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679645,
+        1108693055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159099
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"9df2c41e4961cdaafd19cfb62d5b56ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693055,
+            "locality_id":1276396973,
+            "region_id":85679645
+        }
+    ],
+    "wof:id":1276396973,
+    "wof:lastmodified":1537710049,
+    "wof:name":"Ipolomelo",
+    "wof:parent_id":1108693055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.69278,
+    -6.96113,
+    30.69278,
+    -6.96113
+],
+  "geometry": {"coordinates":[30.69278,-6.96113],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327380621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.15,-9.3,35.15,-9.3",
+    "geom:latitude":-9.3,
+    "geom:longitude":35.15,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"2204",
+    "gn:admin3_code":"2204073",
+    "gn:asciiname":"Iyembela",
+    "gn:country_code":"TZ",
+    "gn:dem":1566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158838,
+    "gn:latitude":-9.3,
+    "gn:longitude":35.15,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Iyembela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yembera",
+        "Iyembela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679765,
+        1108693139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158838
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"3cb4b20bbfc8c4c7c2c7f0783132fee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693139,
+            "locality_id":1327380621,
+            "region_id":85679765
+        }
+    ],
+    "wof:id":1327380621,
+    "wof:lastmodified":1537710047,
+    "wof:name":"Iyembela",
+    "wof:parent_id":1108693139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.15,
+    -9.3,
+    35.15,
+    -9.3
+],
+  "geometry": {"coordinates":[35.15,-9.3],"type":"Point"}
+}

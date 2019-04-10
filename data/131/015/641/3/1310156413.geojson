@@ -1,0 +1,72 @@
+{
+  "id": 1310156413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.63333,-6.61667,30.63333,-6.61667",
+    "geom:latitude":-6.61667,
+    "geom:longitude":30.63333,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"2302",
+    "gn:admin3_code":"2302061",
+    "gn:asciiname":"Simondo",
+    "gn:country_code":"TZ",
+    "gn:dem":1415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149898,
+    "gn:latitude":-6.61667,
+    "gn:longitude":30.63333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Simondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Simondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679751,
+        1108693149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149898
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"440aabcec04f3bb11f7895333331b5b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693149,
+            "locality_id":1310156413,
+            "region_id":85679751
+        }
+    ],
+    "wof:id":1310156413,
+    "wof:lastmodified":1537709995,
+    "wof:name":"Simondo",
+    "wof:parent_id":1108693149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.63333,
+    -6.61667,
+    30.63333,
+    -6.61667
+],
+  "geometry": {"coordinates":[30.63333,-6.61667],"type":"Point"}
+}

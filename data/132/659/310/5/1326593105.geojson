@@ -1,0 +1,83 @@
+{
+  "id": 1326593105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.19346,-4.66955,39.19346,-4.66955",
+    "geom:latitude":-4.66955,
+    "geom:longitude":39.19346,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0408",
+    "gn:admin3_code":"0408201",
+    "gn:asciiname":"Yasini",
+    "gn:country_code":"TZ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158783,
+    "gn:latitude":-4.66955,
+    "gn:longitude":39.19346,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Yasini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jasin",
+        "Jasini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773,
+        85632227,
+        85679747,
+        1108692929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158783
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"be4bf6472b0c98694ab90ec7401dbdc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1326593105,
+            "region_id":85672943
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692929,
+            "locality_id":1326593105,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":1326593105,
+    "wof:lastmodified":1537710046,
+    "wof:name":"Yasini",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.19346,
+    -4.66955,
+    39.19346,
+    -4.66955
+],
+  "geometry": {"coordinates":[39.19346,-4.66955],"type":"Point"}
+}

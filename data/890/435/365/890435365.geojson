@@ -1,0 +1,72 @@
+{
+  "id": 890435365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.71667,-8.68333,36.71667,-8.68333",
+    "geom:latitude":-8.68333,
+    "geom:longitude":36.71667,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
+    "gn:pop":7768,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Mahange"
+    ],
+    "qs:name":"Mahenge",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":270,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        1108692937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155274,
+        "gp:id":1446252,
+        "qs:id":274042,
+        "wd:id":"Q3323087",
+        "wk:page":"Mahenge"
+    },
+    "wof:country":"TZ",
+    "wof:created":1469052065,
+    "wof:geomhash":"aad56aeb09ca88859787b6f1c2c3a300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692937,
+            "locality_id":890435365,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":890435365,
+    "wof:lastmodified":1527793044,
+    "wof:name":"Mahenge",
+    "wof:parent_id":1108692937,
+    "wof:placetype":"locality",
+    "wof:population":7768,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.71667,
+    -8.68333,
+    36.71667,
+    -8.68333
+],
+  "geometry": {"coordinates":[36.71667,-8.68333],"type":"Point"}
+}

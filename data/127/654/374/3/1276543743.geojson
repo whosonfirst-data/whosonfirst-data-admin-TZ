@@ -1,0 +1,69 @@
+{
+  "id": 1276543743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.55,-10.46667,39.55,-10.46667",
+    "geom:latitude":-10.46667,
+    "geom:longitude":39.55,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0802",
+    "gn:admin3_code":"0802161",
+    "gn:asciiname":"Chiuta",
+    "gn:country_code":"TZ",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":878454,
+    "gn:latitude":-10.46667,
+    "gn:longitude":39.55,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Chiuta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679713,
+        1108692957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878454
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"bf76587900d6a6580d30b1b5764bf705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692957,
+            "locality_id":1276543743,
+            "region_id":85679713
+        }
+    ],
+    "wof:id":1276543743,
+    "wof:lastmodified":1536993266,
+    "wof:name":"Chiuta",
+    "wof:parent_id":1108692957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.55,
+    -10.46667,
+    39.55,
+    -10.46667
+],
+  "geometry": {"coordinates":[39.55,-10.46667],"type":"Point"}
+}

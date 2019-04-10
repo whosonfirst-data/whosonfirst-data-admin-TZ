@@ -1,0 +1,79 @@
+{
+  "id": 421167145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.5,-10.9,38.5,-10.9",
+    "geom:latitude":-10.9,
+    "geom:longitude":38.5,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":877597,
+    "qs:gn_pop":23028,
+    "qs:name":"Nangomba",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Mtwara",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":129815,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1448372,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679717,
+        1108692979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877597,
+        "gp:id":1448372,
+        "qs:id":129815
+    },
+    "wof:country":"TZ",
+    "wof:created":1459008721,
+    "wof:geomhash":"746e6d6789eee91335d9217542194123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692979,
+            "locality_id":421167145,
+            "region_id":85679717
+        }
+    ],
+    "wof:id":421167145,
+    "wof:lastmodified":1505340584,
+    "wof:name":"Nangomba",
+    "wof:parent_id":1108692979,
+    "wof:placetype":"locality",
+    "wof:population":23028,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.5,
+    -10.9,
+    38.5,
+    -10.9
+],
+  "geometry": {"coordinates":[38.5,-10.9],"type":"Point"}
+}

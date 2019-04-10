@@ -1,0 +1,73 @@
+{
+  "id": 1344120149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.83333,-5.65,37.83333,-5.65",
+    "geom:latitude":-5.65,
+    "geom:longitude":37.83333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0406",
+    "gn:admin3_code":"0406071",
+    "gn:asciiname":"Manyingwa",
+    "gn:country_code":"TZ",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":154841,
+    "gn:latitude":-5.65,
+    "gn:longitude":37.83333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Manyingwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manyungwa",
+        "Manyingwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679747,
+        1108692923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154841
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"c17a2eeebf56b134e995dda5b00d4a94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692923,
+            "locality_id":1344120149,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":1344120149,
+    "wof:lastmodified":1537710023,
+    "wof:name":"Manyingwa",
+    "wof:parent_id":1108692923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.83333,
+    -5.65,
+    37.83333,
+    -5.65
+],
+  "geometry": {"coordinates":[37.83333,-5.65],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1293174671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.6,-10.58333,34.6,-10.58333",
+    "geom:latitude":-10.58333,
+    "geom:longitude":34.6,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mangoli",
+    "gn:country_code":"TZ",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":878079,
+    "gn:latitude":-10.58333,
+    "gn:longitude":34.6,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mangoli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878079
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"feb46fd19836ad70a1fff28d08fcf22b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1293174671,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293174671,
+    "wof:lastmodified":1536740986,
+    "wof:name":"Mangoli",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.6,
+    -10.58333,
+    34.6,
+    -10.58333
+],
+  "geometry": {"coordinates":[34.6,-10.58333],"type":"Point"}
+}

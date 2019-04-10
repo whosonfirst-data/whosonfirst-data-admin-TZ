@@ -1,0 +1,75 @@
+{
+  "id": 1260158137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.95,-3.1,32.95,-3.1",
+    "geom:latitude":-3.1,
+    "geom:longitude":32.95,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1907",
+    "gn:admin3_code":"1907141",
+    "gn:asciiname":"Kasadi",
+    "gn:country_code":"TZ",
+    "gn:dem":1220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158302,
+    "gn:latitude":-3.1,
+    "gn:longitude":32.95,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kasadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasodi",
+        "Kazadi",
+        "Kazodi",
+        "Kasadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679655,
+        1108693115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158302
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"f349f22cb1e009a9f53e82dc2f65efb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693115,
+            "locality_id":1260158137,
+            "region_id":85679655
+        }
+    ],
+    "wof:id":1260158137,
+    "wof:lastmodified":1537710043,
+    "wof:name":"Kasadi",
+    "wof:parent_id":1108693115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.95,
+    -3.1,
+    32.95,
+    -3.1
+],
+  "geometry": {"coordinates":[32.95,-3.1],"type":"Point"}
+}

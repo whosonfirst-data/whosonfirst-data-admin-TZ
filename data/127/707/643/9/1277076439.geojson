@@ -1,0 +1,69 @@
+{
+  "id": 1277076439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.3,-5.9,35.3,-5.9",
+    "geom:latitude":-5.9,
+    "geom:longitude":35.3,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0106",
+    "gn:admin3_code":"0106071",
+    "gn:asciiname":"Kisalalo",
+    "gn:country_code":"TZ",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":157026,
+    "gn:latitude":-5.9,
+    "gn:longitude":35.3,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kisalalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679705,
+        1108692899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":157026
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"5563ee7d52ad758d1f05de847c420d5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692899,
+            "locality_id":1277076439,
+            "region_id":85679705
+        }
+    ],
+    "wof:id":1277076439,
+    "wof:lastmodified":1536777252,
+    "wof:name":"Kisalalo",
+    "wof:parent_id":1108692899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.3,
+    -5.9,
+    35.3,
+    -5.9
+],
+  "geometry": {"coordinates":[35.3,-5.9],"type":"Point"}
+}

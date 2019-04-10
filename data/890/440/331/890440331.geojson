@@ -1,0 +1,68 @@
+{
+  "id": 890440331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.2,-4.8,38.2,-4.8",
+    "geom:latitude":-4.8,
+    "geom:longitude":38.2,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
+    "gn:pop":12846,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Mwanga",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679747,
+        1108692919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152265,
+        "gp:id":56558439,
+        "qs:id":122508,
+        "wk:page":"Mwanga"
+    },
+    "wof:country":"TZ",
+    "wof:created":1469052271,
+    "wof:geomhash":"1f46f2559e643e406883358d4303006c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692919,
+            "locality_id":890440331,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":890440331,
+    "wof:lastmodified":1527727100,
+    "wof:name":"Mwanga",
+    "wof:parent_id":1108692919,
+    "wof:placetype":"locality",
+    "wof:population":12846,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.2,
+    -4.8,
+    38.2,
+    -4.8
+],
+  "geometry": {"coordinates":[38.2,-4.8],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1327114581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.16667,-2.36667,32.16667,-2.36667",
+    "geom:latitude":-2.36667,
+    "geom:longitude":32.16667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bangwe",
+    "gn:country_code":"TZ",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161239,
+    "gn:latitude":-2.36667,
+    "gn:longitude":32.16667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Bangwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161239
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"57bd430e98e02e90adc3477fdca55b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1327114581,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327114581,
+    "wof:lastmodified":1536641034,
+    "wof:name":"Bangwe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.16667,
+    -2.36667,
+    32.16667,
+    -2.36667
+],
+  "geometry": {"coordinates":[32.16667,-2.36667],"type":"Point"}
+}

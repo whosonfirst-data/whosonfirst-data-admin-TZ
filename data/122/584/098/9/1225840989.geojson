@@ -1,0 +1,69 @@
+{
+  "id": 1225840989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.53333,-8.11667,33.53333,-8.11667",
+    "geom:latitude":-8.11667,
+    "geom:longitude":33.53333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1201",
+    "gn:admin3_code":"1201061",
+    "gn:asciiname":"Mwakatemos",
+    "gn:country_code":"TZ",
+    "gn:dem":1377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":152358,
+    "gn:latitude":-8.11667,
+    "gn:longitude":33.53333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mwakatemos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679641,
+        1108693005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152358
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"b868ae61b1230ddb765cb6480fd9bd8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693005,
+            "locality_id":1225840989,
+            "region_id":85679641
+        }
+    ],
+    "wof:id":1225840989,
+    "wof:lastmodified":1537019710,
+    "wof:name":"Mwakatemos",
+    "wof:parent_id":1108693005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.53333,
+    -8.11667,
+    33.53333,
+    -8.11667
+],
+  "geometry": {"coordinates":[33.53333,-8.11667],"type":"Point"}
+}

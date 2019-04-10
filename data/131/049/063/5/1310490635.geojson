@@ -1,0 +1,69 @@
+{
+  "id": 1310490635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.41667,-6.33333,37.41667,-6.33333",
+    "geom:latitude":-6.33333,
+    "geom:longitude":37.41667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0506",
+    "gn:admin3_code":"0506013",
+    "gn:asciiname":"Mvomero",
+    "gn:country_code":"TZ",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":152402,
+    "gn:latitude":-6.33333,
+    "gn:longitude":37.41667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mvomero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        1108692941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152402
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"05ace820f1a2f6cb8c95065d4f384f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692941,
+            "locality_id":1310490635,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1310490635,
+    "wof:lastmodified":1536939110,
+    "wof:name":"Mvomero",
+    "wof:parent_id":1108692941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.41667,
+    -6.33333,
+    37.41667,
+    -6.33333
+],
+  "geometry": {"coordinates":[37.41667,-6.33333],"type":"Point"}
+}

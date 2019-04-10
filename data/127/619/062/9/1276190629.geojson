@@ -1,0 +1,73 @@
+{
+  "id": 1276190629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08333,-1.8,31.08333,-1.8",
+    "geom:latitude":-1.8,
+    "geom:longitude":31.08333,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1801",
+    "gn:admin3_code":"1801111",
+    "gn:asciiname":"Rujoka",
+    "gn:country_code":"TZ",
+    "gn:dem":1418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150451,
+    "gn:latitude":-1.8,
+    "gn:longitude":31.08333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Rujoka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ruioka",
+        "Rujoka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150451
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"f1d76eb17f4b55c4409b7d24a288adc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693085,
+            "locality_id":1276190629,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1276190629,
+    "wof:lastmodified":1537709997,
+    "wof:name":"Rujoka",
+    "wof:parent_id":1108693085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08333,
+    -1.8,
+    31.08333,
+    -1.8
+],
+  "geometry": {"coordinates":[31.08333,-1.8],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1276316905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.71667,-8.9,36.71667,-8.9",
+    "geom:latitude":-8.9,
+    "geom:longitude":36.71667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0504",
+    "gn:admin3_code":"0504091",
+    "gn:asciiname":"Ruaha",
+    "gn:country_code":"TZ",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150542,
+    "gn:latitude":-8.9,
+    "gn:longitude":36.71667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ruaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        1108692937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150542
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"47e7e23e4577b4e2c2887d3c90fe5394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692937,
+            "locality_id":1276316905,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1276316905,
+    "wof:lastmodified":1536800803,
+    "wof:name":"Ruaha",
+    "wof:parent_id":1108692937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.71667,
+    -8.9,
+    36.71667,
+    -8.9
+],
+  "geometry": {"coordinates":[36.71667,-8.9],"type":"Point"}
+}

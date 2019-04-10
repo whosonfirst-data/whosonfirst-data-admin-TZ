@@ -1,0 +1,78 @@
+{
+  "id": 1125865175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.28333,-10.95,39.28333,-10.95",
+    "geom:latitude":-10.95,
+    "geom:longitude":39.28333,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":38099,
+    "gn:population":38099,
+    "iso:country":"TZ",
+    "lbl:latitude":-10.95,
+    "lbl:longitude":39.28333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":877532,
+    "qs_pg:gn_pop":38099,
+    "qs_pg:name":"Newala Kisimani",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":129812,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679717,
+        1108692971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877532,
+        "qs_pg:id":129812
+    },
+    "wof:country":"TZ",
+    "wof:created":1497294002,
+    "wof:geomhash":"31d79163a02bbe91cf81fa4c16e69069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692971,
+            "locality_id":1125865175,
+            "region_id":85679717
+        }
+    ],
+    "wof:id":1125865175,
+    "wof:lastmodified":1509396917,
+    "wof:name":"Newala Kisimani",
+    "wof:parent_id":1108692971,
+    "wof:placetype":"locality",
+    "wof:population":38099,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.28333,
+    -10.95,
+    39.28333,
+    -10.95
+],
+  "geometry": {"coordinates":[39.28333,-10.95],"type":"Point"}
+}

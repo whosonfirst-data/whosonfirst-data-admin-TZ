@@ -1,0 +1,72 @@
+{
+  "id": 1243119597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.15,-2.65,32.15,-2.65",
+    "geom:latitude":-2.65,
+    "geom:longitude":32.15,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"2501",
+    "gn:admin3_code":"2501071",
+    "gn:asciiname":"Sungunsira",
+    "gn:country_code":"TZ",
+    "gn:dem":1224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149682,
+    "gn:latitude":-2.65,
+    "gn:longitude":32.15,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Sungunsira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sungusira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679761,
+        1108693163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149682
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"fccc3b04a06acc93ba9e1da448fc2293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693163,
+            "locality_id":1243119597,
+            "region_id":85679761
+        }
+    ],
+    "wof:id":1243119597,
+    "wof:lastmodified":1537709994,
+    "wof:name":"Sungunsira",
+    "wof:parent_id":1108693163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.15,
+    -2.65,
+    32.15,
+    -2.65
+],
+  "geometry": {"coordinates":[32.15,-2.65],"type":"Point"}
+}

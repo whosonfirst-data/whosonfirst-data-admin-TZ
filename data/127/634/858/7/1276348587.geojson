@@ -1,0 +1,72 @@
+{
+  "id": 1276348587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.73965,-7.81646,39.73965,-7.81646",
+    "geom:latitude":-7.81646,
+    "geom:longitude":39.73965,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0606",
+    "gn:admin3_code":"0606081",
+    "gn:asciiname":"Tumbuju",
+    "gn:country_code":"TZ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7388106,
+    "gn:latitude":-7.81646,
+    "gn:longitude":39.73965,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Tumbuju",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tumbuju"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        1108692951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7388106
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"92daecfbaed4f41a022c6f54250bd312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692951,
+            "locality_id":1276348587,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1276348587,
+    "wof:lastmodified":1537710068,
+    "wof:name":"Tumbuju",
+    "wof:parent_id":1108692951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.73965,
+    -7.81646,
+    39.73965,
+    -7.81646
+],
+  "geometry": {"coordinates":[39.73965,-7.81646],"type":"Point"}
+}

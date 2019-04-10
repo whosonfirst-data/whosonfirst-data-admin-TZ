@@ -1,0 +1,69 @@
+{
+  "id": 1209836883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.85,-10.08333,39.85,-10.08333",
+    "geom:latitude":-10.08333,
+    "geom:longitude":39.85,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0802",
+    "gn:admin3_code":"0802071",
+    "gn:asciiname":"Nachunyu",
+    "gn:country_code":"TZ",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877700,
+    "gn:latitude":-10.08333,
+    "gn:longitude":39.85,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nachunyu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679713,
+        1108692957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877700
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"90e613d835d44e918d3876a1a6441994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692957,
+            "locality_id":1209836883,
+            "region_id":85679713
+        }
+    ],
+    "wof:id":1209836883,
+    "wof:lastmodified":1536394504,
+    "wof:name":"Nachunyu",
+    "wof:parent_id":1108692957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.85,
+    -10.08333,
+    39.85,
+    -10.08333
+],
+  "geometry": {"coordinates":[39.85,-10.08333],"type":"Point"}
+}

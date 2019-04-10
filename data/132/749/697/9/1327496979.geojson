@@ -1,0 +1,69 @@
+{
+  "id": 1327496979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.96667,-4.3,32.96667,-4.3",
+    "geom:latitude":-4.3,
+    "geom:longitude":32.96667,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1401",
+    "gn:admin3_code":"1401291",
+    "gn:asciiname":"Bulunde",
+    "gn:country_code":"TZ",
+    "gn:dem":1245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160920,
+    "gn:latitude":-4.3,
+    "gn:longitude":32.96667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Bulunde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679661,
+        1108693033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160920
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"f162353500ec63804dd0dcb2c7e1cae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693033,
+            "locality_id":1327496979,
+            "region_id":85679661
+        }
+    ],
+    "wof:id":1327496979,
+    "wof:lastmodified":1537082231,
+    "wof:name":"Bulunde",
+    "wof:parent_id":1108693033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.96667,
+    -4.3,
+    32.96667,
+    -4.3
+],
+  "geometry": {"coordinates":[32.96667,-4.3],"type":"Point"}
+}

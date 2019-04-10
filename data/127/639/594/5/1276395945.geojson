@@ -1,0 +1,70 @@
+{
+  "id": 1276395945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.80909,-3.37105,35.80909,-3.37105",
+    "geom:latitude":-3.37105,
+    "geom:longitude":35.80909,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"0204",
+    "gn:admin3_code":"0204121",
+    "gn:asciiname":"Kibaoni",
+    "gn:country_code":"TZ",
+    "gn:dem":1235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8552128,
+    "gn:latitude":-3.37105,
+    "gn:longitude":35.80909,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kibaoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679731,
+        421187711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8552128,
+        "wk:page":"Kibaoni"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"cfca2e4bcef933902d18eb99b6bceeab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187711,
+            "locality_id":1276395945,
+            "region_id":85679731
+        }
+    ],
+    "wof:id":1276395945,
+    "wof:lastmodified":1537574866,
+    "wof:name":"Kibaoni",
+    "wof:parent_id":421187711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.80909000000001,
+    -3.37105,
+    35.80909000000001,
+    -3.37105
+],
+  "geometry": {"coordinates":[35.80909000000001,-3.37105],"type":"Point"}
+}

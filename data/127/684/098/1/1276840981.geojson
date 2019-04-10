@@ -1,0 +1,63 @@
+{
+  "id": 1276840981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.66667,-10.8,34.66667,-10.8",
+    "geom:latitude":-10.8,
+    "geom:longitude":34.66667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mbuli",
+    "gn:country_code":"TZ",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877988,
+    "gn:latitude":-10.8,
+    "gn:longitude":34.66667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mbuli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877988
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"c4cca540d77a38b2f3a7851e3ab5d3d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276840981,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276840981,
+    "wof:lastmodified":1537090075,
+    "wof:name":"Mbuli",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.66667,
+    -10.8,
+    34.66667,
+    -10.8
+],
+  "geometry": {"coordinates":[34.66667,-10.8],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225906045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.65,-5.38333,39.65,-5.38333",
+    "geom:latitude":-5.38333,
+    "geom:longitude":39.65,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"5502",
+    "gn:admin3_code":"5502041",
+    "gn:asciiname":"Mwambani",
+    "gn:country_code":"TZ",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":152311,
+    "gn:latitude":-5.38333,
+    "gn:longitude":39.65,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mwambani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mombani",
+        "Mwambani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679687,
+        1108693175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152311
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"51d9a0e655ae6f0bf46c3c74fb7f707b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693175,
+            "locality_id":1225906045,
+            "region_id":85679687
+        }
+    ],
+    "wof:id":1225906045,
+    "wof:lastmodified":1537710008,
+    "wof:name":"Mwambani",
+    "wof:parent_id":1108693175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.65,
+    -5.38333,
+    39.65,
+    -5.38333
+],
+  "geometry": {"coordinates":[39.65,-5.38333],"type":"Point"}
+}

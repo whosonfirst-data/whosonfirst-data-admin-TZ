@@ -1,0 +1,73 @@
+{
+  "id": 1309679845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.26667,-6.2,39.26667,-6.2",
+    "geom:latitude":-6.2,
+    "geom:longitude":39.26667,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"5301",
+    "gn:admin3_code":"5301083",
+    "gn:asciiname":"Miembe Miwili",
+    "gn:country_code":"TZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153944,
+    "gn:latitude":-6.2,
+    "gn:longitude":39.26667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Miembe Miwili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Miembi Miwili",
+        "Miembe Miwili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679699,
+        421202045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153944
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"dbe7fdbafa81f490b249b7b5d4aea885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421202045,
+            "locality_id":1309679845,
+            "region_id":85679699
+        }
+    ],
+    "wof:id":1309679845,
+    "wof:lastmodified":1537710018,
+    "wof:name":"Miembe Miwili",
+    "wof:parent_id":421202045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.26667,
+    -6.2,
+    39.26667,
+    -6.2
+],
+  "geometry": {"coordinates":[39.26667,-6.2],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1259856667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.81667,-3.2,32.81667,-3.2",
+    "geom:latitude":-3.2,
+    "geom:longitude":32.81667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1907",
+    "gn:admin3_code":"1907211",
+    "gn:asciiname":"Mwanatumba",
+    "gn:country_code":"TZ",
+    "gn:dem":1144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":152278,
+    "gn:latitude":-3.2,
+    "gn:longitude":32.81667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mwanatumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679655,
+        1108693115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152278
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"c02bd994e27dba07e4236640fbb3c82f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693115,
+            "locality_id":1259856667,
+            "region_id":85679655
+        }
+    ],
+    "wof:id":1259856667,
+    "wof:lastmodified":1536817051,
+    "wof:name":"Mwanatumba",
+    "wof:parent_id":1108693115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.81667,
+    -3.2,
+    32.81667,
+    -3.2
+],
+  "geometry": {"coordinates":[32.81667,-3.2],"type":"Point"}
+}

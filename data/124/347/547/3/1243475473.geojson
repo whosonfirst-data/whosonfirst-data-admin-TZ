@@ -1,0 +1,73 @@
+{
+  "id": 1243475473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.03333,-10.38333,39.03333,-10.38333",
+    "geom:latitude":-10.38333,
+    "geom:longitude":39.03333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0805",
+    "gn:admin3_code":"0805041",
+    "gn:asciiname":"Mbalaia",
+    "gn:country_code":"TZ",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":878024,
+    "gn:latitude":-10.38333,
+    "gn:longitude":39.03333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mbalaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbalala",
+        "Mbalaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679713,
+        1108692965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878024
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"a08c0f98a94a3469669fc20b6ffcf4df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692965,
+            "locality_id":1243475473,
+            "region_id":85679713
+        }
+    ],
+    "wof:id":1243475473,
+    "wof:lastmodified":1537710065,
+    "wof:name":"Mbalaia",
+    "wof:parent_id":1108692965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.03333,
+    -10.38333,
+    39.03333,
+    -10.38333
+],
+  "geometry": {"coordinates":[39.03333,-10.38333],"type":"Point"}
+}

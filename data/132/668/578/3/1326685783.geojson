@@ -1,0 +1,69 @@
+{
+  "id": 1326685783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.95,-8.73333,31.95,-8.73333",
+    "geom:latitude":-8.73333,
+    "geom:longitude":31.95,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1502",
+    "gn:admin3_code":"1502151",
+    "gn:asciiname":"Misansa",
+    "gn:country_code":"TZ",
+    "gn:dem":1481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153776,
+    "gn:latitude":-8.73333,
+    "gn:longitude":31.95,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Misansa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679645,
+        1108693051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153776
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"a728cff8dad9dd0790092c7c3aeabfba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693051,
+            "locality_id":1326685783,
+            "region_id":85679645
+        }
+    ],
+    "wof:id":1326685783,
+    "wof:lastmodified":1536763141,
+    "wof:name":"Misansa",
+    "wof:parent_id":1108693051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.95,
+    -8.73333,
+    31.95,
+    -8.73333
+],
+  "geometry": {"coordinates":[31.95,-8.73333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243185247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.94428,-6.46082,38.94428,-6.46082",
+    "geom:latitude":-6.46082,
+    "geom:longitude":38.94428,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0601",
+    "gn:admin3_code":"0601062",
+    "gn:asciiname":"Kaole",
+    "gn:country_code":"TZ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158367,
+    "gn:latitude":-6.46082,
+    "gn:longitude":38.94428,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kaole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        1108692947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158367,
+        "wk:page":"Kaole"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"ed674c07ef0094087fe9ca21b294861d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692947,
+            "locality_id":1243185247,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1243185247,
+    "wof:lastmodified":1537574857,
+    "wof:name":"Kaole",
+    "wof:parent_id":1108692947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.94428,
+    -6.46082,
+    38.94428,
+    -6.46082
+],
+  "geometry": {"coordinates":[38.94428,-6.46082],"type":"Point"}
+}

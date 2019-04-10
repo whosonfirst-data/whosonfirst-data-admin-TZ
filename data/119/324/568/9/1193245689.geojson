@@ -1,0 +1,69 @@
+{
+  "id": 1193245689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.16667,-3.18333,35.16667,-3.18333",
+    "geom:latitude":-3.18333,
+    "geom:longitude":35.16667,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"0205",
+    "gn:admin3_code":"0205111",
+    "gn:asciiname":"Endulen",
+    "gn:country_code":"TZ",
+    "gn:dem":1766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160065,
+    "gn:latitude":-3.18333,
+    "gn:longitude":35.16667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Endulen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679731,
+        421171979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160065
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"923cbbd0537a9b4ecd0c64770c89b81e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421171979,
+            "locality_id":1193245689,
+            "region_id":85679731
+        }
+    ],
+    "wof:id":1193245689,
+    "wof:lastmodified":1536373627,
+    "wof:name":"Endulen",
+    "wof:parent_id":421171979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16667,
+    -3.18333,
+    35.16667,
+    -3.18333
+],
+  "geometry": {"coordinates":[35.16667,-3.18333],"type":"Point"}
+}

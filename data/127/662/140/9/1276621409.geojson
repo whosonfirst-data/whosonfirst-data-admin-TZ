@@ -1,0 +1,70 @@
+{
+  "id": 1276621409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66667,-3.0,35.66667,-3.0",
+    "geom:latitude":-3.0,
+    "geom:longitude":35.66667,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"0205",
+    "gn:admin3_code":"0205081",
+    "gn:asciiname":"Nainokanoka",
+    "gn:country_code":"TZ",
+    "gn:dem":2873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":152023,
+    "gn:latitude":-3.0,
+    "gn:longitude":35.66667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nainokanoka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679731,
+        421171979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152023,
+        "wk:page":"Nainokanoka"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"e7ffd78c120eba8e139f11b4047a17d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421171979,
+            "locality_id":1276621409,
+            "region_id":85679731
+        }
+    ],
+    "wof:id":1276621409,
+    "wof:lastmodified":1537574849,
+    "wof:name":"Nainokanoka",
+    "wof:parent_id":421171979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66667,
+    -3.0,
+    35.66667,
+    -3.0
+],
+  "geometry": {"coordinates":[35.66667,-3.0],"type":"Point"}
+}

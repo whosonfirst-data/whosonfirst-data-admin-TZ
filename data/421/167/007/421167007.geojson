@@ -1,0 +1,82 @@
+{
+  "id": 421167007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.85,-4.26667,35.85,-4.26667",
+    "geom:latitude":-4.26667,
+    "geom:longitude":35.85,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Gwanzave"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":159951,
+    "qs:gn_pop":18528,
+    "qs:name":"Galappo",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Manyara",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":122594,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1443553,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679733,
+        1108693123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159951,
+        "gp:id":1443553,
+        "qs:id":122594
+    },
+    "wof:country":"TZ",
+    "wof:created":1459008711,
+    "wof:geomhash":"6945773d4309fd6c4d16b627514b9940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693123,
+            "locality_id":421167007,
+            "region_id":85679733
+        }
+    ],
+    "wof:id":421167007,
+    "wof:lastmodified":1505340583,
+    "wof:name":"Galappo",
+    "wof:parent_id":1108693123,
+    "wof:placetype":"locality",
+    "wof:population":18528,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.85,
+    -4.26667,
+    35.85,
+    -4.26667
+],
+  "geometry": {"coordinates":[35.85,-4.26667],"type":"Point"}
+}

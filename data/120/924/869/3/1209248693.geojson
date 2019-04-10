@@ -1,0 +1,67 @@
+{
+  "id": 1209248693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.96667,-2.88333,33.96667,-2.88333",
+    "geom:latitude":-2.88333,
+    "geom:longitude":33.96667,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2402",
+    "gn:admin3_code":"2402173",
+    "gn:asciiname":"Mwambalegia Bunamhala",
+    "gn:country_code":"TZ",
+    "gn:dem":1338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":152316,
+    "gn:latitude":-2.88333,
+    "gn:longitude":33.96667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mwambalegia Bunamhala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bunamhala",
+        "Mwambalegia Bunamhala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152316
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"9dc0d1c2bc5e24053fd228dd67b30f98",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209248693
+        }
+    ],
+    "wof:id":1209248693,
+    "wof:lastmodified":1537710008,
+    "wof:name":"Mwambalegia Bunamhala",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.96667,
+    -2.88333,
+    33.96667,
+    -2.88333
+],
+  "geometry": {"coordinates":[33.96667,-2.88333],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1125946523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.8,-3.33333,36.8,-3.33333",
+    "geom:latitude":-3.33333,
+    "geom:longitude":36.8,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":14738,
+    "gn:population":14738,
+    "iso:country":"TZ",
+    "lbl:latitude":-3.33333,
+    "lbl:longitude":36.8,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Nkoaranga"
+    ],
+    "name:eng_x_preferred":[
+        "Nkoaranga"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0646\u06a9\u0648\u0627\u0631\u0627\u0646\u06af\u0627"
+    ],
+    "name:swa_x_preferred":[
+        "Nkoaranga"
+    ],
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":151445,
+    "qs_pg:gn_pop":14738,
+    "qs_pg:name":"Nkoaranga",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":67622,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679731,
+        1108692905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151445,
+        "qs_pg:id":67622,
+        "wd:id":"Q7042588"
+    },
+    "wof:country":"TZ",
+    "wof:created":1497297302,
+    "wof:geomhash":"ae17a5ef931f066c3868c88c61b7db6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692905,
+            "locality_id":1125946523,
+            "region_id":85679731
+        }
+    ],
+    "wof:id":1125946523,
+    "wof:lastmodified":1514508778,
+    "wof:name":"Nkoaranga",
+    "wof:parent_id":1108692905,
+    "wof:placetype":"locality",
+    "wof:population":14738,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.8,
+    -3.33333,
+    36.8,
+    -3.33333
+],
+  "geometry": {"coordinates":[36.8,-3.33333],"type":"Point"}
+}

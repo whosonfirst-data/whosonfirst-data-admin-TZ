@@ -1,0 +1,81 @@
+{
+  "id": 890415409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.05,-10.8,35.05,-10.8",
+    "geom:latitude":-10.8,
+    "geom:longitude":35.05,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
+    "gn:pop":22155,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u0438\u0433\u043e\u043d\u0441\u0435\u0440\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Kigonsera"
+    ],
+    "name:eng_x_preferred":[
+        "Kigonsera"
+    ],
+    "name:swa_x_preferred":[
+        "Kigonsera"
+    ],
+    "qs:name":"Kigonsera",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679723,
+        1108692989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878400,
+        "gp:id":1446825,
+        "qs:id":129844,
+        "wd:id":"Q6405967",
+        "wk:page":"Kigonsera"
+    },
+    "wof:country":"TZ",
+    "wof:created":1469051087,
+    "wof:geomhash":"6dc20992e6f4ae0408c4ecff082c46d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692989,
+            "locality_id":890415409,
+            "region_id":85679723
+        }
+    ],
+    "wof:id":890415409,
+    "wof:lastmodified":1527727238,
+    "wof:name":"Kigonsera",
+    "wof:parent_id":1108692989,
+    "wof:placetype":"locality",
+    "wof:population":22155,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.05,
+    -10.8,
+    35.05,
+    -10.8
+],
+  "geometry": {"coordinates":[35.05,-10.8],"type":"Point"}
+}

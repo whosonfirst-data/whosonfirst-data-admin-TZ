@@ -1,0 +1,70 @@
+{
+  "id": 1226020133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.76833,-1.16278,31.76833,-1.16278",
+    "geom:latitude":-1.16278,
+    "geom:longitude":31.76833,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1807",
+    "gn:admin3_code":"1807121",
+    "gn:asciiname":"Ishozi",
+    "gn:country_code":"TZ",
+    "gn:dem":1282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159002,
+    "gn:latitude":-1.16278,
+    "gn:longitude":31.76833,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ishozi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159002,
+        "wk:page":"Ishozi"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"96bd41a9f792496441d9cd5ebe337c13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693099,
+            "locality_id":1226020133,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1226020133,
+    "wof:lastmodified":1537574859,
+    "wof:name":"Ishozi",
+    "wof:parent_id":1108693099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.76833,
+    -1.16278,
+    31.76833,
+    -1.16278
+],
+  "geometry": {"coordinates":[31.76833,-1.16278],"type":"Point"}
+}

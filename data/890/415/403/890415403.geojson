@@ -1,0 +1,66 @@
+{
+  "id": 890415403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.33333,-10.65,39.33333,-10.65",
+    "geom:latitude":-10.65,
+    "geom:longitude":39.33333,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
+    "gn:pop":10956,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kitangari",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679717,
+        1108692971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878362,
+        "gp:id":1445352,
+        "qs:id":129842
+    },
+    "wof:country":"TZ",
+    "wof:created":1469051086,
+    "wof:geomhash":"e2f793750762e25e4c54883a8e403d5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692971,
+            "locality_id":890415403,
+            "region_id":85679717
+        }
+    ],
+    "wof:id":890415403,
+    "wof:lastmodified":1505343426,
+    "wof:name":"Kitangari",
+    "wof:parent_id":1108692971,
+    "wof:placetype":"locality",
+    "wof:population":10956,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.33333,
+    -10.65,
+    39.33333,
+    -10.65
+],
+  "geometry": {"coordinates":[39.33333,-10.65],"type":"Point"}
+}

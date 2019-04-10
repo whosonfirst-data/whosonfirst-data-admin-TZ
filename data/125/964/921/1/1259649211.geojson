@@ -1,0 +1,69 @@
+{
+  "id": 1259649211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.68333,-2.05,31.68333,-2.05",
+    "geom:latitude":-2.05,
+    "geom:longitude":31.68333,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1803",
+    "gn:admin3_code":"1803211",
+    "gn:asciiname":"Kyoto",
+    "gn:country_code":"TZ",
+    "gn:dem":1314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156100,
+    "gn:latitude":-2.05,
+    "gn:longitude":31.68333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kyoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156100
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"1178c1263b12c9902839c74f33cf77a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693091,
+            "locality_id":1259649211,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1259649211,
+    "wof:lastmodified":1536617933,
+    "wof:name":"Kyoto",
+    "wof:parent_id":1108693091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.68333,
+    -2.05,
+    31.68333,
+    -2.05
+],
+  "geometry": {"coordinates":[31.68333,-2.05],"type":"Point"}
+}

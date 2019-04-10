@@ -1,0 +1,72 @@
+{
+  "id": 1242825079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.06667,-6.25,31.06667,-6.25",
+    "geom:latitude":-6.25,
+    "geom:longitude":31.06667,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"2303",
+    "gn:admin3_code":"2303011",
+    "gn:asciiname":"Kamtimbo",
+    "gn:country_code":"TZ",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158449,
+    "gn:latitude":-6.25,
+    "gn:longitude":31.06667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kamtimbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kamtimbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679751,
+        1108693151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158449
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"e679300c7382b845bbe18e138943d931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693151,
+            "locality_id":1242825079,
+            "region_id":85679751
+        }
+    ],
+    "wof:id":1242825079,
+    "wof:lastmodified":1537710044,
+    "wof:name":"Kamtimbo",
+    "wof:parent_id":1108693151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.06667,
+    -6.25,
+    31.06667,
+    -6.25
+],
+  "geometry": {"coordinates":[31.06667,-6.25],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226547415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.79266,-6.17526,35.79266,-6.17526",
+    "geom:latitude":-6.17526,
+    "geom:longitude":35.79266,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0105",
+    "gn:admin3_code":"0105131",
+    "gn:asciiname":"Kisasa",
+    "gn:country_code":"TZ",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9063978,
+    "gn:latitude":-6.17526,
+    "gn:longitude":35.79266,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kisasa",
+    "gn:population":10000,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679705,
+        421187957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9063978
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"196bbcfe8aabe0d61f7d0af931281634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187957,
+            "locality_id":1226547415,
+            "region_id":85679705
+        }
+    ],
+    "wof:id":1226547415,
+    "wof:lastmodified":1536994773,
+    "wof:name":"Kisasa",
+    "wof:parent_id":421187957,
+    "wof:placetype":"locality",
+    "wof:population":10000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.79266,
+    -6.17526,
+    35.79266,
+    -6.17526
+],
+  "geometry": {"coordinates":[35.79266,-6.17526],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276522837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.54417,-2.57556,30.54417,-2.57556",
+    "geom:latitude":-2.57556,
+    "geom:longitude":30.54417,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1805",
+    "gn:admin3_code":"1805101",
+    "gn:asciiname":"Muhweza",
+    "gn:cc2":"TZ",
+    "gn:country_code":"TZ",
+    "gn:dem":1676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":152620,
+    "gn:latitude":-2.57556,
+    "gn:longitude":30.54417,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Muhweza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muheza",
+        "Mubweza",
+        "Muhweza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152620
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"53cd406d5e115a7499f3726d5739d995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693095,
+            "locality_id":1276522837,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1276522837,
+    "wof:lastmodified":1537710010,
+    "wof:name":"Muhweza",
+    "wof:parent_id":1108693095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.54417,
+    -2.57556,
+    30.54417,
+    -2.57556
+],
+  "geometry": {"coordinates":[30.54417,-2.57556],"type":"Point"}
+}

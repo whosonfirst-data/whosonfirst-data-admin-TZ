@@ -1,0 +1,73 @@
+{
+  "id": 1243062435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.51667,-10.01667,37.51667,-10.01667",
+    "geom:latitude":-10.01667,
+    "geom:longitude":37.51667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0804",
+    "gn:admin3_code":"0804131",
+    "gn:asciiname":"Makunguwiro",
+    "gn:country_code":"TZ",
+    "gn:dem":950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":878103,
+    "gn:latitude":-10.01667,
+    "gn:longitude":37.51667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Makunguwiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makunguwira",
+        "Makunguwiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679713,
+        1108692961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878103
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"8edd65f1e0afcdaefb8d1bf30a3b232b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692961,
+            "locality_id":1243062435,
+            "region_id":85679713
+        }
+    ],
+    "wof:id":1243062435,
+    "wof:lastmodified":1537710065,
+    "wof:name":"Makunguwiro",
+    "wof:parent_id":1108692961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.51667,
+    -10.01667,
+    37.51667,
+    -10.01667
+],
+  "geometry": {"coordinates":[37.51667,-10.01667],"type":"Point"}
+}

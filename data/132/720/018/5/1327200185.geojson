@@ -1,0 +1,73 @@
+{
+  "id": 1327200185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.23333,-5.38333,38.23333,-5.38333",
+    "geom:latitude":-5.38333,
+    "geom:longitude":38.23333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0406",
+    "gn:admin3_code":"0406101",
+    "gn:asciiname":"Kwamanyama",
+    "gn:country_code":"TZ",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156282,
+    "gn:latitude":-5.38333,
+    "gn:longitude":38.23333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kwamanyama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kammauya",
+        "Kwamanyama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679747,
+        1108692923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156282
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"cb472e5d174a817e8ed023025212e6a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692923,
+            "locality_id":1327200185,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":1327200185,
+    "wof:lastmodified":1537710031,
+    "wof:name":"Kwamanyama",
+    "wof:parent_id":1108692923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.23333,
+    -5.38333,
+    38.23333,
+    -5.38333
+],
+  "geometry": {"coordinates":[38.23333,-5.38333],"type":"Point"}
+}

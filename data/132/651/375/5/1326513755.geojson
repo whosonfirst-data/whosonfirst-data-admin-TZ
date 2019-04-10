@@ -1,0 +1,69 @@
+{
+  "id": 1326513755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.8,-8.66667,36.8,-8.66667",
+    "geom:latitude":-8.66667,
+    "geom:longitude":36.8,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0504",
+    "gn:admin3_code":"0504131",
+    "gn:asciiname":"Mongo",
+    "gn:country_code":"TZ",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153239,
+    "gn:latitude":-8.66667,
+    "gn:longitude":36.8,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        1108692937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153239
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"8c6b46729adbfd2565ba3c6df5aa7653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692937,
+            "locality_id":1326513755,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1326513755,
+    "wof:lastmodified":1537010023,
+    "wof:name":"Mongo",
+    "wof:parent_id":1108692937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.8,
+    -8.66667,
+    36.8,
+    -8.66667
+],
+  "geometry": {"coordinates":[36.8,-8.66667],"type":"Point"}
+}

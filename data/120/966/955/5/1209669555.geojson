@@ -1,0 +1,63 @@
+{
+  "id": 1209669555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.76667,-4.0,35.76667,-4.0",
+    "geom:latitude":-4.0,
+    "geom:longitude":35.76667,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"2101",
+    "gn:admin3_code":"2101183",
+    "gn:asciiname":"Idulo",
+    "gn:country_code":"TZ",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159501,
+    "gn:latitude":-4.0,
+    "gn:longitude":35.76667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Idulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159501
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"9a3cd0130934d88e178fd6d6d01e94e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209669555
+        }
+    ],
+    "wof:id":1209669555,
+    "wof:lastmodified":1536279974,
+    "wof:name":"Idulo",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.76667,
+    -4.0,
+    35.76667,
+    -4.0
+],
+  "geometry": {"coordinates":[35.76667,-4.0],"type":"Point"}
+}

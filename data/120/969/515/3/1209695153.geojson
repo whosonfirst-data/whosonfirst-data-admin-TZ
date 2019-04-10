@@ -1,0 +1,63 @@
+{
+  "id": 1209695153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.8,-5.06667,39.8,-5.06667",
+    "geom:latitude":-5.06667,
+    "geom:longitude":39.8,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"5401",
+    "gn:admin3_code":"5401291",
+    "gn:asciiname":"Penya",
+    "gn:country_code":"TZ",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150722,
+    "gn:latitude":-5.06667,
+    "gn:longitude":39.8,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Penya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150722
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"fe9cd2ac988d5536fea593c3157d87a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209695153
+        }
+    ],
+    "wof:id":1209695153,
+    "wof:lastmodified":1536279101,
+    "wof:name":"Penya",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.8,
+    -5.0666699999999985,
+    39.8,
+    -5.0666699999999985
+],
+  "geometry": {"coordinates":[39.8,-5.06667],"type":"Point"}
+}

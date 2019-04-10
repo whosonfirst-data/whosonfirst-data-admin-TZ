@@ -1,0 +1,67 @@
+{
+  "id": 1209071859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.32778,-2.61833,31.32778,-2.61833",
+    "geom:latitude":-2.61833,
+    "geom:longitude":31.32778,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1804",
+    "gn:admin3_code":"1804021",
+    "gn:asciiname":"Kayanza",
+    "gn:country_code":"TZ",
+    "gn:dem":1440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158121,
+    "gn:latitude":-2.61833,
+    "gn:longitude":31.32778,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kayanza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kavansa",
+        "Kayanza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158121
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"054266fdb96226e928f664a2d660517e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209071859
+        }
+    ],
+    "wof:id":1209071859,
+    "wof:lastmodified":1537710041,
+    "wof:name":"Kayanza",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.32778,
+    -2.61833,
+    31.32778,
+    -2.61833
+],
+  "geometry": {"coordinates":[31.32778,-2.61833],"type":"Point"}
+}

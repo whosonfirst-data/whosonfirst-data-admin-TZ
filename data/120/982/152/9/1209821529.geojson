@@ -1,0 +1,78 @@
+{
+  "id": 1209821529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.6,-7.56667,36.6,-7.56667",
+    "geom:latitude":-7.56667,
+    "geom:longitude":36.6,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1104",
+    "gn:admin3_code":"1104211",
+    "gn:asciiname":"Ndene",
+    "gn:country_code":"TZ",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151828,
+    "gn:latitude":-7.56667,
+    "gn:longitude":36.6,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ndene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ndene"
+    ],
+    "name:eng_x_variant":[
+        "Mdene"
+    ],
+    "name:und_x_variant":[
+        "Mdene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679711,
+        1108693001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151828
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"2d213531e8a91c522bf4c2e00f861234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693001,
+            "locality_id":1209821529,
+            "region_id":85679711
+        }
+    ],
+    "wof:id":1209821529,
+    "wof:lastmodified":1537710006,
+    "wof:name":"Ndene",
+    "wof:parent_id":1108693001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.6,
+    -7.56667,
+    36.6,
+    -7.56667
+],
+  "geometry": {"coordinates":[36.6,-7.56667],"type":"Point"}
+}

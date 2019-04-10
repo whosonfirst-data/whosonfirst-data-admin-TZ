@@ -1,0 +1,72 @@
+{
+  "id": 1209562321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.65758,-6.29964,30.65758,-6.29964",
+    "geom:latitude":-6.29964,
+    "geom:longitude":30.65758,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"2302",
+    "gn:admin3_code":"2302041",
+    "gn:asciiname":"Kalambo",
+    "gn:country_code":"TZ",
+    "gn:dem":1153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158542,
+    "gn:latitude":-6.29964,
+    "gn:longitude":30.65758,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kalambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kalambo"
+    ],
+    "name:eng_x_variant":[
+        "Kalambu"
+    ],
+    "name:und_x_variant":[
+        "Kalambu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158542
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"0ac29810922a75de68a4571b0051803a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209562321
+        }
+    ],
+    "wof:id":1209562321,
+    "wof:lastmodified":1537710045,
+    "wof:name":"Kalambo",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.65758,
+    -6.29964,
+    30.65758,
+    -6.29964
+],
+  "geometry": {"coordinates":[30.65758,-6.29964],"type":"Point"}
+}

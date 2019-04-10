@@ -1,0 +1,70 @@
+{
+  "id": 1343423455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.61583,-1.75778,31.61583,-1.75778",
+    "geom:latitude":-1.75778,
+    "geom:longitude":31.61583,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1803",
+    "gn:admin3_code":"1803351",
+    "gn:asciiname":"Kashasha",
+    "gn:country_code":"TZ",
+    "gn:dem":1532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158250,
+    "gn:latitude":-1.75778,
+    "gn:longitude":31.61583,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kashasha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158250,
+        "wk:page":"Kashasha"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"713f66db3f8153e54324cebadd9119dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693091,
+            "locality_id":1343423455,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1343423455,
+    "wof:lastmodified":1537574857,
+    "wof:name":"Kashasha",
+    "wof:parent_id":1108693091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.61583,
+    -1.75778,
+    31.61583,
+    -1.75778
+],
+  "geometry": {"coordinates":[31.61583,-1.75778],"type":"Point"}
+}

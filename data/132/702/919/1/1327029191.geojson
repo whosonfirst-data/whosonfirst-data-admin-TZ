@@ -1,0 +1,73 @@
+{
+  "id": 1327029191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.80611,-3.99472,30.80611,-3.99472",
+    "geom:latitude":-3.99472,
+    "geom:longitude":30.80611,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1601",
+    "gn:admin3_code":"1601051",
+    "gn:asciiname":"Niamata",
+    "gn:country_code":"TZ",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151537,
+    "gn:latitude":-3.99472,
+    "gn:longitude":30.80611,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Niamata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyamata",
+        "Niamata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679669,
+        1108693059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151537
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"efb3976b7250137107a9a393d519e0d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693059,
+            "locality_id":1327029191,
+            "region_id":85679669
+        }
+    ],
+    "wof:id":1327029191,
+    "wof:lastmodified":1537710004,
+    "wof:name":"Niamata",
+    "wof:parent_id":1108693059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.80611,
+    -3.99472,
+    30.80611,
+    -3.99472
+],
+  "geometry": {"coordinates":[30.80611,-3.99472],"type":"Point"}
+}

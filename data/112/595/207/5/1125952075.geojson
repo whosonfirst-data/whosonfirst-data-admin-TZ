@@ -1,0 +1,78 @@
+{
+  "id": 1125952075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.85,-3.28333,32.85,-3.28333",
+    "geom:latitude":-3.28333,
+    "geom:longitude":32.85,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":21553,
+    "gn:population":21553,
+    "iso:country":"TZ",
+    "lbl:latitude":-3.28333,
+    "lbl:longitude":32.85,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":154002,
+    "qs_pg:gn_pop":21553,
+    "qs_pg:name":"Mhango",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":68021,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679657,
+        1108693079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154002,
+        "qs_pg:id":68021
+    },
+    "wof:country":"TZ",
+    "wof:created":1497297496,
+    "wof:geomhash":"eb70f4309874f31ce5b19689714401ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693079,
+            "locality_id":1125952075,
+            "region_id":85679657
+        }
+    ],
+    "wof:id":1125952075,
+    "wof:lastmodified":1509402766,
+    "wof:name":"Mhango",
+    "wof:parent_id":1108693079,
+    "wof:placetype":"locality",
+    "wof:population":21553,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.85,
+    -3.28333,
+    32.85,
+    -3.28333
+],
+  "geometry": {"coordinates":[32.85,-3.28333],"type":"Point"}
+}

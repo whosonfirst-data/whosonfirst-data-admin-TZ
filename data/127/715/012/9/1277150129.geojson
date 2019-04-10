@@ -1,0 +1,69 @@
+{
+  "id": 1277150129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.11667,-3.71667,33.11667,-3.71667",
+    "geom:latitude":-3.71667,
+    "geom:longitude":33.11667,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1703",
+    "gn:admin3_code":"1703011",
+    "gn:asciiname":"Mhongwe",
+    "gn:country_code":"TZ",
+    "gn:dem":1208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153987,
+    "gn:latitude":-3.71667,
+    "gn:longitude":33.11667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mhongwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679657,
+        1108693079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153987
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"eb74cec788852a31964588151f61e596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693079,
+            "locality_id":1277150129,
+            "region_id":85679657
+        }
+    ],
+    "wof:id":1277150129,
+    "wof:lastmodified":1536670591,
+    "wof:name":"Mhongwe",
+    "wof:parent_id":1108693079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.11667,
+    -3.71667,
+    33.11667,
+    -3.71667
+],
+  "geometry": {"coordinates":[33.11667,-3.71667],"type":"Point"}
+}

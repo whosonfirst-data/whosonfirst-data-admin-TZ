@@ -1,0 +1,95 @@
+{
+  "id": 421179681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.63333,-11.08333,34.63333,-11.08333",
+    "geom:latitude":-11.08333,
+    "geom:longitude":34.63333,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Liuli"
+    ],
+    "name:dut_x_preferred":[
+        "Liuli"
+    ],
+    "name:eng_x_preferred":[
+        "Liuli"
+    ],
+    "name:ger_x_preferred":[
+        "Sphinxhafen"
+    ],
+    "name:swa_x_preferred":[
+        "Liuli"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":878242,
+    "qs:gn_pop":13119,
+    "qs:name":"Liuli",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Ruvuma",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":430979,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1445905,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":843,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878242,
+        "gp:id":1445905,
+        "qs:id":430979,
+        "wd:id":"Q2309656",
+        "wk:page":"Liuli"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009229,
+    "wof:geomhash":"33178175df4d20d11b1bacbc5e3c3bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "locality_id":421179681,
+            "region_id":85679723
+        }
+    ],
+    "wof:id":421179681,
+    "wof:lastmodified":1527717702,
+    "wof:name":"Liuli",
+    "wof:parent_id":85679723,
+    "wof:placetype":"locality",
+    "wof:population":13119,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.63333,
+    -11.08333,
+    34.63333,
+    -11.08333
+],
+  "geometry": {"coordinates":[34.63333,-11.08333],"type":"Point"}
+}

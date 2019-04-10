@@ -1,0 +1,68 @@
+{
+  "id": 1209326293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.41667,-6.45,36.41667,-6.45",
+    "geom:latitude":-6.45,
+    "geom:longitude":36.41667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0102",
+    "gn:admin3_code":"0102201",
+    "gn:asciiname":"Gulwe",
+    "gn:country_code":"TZ",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159752,
+    "gn:latitude":-6.45,
+    "gn:longitude":36.41667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Gulwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gulube",
+        "Gulwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159752,
+        "wk:page":"Gulwe"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"ef62d52d887f644f71de6751c70b30c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209326293
+        }
+    ],
+    "wof:id":1209326293,
+    "wof:lastmodified":1537710053,
+    "wof:name":"Gulwe",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.41667,
+    -6.45,
+    36.41667,
+    -6.45
+],
+  "geometry": {"coordinates":[36.41667,-6.45],"type":"Point"}
+}

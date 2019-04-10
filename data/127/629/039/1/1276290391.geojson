@@ -1,0 +1,74 @@
+{
+  "id": 1276290391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.53333,-6.26667,39.53333,-6.26667",
+    "geom:latitude":-6.26667,
+    "geom:longitude":39.53333,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5202",
+    "gn:admin3_code":"5202151",
+    "gn:asciiname":"Paje",
+    "gn:country_code":"TZ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150839,
+    "gn:latitude":-6.26667,
+    "gn:longitude":39.53333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Paje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Padye",
+        "Paje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679651,
+        421188197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150839,
+        "wk:page":"Paje%2C_Zanzibar"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"119238a5769179033309e0a6c6c229d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421188197,
+            "locality_id":1276290391,
+            "region_id":85679651
+        }
+    ],
+    "wof:id":1276290391,
+    "wof:lastmodified":1537709999,
+    "wof:name":"Paje",
+    "wof:parent_id":421188197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.53333,
+    -6.26667,
+    39.53333,
+    -6.26667
+],
+  "geometry": {"coordinates":[39.53333,-6.26667],"type":"Point"}
+}

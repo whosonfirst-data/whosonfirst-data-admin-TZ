@@ -1,0 +1,70 @@
+{
+  "id": 1293558801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.95,-4.7,34.95,-4.7",
+    "geom:latitude":-4.7,
+    "geom:longitude":34.95,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1302",
+    "gn:admin3_code":"1302131",
+    "gn:asciiname":"Merya",
+    "gn:country_code":"TZ",
+    "gn:dem":1591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":154142,
+    "gn:latitude":-4.7,
+    "gn:longitude":34.95,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Merya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679727,
+        1108693025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154142,
+        "wk:page":"Merya_%28Tanzanian_ward%29"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"211e8b483c53bcdcbaf400805d51725e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693025,
+            "locality_id":1293558801,
+            "region_id":85679727
+        }
+    ],
+    "wof:id":1293558801,
+    "wof:lastmodified":1537574851,
+    "wof:name":"Merya",
+    "wof:parent_id":1108693025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.95,
+    -4.7,
+    34.95,
+    -4.7
+],
+  "geometry": {"coordinates":[34.95,-4.7],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309700639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.33333,-10.55,40.33333,-10.55",
+    "geom:latitude":-10.55,
+    "geom:longitude":40.33333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0901",
+    "gn:admin3_code":"0901041",
+    "gn:asciiname":"Kihongo",
+    "gn:country_code":"TZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":878391,
+    "gn:latitude":-10.55,
+    "gn:longitude":40.33333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kihongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kinongo",
+        "Kihongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679717,
+        1108692969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878391
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"b7bea89ea3e28dccb015ced4f77d9b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692969,
+            "locality_id":1309700639,
+            "region_id":85679717
+        }
+    ],
+    "wof:id":1309700639,
+    "wof:lastmodified":1537710066,
+    "wof:name":"Kihongo",
+    "wof:parent_id":1108692969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.33333,
+    -10.55,
+    40.33333,
+    -10.55
+],
+  "geometry": {"coordinates":[40.33333,-10.55],"type":"Point"}
+}

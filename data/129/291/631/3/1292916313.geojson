@@ -1,0 +1,75 @@
+{
+  "id": 1292916313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.67196,-7.34302,38.67196,-7.34302",
+    "geom:latitude":-7.34302,
+    "geom:longitude":38.67196,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0603",
+    "gn:admin3_code":"0603091",
+    "gn:asciiname":"Chole Samvula",
+    "gn:country_code":"TZ",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160387,
+    "gn:latitude":-7.34302,
+    "gn:longitude":38.67196,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Chole Samvula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chole Samvula"
+    ],
+    "name:eng_x_variant":[
+        "Chole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        421192907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160387
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"ea549ae7514a68422e0d796f2cd7c416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421192907,
+            "locality_id":1292916313,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1292916313,
+    "wof:lastmodified":1537710056,
+    "wof:name":"Chole Samvula",
+    "wof:parent_id":421192907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.67196,
+    -7.34302,
+    38.67196,
+    -7.34302
+],
+  "geometry": {"coordinates":[38.67196,-7.34302],"type":"Point"}
+}

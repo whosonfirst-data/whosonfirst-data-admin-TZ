@@ -1,0 +1,72 @@
+{
+  "id": 1343668031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.15,-7.36667,36.15,-7.36667",
+    "geom:latitude":-7.36667,
+    "geom:longitude":36.15,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1104",
+    "gn:admin3_code":"1104201",
+    "gn:asciiname":"Kilumbwa",
+    "gn:country_code":"TZ",
+    "gn:dem":2147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":157392,
+    "gn:latitude":-7.36667,
+    "gn:longitude":36.15,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kilumbwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kilumbwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679711,
+        1108693001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":157392
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"497d48de67abc0f2896bf0f2115a31a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693001,
+            "locality_id":1343668031,
+            "region_id":85679711
+        }
+    ],
+    "wof:id":1343668031,
+    "wof:lastmodified":1537710037,
+    "wof:name":"Kilumbwa",
+    "wof:parent_id":1108693001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.15,
+    -7.36667,
+    36.15,
+    -7.36667
+],
+  "geometry": {"coordinates":[36.15,-7.36667],"type":"Point"}
+}

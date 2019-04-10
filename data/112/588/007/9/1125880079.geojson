@@ -1,0 +1,78 @@
+{
+  "id": 1125880079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.55,-6.4,39.55,-6.4",
+    "geom:latitude":-6.4,
+    "geom:longitude":39.55,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1929,
+    "gn:population":1929,
+    "iso:country":"TZ",
+    "lbl:latitude":-6.4,
+    "lbl:longitude":39.55,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":151720,
+    "qs_pg:gn_pop":1929,
+    "qs_pg:name":"Nganane",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":274035,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679651,
+        421188197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151720,
+        "qs_pg:id":274035
+    },
+    "wof:country":"TZ",
+    "wof:created":1497294756,
+    "wof:geomhash":"2ece2f7f2479746ce03d4a68d99b4bdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421188197,
+            "locality_id":1125880079,
+            "region_id":85679651
+        }
+    ],
+    "wof:id":1125880079,
+    "wof:lastmodified":1509398063,
+    "wof:name":"Nganane",
+    "wof:parent_id":421188197,
+    "wof:placetype":"locality",
+    "wof:population":1929,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.55,
+    -6.4,
+    39.55,
+    -6.4
+],
+  "geometry": {"coordinates":[39.55,-6.4],"type":"Point"}
+}

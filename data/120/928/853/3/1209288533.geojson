@@ -1,0 +1,63 @@
+{
+  "id": 1209288533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.51667,-6.45,39.51667,-6.45",
+    "geom:latitude":-6.45,
+    "geom:longitude":39.51667,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5202",
+    "gn:admin3_code":"5202061",
+    "gn:asciiname":"Kitumbo",
+    "gn:country_code":"TZ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156751,
+    "gn:latitude":-6.45,
+    "gn:longitude":39.51667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kitumbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156751
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"fe18d368e7dac40645d3b7d85b14660c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209288533
+        }
+    ],
+    "wof:id":1209288533,
+    "wof:lastmodified":1536291775,
+    "wof:name":"Kitumbo",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.51667,
+    -6.45,
+    39.51667,
+    -6.45
+],
+  "geometry": {"coordinates":[39.51667,-6.45],"type":"Point"}
+}

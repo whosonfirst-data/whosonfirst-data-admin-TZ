@@ -1,0 +1,73 @@
+{
+  "id": 1293133891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.83333,-7.11667,35.83333,-7.11667",
+    "geom:latitude":-7.11667,
+    "geom:longitude":35.83333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1101",
+    "gn:admin3_code":"1101253",
+    "gn:asciiname":"Migole",
+    "gn:country_code":"TZ",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153926,
+    "gn:latitude":-7.11667,
+    "gn:longitude":35.83333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Migole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Migoli",
+        "Migole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679711,
+        421187959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153926
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"a6dbe629c2c37ec4bf4636d3094512c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187959,
+            "locality_id":1293133891,
+            "region_id":85679711
+        }
+    ],
+    "wof:id":1293133891,
+    "wof:lastmodified":1537710017,
+    "wof:name":"Migole",
+    "wof:parent_id":421187959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.83333,
+    -7.11667,
+    35.83333,
+    -7.11667
+],
+  "geometry": {"coordinates":[35.83333,-7.11667],"type":"Point"}
+}

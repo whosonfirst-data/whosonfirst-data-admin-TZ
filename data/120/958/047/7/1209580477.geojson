@@ -1,0 +1,63 @@
+{
+  "id": 1209580477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.73333,-5.23333,39.73333,-5.23333",
+    "geom:latitude":-5.23333,
+    "geom:longitude":39.73333,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"5501",
+    "gn:admin3_code":"5501181",
+    "gn:asciiname":"Chaoni",
+    "gn:country_code":"TZ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160565,
+    "gn:latitude":-5.23333,
+    "gn:longitude":39.73333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Chaoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160565
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"f72088dad1d6eca5cdf9cdb86bdf7347",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209580477
+        }
+    ],
+    "wof:id":1209580477,
+    "wof:lastmodified":1536282805,
+    "wof:name":"Chaoni",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.73333,
+    -5.2333300000000005,
+    39.73333,
+    -5.2333300000000005
+],
+  "geometry": {"coordinates":[39.73333,-5.23333],"type":"Point"}
+}

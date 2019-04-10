@@ -1,0 +1,66 @@
+{
+  "id": 890441277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.13333,-10.81667,39.13333,-10.81667",
+    "geom:latitude":-10.81667,
+    "geom:longitude":39.13333,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
+    "gn:pop":7807,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Lulindi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679717,
+        1108692973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878184,
+        "gp:id":1518240,
+        "qs:id":275803
+    },
+    "wof:country":"TZ",
+    "wof:created":1469052316,
+    "wof:geomhash":"5d714200c111f1a84b48c472be854a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692973,
+            "locality_id":890441277,
+            "region_id":85679717
+        }
+    ],
+    "wof:id":890441277,
+    "wof:lastmodified":1505343581,
+    "wof:name":"Lulindi",
+    "wof:parent_id":1108692973,
+    "wof:placetype":"locality",
+    "wof:population":7807,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.13333,
+    -10.81667,
+    39.13333,
+    -10.81667
+],
+  "geometry": {"coordinates":[39.13333,-10.81667],"type":"Point"}
+}

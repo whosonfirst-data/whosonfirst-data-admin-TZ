@@ -1,0 +1,69 @@
+{
+  "id": 1276251369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.93333,-1.86667,33.93333,-1.86667",
+    "geom:latitude":-1.86667,
+    "geom:longitude":33.93333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"2007",
+    "gn:admin3_code":"2007091",
+    "gn:asciiname":"Nyasirori",
+    "gn:country_code":"TZ",
+    "gn:dem":1364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150995,
+    "gn:latitude":-1.86667,
+    "gn:longitude":33.93333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nyasirori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679743,
+        1108693121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150995
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"de03381f79a0f8d72efbb6812c282324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693121,
+            "locality_id":1276251369,
+            "region_id":85679743
+        }
+    ],
+    "wof:id":1276251369,
+    "wof:lastmodified":1536888147,
+    "wof:name":"Nyasirori",
+    "wof:parent_id":1108693121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.93333,
+    -1.86667,
+    33.93333,
+    -1.86667
+],
+  "geometry": {"coordinates":[33.93333,-1.86667],"type":"Point"}
+}

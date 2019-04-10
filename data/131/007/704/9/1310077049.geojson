@@ -1,0 +1,69 @@
+{
+  "id": 1310077049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.44278,-4.96111,31.44278,-4.96111",
+    "geom:latitude":-4.96111,
+    "geom:longitude":31.44278,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1407",
+    "gn:admin3_code":"1407071",
+    "gn:asciiname":"Galula",
+    "gn:country_code":"TZ",
+    "gn:dem":1096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387685,
+    "gn:latitude":-4.96111,
+    "gn:longitude":31.44278,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Galula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679661,
+        1108693047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387685
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"a37e695153e1ac4b123bf6cdcd1958f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693047,
+            "locality_id":1310077049,
+            "region_id":85679661
+        }
+    ],
+    "wof:id":1310077049,
+    "wof:lastmodified":1537036088,
+    "wof:name":"Galula",
+    "wof:parent_id":1108693047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.44278,
+    -4.96111,
+    31.44278,
+    -4.96111
+],
+  "geometry": {"coordinates":[31.44278,-4.96111],"type":"Point"}
+}

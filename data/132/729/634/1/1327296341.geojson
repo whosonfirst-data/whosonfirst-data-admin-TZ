@@ -1,0 +1,74 @@
+{
+  "id": 1327296341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.53167,-2.80861,30.53167,-2.80861",
+    "geom:latitude":-2.80861,
+    "geom:longitude":30.53167,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1805",
+    "gn:admin3_code":"1805081",
+    "gn:asciiname":"Bukiro",
+    "gn:cc2":"TZ",
+    "gn:country_code":"TZ",
+    "gn:dem":1488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387466,
+    "gn:latitude":-2.80861,
+    "gn:longitude":30.53167,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Bukiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bukiriro",
+        "Bukiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387466
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"854f08c7f16c5481deea221c33ca6e65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693095,
+            "locality_id":1327296341,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1327296341,
+    "wof:lastmodified":1537710061,
+    "wof:name":"Bukiro",
+    "wof:parent_id":1108693095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.53167,
+    -2.80861,
+    30.53167,
+    -2.80861
+],
+  "geometry": {"coordinates":[30.53167,-2.80861],"type":"Point"}
+}

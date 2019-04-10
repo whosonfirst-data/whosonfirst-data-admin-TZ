@@ -1,0 +1,61 @@
+{
+  "id": 1209401059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.66667,-4.95,39.66667,-4.95",
+    "geom:latitude":-4.95,
+    "geom:longitude":39.66667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kwanaozi",
+    "gn:country_code":"TZ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156240,
+    "gn:latitude":-4.95,
+    "gn:longitude":39.66667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kwanaozi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156240
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"95b01020781c5082d4e45d18dbd23033",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209401059
+        }
+    ],
+    "wof:id":1209401059,
+    "wof:lastmodified":1536288145,
+    "wof:name":"Kwanaozi",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.66667,
+    -4.95,
+    39.66667,
+    -4.95
+],
+  "geometry": {"coordinates":[39.66667,-4.95],"type":"Point"}
+}

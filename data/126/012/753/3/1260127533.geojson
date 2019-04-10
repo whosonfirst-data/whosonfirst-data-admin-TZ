@@ -1,0 +1,67 @@
+{
+  "id": 1260127533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.51667,-4.35,37.51667,-4.35",
+    "geom:latitude":-4.35,
+    "geom:longitude":37.51667,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Upuni",
+    "gn:country_code":"TZ",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149173,
+    "gn:latitude":-4.35,
+    "gn:longitude":37.51667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Upuni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679737,
+        1108692913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149173
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"eeb311c1027fccb44ce3f5981c4ef16e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692913,
+            "locality_id":1260127533,
+            "region_id":85679737
+        }
+    ],
+    "wof:id":1260127533,
+    "wof:lastmodified":1536925438,
+    "wof:name":"Upuni",
+    "wof:parent_id":1108692913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.51667,
+    -4.35,
+    37.51667,
+    -4.35
+],
+  "geometry": {"coordinates":[37.51667,-4.35],"type":"Point"}
+}

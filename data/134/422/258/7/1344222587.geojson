@@ -1,0 +1,69 @@
+{
+  "id": 1344222587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.47025,-1.25662,31.47025,-1.25662",
+    "geom:latitude":-1.25662,
+    "geom:longitude":31.47025,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1807",
+    "gn:admin3_code":"1807173",
+    "gn:asciiname":"Bulifani",
+    "gn:country_code":"TZ",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8553044,
+    "gn:latitude":-1.25662,
+    "gn:longitude":31.47025,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Bulifani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8553044
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"50f0139ee56e94509087ef32384c7293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693099,
+            "locality_id":1344222587,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1344222587,
+    "wof:lastmodified":1536640900,
+    "wof:name":"Bulifani",
+    "wof:parent_id":1108693099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.47025,
+    -1.25662,
+    31.47025,
+    -1.25662
+],
+  "geometry": {"coordinates":[31.47025,-1.25662],"type":"Point"}
+}

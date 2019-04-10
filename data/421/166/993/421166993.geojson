@@ -1,0 +1,97 @@
+{
+  "id": 421166993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.36667,-4.26667,34.36667,-4.26667",
+    "geom:latitude":-4.26667,
+    "geom:longitude":34.36667,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041a\u0438\u043e\u043c\u0431\u043e\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Kiomboi"
+    ],
+    "name:dut_x_preferred":[
+        "Kiomboi"
+    ],
+    "name:eng_x_preferred":[
+        "Kiomboi"
+    ],
+    "name:swa_x_preferred":[
+        "Kiomboi"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":157198,
+    "qs:gn_pop":23519,
+    "qs:name":"Kiomboi",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Singida",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":122554,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1445140,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679727,
+        1108693023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":157198,
+        "gp:id":1445140,
+        "qs:id":122554,
+        "wd:id":"Q11929863",
+        "wk:page":"Kiomboi"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459008710,
+    "wof:geomhash":"0fc550408b44eb0ff2a1a5eeb8ae6ab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693023,
+            "locality_id":421166993,
+            "region_id":85679727
+        }
+    ],
+    "wof:id":421166993,
+    "wof:lastmodified":1527716105,
+    "wof:name":"Kiomboi",
+    "wof:parent_id":1108693023,
+    "wof:placetype":"locality",
+    "wof:population":23519,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.36667,
+    -4.26667,
+    34.36667,
+    -4.26667
+],
+  "geometry": {"coordinates":[34.36667,-4.26667],"type":"Point"}
+}

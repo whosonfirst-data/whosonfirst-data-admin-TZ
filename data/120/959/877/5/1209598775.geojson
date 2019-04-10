@@ -1,0 +1,63 @@
+{
+  "id": 1209598775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.51667,-10.83333,35.51667,-10.83333",
+    "geom:latitude":-10.83333,
+    "geom:longitude":35.51667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1002",
+    "gn:admin3_code":"1002061",
+    "gn:asciiname":"Mpitimbi",
+    "gn:country_code":"TZ",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877811,
+    "gn:latitude":-10.83333,
+    "gn:longitude":35.51667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mpitimbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877811
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"3736e221c59a98435e63893da9479696",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209598775
+        }
+    ],
+    "wof:id":1209598775,
+    "wof:lastmodified":1536282236,
+    "wof:name":"Mpitimbi",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.51667,
+    -10.83333,
+    35.51667,
+    -10.83333
+],
+  "geometry": {"coordinates":[35.51667,-10.83333],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 421198577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.08333,-4.36667,35.08333,-4.36667",
+    "geom:latitude":-4.36667,
+    "geom:longitude":35.08333,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":161197,
+    "qs:gn_pop":20937,
+    "qs:name":"Basotu",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Manyara",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":183649,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1442874,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679733,
+        421171039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161197,
+        "gp:id":1442874,
+        "qs:id":183649
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009953,
+    "wof:geomhash":"a6e9d9c7f437f2a3489c6fd30464625e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421171039,
+            "locality_id":421198577,
+            "region_id":85679733
+        }
+    ],
+    "wof:id":421198577,
+    "wof:lastmodified":1505340756,
+    "wof:name":"Basotu",
+    "wof:parent_id":421171039,
+    "wof:placetype":"locality",
+    "wof:population":20937,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.08333,
+    -4.36667,
+    35.08333,
+    -4.36667
+],
+  "geometry": {"coordinates":[35.08333,-4.36667],"type":"Point"}
+}

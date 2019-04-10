@@ -1,0 +1,69 @@
+{
+  "id": 1343237889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.33333,-4.78333,38.33333,-4.78333",
+    "geom:latitude":-4.78333,
+    "geom:longitude":38.33333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0401",
+    "gn:admin3_code":"0401021",
+    "gn:asciiname":"Mntindili",
+    "gn:country_code":"TZ",
+    "gn:dem":1776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153311,
+    "gn:latitude":-4.78333,
+    "gn:longitude":38.33333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mntindili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679747,
+        421175229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153311
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"6b81921ab4e0e3a6574a2ae004d8e392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421175229,
+            "locality_id":1343237889,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":1343237889,
+    "wof:lastmodified":1537064741,
+    "wof:name":"Mntindili",
+    "wof:parent_id":421175229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.33333,
+    -4.78333,
+    38.33333,
+    -4.78333
+],
+  "geometry": {"coordinates":[38.33333,-4.78333],"type":"Point"}
+}

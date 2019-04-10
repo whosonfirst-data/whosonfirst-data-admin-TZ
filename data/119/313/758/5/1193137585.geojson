@@ -1,0 +1,72 @@
+{
+  "id": 1193137585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.21264,-7.39626,36.21264,-7.39626",
+    "geom:latitude":-7.39626,
+    "geom:longitude":36.21264,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1104",
+    "gn:admin3_code":"1104061",
+    "gn:asciiname":"Illindi",
+    "gn:country_code":"TZ",
+    "gn:dem":1360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7388953,
+    "gn:latitude":-7.39626,
+    "gn:longitude":36.21264,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Illindi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Illindi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679711,
+        1108693001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7388953
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"02f5560ccb6222fc03e83307318dee74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693001,
+            "locality_id":1193137585,
+            "region_id":85679711
+        }
+    ],
+    "wof:id":1193137585,
+    "wof:lastmodified":1537710069,
+    "wof:name":"Illindi",
+    "wof:parent_id":1108693001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.21264,
+    -7.39626,
+    36.21264,
+    -7.39626
+],
+  "geometry": {"coordinates":[36.21264,-7.39626],"type":"Point"}
+}

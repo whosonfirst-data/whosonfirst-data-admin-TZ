@@ -1,0 +1,63 @@
+{
+  "id": 1209603365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.2,-10.3,40.2,-10.3",
+    "geom:latitude":-10.3,
+    "geom:longitude":40.2,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0905",
+    "gn:admin3_code":"0905032",
+    "gn:asciiname":"Manhanya",
+    "gn:country_code":"TZ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":878077,
+    "gn:latitude":-10.3,
+    "gn:longitude":40.2,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Manhanya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878077
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"07673c15ac66b91aa0e362233f8b2a66",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209603365
+        }
+    ],
+    "wof:id":1209603365,
+    "wof:lastmodified":1536282093,
+    "wof:name":"Manhanya",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.2,
+    -10.3,
+    40.2,
+    -10.3
+],
+  "geometry": {"coordinates":[40.2,-10.3],"type":"Point"}
+}

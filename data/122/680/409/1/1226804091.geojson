@@ -1,0 +1,74 @@
+{
+  "id": 1226804091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7,-1.95,35.7,-1.95",
+    "geom:latitude":-1.95,
+    "geom:longitude":35.7,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"0205",
+    "gn:admin3_code":"0205013",
+    "gn:asciiname":"Lemesigio",
+    "gn:country_code":"TZ",
+    "gn:dem":2307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156018,
+    "gn:latitude":-1.95,
+    "gn:longitude":35.7,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Lemesigio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lemisikio",
+        "Lemesikio",
+        "Lemesigio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679731,
+        421171979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156018
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"e95ca5887ad57a3883180d6d456fe414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421171979,
+            "locality_id":1226804091,
+            "region_id":85679731
+        }
+    ],
+    "wof:id":1226804091,
+    "wof:lastmodified":1537710030,
+    "wof:name":"Lemesigio",
+    "wof:parent_id":421171979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7,
+    -1.95,
+    35.7,
+    -1.95
+],
+  "geometry": {"coordinates":[35.7,-1.95],"type":"Point"}
+}

@@ -1,0 +1,572 @@
+{
+  "id": 421189813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.274749,-6.81258,39.274749,-6.81258",
+    "geom:latitude":-6.81258,
+    "geom:longitude":39.274749,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":4.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Dar-es-Salaam"
+    ],
+    "name:alb_x_preferred":[
+        "Dar es Salam"
+    ],
+    "name:als_x_preferred":[
+        "Daressalaam"
+    ],
+    "name:amh_x_preferred":[
+        "\u12f3\u122d \u12a4\u1235 \u1233\u120b\u121d"
+    ],
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631 \u0627\u0644\u0633\u0644\u0627\u0645"
+    ],
+    "name:arg_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:ast_x_preferred":[
+        "Dar es-Salam"
+    ],
+    "name:aze_x_preferred":[
+        "Dar \u0259s Salam"
+    ],
+    "name:baq_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0414\u0430\u0440-\u044d\u0441-\u0421\u0430\u043b\u0430\u043c"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09be\u09b0\u09c1\u09b8\u09b8\u09be\u09b2\u09be\u09ae"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f4f\u0f0b\u0f62\u0f7a\u0f0b\u0f66\u0f72\u0f0b\u0f66\u0f0b\u0f63\u0f58\u0f0d"
+    ],
+    "name:bos_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:bre_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0430\u0440 \u0435\u0441-\u0421\u0430\u043b\u0430\u0430\u043c"
+    ],
+    "name:bur_x_preferred":[
+        "\u1012\u102b\u1021\u1000\u103a\u1005\u103a \u1006\u101a\u103a\u101c\u1014\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:cat_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0430\u0440-\u044d\u0441-\u0421\u0430\u043b\u0430\u043c"
+    ],
+    "name:chi_x_preferred":[
+        "\u8fbe\u7d2f\u65af\u8428\u62c9\u59c6"
+    ],
+    "name:cze_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:dan_x_preferred":[
+        "Dar es-Salaam"
+    ],
+    "name:deu_x_preferred":[
+        "Daressalam"
+    ],
+    "name:dut_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03bf\u03bd\u03c4\u03cc\u03bc\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03c4\u03b1\u03c1 \u03b5\u03c2 \u03a3\u03b1\u03bb\u03ac\u03bc"
+    ],
+    "name:eng_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:epo_x_preferred":[
+        "Daresalamo"
+    ],
+    "name:est_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:eus_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:fao_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0631\u0627\u0644\u0633\u0644\u0627\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:fra_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:fra_x_variant":[
+        "Dar es Salam"
+    ],
+    "name:fre_x_preferred":[
+        "Dar es Salam"
+    ],
+    "name:frp_x_preferred":[
+        "Dar es Salam"
+    ],
+    "name:fry_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d3\u10d0\u10e0-\u10d4\u10e1-\u10e1\u10d0\u10da\u10d0\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Daressalam"
+    ],
+    "name:gla_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:gle_x_preferred":[
+        "D\u00e1rasal\u00e1m"
+    ],
+    "name:glg_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03c4\u03b1\u03c1 \u03b5\u03c2 \u03a3\u03b1\u03bb\u03ac\u03bc"
+    ],
+    "name:gsw_x_preferred":[
+        "Daressalaam"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa6\u0abe\u0ab0 \u0a8d\u0ab8 \u0ab8\u0ab2\u0abe\u0aae"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d0\u05e8 \u05d0-\u05e1\u05dc\u05d0\u05dd"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u093e\u0930 \u0905\u0938 \u0938\u0932\u093e\u092e"
+    ],
+    "name:hrv_x_preferred":[
+        "Dar-es-Salaam"
+    ],
+    "name:hun_x_preferred":[
+        "Dar es-Salaam"
+    ],
+    "name:ice_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:ile_x_preferred":[
+        "Daressalaam"
+    ],
+    "name:ind_x_preferred":[
+        "Dar-es-Salaam"
+    ],
+    "name:ind_x_variant":[
+        "Dar es Salaam"
+    ],
+    "name:isl_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:ita_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:jav_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30eb\u30a8\u30b9\u30b5\u30e9\u30fc\u30e0"
+    ],
+    "name:kal_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca6\u0cbe\u0cb0\u0ccd \u0c8e\u0cb8\u0ccd \u0cb8\u0cb2\u0cbe\u0cae\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10e0-\u10d4\u10e1-\u10e1\u10d0\u10da\u10d0\u10db\u10d8"
+    ],
+    "name:kbp_x_preferred":[
+        "Ta\u0256\u025bsalam"
+    ],
+    "name:kir_x_preferred":[
+        "\u0414\u0430\u0440-\u044d\u0441-\u0421\u0430\u043b\u0430\u043c \u0448\u0430\u0430\u0440\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\ub2e4\ub974\uc5d0\uc2a4\uc0b4\ub78c"
+    ],
+    "name:lat_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:lav_x_preferred":[
+        "D\u0101resal\u0101ma"
+    ],
+    "name:lit_x_preferred":[
+        "Dar es Salamas"
+    ],
+    "name:lmo_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:ltz_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:mac_x_preferred":[
+        "\u0414\u0430\u0440 \u0435\u0441 \u0421\u0430\u043b\u0430\u043c"
+    ],
+    "name:mao_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:mar_x_preferred":[
+        "\u0926\u093e\u0930 \u090f\u0938 \u0938\u0932\u093e\u092e"
+    ],
+    "name:may_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0430\u0440 \u0435\u0441 \u0421\u0430\u043b\u0430\u043c"
+    ],
+    "name:mlg_x_preferred":[
+        "Dar es Salam"
+    ],
+    "name:mon_x_preferred":[
+        "\u0414\u0430\u0440 \u044d\u0441 \u0421\u0430\u043b\u0430\u043c"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0414\u0430\u0440-\u044d\u0441-\u0421\u0430\u043b\u0430\u043c"
+    ],
+    "name:mya_x_preferred":[
+        "\u1012\u102b\u1021\u1000\u103a\u1005\u103a \u1006\u101a\u103a\u101c\u1014\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:nan_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:nds_x_preferred":[
+        "Daressalam"
+    ],
+    "name:nld_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:nno_x_preferred":[
+        "Dar-es-Salaam"
+    ],
+    "name:nob_x_preferred":[
+        "Dar-es-Salaam"
+    ],
+    "name:nor_x_preferred":[
+        "Dar-es-Salaam"
+    ],
+    "name:oci_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:oss_x_preferred":[
+        "\u0414\u0430\u0440-\u044d\u0441-\u0421\u0430\u043b\u0430\u043c"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a26\u0a3e\u0a30 \u0a05\u0a38 \u0a38\u0a32\u0a3e\u0a2e"
+    ],
+    "name:pap_x_preferred":[
+        "Dar Es Salaam"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0627\u0631\u0627\u0644\u0633\u0644\u0627\u0645"
+    ],
+    "name:pms_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:pol_x_preferred":[
+        "Dar es Salam"
+    ],
+    "name:por_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:que_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:rum_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0440-\u044d\u0441-\u0421\u0430\u043b\u0430\u043c"
+    ],
+    "name:scn_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:sco_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:sgs_x_preferred":[
+        "Dar es Salams"
+    ],
+    "name:sin_x_preferred":[
+        "\u0daf\u0dbb\u0dc3\u0dca \u0dc3\u0dbd\u0dcf\u0db8\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Dar es Sal\u00e1m"
+    ],
+    "name:slo_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:slv_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:sna_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:som_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:spa_x_preferred":[
+        "Dar es-Salam"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0430\u0440 \u0435\u0441 \u0421\u0430\u043b\u0430\u043c"
+    ],
+    "name:swa_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:swe_x_preferred":[
+        "Dar es-Salaam"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bbe\u0bb0\u0bc1\u0bb8\u0bcd\u0bb8\u0bb2\u0bbe\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c26\u0c3e\u0c30\u0c4d \u0c0e\u0c38\u0c4d \u0c38\u0c32\u0c3e\u0c2e\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "Lungsod ng Dar es Salaam"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e14\u0e32\u0e23\u0e4c-\u0e40\u0e2d\u0e2a-\u0e0b\u0e32\u0e25\u0e32\u0e21"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f4f\u0f0b\u0f62\u0f7a\u0f0b\u0f66\u0f72\u0f0b\u0f66\u0f0b\u0f63\u0f58\u0f0d"
+    ],
+    "name:tuk_x_preferred":[
+        "Dar es Salam"
+    ],
+    "name:tum_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:tur_x_preferred":[
+        "Dar\u00fcsselam"
+    ],
+    "name:uig_x_preferred":[
+        "\u062f\u0627\u0631\u06d0\u0633\u0633\u0627\u0644\u0627\u0645"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u0440-\u0435\u0441-\u0421\u0430\u043b\u0430\u043c"
+    ],
+    "name:unk_x_variant":[
+        "D\u0101r es Sal\u0101m"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0627\u0631\u0627\u0644\u0633\u0644\u0627\u0645"
+    ],
+    "name:uzb_x_preferred":[
+        "Dar es Salam"
+    ],
+    "name:vec_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:vep_x_preferred":[
+        "Dar Es Salam"
+    ],
+    "name:vie_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:war_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:wel_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8fbe\u7d2f\u65af\u8428\u62c9\u59c6"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d3\u05d0\u05e8 \u05e2\u05e1 \u05e1\u05d0\u05dc\u05d0\u05d0\u05dd"
+    ],
+    "name:yor_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e09\u862d\u6e2f"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fbe\u7d2f\u65af\u8428\u62c9\u59c6"
+    ],
+    "ne:ADM0CAP":1.0,
+    "ne:ADM0NAME":"Tanzania",
+    "ne:ADM0_A3":"TZA",
+    "ne:ADM1NAME":"Dar-Es-Salaam",
+    "ne:ADMIN1_COD":23,
+    "ne:CAPALT":0,
+    "ne:CAPIN":"De facto capita",
+    "ne:CHANGED":5,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-0 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":160263,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Dar es Salaam",
+    "ne:GN_POP":2698652,
+    "ne:GTOPO30":-9999.0,
+    "ne:ISO_A2":"TZ",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":-6.800013,
+    "ne:LONGITUDE":39.268342,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Dar es Salaam",
+    "ne:MAX_AREAKM":211.0,
+    "ne:MAX_AREAMI":81.0,
+    "ne:MAX_BBXMAX":39.325,
+    "ne:MAX_BBXMIN":39.15,
+    "ne:MAX_BBYMAX":-6.725,
+    "ne:MAX_BBYMIN":-6.933333,
+    "ne:MAX_NATSCA":100.0,
+    "ne:MAX_PERKM":153.0,
+    "ne:MAX_PERMI":95.0,
+    "ne:MAX_POP10":2757507,
+    "ne:MAX_POP20":2757507,
+    "ne:MAX_POP300":2757507,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":2757507,
+    "ne:MEAN_BBXC":39.23918,
+    "ne:MEAN_BBYC":-6.833434,
+    "ne:MEGACITY":1,
+    "ne:MEGANAME":"Dar es Salaam",
+    "ne:MIN_AREAKM":211.0,
+    "ne:MIN_AREAMI":81.0,
+    "ne:MIN_BBXMAX":39.325,
+    "ne:MIN_BBXMIN":39.15,
+    "ne:MIN_BBYMAX":-6.725,
+    "ne:MIN_BBYMIN":-6.933333,
+    "ne:MIN_PERKM":153.0,
+    "ne:MIN_PERMI":95.0,
+    "ne:NAME":"Dar es Salaam",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Dar es Salaam",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":200,
+    "ne:NOTE":null,
+    "ne:POP1950":67,
+    "ne:POP1955":110,
+    "ne:POP1960":162,
+    "ne:POP1965":233,
+    "ne:POP1970":357,
+    "ne:POP1975":572,
+    "ne:POP1980":836,
+    "ne:POP1985":1046,
+    "ne:POP1990":1316,
+    "ne:POP1995":1668,
+    "ne:POP2000":2116,
+    "ne:POP2005":2679,
+    "ne:POP2010":2930,
+    "ne:POP2015":3319,
+    "ne:POP2020":4020,
+    "ne:POP2025":4804,
+    "ne:POP2050":5688,
+    "ne:POP_MAX":2930000,
+    "ne:POP_MIN":2698652,
+    "ne:POP_OTHER":2757835,
+    "ne:RANK_MAX":12,
+    "ne:RANK_MIN":12,
+    "ne:SCALERANK":2,
+    "ne:SOV0NAME":"United Republic of Tanzania",
+    "ne:SOV_A3":"TZA",
+    "ne:TIMEZONE":"Africa/Dar_es_Salaam",
+    "ne:UN_ADM0":"United Republic of Tanzania",
+    "ne:UN_FID":523,
+    "ne:UN_LAT":-6.81,
+    "ne:UN_LONG":39.25,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Dar es Salaam",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Dar es Salaam",
+    "qs:photos":2206,
+    "qs:photos_1k":447,
+    "qs:photos_9k":18,
+    "qs:photos_9r":12,
+    "qs:photos_all":4113,
+    "qs:photos_sr":16,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1117041,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1443415,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"wk",
+    "wd:elevation":12.0,
+    "wd:latitude":-6.8,
+    "wd:longitude":39.283333,
+    "wd:population":4364541,
+    "wd:wordcount":5212,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679675,
+        1108692955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160263,
+        "gp:id":1443415,
+        "qs:id":1117041,
+        "qs_pg:id":526367,
+        "wd:id":"Q1960"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009637,
+    "wof:geomhash":"f3405c7f6c6bd9c4c72edc5a1fa746a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692955,
+            "locality_id":421189813,
+            "region_id":85679675
+        }
+    ],
+    "wof:id":421189813,
+    "wof:lastmodified":1527716270,
+    "wof:name":"Dar es Salaam",
+    "wof:parent_id":1108692955,
+    "wof:placetype":"locality",
+    "wof:population":4364541,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.274749,
+    -6.81258,
+    39.274749,
+    -6.81258
+],
+  "geometry": {"coordinates":[39.274749,-6.81258],"type":"Point"}
+}

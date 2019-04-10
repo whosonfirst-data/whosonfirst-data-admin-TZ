@@ -1,0 +1,69 @@
+{
+  "id": 1243037707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.21667,-4.96667,35.21667,-4.96667",
+    "geom:latitude":-4.96667,
+    "geom:longitude":35.21667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1302",
+    "gn:admin3_code":"1302091",
+    "gn:asciiname":"Duamaganga",
+    "gn:country_code":"TZ",
+    "gn:dem":1379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160159,
+    "gn:latitude":-4.96667,
+    "gn:longitude":35.21667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Duamaganga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679727,
+        1108693025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160159
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"7473b93a9c440f89a75b5c527fed5e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693025,
+            "locality_id":1243037707,
+            "region_id":85679727
+        }
+    ],
+    "wof:id":1243037707,
+    "wof:lastmodified":1536897771,
+    "wof:name":"Duamaganga",
+    "wof:parent_id":1108693025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21667,
+    -4.96667,
+    35.21667,
+    -4.96667
+],
+  "geometry": {"coordinates":[35.21667,-4.96667],"type":"Point"}
+}

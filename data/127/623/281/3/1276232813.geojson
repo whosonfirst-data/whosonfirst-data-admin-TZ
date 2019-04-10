@@ -1,0 +1,69 @@
+{
+  "id": 1276232813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.61667,-4.81667,29.61667,-4.81667",
+    "geom:latitude":-4.81667,
+    "geom:longitude":29.61667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1603",
+    "gn:admin3_code":"1603101",
+    "gn:asciiname":"Kagongo",
+    "gn:country_code":"TZ",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158608,
+    "gn:latitude":-4.81667,
+    "gn:longitude":29.61667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kagongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679669,
+        421180247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158608
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"34b764f0c283b1020e6338fd075f630c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421180247,
+            "locality_id":1276232813,
+            "region_id":85679669
+        }
+    ],
+    "wof:id":1276232813,
+    "wof:lastmodified":1536913875,
+    "wof:name":"Kagongo",
+    "wof:parent_id":421180247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.61667000000001,
+    -4.81667,
+    29.61667000000001,
+    -4.81667
+],
+  "geometry": {"coordinates":[29.61667000000001,-4.81667],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209272397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.26667,-8.38333,32.26667,-8.38333",
+    "geom:latitude":-8.38333,
+    "geom:longitude":32.26667,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1502",
+    "gn:admin3_code":"1502101",
+    "gn:asciiname":"Mhana",
+    "gn:country_code":"TZ",
+    "gn:dem":848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":154011,
+    "gn:latitude":-8.38333,
+    "gn:longitude":32.26667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mhana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154011
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"a8bddf1746ee74e219db5bd8d89dd53c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209272397
+        }
+    ],
+    "wof:id":1209272397,
+    "wof:lastmodified":1536292313,
+    "wof:name":"Mhana",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.26667,
+    -8.38333,
+    32.26667,
+    -8.38333
+],
+  "geometry": {"coordinates":[32.26667,-8.38333],"type":"Point"}
+}

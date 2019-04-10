@@ -1,0 +1,63 @@
+{
+  "id": 1276526053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.43333,-10.33333,40.43333,-10.33333",
+    "geom:latitude":-10.33333,
+    "geom:longitude":40.43333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ntandi",
+    "gn:country_code":"TZ",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877482,
+    "gn:latitude":-10.33333,
+    "gn:longitude":40.43333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ntandi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877482
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"3cb9aa6eec0c3c1177f52c4aae59d8f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276526053,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276526053,
+    "wof:lastmodified":1537017109,
+    "wof:name":"Ntandi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.43333,
+    -10.33333,
+    40.43333,
+    -10.33333
+],
+  "geometry": {"coordinates":[40.43333,-10.33333],"type":"Point"}
+}

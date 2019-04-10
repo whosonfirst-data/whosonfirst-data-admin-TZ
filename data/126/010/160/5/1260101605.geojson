@@ -1,0 +1,69 @@
+{
+  "id": 1260101605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.15,-9.63333,37.15,-9.63333",
+    "geom:latitude":-9.63333,
+    "geom:longitude":37.15,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0804",
+    "gn:admin3_code":"0804041",
+    "gn:asciiname":"Nampinga",
+    "gn:country_code":"TZ",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151953,
+    "gn:latitude":-9.63333,
+    "gn:longitude":37.15,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nampinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679713,
+        1108692961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151953
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"610570efaa36d1a0a9d4c0e8f97b784b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692961,
+            "locality_id":1260101605,
+            "region_id":85679713
+        }
+    ],
+    "wof:id":1260101605,
+    "wof:lastmodified":1536961924,
+    "wof:name":"Nampinga",
+    "wof:parent_id":1108692961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.15,
+    -9.63333,
+    37.15,
+    -9.63333
+],
+  "geometry": {"coordinates":[37.15,-9.63333],"type":"Point"}
+}

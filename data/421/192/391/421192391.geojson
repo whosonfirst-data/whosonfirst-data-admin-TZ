@@ -1,0 +1,84 @@
+{
+  "id": 421192391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66667,-3.33333,35.66667,-3.33333",
+    "geom:latitude":-3.33333,
+    "geom:longitude":35.66667,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Kiratu"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":158324,
+    "qs:gn_pop":19803,
+    "qs:name":"Karatu",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Arusha",
+    "qs:photos":400,
+    "qs:photos_1k":81,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":400,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1168099,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1444452,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679731,
+        421187711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158324,
+        "gp:id":1444452,
+        "qs:id":1168099,
+        "wd:id":"Q940198",
+        "wk:page":"Karatu District"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009735,
+    "wof:geomhash":"dbe7d91cf24cc3bad26a3797acf0d035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187711,
+            "locality_id":421192391,
+            "region_id":85679731
+        }
+    ],
+    "wof:id":421192391,
+    "wof:lastmodified":1505340731,
+    "wof:name":"Karatu",
+    "wof:parent_id":421187711,
+    "wof:placetype":"locality",
+    "wof:population":19803,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66667,
+    -3.33333,
+    35.66667,
+    -3.33333
+],
+  "geometry": {"coordinates":[35.66667,-3.33333],"type":"Point"}
+}

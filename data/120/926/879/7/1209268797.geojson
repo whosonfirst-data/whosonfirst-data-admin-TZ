@@ -1,0 +1,63 @@
+{
+  "id": 1209268797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.2,-5.36667,37.2,-5.36667",
+    "geom:latitude":-5.36667,
+    "geom:longitude":37.2,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"2105",
+    "gn:admin3_code":"2105161",
+    "gn:asciiname":"Kijungu",
+    "gn:country_code":"TZ",
+    "gn:dem":1350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":157616,
+    "gn:latitude":-5.36667,
+    "gn:longitude":37.2,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kijungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":157616
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"0efdd7ec1644ef332587d9472105f57e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209268797
+        }
+    ],
+    "wof:id":1209268797,
+    "wof:lastmodified":1536292433,
+    "wof:name":"Kijungu",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.2,
+    -5.36667,
+    37.2,
+    -5.36667
+],
+  "geometry": {"coordinates":[37.2,-5.36667],"type":"Point"}
+}

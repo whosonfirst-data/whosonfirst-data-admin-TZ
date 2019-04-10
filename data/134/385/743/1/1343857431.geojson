@@ -1,0 +1,72 @@
+{
+  "id": 1343857431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.78261,-6.01023,29.78261,-6.01023",
+    "geom:latitude":-6.01023,
+    "geom:longitude":29.78261,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1605",
+    "gn:admin3_code":"1605021",
+    "gn:asciiname":"Katumbi",
+    "gn:country_code":"TZ",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158150,
+    "gn:latitude":-6.01023,
+    "gn:longitude":29.78261,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Katumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Katumbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679669,
+        1108693065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158150
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"343a2305e48bccefe499fbcf88f62190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693065,
+            "locality_id":1343857431,
+            "region_id":85679669
+        }
+    ],
+    "wof:id":1343857431,
+    "wof:lastmodified":1537710042,
+    "wof:name":"Katumbi",
+    "wof:parent_id":1108693065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.78261,
+    -6.01023,
+    29.78261,
+    -6.01023
+],
+  "geometry": {"coordinates":[29.78261,-6.01023],"type":"Point"}
+}

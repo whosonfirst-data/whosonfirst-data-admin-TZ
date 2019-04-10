@@ -1,0 +1,78 @@
+{
+  "id": 1309906335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9,-8.01667,35.9,-8.01667",
+    "geom:latitude":-8.01667,
+    "geom:longitude":35.9,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1104",
+    "gn:admin3_code":"1104081",
+    "gn:asciiname":"Kilanze",
+    "gn:country_code":"TZ",
+    "gn:dem":2002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":157492,
+    "gn:latitude":-8.01667,
+    "gn:longitude":35.9,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kilanze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kilanze"
+    ],
+    "name:eng_x_variant":[
+        "Kilanzi"
+    ],
+    "name:und_x_variant":[
+        "Kilanzi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679711,
+        1108693001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":157492
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"55588d85d2a464e53af17bcd6f8233d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693001,
+            "locality_id":1309906335,
+            "region_id":85679711
+        }
+    ],
+    "wof:id":1309906335,
+    "wof:lastmodified":1537710038,
+    "wof:name":"Kilanze",
+    "wof:parent_id":1108693001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9,
+    -8.01667,
+    35.9,
+    -8.01667
+],
+  "geometry": {"coordinates":[35.9,-8.01667],"type":"Point"}
+}

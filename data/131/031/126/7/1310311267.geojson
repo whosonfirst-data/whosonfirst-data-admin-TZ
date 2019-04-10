@@ -1,0 +1,67 @@
+{
+  "id": 1310311267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.21667,-9.88333,35.21667,-9.88333",
+    "geom:latitude":-9.88333,
+    "geom:longitude":35.21667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ndolela",
+    "gn:country_code":"TZ",
+    "gn:dem":1299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9645354,
+    "gn:latitude":-9.88333,
+    "gn:longitude":35.21667,
+    "gn:modification_date":"2014-10-06",
+    "gn:name":"Ndolela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679723,
+        1108692987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9645354
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"b0ba161801393a282c0ed47bc7d76ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692987,
+            "locality_id":1310311267,
+            "region_id":85679723
+        }
+    ],
+    "wof:id":1310311267,
+    "wof:lastmodified":1536699820,
+    "wof:name":"Ndolela",
+    "wof:parent_id":1108692987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21667,
+    -9.88333,
+    35.21667,
+    -9.88333
+],
+  "geometry": {"coordinates":[35.21667,-9.88333],"type":"Point"}
+}

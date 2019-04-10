@@ -1,0 +1,78 @@
+{
+  "id": 1125954735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.05,-8.56667,32.05,-8.56667",
+    "geom:latitude":-8.56667,
+    "geom:longitude":32.05,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":19185,
+    "gn:population":19185,
+    "iso:country":"TZ",
+    "lbl:latitude":-8.56667,
+    "lbl:longitude":32.05,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":156098,
+    "qs_pg:gn_pop":19185,
+    "qs_pg:name":"Laela",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":68212,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679645,
+        1108693051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156098,
+        "qs_pg:id":68212
+    },
+    "wof:country":"TZ",
+    "wof:created":1497297580,
+    "wof:geomhash":"a63c2ae789c935fa942d372a81d1aa62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693051,
+            "locality_id":1125954735,
+            "region_id":85679645
+        }
+    ],
+    "wof:id":1125954735,
+    "wof:lastmodified":1509402920,
+    "wof:name":"Laela",
+    "wof:parent_id":1108693051,
+    "wof:placetype":"locality",
+    "wof:population":19185,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.05,
+    -8.56667,
+    32.05,
+    -8.56667
+],
+  "geometry": {"coordinates":[32.05,-8.56667],"type":"Point"}
+}

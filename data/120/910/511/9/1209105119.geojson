@@ -1,0 +1,63 @@
+{
+  "id": 1209105119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.27667,-4.11472,30.27667,-4.11472",
+    "geom:latitude":-4.11472,
+    "geom:longitude":30.27667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1602",
+    "gn:admin3_code":"1602021",
+    "gn:asciiname":"Mogongo",
+    "gn:country_code":"TZ",
+    "gn:dem":1355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387452,
+    "gn:latitude":-4.11472,
+    "gn:longitude":30.27667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mogongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387452
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"4b32a627a56aec223fcb1e2b6eeb0b28",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209105119
+        }
+    ],
+    "wof:id":1209105119,
+    "wof:lastmodified":1536297599,
+    "wof:name":"Mogongo",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.276670000000006,
+    -4.114719999999998,
+    30.276670000000006,
+    -4.114719999999998
+],
+  "geometry": {"coordinates":[30.27667000000001,-4.11472],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343327897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.01667,-5.38333,38.01667,-5.38333",
+    "geom:latitude":-5.38333,
+    "geom:longitude":38.01667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0410",
+    "gn:admin3_code":"0410022",
+    "gn:asciiname":"Gereza",
+    "gn:country_code":"TZ",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159890,
+    "gn:latitude":-5.38333,
+    "gn:longitude":38.01667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Gereza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679747,
+        1108692933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159890
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"e6bfac5aa0507352c98bd02ec32d5a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692933,
+            "locality_id":1343327897,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":1343327897,
+    "wof:lastmodified":1536938460,
+    "wof:name":"Gereza",
+    "wof:parent_id":1108692933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.01667,
+    -5.38333,
+    38.01667,
+    -5.38333
+],
+  "geometry": {"coordinates":[38.01667,-5.38333],"type":"Point"}
+}

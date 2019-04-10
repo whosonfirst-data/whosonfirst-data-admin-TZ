@@ -1,0 +1,73 @@
+{
+  "id": 1226400881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.28333,-5.96667,39.28333,-5.96667",
+    "geom:latitude":-5.96667,
+    "geom:longitude":39.28333,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"5102",
+    "gn:admin3_code":"5102141",
+    "gn:asciiname":"Banda Maji",
+    "gn:country_code":"TZ",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161250,
+    "gn:latitude":-5.96667,
+    "gn:longitude":39.28333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Banda Maji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bandumadyi",
+        "Banda Maji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679695,
+        421194823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161250
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"5068a3140903a6c44db3008185755659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421194823,
+            "locality_id":1226400881,
+            "region_id":85679695
+        }
+    ],
+    "wof:id":1226400881,
+    "wof:lastmodified":1537710061,
+    "wof:name":"Banda Maji",
+    "wof:parent_id":421194823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.28333,
+    -5.96667,
+    39.28333,
+    -5.96667
+],
+  "geometry": {"coordinates":[39.28333,-5.96667],"type":"Point"}
+}

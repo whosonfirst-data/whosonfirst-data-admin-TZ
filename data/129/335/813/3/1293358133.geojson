@@ -1,0 +1,69 @@
+{
+  "id": 1293358133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.22935,-6.14945,39.22935,-6.14945",
+    "geom:latitude":-6.14945,
+    "geom:longitude":39.22935,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"5301",
+    "gn:admin3_code":"5301233",
+    "gn:asciiname":"Mtopepo",
+    "gn:country_code":"TZ",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429075,
+    "gn:latitude":-6.14945,
+    "gn:longitude":39.22935,
+    "gn:modification_date":"2017-02-01",
+    "gn:name":"Mtopepo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679699,
+        421202045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429075
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"7d515f73857a5fac44b763721f7c4e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421202045,
+            "locality_id":1293358133,
+            "region_id":85679699
+        }
+    ],
+    "wof:id":1293358133,
+    "wof:lastmodified":1536973217,
+    "wof:name":"Mtopepo",
+    "wof:parent_id":421202045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.22935,
+    -6.14945,
+    39.22935,
+    -6.14945
+],
+  "geometry": {"coordinates":[39.22935,-6.14945],"type":"Point"}
+}

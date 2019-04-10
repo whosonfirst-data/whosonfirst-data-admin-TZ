@@ -1,0 +1,68 @@
+{
+  "id": 1209189531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.78028,-1.44694,31.78028,-1.44694",
+    "geom:latitude":-1.44694,
+    "geom:longitude":31.78028,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1802",
+    "gn:admin3_code":"1802101",
+    "gn:asciiname":"Kanyangereko",
+    "gn:cc2":"TZ",
+    "gn:country_code":"TZ",
+    "gn:dem":1309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158385,
+    "gn:latitude":-1.44694,
+    "gn:longitude":31.78028,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kanyangereko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanyangeriko",
+        "Kanyangereko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158385
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"b3b54126fc039cf70c90b329287f5ae0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209189531
+        }
+    ],
+    "wof:id":1209189531,
+    "wof:lastmodified":1537710044,
+    "wof:name":"Kanyangereko",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.78028,
+    -1.44694,
+    31.78028,
+    -1.44694
+],
+  "geometry": {"coordinates":[31.78028,-1.44694],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260150151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.71667,-5.68333,34.71667,-5.68333",
+    "geom:latitude":-5.68333,
+    "geom:longitude":34.71667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1303",
+    "gn:admin3_code":"1303211",
+    "gn:asciiname":"Kititimo",
+    "gn:country_code":"TZ",
+    "gn:dem":1367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156800,
+    "gn:latitude":-5.68333,
+    "gn:longitude":34.71667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kititimo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kititima",
+        "Kititimo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679727,
+        421186277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156800
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"23d25eacf4f3f8ba07f4e629fed9346f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421186277,
+            "locality_id":1260150151,
+            "region_id":85679727
+        }
+    ],
+    "wof:id":1260150151,
+    "wof:lastmodified":1537710034,
+    "wof:name":"Kititimo",
+    "wof:parent_id":421186277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.71667,
+    -5.68333,
+    34.71667,
+    -5.68333
+],
+  "geometry": {"coordinates":[34.71667,-5.68333],"type":"Point"}
+}

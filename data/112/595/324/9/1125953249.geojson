@@ -1,0 +1,78 @@
+{
+  "id": 1125953249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.1,-4.73333,38.1,-4.73333",
+    "geom:latitude":-4.73333,
+    "geom:longitude":38.1,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":15516,
+    "gn:population":15516,
+    "iso:country":"TZ",
+    "lbl:latitude":-4.73333,
+    "lbl:longitude":38.1,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":155076,
+    "qs_pg:gn_pop":15516,
+    "qs_pg:name":"Makuyuni",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":68136,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679747,
+        1108692919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155076,
+        "qs_pg:id":68136
+    },
+    "wof:country":"TZ",
+    "wof:created":1497297533,
+    "wof:geomhash":"e84fe7549fff174b371a8d37ea5917e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692919,
+            "locality_id":1125953249,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":1125953249,
+    "wof:lastmodified":1509402831,
+    "wof:name":"Makuyuni",
+    "wof:parent_id":1108692919,
+    "wof:placetype":"locality",
+    "wof:population":15516,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.1,
+    -4.73333,
+    38.1,
+    -4.73333
+],
+  "geometry": {"coordinates":[38.1,-4.73333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293345149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.5,-2.4,35.5,-2.4",
+    "geom:latitude":-2.4,
+    "geom:longitude":35.5,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"0205",
+    "gn:admin3_code":"0205131",
+    "gn:asciiname":"Arash",
+    "gn:country_code":"TZ",
+    "gn:dem":2201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161334,
+    "gn:latitude":-2.4,
+    "gn:longitude":35.5,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Arash",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679731,
+        421171979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161334,
+        "wk:page":"Arash_%28Tanzanian_ward%29"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"f83039e57393986f4eac022152242d0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421171979,
+            "locality_id":1293345149,
+            "region_id":85679731
+        }
+    ],
+    "wof:id":1293345149,
+    "wof:lastmodified":1537574863,
+    "wof:name":"Arash",
+    "wof:parent_id":421171979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.5,
+    -2.4,
+    35.5,
+    -2.4
+],
+  "geometry": {"coordinates":[35.5,-2.4],"type":"Point"}
+}

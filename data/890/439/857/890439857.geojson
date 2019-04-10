@@ -1,0 +1,87 @@
+{
+  "id": 890439857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.3768,-5.98957,39.3768,-5.98957",
+    "geom:latitude":-5.98957,
+    "geom:longitude":39.3768,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
+    "gn:pop":2429,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Kiwengwa"
+    ],
+    "name:eng_x_preferred":[
+        "Kiwengwa"
+    ],
+    "name:fre_x_preferred":[
+        "Kiwengwa"
+    ],
+    "name:ita_x_preferred":[
+        "Kiwengwa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0432\u0435\u043d\u0433\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Kiwengwo"
+    ],
+    "qs:name":"Kiwengwa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":76,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679695,
+        421194823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156636,
+        "gp:id":1443630,
+        "qs:id":68288,
+        "wd:id":"Q3815735",
+        "wk:page":"Kiwengwa"
+    },
+    "wof:country":"TZ",
+    "wof:created":1469052252,
+    "wof:geomhash":"93c4ae1b102f25d526b45e50e282e189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421194823,
+            "locality_id":890439857,
+            "region_id":85679695
+        }
+    ],
+    "wof:id":890439857,
+    "wof:lastmodified":1527729730,
+    "wof:name":"Kiwengwa",
+    "wof:parent_id":421194823,
+    "wof:placetype":"locality",
+    "wof:population":2429,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.3768,
+    -5.98957,
+    39.3768,
+    -5.98957
+],
+  "geometry": {"coordinates":[39.3768,-5.98957],"type":"Point"}
+}

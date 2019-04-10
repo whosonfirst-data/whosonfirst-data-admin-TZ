@@ -1,0 +1,91 @@
+{
+  "id": 1125774185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.8,-3.33333,36.8,-3.33333",
+    "geom:latitude":-3.33333,
+    "geom:longitude":36.8,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":9568,
+    "gn:population":9568,
+    "iso:country":"TZ",
+    "lbl:latitude":-3.33333,
+    "lbl:longitude":36.8,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Poli"
+    ],
+    "name:eng_x_preferred":[
+        "Poli"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0627\u0644\u06cc"
+    ],
+    "name:swa_x_preferred":[
+        "Poli"
+    ],
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":150689,
+    "qs_pg:gn_pop":9568,
+    "qs_pg:name":"Poli",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":518566,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679731,
+        1108692905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150689,
+        "qs_pg:id":518566,
+        "wd:id":"Q6634647"
+    },
+    "wof:country":"TZ",
+    "wof:created":1497290186,
+    "wof:geomhash":"ae17a5ef931f066c3868c88c61b7db6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692905,
+            "locality_id":1125774185,
+            "region_id":85679731
+        }
+    ],
+    "wof:id":1125774185,
+    "wof:lastmodified":1553816525,
+    "wof:name":"Poli",
+    "wof:parent_id":1108692905,
+    "wof:placetype":"locality",
+    "wof:population":9568,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.8,
+    -3.33333,
+    36.8,
+    -3.33333
+],
+  "geometry": {"coordinates":[36.8,-3.33333],"type":"Point"}
+}

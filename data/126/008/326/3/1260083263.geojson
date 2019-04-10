@@ -1,0 +1,70 @@
+{
+  "id": 1260083263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.73333,-6.41667,38.73333,-6.41667",
+    "geom:latitude":-6.41667,
+    "geom:longitude":38.73333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0601",
+    "gn:admin3_code":"0601171",
+    "gn:asciiname":"Kidomole",
+    "gn:country_code":"TZ",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":157821,
+    "gn:latitude":-6.41667,
+    "gn:longitude":38.73333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kidomole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        1108692947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":157821,
+        "wk:page":"Kidomole"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"85825b2033b2bf2a101ed96fbea00ad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692947,
+            "locality_id":1260083263,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1260083263,
+    "wof:lastmodified":1537574856,
+    "wof:name":"Kidomole",
+    "wof:parent_id":1108692947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.73333,
+    -6.41667,
+    38.73333,
+    -6.41667
+],
+  "geometry": {"coordinates":[38.73333,-6.41667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243405299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6,-3.38333,32.6,-3.38333",
+    "geom:latitude":-3.38333,
+    "geom:longitude":32.6,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"2502",
+    "gn:admin3_code":"2502051",
+    "gn:asciiname":"Burumiro",
+    "gn:cc2":"TZ",
+    "gn:country_code":"TZ",
+    "gn:dem":1206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160849,
+    "gn:latitude":-3.38333,
+    "gn:longitude":32.6,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Burumiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burumira",
+        "Burumiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679761,
+        1108693165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160849
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"194e46af8abcc21a8221ee6ee2950f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693165,
+            "locality_id":1243405299,
+            "region_id":85679761
+        }
+    ],
+    "wof:id":1243405299,
+    "wof:lastmodified":1537710059,
+    "wof:name":"Burumiro",
+    "wof:parent_id":1108693165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6,
+    -3.38333,
+    32.6,
+    -3.38333
+],
+  "geometry": {"coordinates":[32.6,-3.38333],"type":"Point"}
+}

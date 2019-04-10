@@ -1,0 +1,73 @@
+{
+  "id": 1310666959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.85,-5.1,38.85,-5.1",
+    "geom:latitude":-5.1,
+    "geom:longitude":38.85,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0403",
+    "gn:admin3_code":"0403331",
+    "gn:asciiname":"Maguguwini",
+    "gn:country_code":"TZ",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155309,
+    "gn:latitude":-5.1,
+    "gn:longitude":38.85,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Maguguwini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Machungweni",
+        "Maguguwini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679747,
+        1108692921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155309
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"0f63829dc2b3fa4671a12df5434f0763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692921,
+            "locality_id":1310666959,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":1310666959,
+    "wof:lastmodified":1537710026,
+    "wof:name":"Maguguwini",
+    "wof:parent_id":1108692921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.85,
+    -5.1,
+    38.85,
+    -5.1
+],
+  "geometry": {"coordinates":[38.85,-5.1],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 421167143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.55,-10.8,39.55,-10.8",
+    "geom:latitude":-10.8,
+    "geom:longitude":39.55,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Nyakahanga"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":877588,
+    "qs:gn_pop":13519,
+    "qs:name":"Nanyanga",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Mtwara",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":129814,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1448393,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679717,
+        1108692975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877588,
+        "gp:id":1448393,
+        "qs:id":129814
+    },
+    "wof:country":"TZ",
+    "wof:created":1459008721,
+    "wof:geomhash":"ef7ed2db816099dead123af55d72ea70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692975,
+            "locality_id":421167143,
+            "region_id":85679717
+        }
+    ],
+    "wof:id":421167143,
+    "wof:lastmodified":1505340584,
+    "wof:name":"Nanyanga",
+    "wof:parent_id":1108692975,
+    "wof:placetype":"locality",
+    "wof:population":13519,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.55,
+    -10.8,
+    39.55,
+    -10.8
+],
+  "geometry": {"coordinates":[39.55,-10.8],"type":"Point"}
+}

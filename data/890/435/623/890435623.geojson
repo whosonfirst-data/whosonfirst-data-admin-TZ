@@ -1,0 +1,71 @@
+{
+  "id": 890435623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.75,-9.33333,33.75,-9.33333",
+    "geom:latitude":-9.33333,
+    "geom:longitude":33.75,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
+    "gn:pop":12720,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "Bujesi"
+    ],
+    "qs:name":"Masoko",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":163,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679641,
+        1108693009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154666,
+        "gp:id":1443951,
+        "qs:id":522794,
+        "wk:page":"Masoko"
+    },
+    "wof:country":"TZ",
+    "wof:created":1469052075,
+    "wof:geomhash":"26c026a9c0f96ff55af531271b0df662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693009,
+            "locality_id":890435623,
+            "region_id":85679641
+        }
+    ],
+    "wof:id":890435623,
+    "wof:lastmodified":1527793050,
+    "wof:name":"Masoko",
+    "wof:parent_id":1108693009,
+    "wof:placetype":"locality",
+    "wof:population":12720,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.75,
+    -9.33333,
+    33.75,
+    -9.33333
+],
+  "geometry": {"coordinates":[33.75,-9.33333],"type":"Point"}
+}

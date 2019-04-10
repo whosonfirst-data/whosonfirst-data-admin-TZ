@@ -1,0 +1,78 @@
+{
+  "id": 1125955687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6,-7.41667,30.6,-7.41667",
+    "geom:latitude":-7.41667,
+    "geom:longitude":30.6,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":33111,
+    "gn:population":33111,
+    "iso:country":"TZ",
+    "lbl:latitude":-7.41667,
+    "lbl:longitude":30.6,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":157107,
+    "qs_pg:gn_pop":33111,
+    "qs_pg:name":"Kirando",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":68344,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679645,
+        1108693055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":157107,
+        "qs_pg:id":68344
+    },
+    "wof:country":"TZ",
+    "wof:created":1497297612,
+    "wof:geomhash":"beaca20c4d2f8109d23f3faf34302eef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693055,
+            "locality_id":1125955687,
+            "region_id":85679645
+        }
+    ],
+    "wof:id":1125955687,
+    "wof:lastmodified":1509402988,
+    "wof:name":"Kirando",
+    "wof:parent_id":1108693055,
+    "wof:placetype":"locality",
+    "wof:population":33111,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6,
+    -7.41667,
+    30.6,
+    -7.41667
+],
+  "geometry": {"coordinates":[30.6,-7.41667],"type":"Point"}
+}

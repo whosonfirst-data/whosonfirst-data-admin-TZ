@@ -1,0 +1,64 @@
+{
+  "id": 1209222177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.13333,-6.03333,36.13333,-6.03333",
+    "geom:latitude":-6.03333,
+    "geom:longitude":36.13333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0104",
+    "gn:admin3_code":"0104071",
+    "gn:asciiname":"Chilonwa",
+    "gn:country_code":"TZ",
+    "gn:dem":968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160465,
+    "gn:latitude":-6.03333,
+    "gn:longitude":36.13333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Chilonwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160465,
+        "wk:page":"Chilonwa"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"22ac0eb6a0dffca45c87d7bea05a08d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209222177
+        }
+    ],
+    "wof:id":1209222177,
+    "wof:lastmodified":1537574861,
+    "wof:name":"Chilonwa",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.13333,
+    -6.03333,
+    36.13333,
+    -6.03333
+],
+  "geometry": {"coordinates":[36.13333,-6.03333],"type":"Point"}
+}

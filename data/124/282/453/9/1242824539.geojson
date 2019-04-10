@@ -1,0 +1,78 @@
+{
+  "id": 1242824539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.71667,-8.83333,34.71667,-8.83333",
+    "geom:latitude":-8.83333,
+    "geom:longitude":34.71667,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"2202",
+    "gn:admin3_code":"2202033",
+    "gn:asciiname":"Soliwaya",
+    "gn:country_code":"TZ",
+    "gn:dem":1451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149801,
+    "gn:latitude":-8.83333,
+    "gn:longitude":34.71667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Soliwaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikingula",
+        "Kingola",
+        "Zolovayo",
+        "Soliwayo",
+        "Solowajo",
+        "Solowayo",
+        "Soliwaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679765,
+        1108693135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149801
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"46567c3170328969a429cfa759a3ac60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693135,
+            "locality_id":1242824539,
+            "region_id":85679765
+        }
+    ],
+    "wof:id":1242824539,
+    "wof:lastmodified":1537709994,
+    "wof:name":"Soliwaya",
+    "wof:parent_id":1108693135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.71667,
+    -8.83333,
+    34.71667,
+    -8.83333
+],
+  "geometry": {"coordinates":[34.71667,-8.83333],"type":"Point"}
+}

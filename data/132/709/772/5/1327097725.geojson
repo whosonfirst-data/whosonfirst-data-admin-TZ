@@ -1,0 +1,69 @@
+{
+  "id": 1327097725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.55,-5.08333,38.55,-5.08333",
+    "geom:latitude":-5.08333,
+    "geom:longitude":38.55,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0402",
+    "gn:admin3_code":"0402051",
+    "gn:asciiname":"Mwambare",
+    "gn:country_code":"TZ",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":152308,
+    "gn:latitude":-5.08333,
+    "gn:longitude":38.55,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mwambare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679747,
+        1108692919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152308
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"4603456f565955438082859275ba15b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692919,
+            "locality_id":1327097725,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":1327097725,
+    "wof:lastmodified":1536666358,
+    "wof:name":"Mwambare",
+    "wof:parent_id":1108692919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.55,
+    -5.08333,
+    38.55,
+    -5.08333
+],
+  "geometry": {"coordinates":[38.55,-5.08333],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293301595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.44424,-7.87347,38.44424,-7.87347",
+    "geom:latitude":-7.87347,
+    "geom:longitude":38.44424,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0605",
+    "gn:admin3_code":"0605061",
+    "gn:asciiname":"Roge Roge",
+    "gn:country_code":"TZ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155905,
+    "gn:latitude":-7.87347,
+    "gn:longitude":38.44424,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Roge Roge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Roge Roge"
+    ],
+    "name:eng_x_variant":[
+        "Logeloge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        421182255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155905
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"5e54ef804cdd9f3123025d586c98ba3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421182255,
+            "locality_id":1293301595,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1293301595,
+    "wof:lastmodified":1537710029,
+    "wof:name":"Roge Roge",
+    "wof:parent_id":421182255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.44424,
+    -7.87347,
+    38.44424,
+    -7.87347
+],
+  "geometry": {"coordinates":[38.44424,-7.87347],"type":"Point"}
+}

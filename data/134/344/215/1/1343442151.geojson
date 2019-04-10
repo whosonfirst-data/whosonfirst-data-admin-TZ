@@ -1,0 +1,69 @@
+{
+  "id": 1343442151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.66667,-10.63333,38.66667,-10.63333",
+    "geom:latitude":-10.63333,
+    "geom:longitude":38.66667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0903",
+    "gn:admin3_code":"0903041",
+    "gn:asciiname":"Lilala",
+    "gn:country_code":"TZ",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":878289,
+    "gn:latitude":-10.63333,
+    "gn:longitude":38.66667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Lilala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679717,
+        1108692973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878289
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"90cf8c5f1fa2a589ce2bdc6f1efa2596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692973,
+            "locality_id":1343442151,
+            "region_id":85679717
+        }
+    ],
+    "wof:id":1343442151,
+    "wof:lastmodified":1536773333,
+    "wof:name":"Lilala",
+    "wof:parent_id":1108692973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.66667,
+    -10.63333,
+    38.66667,
+    -10.63333
+],
+  "geometry": {"coordinates":[38.66667,-10.63333],"type":"Point"}
+}

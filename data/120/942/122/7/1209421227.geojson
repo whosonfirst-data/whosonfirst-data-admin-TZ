@@ -1,0 +1,63 @@
+{
+  "id": 1209421227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.85,-8.6,34.85,-8.6",
+    "geom:latitude":-8.6,
+    "geom:longitude":34.85,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1102",
+    "gn:admin3_code":"1102103",
+    "gn:asciiname":"Ulila",
+    "gn:country_code":"TZ",
+    "gn:dem":1459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149235,
+    "gn:latitude":-8.6,
+    "gn:longitude":34.85,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ulila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149235
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"713dc496c0e55b48c91b3cd9e4ce9fae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209421227
+        }
+    ],
+    "wof:id":1209421227,
+    "wof:lastmodified":1536287524,
+    "wof:name":"Ulila",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.85,
+    -8.6,
+    34.85,
+    -8.6
+],
+  "geometry": {"coordinates":[34.85,-8.6],"type":"Point"}
+}

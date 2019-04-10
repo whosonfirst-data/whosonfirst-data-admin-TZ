@@ -1,0 +1,72 @@
+{
+  "id": 1293639915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.48333,-6.48333,30.48333,-6.48333",
+    "geom:latitude":-6.48333,
+    "geom:longitude":30.48333,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"2302",
+    "gn:admin3_code":"2302031",
+    "gn:asciiname":"Kibeli",
+    "gn:country_code":"TZ",
+    "gn:dem":1167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":157997,
+    "gn:latitude":-6.48333,
+    "gn:longitude":30.48333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kibeli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kibeli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679751,
+        1108693149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":157997
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"ebab2c606b0d38476295cf4de5a5ddfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693149,
+            "locality_id":1293639915,
+            "region_id":85679751
+        }
+    ],
+    "wof:id":1293639915,
+    "wof:lastmodified":1537710041,
+    "wof:name":"Kibeli",
+    "wof:parent_id":1108693149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.48333,
+    -6.48333,
+    30.48333,
+    -6.48333
+],
+  "geometry": {"coordinates":[30.48333,-6.48333],"type":"Point"}
+}

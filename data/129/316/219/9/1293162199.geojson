@@ -1,0 +1,69 @@
+{
+  "id": 1293162199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.36667,-2.81667,32.36667,-2.81667",
+    "geom:latitude":-2.81667,
+    "geom:longitude":32.36667,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"2501",
+    "gn:admin3_code":"2501141",
+    "gn:asciiname":"Mkangala",
+    "gn:country_code":"TZ",
+    "gn:dem":1246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153650,
+    "gn:latitude":-2.81667,
+    "gn:longitude":32.36667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mkangala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679761,
+        1108693163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153650
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"5fc95a61b36427ebdcf49ec786b1f954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693163,
+            "locality_id":1293162199,
+            "region_id":85679761
+        }
+    ],
+    "wof:id":1293162199,
+    "wof:lastmodified":1536759396,
+    "wof:name":"Mkangala",
+    "wof:parent_id":1108693163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.36667,
+    -2.81667,
+    32.36667,
+    -2.81667
+],
+  "geometry": {"coordinates":[32.36667,-2.81667],"type":"Point"}
+}

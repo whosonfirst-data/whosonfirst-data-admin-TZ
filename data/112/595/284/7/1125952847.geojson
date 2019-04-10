@@ -1,0 +1,78 @@
+{
+  "id": 1125952847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.98333,-2.68333,33.98333,-2.68333",
+    "geom:latitude":-2.68333,
+    "geom:longitude":33.98333,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":22025,
+    "gn:population":22025,
+    "iso:country":"TZ",
+    "lbl:latitude":-2.68333,
+    "lbl:longitude":33.98333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":154648,
+    "qs_pg:gn_pop":22025,
+    "qs_pg:name":"Maswa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":68115,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679755,
+        421187951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154648,
+        "qs_pg:id":68115
+    },
+    "wof:country":"TZ",
+    "wof:created":1497297522,
+    "wof:geomhash":"fce0348b5acae82b82faebdb3d84fe93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187951,
+            "locality_id":1125952847,
+            "region_id":85679755
+        }
+    ],
+    "wof:id":1125952847,
+    "wof:lastmodified":1509402803,
+    "wof:name":"Maswa",
+    "wof:parent_id":421187951,
+    "wof:placetype":"locality",
+    "wof:population":22025,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.98333,
+    -2.68333,
+    33.98333,
+    -2.68333
+],
+  "geometry": {"coordinates":[33.98333,-2.68333],"type":"Point"}
+}

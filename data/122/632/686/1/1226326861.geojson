@@ -1,0 +1,69 @@
+{
+  "id": 1226326861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.45,-9.56667,33.45,-9.56667",
+    "geom:latitude":-9.56667,
+    "geom:longitude":33.45,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1205",
+    "gn:admin3_code":"1205121",
+    "gn:asciiname":"Igamba",
+    "gn:country_code":"TZ",
+    "gn:dem":1215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159450,
+    "gn:latitude":-9.56667,
+    "gn:longitude":33.45,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Igamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679641,
+        1108693011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159450
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"759efef2787ef89ade7ca7c494c4baec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693011,
+            "locality_id":1226326861,
+            "region_id":85679641
+        }
+    ],
+    "wof:id":1226326861,
+    "wof:lastmodified":1536815969,
+    "wof:name":"Igamba",
+    "wof:parent_id":1108693011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.45,
+    -9.56667,
+    33.45,
+    -9.56667
+],
+  "geometry": {"coordinates":[33.45,-9.56667],"type":"Point"}
+}

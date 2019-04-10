@@ -1,0 +1,72 @@
+{
+  "id": 1327095521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.06811,-6.98939,31.06811,-6.98939",
+    "geom:latitude":-6.98939,
+    "geom:longitude":31.06811,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"2303",
+    "gn:admin3_code":"2303171",
+    "gn:asciiname":"Kakonje",
+    "gn:country_code":"TZ",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7391941,
+    "gn:latitude":-6.98939,
+    "gn:longitude":31.06811,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kakonje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kakonje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679751,
+        1108693151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7391941
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"7766a9f419b657d3b36285d2301622de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693151,
+            "locality_id":1327095521,
+            "region_id":85679751
+        }
+    ],
+    "wof:id":1327095521,
+    "wof:lastmodified":1537710073,
+    "wof:name":"Kakonje",
+    "wof:parent_id":1108693151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.06811,
+    -6.98939,
+    31.06811,
+    -6.98939
+],
+  "geometry": {"coordinates":[31.06811,-6.98939],"type":"Point"}
+}

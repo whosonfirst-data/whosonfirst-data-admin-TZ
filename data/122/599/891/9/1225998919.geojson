@@ -1,0 +1,70 @@
+{
+  "id": 1225998919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.35,-4.25,35.35,-4.25",
+    "geom:latitude":-4.25,
+    "geom:longitude":35.35,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"2101",
+    "gn:admin3_code":"2101141",
+    "gn:asciiname":"Ufana",
+    "gn:country_code":"TZ",
+    "gn:dem":1877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149342,
+    "gn:latitude":-4.25,
+    "gn:longitude":35.35,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ufana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679733,
+        1108693123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149342,
+        "wk:page":"Ufana"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"504bddc85fd62883620104be42f63a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693123,
+            "locality_id":1225998919,
+            "region_id":85679733
+        }
+    ],
+    "wof:id":1225998919,
+    "wof:lastmodified":1537574845,
+    "wof:name":"Ufana",
+    "wof:parent_id":1108693123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.35,
+    -4.25,
+    35.35,
+    -4.25
+],
+  "geometry": {"coordinates":[35.35,-4.25],"type":"Point"}
+}

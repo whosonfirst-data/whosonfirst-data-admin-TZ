@@ -1,0 +1,63 @@
+{
+  "id": 1276754757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.93333,-1.93333,32.93333,-1.93333",
+    "geom:latitude":-1.93333,
+    "geom:longitude":32.93333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lubaga",
+    "gn:country_code":"TZ",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155801,
+    "gn:latitude":-1.93333,
+    "gn:longitude":32.93333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Lubaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155801
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"60cca86aa74800906d504783b81d9ba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276754757,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276754757,
+    "wof:lastmodified":1536711533,
+    "wof:name":"Lubaga",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.93333,
+    -1.93333,
+    32.93333,
+    -1.93333
+],
+  "geometry": {"coordinates":[32.93333,-1.93333],"type":"Point"}
+}

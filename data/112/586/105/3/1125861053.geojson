@@ -1,0 +1,78 @@
+{
+  "id": 1125861053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.52583,-3.28333,31.52583,-3.28333",
+    "geom:latitude":-3.28333,
+    "geom:longitude":31.52583,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":60849,
+    "gn:population":60849,
+    "iso:country":"TZ",
+    "lbl:latitude":-3.28333,
+    "lbl:longitude":31.52583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":149027,
+    "qs_pg:gn_pop":60849,
+    "qs_pg:name":"Uyovu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":122439,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679761,
+        1108693169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149027,
+        "qs_pg:id":122439
+    },
+    "wof:country":"TZ",
+    "wof:created":1497293832,
+    "wof:geomhash":"399ad462e4555537a7546144114b83fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693169,
+            "locality_id":1125861053,
+            "region_id":85679761
+        }
+    ],
+    "wof:id":1125861053,
+    "wof:lastmodified":1509396633,
+    "wof:name":"Uyovu",
+    "wof:parent_id":1108693169,
+    "wof:placetype":"locality",
+    "wof:population":60849,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.52583,
+    -3.28333,
+    31.52583,
+    -3.28333
+],
+  "geometry": {"coordinates":[31.52583,-3.28333],"type":"Point"}
+}

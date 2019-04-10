@@ -1,0 +1,73 @@
+{
+  "id": 1259358139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.96667,-2.6,30.96667,-2.6",
+    "geom:latitude":-2.6,
+    "geom:longitude":30.96667,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1804",
+    "gn:admin3_code":"1804011",
+    "gn:asciiname":"Nyantama",
+    "gn:country_code":"TZ",
+    "gn:dem":1459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151041,
+    "gn:latitude":-2.6,
+    "gn:longitude":30.96667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nyantama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyatama",
+        "Nyantama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151041
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"6d9124edf4da439ce80797a91e3a2548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693093,
+            "locality_id":1259358139,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1259358139,
+    "wof:lastmodified":1537710001,
+    "wof:name":"Nyantama",
+    "wof:parent_id":1108693093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.96667,
+    -2.6,
+    30.96667,
+    -2.6
+],
+  "geometry": {"coordinates":[30.96667,-2.6],"type":"Point"}
+}

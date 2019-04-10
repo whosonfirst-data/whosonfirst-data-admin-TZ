@@ -1,0 +1,107 @@
+{
+  "id": 85771893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9779181.781417,
+    "geom:bbox":"39.244573,-6.848569,39.244573,-6.848569",
+    "geom:latitude":-6.848569,
+    "geom:longitude":39.244573,
+    "gn:latitude":-6.85,
+    "gn:longitude":39.25,
+    "iso:country":"TZ",
+    "lbl:latitude":-6.848569,
+    "lbl:longitude":39.244573,
+    "mps:latitude":-6.846444,
+    "mps:longitude":39.244296,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Temeke"
+    ],
+    "name:unk_x_variant":[
+        "Temeke"
+    ],
+    "qs:gn_adm0_cc":"TZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":160263,
+    "qs:gn_nam_loc":"Dar es Salaam",
+    "qs:gn_namadm1":"23",
+    "qs:gn_name":"Temeke",
+    "qs:local_max":627,
+    "qs:local_sum":1871,
+    "qs:localhoods":7,
+    "qs:name":"Temeke",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Dar es Salaam",
+    "qs:name_adm2":"Temeke",
+    "qs:name_local":"Dar es Salaam",
+    "qs:photo_max":64,
+    "qs:photo_sum":75,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424973,
+    "qs:woe_adm1":2347374,
+    "qs:woe_adm2":56025208,
+    "qs:woe_lau":0,
+    "qs:woe_local":1443415,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        421198913,
+        85679675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149543,
+        "gp:id":1449579,
+        "qs:id":316927
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"57add2675d9d53095c673605f6094079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421198913,
+            "locality_id":-1,
+            "neighbourhood_id":85771893,
+            "region_id":85679675
+        }
+    ],
+    "wof:id":85771893,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531859480,
+    "wof:name":"Temeke",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.244573,
+    -6.848569,
+    39.244573,
+    -6.848569
+],
+  "geometry": {"coordinates":[39.244573,-6.848569],"type":"Point"}
+}

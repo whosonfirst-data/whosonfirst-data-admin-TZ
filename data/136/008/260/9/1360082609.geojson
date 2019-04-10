@@ -1,0 +1,69 @@
+{
+  "id": 1360082609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.45,-1.35,34.45,-1.35",
+    "geom:latitude":-1.35,
+    "geom:longitude":34.45,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"2001",
+    "gn:admin3_code":"2001251",
+    "gn:asciiname":"Nyamwigura",
+    "gn:country_code":"TZ",
+    "gn:dem":1573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151097,
+    "gn:latitude":-1.35,
+    "gn:longitude":34.45,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nyamwigura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679743,
+        421175441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151097
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"eda3534a468eb0bbabf305ff5dfe9962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421175441,
+            "locality_id":1360082609,
+            "region_id":85679743
+        }
+    ],
+    "wof:id":1360082609,
+    "wof:lastmodified":1536949562,
+    "wof:name":"Nyamwigura",
+    "wof:parent_id":421175441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.45,
+    -1.35,
+    34.45,
+    -1.35
+],
+  "geometry": {"coordinates":[34.45,-1.35],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209095313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.65,-6.98333,37.65,-6.98333",
+    "geom:latitude":-6.98333,
+    "geom:longitude":37.65,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0502",
+    "gn:admin3_code":"0502201",
+    "gn:asciiname":"Yasiro",
+    "gn:country_code":"TZ",
+    "gn:dem":1525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148767,
+    "gn:latitude":-6.98333,
+    "gn:longitude":37.65,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Yasiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148767
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"e98fab3081591b7133bf81e64a74ec1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209095313
+        }
+    ],
+    "wof:id":1209095313,
+    "wof:lastmodified":1536297905,
+    "wof:name":"Yasiro",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.65,
+    -6.9833300000000005,
+    37.65,
+    -6.9833300000000005
+],
+  "geometry": {"coordinates":[37.65,-6.98333],"type":"Point"}
+}

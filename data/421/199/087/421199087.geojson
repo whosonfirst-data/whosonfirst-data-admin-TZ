@@ -1,0 +1,95 @@
+{
+  "id": 421199087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.78333,-4.9,35.78333,-4.9",
+    "geom:latitude":-4.9,
+    "geom:longitude":35.78333,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Kondoa"
+    ],
+    "name:nld_x_preferred":[
+        "Kondoa"
+    ],
+    "name:ron_x_preferred":[
+        "Kondoa"
+    ],
+    "name:swa_x_preferred":[
+        "Kondoa"
+    ],
+    "name:unk_x_variant":[
+        "Kondoa Irangi"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":156510,
+    "qs:gn_pop":23518,
+    "qs:name":"Kondoa",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Dodoma",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":236,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":189044,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1445558,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679705,
+        1108692889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156510,
+        "gp:id":1445558,
+        "qs:id":189044
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009977,
+    "wof:geomhash":"cda48dc95d9a2d192735f711e50a6513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692889,
+            "locality_id":421199087,
+            "region_id":85679705
+        }
+    ],
+    "wof:id":421199087,
+    "wof:lastmodified":1527716416,
+    "wof:name":"Kondoa",
+    "wof:parent_id":1108692889,
+    "wof:placetype":"locality",
+    "wof:population":23518,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.78333,
+    -4.9,
+    35.78333,
+    -4.9
+],
+  "geometry": {"coordinates":[35.78333,-4.9],"type":"Point"}
+}

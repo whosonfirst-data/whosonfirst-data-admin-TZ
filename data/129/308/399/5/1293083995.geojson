@@ -1,0 +1,69 @@
+{
+  "id": 1293083995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.68333,-3.75,33.68333,-3.75",
+    "geom:latitude":-3.75,
+    "geom:longitude":33.68333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1702",
+    "gn:admin3_code":"1702181",
+    "gn:asciiname":"Suka Suka",
+    "gn:country_code":"TZ",
+    "gn:dem":1098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149716,
+    "gn:latitude":-3.75,
+    "gn:longitude":33.68333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Suka Suka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679657,
+        1108693077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149716
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"67c4a6495a9127b8f54823ced6ea9b15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693077,
+            "locality_id":1293083995,
+            "region_id":85679657
+        }
+    ],
+    "wof:id":1293083995,
+    "wof:lastmodified":1536870753,
+    "wof:name":"Suka Suka",
+    "wof:parent_id":1108693077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.68333,
+    -3.75,
+    33.68333,
+    -3.75
+],
+  "geometry": {"coordinates":[33.68333,-3.75],"type":"Point"}
+}

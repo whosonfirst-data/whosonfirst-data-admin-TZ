@@ -1,0 +1,70 @@
+{
+  "id": 1293155079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7,-3.83333,35.7,-3.83333",
+    "geom:latitude":-3.83333,
+    "geom:longitude":35.7,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"2101",
+    "gn:admin3_code":"2101011",
+    "gn:asciiname":"Magara",
+    "gn:country_code":"TZ",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155376,
+    "gn:latitude":-3.83333,
+    "gn:longitude":35.7,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Magara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679733,
+        1108693123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155376,
+        "wk:page":"Magara_%28Tanzanian_ward%29"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"a765016d4cc30ea6b2c3a9bebc8c94d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693123,
+            "locality_id":1293155079,
+            "region_id":85679733
+        }
+    ],
+    "wof:id":1293155079,
+    "wof:lastmodified":1537574853,
+    "wof:name":"Magara",
+    "wof:parent_id":1108693123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7,
+    -3.83333,
+    35.7,
+    -3.83333
+],
+  "geometry": {"coordinates":[35.7,-3.83333],"type":"Point"}
+}

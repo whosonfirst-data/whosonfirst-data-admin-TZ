@@ -1,0 +1,74 @@
+{
+  "id": 1310496991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.1,-2.25,34.1,-2.25",
+    "geom:latitude":-2.25,
+    "geom:longitude":34.1,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"2004",
+    "gn:admin3_code":"2004051",
+    "gn:asciiname":"Handajega",
+    "gn:cc2":"TZ",
+    "gn:country_code":"TZ",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159680,
+    "gn:latitude":-2.25,
+    "gn:longitude":34.1,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Handajega",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Handajegu",
+        "Handajega"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679743,
+        421187953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159680
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"5c41506b3318ff7a1905651ecb61448c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187953,
+            "locality_id":1310496991,
+            "region_id":85679743
+        }
+    ],
+    "wof:id":1310496991,
+    "wof:lastmodified":1537710053,
+    "wof:name":"Handajega",
+    "wof:parent_id":421187953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.1,
+    -2.25,
+    34.1,
+    -2.25
+],
+  "geometry": {"coordinates":[34.1,-2.25],"type":"Point"}
+}

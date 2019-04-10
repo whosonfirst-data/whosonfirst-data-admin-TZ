@@ -1,0 +1,75 @@
+{
+  "id": 1259557331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.23333,-10.76667,37.23333,-10.76667",
+    "geom:latitude":-10.76667,
+    "geom:longitude":37.23333,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1001",
+    "gn:admin3_code":"1001303",
+    "gn:asciiname":"Msamala",
+    "gn:country_code":"TZ",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877805,
+    "gn:latitude":-10.76667,
+    "gn:longitude":37.23333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Msamala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kandulu",
+        "Msamara",
+        "Kandulu Yao",
+        "Msamala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679723,
+        1108692985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877805
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"ec6cf37cffd3c97a28b899d8a2d89ced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692985,
+            "locality_id":1259557331,
+            "region_id":85679723
+        }
+    ],
+    "wof:id":1259557331,
+    "wof:lastmodified":1537710064,
+    "wof:name":"Msamala",
+    "wof:parent_id":1108692985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.23333,
+    -10.76667,
+    37.23333,
+    -10.76667
+],
+  "geometry": {"coordinates":[37.23333,-10.76667],"type":"Point"}
+}

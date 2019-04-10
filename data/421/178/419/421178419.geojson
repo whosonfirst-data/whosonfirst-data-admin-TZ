@@ -1,0 +1,90 @@
+{
+  "id": 421178419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.50028,-1.39972,31.50028,-1.39972",
+    "geom:latitude":-1.39972,
+    "geom:longitude":31.50028,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Katogo"
+    ],
+    "name:msa_x_preferred":[
+        "Katogo"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":158161,
+    "qs:gn_pop":11925,
+    "qs:name":"Katoro",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Kagera",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":122567,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1444541,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"quattroshapes",
+    "wd:wordcount":94,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158160,
+        "gp:id":1444541,
+        "qs:id":122567,
+        "qs_pg:id":68659
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009181,
+    "wof:geomhash":"566bef6b9976ad351ae8713271d5fcdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693087,
+            "locality_id":421178419,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":421178419,
+    "wof:lastmodified":1527717725,
+    "wof:name":"Katoro",
+    "wof:parent_id":1108693087,
+    "wof:placetype":"locality",
+    "wof:population":11925,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.50028,
+    -1.39972,
+    31.50028,
+    -1.39972
+],
+  "geometry": {"coordinates":[31.50028,-1.39972],"type":"Point"}
+}

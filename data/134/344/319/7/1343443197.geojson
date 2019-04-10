@@ -1,0 +1,75 @@
+{
+  "id": 1343443197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.76667,-5.38333,34.76667,-5.38333",
+    "geom:latitude":-5.38333,
+    "geom:longitude":34.76667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1305",
+    "gn:admin3_code":"1305121",
+    "gn:asciiname":"Issuna",
+    "gn:country_code":"TZ",
+    "gn:dem":1411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158970,
+    "gn:latitude":-5.38333,
+    "gn:longitude":34.76667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Issuna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suna",
+        "Isuna",
+        "Issuna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679727,
+        1108693029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158970,
+        "wk:page":"Issuna"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"43d49e6569cf6bed2fe5b043e65ba556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693029,
+            "locality_id":1343443197,
+            "region_id":85679727
+        }
+    ],
+    "wof:id":1343443197,
+    "wof:lastmodified":1537710048,
+    "wof:name":"Issuna",
+    "wof:parent_id":1108693029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.76667,
+    -5.38333,
+    34.76667,
+    -5.38333
+],
+  "geometry": {"coordinates":[34.76667,-5.38333],"type":"Point"}
+}

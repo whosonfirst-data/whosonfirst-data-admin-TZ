@@ -1,0 +1,65 @@
+{
+  "id": 1292977283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.71667,-5.06667,39.71667,-5.06667",
+    "geom:latitude":-5.06667,
+    "geom:longitude":39.71667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Uchozini",
+    "gn:country_code":"TZ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149349,
+    "gn:latitude":-5.06667,
+    "gn:longitude":39.71667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Uchozini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chozina",
+        "Uchozini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149349
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"82d032b62f47810cb5cb4d5e179c987f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1292977283,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1292977283,
+    "wof:lastmodified":1537709992,
+    "wof:name":"Uchozini",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.71667,
+    -5.06667,
+    39.71667,
+    -5.06667
+],
+  "geometry": {"coordinates":[39.71667,-5.06667],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1344220585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.11667,-6.11667,33.11667,-6.11667",
+    "geom:latitude":-6.11667,
+    "geom:longitude":33.11667,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1405",
+    "gn:admin3_code":"1405071",
+    "gn:asciiname":"Msisi",
+    "gn:country_code":"TZ",
+    "gn:dem":1164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":152961,
+    "gn:latitude":-6.11667,
+    "gn:longitude":33.11667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Msisi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679661,
+        1108693043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152961
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"4b1b5dd6d2aa5e1a680fba0526fca9aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693043,
+            "locality_id":1344220585,
+            "region_id":85679661
+        }
+    ],
+    "wof:id":1344220585,
+    "wof:lastmodified":1536644026,
+    "wof:name":"Msisi",
+    "wof:parent_id":1108693043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.11667,
+    -6.11667,
+    33.11667,
+    -6.11667
+],
+  "geometry": {"coordinates":[33.11667,-6.11667],"type":"Point"}
+}

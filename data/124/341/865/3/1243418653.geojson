@@ -1,0 +1,75 @@
+{
+  "id": 1243418653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.46667,-6.43333,39.46667,-6.43333",
+    "geom:latitude":-6.43333,
+    "geom:longitude":39.46667,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5202",
+    "gn:admin3_code":"5202081",
+    "gn:asciiname":"Dimbani",
+    "gn:country_code":"TZ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160220,
+    "gn:latitude":-6.43333,
+    "gn:longitude":39.46667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Dimbani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kizimkazi Dembani",
+        "Dembani",
+        "Dimbani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679651,
+        421188197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160220,
+        "wk:page":"Dimbani"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"16f30e3831cb18363b60f6ae139ca4cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421188197,
+            "locality_id":1243418653,
+            "region_id":85679651
+        }
+    ],
+    "wof:id":1243418653,
+    "wof:lastmodified":1537710055,
+    "wof:name":"Dimbani",
+    "wof:parent_id":421188197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.46667,
+    -6.43333,
+    39.46667,
+    -6.43333
+],
+  "geometry": {"coordinates":[39.46667,-6.43333],"type":"Point"}
+}

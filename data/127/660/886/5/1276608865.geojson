@@ -1,0 +1,74 @@
+{
+  "id": 1276608865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.29037,-6.29785,39.29037,-6.29785",
+    "geom:latitude":-6.29785,
+    "geom:longitude":39.29037,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"5301",
+    "gn:admin3_code":"5301191",
+    "gn:asciiname":"Bweleo",
+    "gn:country_code":"TZ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160733,
+    "gn:latitude":-6.29785,
+    "gn:longitude":39.29037,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Bweleo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balayo",
+        "Bweke",
+        "Bweleo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679699,
+        421202045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160733
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"f31633314d6b3f0b7c2e5dcdb2e5612a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421202045,
+            "locality_id":1276608865,
+            "region_id":85679699
+        }
+    ],
+    "wof:id":1276608865,
+    "wof:lastmodified":1537710058,
+    "wof:name":"Bweleo",
+    "wof:parent_id":421202045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.29037,
+    -6.29785,
+    39.29037,
+    -6.29785
+],
+  "geometry": {"coordinates":[39.29037,-6.29785],"type":"Point"}
+}

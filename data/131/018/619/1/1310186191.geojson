@@ -1,0 +1,74 @@
+{
+  "id": 1310186191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.88333,-10.65,38.88333,-10.65",
+    "geom:latitude":-10.65,
+    "geom:longitude":38.88333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0907",
+    "gn:admin3_code":"0907043",
+    "gn:asciiname":"Liloyo",
+    "gn:country_code":"TZ",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":878283,
+    "gn:latitude":-10.65,
+    "gn:longitude":38.88333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Liloyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liloya",
+        "Liloiya",
+        "Liloyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679717,
+        1108692983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878283
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"2698d7cf3e92efad750cd9ecce09347e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692983,
+            "locality_id":1310186191,
+            "region_id":85679717
+        }
+    ],
+    "wof:id":1310186191,
+    "wof:lastmodified":1537710066,
+    "wof:name":"Liloyo",
+    "wof:parent_id":1108692983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.88333,
+    -10.65,
+    38.88333,
+    -10.65
+],
+  "geometry": {"coordinates":[38.88333,-10.65],"type":"Point"}
+}

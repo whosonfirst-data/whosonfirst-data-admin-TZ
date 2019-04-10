@@ -1,0 +1,69 @@
+{
+  "id": 1327156971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.75389,-4.47694,29.75389,-4.47694",
+    "geom:latitude":-4.47694,
+    "geom:longitude":29.75389,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1603",
+    "gn:admin3_code":"1603021",
+    "gn:asciiname":"Mwenene",
+    "gn:country_code":"TZ",
+    "gn:dem":1641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387524,
+    "gn:latitude":-4.47694,
+    "gn:longitude":29.75389,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mwenene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679669,
+        421180247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387524
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"6cd8f08bc59b5dd4b5b99885fd0b0b0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421180247,
+            "locality_id":1327156971,
+            "region_id":85679669
+        }
+    ],
+    "wof:id":1327156971,
+    "wof:lastmodified":1537075444,
+    "wof:name":"Mwenene",
+    "wof:parent_id":421180247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.75389,
+    -4.47694,
+    29.75389,
+    -4.47694
+],
+  "geometry": {"coordinates":[29.75389,-4.47694],"type":"Point"}
+}

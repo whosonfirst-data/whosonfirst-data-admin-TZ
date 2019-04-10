@@ -1,0 +1,73 @@
+{
+  "id": 1343309351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.59972,-3.20472,31.59972,-3.20472",
+    "geom:latitude":-3.20472,
+    "geom:longitude":31.59972,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"2505",
+    "gn:admin3_code":"2505153",
+    "gn:asciiname":"Diobahika",
+    "gn:country_code":"TZ",
+    "gn:dem":1190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160210,
+    "gn:latitude":-3.20472,
+    "gn:longitude":31.59972,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Diobahika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diabohika",
+        "Diobahika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679761,
+        1108693171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160210
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"b0be5be5d381151a0e2026feda95e195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693171,
+            "locality_id":1343309351,
+            "region_id":85679761
+        }
+    ],
+    "wof:id":1343309351,
+    "wof:lastmodified":1537710055,
+    "wof:name":"Diobahika",
+    "wof:parent_id":1108693171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.59972,
+    -3.20472,
+    31.59972,
+    -3.20472
+],
+  "geometry": {"coordinates":[31.59972,-3.20472],"type":"Point"}
+}

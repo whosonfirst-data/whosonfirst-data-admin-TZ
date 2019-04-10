@@ -1,0 +1,73 @@
+{
+  "id": 1276233875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.86667,-7.71667,35.86667,-7.71667",
+    "geom:latitude":-7.71667,
+    "geom:longitude":35.86667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1104",
+    "gn:admin3_code":"1104021",
+    "gn:asciiname":"Morogoro",
+    "gn:country_code":"TZ",
+    "gn:dem":1450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153219,
+    "gn:latitude":-7.71667,
+    "gn:longitude":35.86667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Morogoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Morogore",
+        "Morogoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679711,
+        1108693001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153219
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"86fa4c42f414f73780200a38bf448af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693001,
+            "locality_id":1276233875,
+            "region_id":85679711
+        }
+    ],
+    "wof:id":1276233875,
+    "wof:lastmodified":1537710013,
+    "wof:name":"Morogoro",
+    "wof:parent_id":1108693001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.86667,
+    -7.71667,
+    35.86667,
+    -7.71667
+],
+  "geometry": {"coordinates":[35.86667,-7.71667],"type":"Point"}
+}

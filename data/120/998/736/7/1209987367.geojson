@@ -1,0 +1,74 @@
+{
+  "id": 1209987367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91667,-10.55,35.91667,-10.55",
+    "geom:latitude":-10.55,
+    "geom:longitude":35.91667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1005",
+    "gn:admin3_code":"1005131",
+    "gn:asciiname":"Njuga",
+    "gn:country_code":"TZ",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877489,
+    "gn:latitude":-10.55,
+    "gn:longitude":35.91667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Njuga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Njunga",
+        "Njuga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679723,
+        1108692993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877489,
+        "wk:page":"Njuga"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"b4d520cda8425693f15ccd97e609f374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692993,
+            "locality_id":1209987367,
+            "region_id":85679723
+        }
+    ],
+    "wof:id":1209987367,
+    "wof:lastmodified":1537710062,
+    "wof:name":"Njuga",
+    "wof:parent_id":1108692993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91667,
+    -10.55,
+    35.91667,
+    -10.55
+],
+  "geometry": {"coordinates":[35.91667,-10.55],"type":"Point"}
+}

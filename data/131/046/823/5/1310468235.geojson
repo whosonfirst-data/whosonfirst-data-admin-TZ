@@ -1,0 +1,69 @@
+{
+  "id": 1310468235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.46667,-5.46667,38.46667,-5.46667",
+    "geom:latitude":-5.46667,
+    "geom:longitude":38.46667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0406",
+    "gn:admin3_code":"0406131",
+    "gn:asciiname":"Daura kwa Maweta",
+    "gn:country_code":"TZ",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160252,
+    "gn:latitude":-5.46667,
+    "gn:longitude":38.46667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Daura kwa Maweta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679747,
+        1108692923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160252
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"95cf76a994ceffd33f136a0f3abb33da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692923,
+            "locality_id":1310468235,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":1310468235,
+    "wof:lastmodified":1536970428,
+    "wof:name":"Daura kwa Maweta",
+    "wof:parent_id":1108692923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.46667,
+    -5.46667,
+    38.46667,
+    -5.46667
+],
+  "geometry": {"coordinates":[38.46667,-5.46667],"type":"Point"}
+}

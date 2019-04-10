@@ -1,0 +1,69 @@
+{
+  "id": 1310588359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.05,-2.55,33.05,-2.55",
+    "geom:latitude":-2.55,
+    "geom:longitude":33.05,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"1902",
+    "gn:admin3_code":"1902013",
+    "gn:asciiname":"Uita",
+    "gn:country_code":"TZ",
+    "gn:dem":1281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149313,
+    "gn:latitude":-2.55,
+    "gn:longitude":33.05,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Uita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679655,
+        1108693105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149313
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"e587fcd7d9f217fc44bb966c98aece53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693105,
+            "locality_id":1310588359,
+            "region_id":85679655
+        }
+    ],
+    "wof:id":1310588359,
+    "wof:lastmodified":1536797619,
+    "wof:name":"Uita",
+    "wof:parent_id":1108693105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.05,
+    -2.55,
+    33.05,
+    -2.55
+],
+  "geometry": {"coordinates":[33.05,-2.55],"type":"Point"}
+}

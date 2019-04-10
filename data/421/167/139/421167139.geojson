@@ -1,0 +1,84 @@
+{
+  "id": 421167139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.93333,-10.06667,38.93333,-10.06667",
+    "geom:latitude":-10.06667,
+    "geom:longitude":38.93333,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:swa_x_preferred":[
+        "Ruangwa"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":877433,
+    "qs:gn_pop":11095,
+    "qs:name":"Ruangwa",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Lindi",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":129809,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1449135,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":105,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679713,
+        1108692965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877433,
+        "gp:id":1449135,
+        "qs:id":129809,
+        "wd:id":"Q7375725"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459008720,
+    "wof:geomhash":"478e3d49bd66e901280bc8ba0d39a8d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692965,
+            "locality_id":421167139,
+            "region_id":85679713
+        }
+    ],
+    "wof:id":421167139,
+    "wof:lastmodified":1527716158,
+    "wof:name":"Ruangwa",
+    "wof:parent_id":1108692965,
+    "wof:placetype":"locality",
+    "wof:population":11095,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.93333,
+    -10.06667,
+    38.93333,
+    -10.06667
+],
+  "geometry": {"coordinates":[38.93333,-10.06667],"type":"Point"}
+}

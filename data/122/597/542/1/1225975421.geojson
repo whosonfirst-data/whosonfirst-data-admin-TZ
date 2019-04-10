@@ -1,0 +1,63 @@
+{
+  "id": 1225975421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.48333,-2.48333,33.48333,-2.48333",
+    "geom:latitude":-2.48333,
+    "geom:longitude":33.48333,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Missingwi",
+    "gn:country_code":"TZ",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153760,
+    "gn:latitude":-2.48333,
+    "gn:longitude":33.48333,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Missingwi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153760
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"e9e9cdc9e8607c97838c4458d68f2d53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1225975421,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225975421,
+    "wof:lastmodified":1536825656,
+    "wof:name":"Missingwi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.48333,
+    -2.48333,
+    33.48333,
+    -2.48333
+],
+  "geometry": {"coordinates":[33.48333,-2.48333],"type":"Point"}
+}

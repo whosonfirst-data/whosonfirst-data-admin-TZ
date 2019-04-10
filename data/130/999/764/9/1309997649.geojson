@@ -1,0 +1,69 @@
+{
+  "id": 1309997649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.7,-10.25,38.7,-10.25",
+    "geom:latitude":-10.25,
+    "geom:longitude":38.7,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0803",
+    "gn:admin3_code":"0803031",
+    "gn:asciiname":"Ruponda",
+    "gn:country_code":"TZ",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877423,
+    "gn:latitude":-10.25,
+    "gn:longitude":38.7,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ruponda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679713,
+        1108692959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877423
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"c2e85946da4d57eede8ec5a0d473c004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692959,
+            "locality_id":1309997649,
+            "region_id":85679713
+        }
+    ],
+    "wof:id":1309997649,
+    "wof:lastmodified":1536654667,
+    "wof:name":"Ruponda",
+    "wof:parent_id":1108692959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.7,
+    -10.25,
+    38.7,
+    -10.25
+],
+  "geometry": {"coordinates":[38.7,-10.25],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209117871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.78333,-6.36667,36.78333,-6.36667",
+    "geom:latitude":-6.36667,
+    "geom:longitude":36.78333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0103",
+    "gn:admin3_code":"0103221",
+    "gn:asciiname":"Mbagilwa",
+    "gn:country_code":"TZ",
+    "gn:dem":1836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":154447,
+    "gn:latitude":-6.36667,
+    "gn:longitude":36.78333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mbagilwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154447
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"9b68f7672d18c9e9e8a2d3c8d0fbe6fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209117871
+        }
+    ],
+    "wof:id":1209117871,
+    "wof:lastmodified":1536297198,
+    "wof:name":"Mbagilwa",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.78333,
+    -6.36667,
+    36.78333,
+    -6.36667
+],
+  "geometry": {"coordinates":[36.78333,-6.36667],"type":"Point"}
+}

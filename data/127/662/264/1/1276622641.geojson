@@ -1,0 +1,69 @@
+{
+  "id": 1276622641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.28333,-8.56667,32.28333,-8.56667",
+    "geom:latitude":-8.56667,
+    "geom:longitude":32.28333,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1502",
+    "gn:admin3_code":"1502111",
+    "gn:asciiname":"Sangama",
+    "gn:country_code":"TZ",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150251,
+    "gn:latitude":-8.56667,
+    "gn:longitude":32.28333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Sangama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679645,
+        1108693051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150251
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"4f7945f9bd65fff035fc0d9cc54f6d4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693051,
+            "locality_id":1276622641,
+            "region_id":85679645
+        }
+    ],
+    "wof:id":1276622641,
+    "wof:lastmodified":1536888036,
+    "wof:name":"Sangama",
+    "wof:parent_id":1108693051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.28333,
+    -8.56667,
+    32.28333,
+    -8.56667
+],
+  "geometry": {"coordinates":[32.28333,-8.56667],"type":"Point"}
+}

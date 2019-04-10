@@ -1,0 +1,67 @@
+{
+  "id": 1209521731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.8,-7.9,35.8,-7.9",
+    "geom:latitude":-7.9,
+    "geom:longitude":35.8,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1101",
+    "gn:admin3_code":"1101061",
+    "gn:asciiname":"Ihimbu",
+    "gn:country_code":"TZ",
+    "gn:dem":1679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159343,
+    "gn:latitude":-7.9,
+    "gn:longitude":35.8,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ihimbu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ihimbe",
+        "Ihimbu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159343
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"81800d8f01715a347aa57c039f377921",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209521731
+        }
+    ],
+    "wof:id":1209521731,
+    "wof:lastmodified":1537710051,
+    "wof:name":"Ihimbu",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.8,
+    -7.9,
+    35.8,
+    -7.9
+],
+  "geometry": {"coordinates":[35.8,-7.9],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293067749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.6,-3.86667,36.6,-3.86667",
+    "geom:latitude":-3.86667,
+    "geom:longitude":36.6,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"2104",
+    "gn:admin3_code":"2104051",
+    "gn:asciiname":"Terrat",
+    "gn:country_code":"TZ",
+    "gn:dem":1388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149528,
+    "gn:latitude":-3.86667,
+    "gn:longitude":36.6,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Terrat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Terat",
+        "Terrat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679733,
+        421178387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149528,
+        "wk:page":"Terrat"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"c7c2fbd01752e143bcb49c124bb6ad66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421178387,
+            "locality_id":1293067749,
+            "region_id":85679733
+        }
+    ],
+    "wof:id":1293067749,
+    "wof:lastmodified":1537709993,
+    "wof:name":"Terrat",
+    "wof:parent_id":421178387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.6,
+    -3.86667,
+    36.6,
+    -3.86667
+],
+  "geometry": {"coordinates":[36.6,-3.86667],"type":"Point"}
+}

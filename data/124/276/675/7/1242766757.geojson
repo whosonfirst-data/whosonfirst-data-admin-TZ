@@ -1,0 +1,69 @@
+{
+  "id": 1242766757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.16667,-6.83333,38.16667,-6.83333",
+    "geom:latitude":-6.83333,
+    "geom:longitude":38.16667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0502",
+    "gn:admin3_code":"0502121",
+    "gn:asciiname":"Lukosi",
+    "gn:country_code":"TZ",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155654,
+    "gn:latitude":-6.83333,
+    "gn:longitude":38.16667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Lukosi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        421193165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155654
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"92830f1bdf11bfe11ea6694ad4f66145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421193165,
+            "locality_id":1242766757,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1242766757,
+    "wof:lastmodified":1536791582,
+    "wof:name":"Lukosi",
+    "wof:parent_id":421193165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.16667,
+    -6.83333,
+    38.16667,
+    -6.83333
+],
+  "geometry": {"coordinates":[38.16667,-6.83333],"type":"Point"}
+}

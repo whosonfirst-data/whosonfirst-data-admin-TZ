@@ -1,0 +1,74 @@
+{
+  "id": 1293731599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.55,-4.36667,35.55,-4.36667",
+    "geom:latitude":-4.36667,
+    "geom:longitude":35.55,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"2102",
+    "gn:admin3_code":"2102121",
+    "gn:asciiname":"Masekaroda",
+    "gn:country_code":"TZ",
+    "gn:dem":1629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":154709,
+    "gn:latitude":-4.36667,
+    "gn:longitude":35.55,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Masekaroda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Masakaloda",
+        "Masagaloda",
+        "Masekaroda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679733,
+        421171039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154709
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"fe4ba746fa5c35bc144aed8aae0b7d7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421171039,
+            "locality_id":1293731599,
+            "region_id":85679733
+        }
+    ],
+    "wof:id":1293731599,
+    "wof:lastmodified":1537710022,
+    "wof:name":"Masekaroda",
+    "wof:parent_id":421171039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.55,
+    -4.36667,
+    35.55,
+    -4.36667
+],
+  "geometry": {"coordinates":[35.55,-4.36667],"type":"Point"}
+}

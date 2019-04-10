@@ -1,0 +1,70 @@
+{
+  "id": 1344250907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.86667,-6.26667,36.86667,-6.26667",
+    "geom:latitude":-6.26667,
+    "geom:longitude":36.86667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0507",
+    "gn:admin3_code":"0507071",
+    "gn:asciiname":"Rubeho",
+    "gn:country_code":"TZ",
+    "gn:dem":1406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150513,
+    "gn:latitude":-6.26667,
+    "gn:longitude":36.86667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Rubeho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        1108692943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150513,
+        "wk:page":"Rubeho"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"be0daed1b76d761678947b07502072ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692943,
+            "locality_id":1344250907,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1344250907,
+    "wof:lastmodified":1537574846,
+    "wof:name":"Rubeho",
+    "wof:parent_id":1108692943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.86667,
+    -6.26667,
+    36.86667,
+    -6.26667
+],
+  "geometry": {"coordinates":[36.86667,-6.26667],"type":"Point"}
+}

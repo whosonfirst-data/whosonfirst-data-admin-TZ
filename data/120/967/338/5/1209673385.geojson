@@ -1,0 +1,63 @@
+{
+  "id": 1209673385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.35,-7.55,31.35,-7.55",
+    "geom:latitude":-7.55,
+    "geom:longitude":31.35,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1503",
+    "gn:admin3_code":"1503031",
+    "gn:asciiname":"Kitete",
+    "gn:country_code":"TZ",
+    "gn:dem":1715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156815,
+    "gn:latitude":-7.55,
+    "gn:longitude":31.35,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kitete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156815
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"c86fc8efae5b22003bbf81ea939d2c75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209673385
+        }
+    ],
+    "wof:id":1209673385,
+    "wof:lastmodified":1536279840,
+    "wof:name":"Kitete",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.35,
+    -7.55,
+    31.35,
+    -7.55
+],
+  "geometry": {"coordinates":[31.35,-7.55],"type":"Point"}
+}

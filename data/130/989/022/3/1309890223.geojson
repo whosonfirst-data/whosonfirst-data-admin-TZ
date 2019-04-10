@@ -1,0 +1,74 @@
+{
+  "id": 1309890223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.56667,-8.96667,32.56667,-8.96667",
+    "geom:latitude":-8.96667,
+    "geom:longitude":32.56667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1209",
+    "gn:admin3_code":"1209071",
+    "gn:asciiname":"Msangano",
+    "gn:country_code":"TZ",
+    "gn:dem":1001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153038,
+    "gn:latitude":-8.96667,
+    "gn:longitude":32.56667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Msangano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Musangano",
+        "Msangano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679641,
+        1108693019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153038,
+        "wk:page":"Msangano"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"ef8011dd9c21ad63241321c7884485f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693019,
+            "locality_id":1309890223,
+            "region_id":85679641
+        }
+    ],
+    "wof:id":1309890223,
+    "wof:lastmodified":1537710012,
+    "wof:name":"Msangano",
+    "wof:parent_id":1108693019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.56667,
+    -8.96667,
+    32.56667,
+    -8.96667
+],
+  "geometry": {"coordinates":[32.56667,-8.96667],"type":"Point"}
+}

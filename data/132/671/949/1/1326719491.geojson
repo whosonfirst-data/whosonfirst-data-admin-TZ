@@ -1,0 +1,69 @@
+{
+  "id": 1326719491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.75,-6.45,36.75,-6.45",
+    "geom:latitude":-6.45,
+    "geom:longitude":36.75,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0507",
+    "gn:admin3_code":"0507101",
+    "gn:asciiname":"Mkumburu",
+    "gn:country_code":"TZ",
+    "gn:dem":1124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153510,
+    "gn:latitude":-6.45,
+    "gn:longitude":36.75,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mkumburu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        1108692943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153510
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"65c7e7c80eb8c8b76bb3e14d21eead78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692943,
+            "locality_id":1326719491,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1326719491,
+    "wof:lastmodified":1536714462,
+    "wof:name":"Mkumburu",
+    "wof:parent_id":1108692943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.75,
+    -6.45,
+    36.75,
+    -6.45
+],
+  "geometry": {"coordinates":[36.75,-6.45],"type":"Point"}
+}

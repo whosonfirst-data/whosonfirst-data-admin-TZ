@@ -1,0 +1,68 @@
+{
+  "id": 1326777083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.66667,-8.61667,34.66667,-8.61667",
+    "geom:latitude":-8.61667,
+    "geom:longitude":34.66667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Igawilo",
+    "gn:country_code":"TZ",
+    "gn:dem":1272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159437,
+    "gn:latitude":-8.61667,
+    "gn:longitude":34.66667,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Igawilo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679641,
+        1108693015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159437,
+        "wk:page":"Igawilo"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"4e3946e1f3dd1fb31035089b71dc1c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693015,
+            "locality_id":1326777083,
+            "region_id":85679641
+        }
+    ],
+    "wof:id":1326777083,
+    "wof:lastmodified":1537574860,
+    "wof:name":"Igawilo",
+    "wof:parent_id":1108693015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.66667,
+    -8.61667,
+    34.66667,
+    -8.61667
+],
+  "geometry": {"coordinates":[34.66667,-8.61667],"type":"Point"}
+}

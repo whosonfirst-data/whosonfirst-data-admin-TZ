@@ -1,0 +1,79 @@
+{
+  "id": 421176899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2,-2.55,33.2,-2.55",
+    "geom:latitude":-2.55,
+    "geom:longitude":33.2,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":151062,
+    "qs:gn_pop":10746,
+    "qs:name":"Nyanguge",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Mwanza",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1090086,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1448867,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679655,
+        1108693105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151062,
+        "gp:id":1448867,
+        "qs:id":1090086
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009123,
+    "wof:geomhash":"c229beacf8e1d7e9d5d6695927905fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693105,
+            "locality_id":421176899,
+            "region_id":85679655
+        }
+    ],
+    "wof:id":421176899,
+    "wof:lastmodified":1505340630,
+    "wof:name":"Nyanguge",
+    "wof:parent_id":1108693105,
+    "wof:placetype":"locality",
+    "wof:population":10746,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2,
+    -2.55,
+    33.2,
+    -2.55
+],
+  "geometry": {"coordinates":[33.2,-2.55],"type":"Point"}
+}

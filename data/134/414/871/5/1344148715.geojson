@@ -1,0 +1,67 @@
+{
+  "id": 1344148715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.96667,-9.83333,36.96667,-9.83333",
+    "geom:latitude":-9.83333,
+    "geom:longitude":36.96667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Rutumbo",
+    "gn:country_code":"TZ",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150380,
+    "gn:latitude":-9.83333,
+    "gn:longitude":36.96667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Rutumbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679723,
+        1108692993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150380
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"f3fe0d004666da4912a76ed36fd96505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692993,
+            "locality_id":1344148715,
+            "region_id":85679723
+        }
+    ],
+    "wof:id":1344148715,
+    "wof:lastmodified":1536748094,
+    "wof:name":"Rutumbo",
+    "wof:parent_id":1108692993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.96667,
+    -9.83333,
+    36.96667,
+    -9.83333
+],
+  "geometry": {"coordinates":[36.96667,-9.83333],"type":"Point"}
+}

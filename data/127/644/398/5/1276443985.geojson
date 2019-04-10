@@ -1,0 +1,72 @@
+{
+  "id": 1276443985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.36338,-7.18416,36.36338,-7.18416",
+    "geom:latitude":-7.18416,
+    "geom:longitude":36.36338,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0102",
+    "gn:admin3_code":"0102091",
+    "gn:asciiname":"Ipera",
+    "gn:country_code":"TZ",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159114,
+    "gn:latitude":-7.18416,
+    "gn:longitude":36.36338,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ipera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ipera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679705,
+        1108692893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159114
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"c34924e4ed588c3cbeb9a24bad5fccbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692893,
+            "locality_id":1276443985,
+            "region_id":85679705
+        }
+    ],
+    "wof:id":1276443985,
+    "wof:lastmodified":1537710049,
+    "wof:name":"Ipera",
+    "wof:parent_id":1108692893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.36338,
+    -7.18416,
+    36.36338,
+    -7.18416
+],
+  "geometry": {"coordinates":[36.36338,-7.18416],"type":"Point"}
+}

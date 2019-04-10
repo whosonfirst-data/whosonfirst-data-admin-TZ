@@ -1,0 +1,63 @@
+{
+  "id": 1209604839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.53959,-9.17099,33.53959,-9.17099",
+    "geom:latitude":-9.17099,
+    "geom:longitude":33.53959,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1204",
+    "gn:admin3_code":"1204293",
+    "gn:asciiname":"Rungwe",
+    "gn:country_code":"TZ",
+    "gn:dem":1372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9412883,
+    "gn:latitude":-9.17099,
+    "gn:longitude":33.53959,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Rungwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9412883
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"e8b3ddb128df1ad71445d88d106087f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209604839
+        }
+    ],
+    "wof:id":1209604839,
+    "wof:lastmodified":1536282046,
+    "wof:name":"Rungwe",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.539590000000004,
+    -9.17099,
+    33.539590000000004,
+    -9.17099
+],
+  "geometry": {"coordinates":[33.53959,-9.17099],"type":"Point"}
+}

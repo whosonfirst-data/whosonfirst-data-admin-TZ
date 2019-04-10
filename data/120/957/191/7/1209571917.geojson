@@ -1,0 +1,61 @@
+{
+  "id": 1209571917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.23333,-6.05,39.23333,-6.05",
+    "geom:latitude":-6.05,
+    "geom:longitude":39.23333,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Selem Mbuyuni",
+    "gn:country_code":"TZ",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150134,
+    "gn:latitude":-6.05,
+    "gn:longitude":39.23333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Selem Mbuyuni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150134
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"17042e5061812387a4a737cd9422bf6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209571917
+        }
+    ],
+    "wof:id":1209571917,
+    "wof:lastmodified":1536283057,
+    "wof:name":"Selem Mbuyuni",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.23333,
+    -6.05,
+    39.23333,
+    -6.05
+],
+  "geometry": {"coordinates":[39.23333,-6.05],"type":"Point"}
+}

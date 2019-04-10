@@ -1,0 +1,75 @@
+{
+  "id": 1327322661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.91516,-7.79199,36.91516,-7.79199",
+    "geom:latitude":-7.79199,
+    "geom:longitude":36.91516,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0503",
+    "gn:admin3_code":"0503021",
+    "gn:asciiname":"Sonjo",
+    "gn:country_code":"TZ",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150237,
+    "gn:latitude":-7.79199,
+    "gn:longitude":36.91516,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Sonjo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sonjo"
+    ],
+    "name:eng_x_variant":[
+        "Sanje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        1108692935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150237
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"ffea79eab40ff849781d107eef8bb010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692935,
+            "locality_id":1327322661,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1327322661,
+    "wof:lastmodified":1537709996,
+    "wof:name":"Sonjo",
+    "wof:parent_id":1108692935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.91516,
+    -7.79199,
+    36.91516,
+    -7.79199
+],
+  "geometry": {"coordinates":[36.91516,-7.79199],"type":"Point"}
+}

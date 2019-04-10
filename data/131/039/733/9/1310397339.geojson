@@ -1,0 +1,61 @@
+{
+  "id": 1310397339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.6,-9.41667,39.6,-9.41667",
+    "geom:latitude":-9.41667,
+    "geom:longitude":39.6,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Rushungi",
+    "gn:country_code":"TZ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150391,
+    "gn:latitude":-9.41667,
+    "gn:longitude":39.6,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Rushungi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150391
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"f987bb8bdec4936182a4462f22c9e7a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310397339,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310397339,
+    "wof:lastmodified":1537070020,
+    "wof:name":"Rushungi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.6,
+    -9.41667,
+    39.6,
+    -9.41667
+],
+  "geometry": {"coordinates":[39.6,-9.41667],"type":"Point"}
+}

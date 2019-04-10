@@ -1,0 +1,69 @@
+{
+  "id": 1343240305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.16667,-10.26667,40.16667,-10.26667",
+    "geom:latitude":-10.26667,
+    "geom:longitude":40.16667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0905",
+    "gn:admin3_code":"0905052",
+    "gn:asciiname":"Misete",
+    "gn:country_code":"TZ",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877918,
+    "gn:latitude":-10.26667,
+    "gn:longitude":40.16667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Misete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679717,
+        1108692977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877918
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"5bc7e99a806d39abb9a41895a56ee2d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692977,
+            "locality_id":1343240305,
+            "region_id":85679717
+        }
+    ],
+    "wof:id":1343240305,
+    "wof:lastmodified":1537061385,
+    "wof:name":"Misete",
+    "wof:parent_id":1108692977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.16667,
+    -10.26667,
+    40.16667,
+    -10.26667
+],
+  "geometry": {"coordinates":[40.16667,-10.26667],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 421196815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.85,-4.55,34.85,-4.55",
+    "geom:latitude":-4.55,
+    "geom:longitude":34.85,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041c\u0442\u0438\u043d\u043a\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Mtinko"
+    ],
+    "name:eng_x_preferred":[
+        "Mtinko"
+    ],
+    "name:swa_x_preferred":[
+        "Mtinko"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":152781,
+    "qs:gn_pop":26725,
+    "qs:name":"Mtinko",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Singida",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1298794,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1447863,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":373,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679727,
+        1108693025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152781,
+        "gp:id":1447863,
+        "qs:id":1298794,
+        "wd:id":"Q13124290",
+        "wk:page":"Mtinko"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009894,
+    "wof:geomhash":"5024823f14542582cb5c08f0633eb917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693025,
+            "locality_id":421196815,
+            "region_id":85679727
+        }
+    ],
+    "wof:id":421196815,
+    "wof:lastmodified":1527716366,
+    "wof:name":"Mtinko",
+    "wof:parent_id":1108693025,
+    "wof:placetype":"locality",
+    "wof:population":26725,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.85,
+    -4.55,
+    34.85,
+    -4.55
+],
+  "geometry": {"coordinates":[34.85,-4.55],"type":"Point"}
+}

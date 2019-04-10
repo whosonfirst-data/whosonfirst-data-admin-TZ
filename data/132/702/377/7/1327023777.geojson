@@ -1,0 +1,73 @@
+{
+  "id": 1327023777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.81667,-6.88333,37.81667,-6.88333",
+    "geom:latitude":-6.88333,
+    "geom:longitude":37.81667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0502",
+    "gn:admin3_code":"0502161",
+    "gn:asciiname":"Mfumbwe",
+    "gn:country_code":"TZ",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":154114,
+    "gn:latitude":-6.88333,
+    "gn:longitude":37.81667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mfumbwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umfumowe",
+        "Mfumbwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        421193165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154114
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"3a3dd1744096acecea2f29bc7043e208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421193165,
+            "locality_id":1327023777,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1327023777,
+    "wof:lastmodified":1537710018,
+    "wof:name":"Mfumbwe",
+    "wof:parent_id":421193165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.81667,
+    -6.88333,
+    37.81667,
+    -6.88333
+],
+  "geometry": {"coordinates":[37.81667,-6.88333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360206129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.86667,-9.66667,37.86667,-9.66667",
+    "geom:latitude":-9.66667,
+    "geom:longitude":37.86667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0804",
+    "gn:admin3_code":"0804061",
+    "gn:asciiname":"Mkata",
+    "gn:country_code":"TZ",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153628,
+    "gn:latitude":-9.66667,
+    "gn:longitude":37.86667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mkata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makata",
+        "Mkata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679713,
+        1108692961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153628
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"ffb1c46bdbfdec96a705dc10d0e5a9b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692961,
+            "locality_id":1360206129,
+            "region_id":85679713
+        }
+    ],
+    "wof:id":1360206129,
+    "wof:lastmodified":1537710016,
+    "wof:name":"Mkata",
+    "wof:parent_id":1108692961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.86667,
+    -9.66667,
+    37.86667,
+    -9.66667
+],
+  "geometry": {"coordinates":[37.86667,-9.66667],"type":"Point"}
+}

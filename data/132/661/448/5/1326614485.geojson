@@ -1,0 +1,69 @@
+{
+  "id": 1326614485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2,-8.68333,33.2,-8.68333",
+    "geom:latitude":-8.68333,
+    "geom:longitude":33.2,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1201",
+    "gn:admin3_code":"1201241",
+    "gn:asciiname":"Vwembi",
+    "gn:country_code":"TZ",
+    "gn:dem":947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148940,
+    "gn:latitude":-8.68333,
+    "gn:longitude":33.2,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Vwembi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679641,
+        1108693005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148940
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"89f609376d237742dd59adc390c917a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693005,
+            "locality_id":1326614485,
+            "region_id":85679641
+        }
+    ],
+    "wof:id":1326614485,
+    "wof:lastmodified":1536864137,
+    "wof:name":"Vwembi",
+    "wof:parent_id":1108693005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2,
+    -8.68333,
+    33.2,
+    -8.68333
+],
+  "geometry": {"coordinates":[33.2,-8.68333],"type":"Point"}
+}

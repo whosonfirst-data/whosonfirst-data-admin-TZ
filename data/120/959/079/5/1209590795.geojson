@@ -1,0 +1,68 @@
+{
+  "id": 1209590795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.38528,-3.11722,31.38528,-3.11722",
+    "geom:latitude":-3.11722,
+    "geom:longitude":31.38528,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1804",
+    "gn:admin3_code":"1804111",
+    "gn:asciiname":"Nyanatakara",
+    "gn:cc2":"TZ",
+    "gn:country_code":"TZ",
+    "gn:dem":1272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151044,
+    "gn:latitude":-3.11722,
+    "gn:longitude":31.38528,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nyanatakara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyantakara",
+        "Nyanatakara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151044
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"f1250a5d176446e146649dd8a1dea052",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209590795
+        }
+    ],
+    "wof:id":1209590795,
+    "wof:lastmodified":1537710001,
+    "wof:name":"Nyanatakara",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.38528,
+    -3.11722,
+    31.38528,
+    -3.11722
+],
+  "geometry": {"coordinates":[31.38528,-3.11722],"type":"Point"}
+}

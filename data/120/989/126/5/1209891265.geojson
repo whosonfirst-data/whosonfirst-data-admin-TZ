@@ -1,0 +1,73 @@
+{
+  "id": 1209891265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.85,-1.15,31.85,-1.15",
+    "geom:latitude":-1.15,
+    "geom:longitude":31.85,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1802",
+    "gn:admin3_code":"1802031",
+    "gn:asciiname":"Kishanje",
+    "gn:country_code":"TZ",
+    "gn:dem":1246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156964,
+    "gn:latitude":-1.15,
+    "gn:longitude":31.85,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kishanje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kishanji",
+        "Kishanje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156964
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"670d98bc1cbf32d8a7941ca04289844f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693087,
+            "locality_id":1209891265,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1209891265,
+    "wof:lastmodified":1537710035,
+    "wof:name":"Kishanje",
+    "wof:parent_id":1108693087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.85,
+    -1.15,
+    31.85,
+    -1.15
+],
+  "geometry": {"coordinates":[31.85,-1.15],"type":"Point"}
+}

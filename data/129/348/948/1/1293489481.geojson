@@ -1,0 +1,72 @@
+{
+  "id": 1293489481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.38628,-7.01378,36.38628,-7.01378",
+    "geom:latitude":-7.01378,
+    "geom:longitude":36.38628,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0102",
+    "gn:admin3_code":"0102081",
+    "gn:asciiname":"Winza",
+    "gn:country_code":"TZ",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":148818,
+    "gn:latitude":-7.01378,
+    "gn:longitude":36.38628,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Winza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Winza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679705,
+        1108692893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":148818
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"18572c261400578feed42f53b0af3b76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692893,
+            "locality_id":1293489481,
+            "region_id":85679705
+        }
+    ],
+    "wof:id":1293489481,
+    "wof:lastmodified":1537709989,
+    "wof:name":"Winza",
+    "wof:parent_id":1108692893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.38628,
+    -7.01378,
+    36.38628,
+    -7.01378
+],
+  "geometry": {"coordinates":[36.38628,-7.01378],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243196485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7,-8.26667,35.7,-8.26667",
+    "geom:latitude":-8.26667,
+    "geom:longitude":35.7,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1102",
+    "gn:admin3_code":"1102231",
+    "gn:asciiname":"Umbamba",
+    "gn:country_code":"TZ",
+    "gn:dem":1921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149212,
+    "gn:latitude":-8.26667,
+    "gn:longitude":35.7,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Umbamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ubamba",
+        "Umbamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679711,
+        1108692997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149212
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"9bd5dbfec476ebbab429840478ca3569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692997,
+            "locality_id":1243196485,
+            "region_id":85679711
+        }
+    ],
+    "wof:id":1243196485,
+    "wof:lastmodified":1537709991,
+    "wof:name":"Umbamba",
+    "wof:parent_id":1108692997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7,
+    -8.26667,
+    35.7,
+    -8.26667
+],
+  "geometry": {"coordinates":[35.7,-8.26667],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1276287757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.41667,-6.05,39.41667,-6.05",
+    "geom:latitude":-6.05,
+    "geom:longitude":39.41667,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mdudu Mkubwa",
+    "gn:country_code":"TZ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":154180,
+    "gn:latitude":-6.05,
+    "gn:longitude":39.41667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mdudu Mkubwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiwengwa",
+        "Mdodo Mkubwa",
+        "Mdudu Mkubwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154180
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"4b879e7812614ac6d92b04a9c3110cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276287757,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276287757,
+    "wof:lastmodified":1537710019,
+    "wof:name":"Mdudu Mkubwa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.41667,
+    -6.05,
+    39.41667,
+    -6.05
+],
+  "geometry": {"coordinates":[39.41667,-6.05],"type":"Point"}
+}

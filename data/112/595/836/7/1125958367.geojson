@@ -1,0 +1,81 @@
+{
+  "id": 1125958367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03658,-7.6766,36.03658,-7.6766",
+    "geom:latitude":-7.6766,
+    "geom:longitude":36.03658,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":29193,
+    "gn:population":29193,
+    "iso:country":"TZ",
+    "lbl:latitude":-7.6766,
+    "lbl:longitude":36.03658,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Ilula"
+    ],
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":159179,
+    "qs_pg:gn_pop":29193,
+    "qs_pg:name":"Ilula",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":68857,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679711,
+        1108693001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159179,
+        "qs_pg:id":68857
+    },
+    "wof:country":"TZ",
+    "wof:created":1497297698,
+    "wof:geomhash":"a6b5427bb9d97b458dea8e5fbfb5c088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693001,
+            "locality_id":1125958367,
+            "region_id":85679711
+        }
+    ],
+    "wof:id":1125958367,
+    "wof:lastmodified":1509403134,
+    "wof:name":"Ilula",
+    "wof:parent_id":1108693001,
+    "wof:placetype":"locality",
+    "wof:population":29193,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03658,
+    -7.6766,
+    36.03658,
+    -7.6766
+],
+  "geometry": {"coordinates":[36.03658,-7.6766],"type":"Point"}
+}

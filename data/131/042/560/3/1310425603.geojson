@@ -1,0 +1,69 @@
+{
+  "id": 1310425603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.58333,-2.13333,33.58333,-2.13333",
+    "geom:latitude":-2.13333,
+    "geom:longitude":33.58333,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"2004",
+    "gn:admin3_code":"2004231",
+    "gn:asciiname":"Ragata",
+    "gn:country_code":"TZ",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150597,
+    "gn:latitude":-2.13333,
+    "gn:longitude":33.58333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ragata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679743,
+        421187953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150597
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"4d0ad4dc17d00e77ddb04b3db137e6eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187953,
+            "locality_id":1310425603,
+            "region_id":85679743
+        }
+    ],
+    "wof:id":1310425603,
+    "wof:lastmodified":1537030957,
+    "wof:name":"Ragata",
+    "wof:parent_id":421187953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.58333,
+    -2.13333,
+    33.58333,
+    -2.13333
+],
+  "geometry": {"coordinates":[33.58333,-2.13333],"type":"Point"}
+}

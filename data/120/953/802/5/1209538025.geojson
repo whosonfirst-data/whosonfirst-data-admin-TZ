@@ -1,0 +1,67 @@
+{
+  "id": 1209538025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.95,-1.9,33.95,-1.9",
+    "geom:latitude":-1.9,
+    "geom:longitude":33.95,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"2007",
+    "gn:admin3_code":"2007091",
+    "gn:asciiname":"Kwigutu",
+    "gn:country_code":"TZ",
+    "gn:dem":1347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156141,
+    "gn:latitude":-1.9,
+    "gn:longitude":33.95,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kwigutu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwiguta",
+        "Kwigutu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156141
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"bbe216b0039fdeffdf3c250b3cdcafc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209538025
+        }
+    ],
+    "wof:id":1209538025,
+    "wof:lastmodified":1537710030,
+    "wof:name":"Kwigutu",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.95,
+    -1.9,
+    33.95,
+    -1.9
+],
+  "geometry": {"coordinates":[33.95,-1.9],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209388137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.56667,-3.66667,32.56667,-3.66667",
+    "geom:latitude":-3.66667,
+    "geom:longitude":32.56667,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1704",
+    "gn:admin3_code":"1704081",
+    "gn:asciiname":"Busangi",
+    "gn:country_code":"TZ",
+    "gn:dem":1187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160841,
+    "gn:latitude":-3.66667,
+    "gn:longitude":32.56667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Busangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bussangi",
+        "Busangi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160841
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"d3712cc0c291bf28244917333f137706",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209388137
+        }
+    ],
+    "wof:id":1209388137,
+    "wof:lastmodified":1537710059,
+    "wof:name":"Busangi",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.56667,
+    -3.66667,
+    32.56667,
+    -3.66667
+],
+  "geometry": {"coordinates":[32.56667,-3.66667],"type":"Point"}
+}

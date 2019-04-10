@@ -1,0 +1,73 @@
+{
+  "id": 1193000503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.93333,-6.4,33.93333,-6.4",
+    "geom:latitude":-6.4,
+    "geom:longitude":33.93333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"1303",
+    "gn:admin3_code":"1303271",
+    "gn:asciiname":"Usuhilo",
+    "gn:country_code":"TZ",
+    "gn:dem":1471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149108,
+    "gn:latitude":-6.4,
+    "gn:longitude":33.93333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Usuhilo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Usahilo",
+        "Usuhilo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679727,
+        421186277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149108
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"10cebac77ec4ac47ec86dc9a35429232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421186277,
+            "locality_id":1193000503,
+            "region_id":85679727
+        }
+    ],
+    "wof:id":1193000503,
+    "wof:lastmodified":1537709990,
+    "wof:name":"Usuhilo",
+    "wof:parent_id":421186277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.93333,
+    -6.4,
+    33.93333,
+    -6.4
+],
+  "geometry": {"coordinates":[33.93333,-6.4],"type":"Point"}
+}

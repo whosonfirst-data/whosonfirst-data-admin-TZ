@@ -1,0 +1,190 @@
+{
+  "id": 421189835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.20264,-6.165814,39.20264,-6.165814",
+    "geom:latitude":-6.165814,
+    "geom:longitude":39.20264,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0646\u0629 \u0632\u0646\u062c\u0628\u0627\u0631 \u0627\u0644\u062d\u062c\u0631\u064a\u0629"
+    ],
+    "name:aze_x_preferred":[
+        "Stoun Taun"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u0435\u043d \u0433\u0440\u0430\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "Stone Town"
+    ],
+    "name:chi_x_preferred":[
+        "\u6851\u7ed9\u5df4\u5c14\u77f3\u5934\u57ce"
+    ],
+    "name:cze_x_preferred":[
+        "Stone Town"
+    ],
+    "name:dan_x_preferred":[
+        "Stone Town"
+    ],
+    "name:dut_x_preferred":[
+        "Stone Town"
+    ],
+    "name:eng_x_preferred":[
+        "Stone Town"
+    ],
+    "name:epo_x_preferred":[
+        "\u015ctonurbo"
+    ],
+    "name:fin_x_preferred":[
+        "Stone Town"
+    ],
+    "name:fre_x_preferred":[
+        "Stone Town"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10e2\u10dd\u10e3\u10dc-\u10e2\u10d0\u10e3\u10dc\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Stone Town"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03c4\u03cc\u03bf\u03c5\u03bd \u03a4\u03ac\u03bf\u03c5\u03bd"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d8\u05d5\u05df \u05d8\u05d0\u05d5\u05df"
+    ],
+    "name:ind_x_preferred":[
+        "Stone Town"
+    ],
+    "name:ita_x_preferred":[
+        "Stone Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b6\u30f3\u30b8\u30d0\u30eb\u5cf6\u306e\u30b9\u30c8\u30fc\u30f3\u30fb\u30bf\u30a6\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ud1a4 \ud0c0\uc6b4"
+    ],
+    "name:lit_x_preferred":[
+        "Stountaunas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4b\u0d7a \u0d1f\u0d57\u0d7a"
+    ],
+    "name:nob_x_preferred":[
+        "Steinbyen p\u00e5 Zanzibar"
+    ],
+    "name:oci_x_preferred":[
+        "Stone Town"
+    ],
+    "name:pol_x_preferred":[
+        "Stone Town"
+    ],
+    "name:por_x_preferred":[
+        "Cidade de Pedra de Zanzibar"
+    ],
+    "name:rum_x_preferred":[
+        "Stone Town"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u043d\u044b\u0439 \u0433\u043e\u0440\u043e\u0434"
+    ],
+    "name:slv_x_preferred":[
+        "Stone Town"
+    ],
+    "name:spa_x_preferred":[
+        "Stone Town"
+    ],
+    "name:swa_x_preferred":[
+        "Wilaya ya Unguja Mjini"
+    ],
+    "name:swe_x_preferred":[
+        "Zanzibars stenstad"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0428\u0430\u04b3\u0440\u0438 \u0441\u0430\u043d\u0433\u04e3"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e42\u0e15\u0e19\u0e17\u0e32\u0e27\u0e19\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Stone Town"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0679\u0648\u0646 \u0679\u0627\u0624\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u1ecb tr\u1ea5n \u0110\u00e1 Zanzibar"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Stone Town",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Zanzibar West",
+    "qs:photos":4014,
+    "qs:photos_1k":813,
+    "qs:photos_9k":18,
+    "qs:photos_9r":12,
+    "qs:photos_all":4014,
+    "qs:photos_sr":22,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1117148,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1449490,
+    "src:geom":"quattroshapes",
+    "wd:latitude":-6.164944,
+    "wd:longitude":39.198789,
+    "wd:wordcount":2874,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679699,
+        1108693173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1449490,
+        "qs:id":1117148,
+        "wd:id":"Q844417"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009638,
+    "wof:geomhash":"9c547c8ec9a707e3d8126f9d2390a1a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693173,
+            "locality_id":421189835,
+            "region_id":85679699
+        }
+    ],
+    "wof:id":421189835,
+    "wof:lastmodified":1527716265,
+    "wof:name":"Stone Town",
+    "wof:parent_id":1108693173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.20264,
+    -6.165814,
+    39.20264,
+    -6.165814
+],
+  "geometry": {"coordinates":[39.20264,-6.165814],"type":"Point"}
+}

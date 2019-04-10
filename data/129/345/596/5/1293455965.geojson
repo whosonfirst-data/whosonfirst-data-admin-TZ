@@ -1,0 +1,73 @@
+{
+  "id": 1293455965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.13333,-5.31667,38.13333,-5.31667",
+    "geom:latitude":-5.31667,
+    "geom:longitude":38.13333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0406",
+    "gn:admin3_code":"0406111",
+    "gn:asciiname":"Mabande",
+    "gn:country_code":"TZ",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155511,
+    "gn:latitude":-5.31667,
+    "gn:longitude":38.13333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mabande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nabanda",
+        "Mabande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679747,
+        1108692923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155511
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"7efbe06a9edd95e68d3882985111db1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692923,
+            "locality_id":1293455965,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":1293455965,
+    "wof:lastmodified":1537710027,
+    "wof:name":"Mabande",
+    "wof:parent_id":1108692923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.13333,
+    -5.31667,
+    38.13333,
+    -5.31667
+],
+  "geometry": {"coordinates":[38.13333,-5.31667],"type":"Point"}
+}

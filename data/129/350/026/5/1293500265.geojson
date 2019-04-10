@@ -1,0 +1,72 @@
+{
+  "id": 1293500265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.86109,-7.16784,38.86109,-7.16784",
+    "geom:latitude":-7.16784,
+    "geom:longitude":38.86109,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0603",
+    "gn:admin3_code":"0603051",
+    "gn:asciiname":"Kichangui",
+    "gn:country_code":"TZ",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7390954,
+    "gn:latitude":-7.16784,
+    "gn:longitude":38.86109,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kichangui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kichangui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        421192907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7390954
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"27a3bf42cc9f7cb8277a87b128f0cd72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421192907,
+            "locality_id":1293500265,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1293500265,
+    "wof:lastmodified":1537710071,
+    "wof:name":"Kichangui",
+    "wof:parent_id":421192907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.86109,
+    -7.16784,
+    38.86109,
+    -7.16784
+],
+  "geometry": {"coordinates":[38.86109,-7.16784],"type":"Point"}
+}

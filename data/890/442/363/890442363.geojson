@@ -1,0 +1,84 @@
+{
+  "id": 890442363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.55,-4.21667,35.55,-4.21667",
+    "geom:latitude":-4.21667,
+    "geom:longitude":35.55,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
+    "gn:pop":19876,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0414\u0430\u0440\u0435\u0434\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Dareda"
+    ],
+    "name:eng_x_preferred":[
+        "Dareda"
+    ],
+    "name:swa_x_preferred":[
+        "Dareda"
+    ],
+    "name:unk_x_variant":[
+        "Ndareda"
+    ],
+    "qs:name":"Dareda",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":86,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679733,
+        1108693123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160266,
+        "gp:id":1448443,
+        "qs:id":526410,
+        "wd:id":"Q5222492",
+        "wk:page":"Dareda"
+    },
+    "wof:country":"TZ",
+    "wof:created":1469052360,
+    "wof:geomhash":"68edc89f312f878470790d09b6ea45dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693123,
+            "locality_id":890442363,
+            "region_id":85679733
+        }
+    ],
+    "wof:id":890442363,
+    "wof:lastmodified":1527792852,
+    "wof:name":"Dareda",
+    "wof:parent_id":1108693123,
+    "wof:placetype":"locality",
+    "wof:population":19876,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.55,
+    -4.21667,
+    35.55,
+    -4.21667
+],
+  "geometry": {"coordinates":[35.55,-4.21667],"type":"Point"}
+}

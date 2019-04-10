@@ -1,0 +1,63 @@
+{
+  "id": 1209514407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.66889,-4.66,30.66889,-4.66",
+    "geom:latitude":-4.66,
+    "geom:longitude":30.66889,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1602",
+    "gn:admin3_code":"1602091",
+    "gn:asciiname":"Kagera",
+    "gn:country_code":"TZ",
+    "gn:dem":1082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158615,
+    "gn:latitude":-4.66,
+    "gn:longitude":30.66889,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Kagera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158615
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"40a7ff2f9f0fd20cdd6bb44108c2a6bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209514407
+        }
+    ],
+    "wof:id":1209514407,
+    "wof:lastmodified":1536284779,
+    "wof:name":"Kagera",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.66889,
+    -4.66,
+    30.66889,
+    -4.66
+],
+  "geometry": {"coordinates":[30.66889,-4.66],"type":"Point"}
+}

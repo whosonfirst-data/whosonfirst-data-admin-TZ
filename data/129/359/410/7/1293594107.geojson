@@ -1,0 +1,74 @@
+{
+  "id": 1293594107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4625,-4.93639,30.4625,-4.93639",
+    "geom:latitude":-4.93639,
+    "geom:longitude":30.4625,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1605",
+    "gn:admin3_code":"1605103",
+    "gn:asciiname":"Malahi",
+    "gn:cc2":"TZ",
+    "gn:country_code":"TZ",
+    "gn:dem":1057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155070,
+    "gn:latitude":-4.93639,
+    "gn:longitude":30.4625,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Malahi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marahi",
+        "Malahi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679669,
+        1108693065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155070
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"be7c3c68c33d90dc4ff79422bf3c216b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693065,
+            "locality_id":1293594107,
+            "region_id":85679669
+        }
+    ],
+    "wof:id":1293594107,
+    "wof:lastmodified":1537710024,
+    "wof:name":"Malahi",
+    "wof:parent_id":1108693065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4625,
+    -4.93639,
+    30.4625,
+    -4.93639
+],
+  "geometry": {"coordinates":[30.4625,-4.93639],"type":"Point"}
+}

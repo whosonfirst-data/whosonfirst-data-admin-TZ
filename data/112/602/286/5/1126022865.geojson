@@ -1,0 +1,78 @@
+{
+  "id": 1126022865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.50194,-3.59833,30.50194,-3.59833",
+    "geom:latitude":-3.59833,
+    "geom:longitude":30.50194,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":14140,
+    "gn:population":14140,
+    "iso:country":"TZ",
+    "lbl:latitude":-3.59833,
+    "lbl:longitude":30.50194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":155514,
+    "qs_pg:gn_pop":14140,
+    "qs_pg:name":"Mabamba",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":523484,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679669,
+        1108693059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155514,
+        "qs_pg:id":523484
+    },
+    "wof:country":"TZ",
+    "wof:created":1497300938,
+    "wof:geomhash":"863064f383109ee141975b1533b0aa0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693059,
+            "locality_id":1126022865,
+            "region_id":85679669
+        }
+    ],
+    "wof:id":1126022865,
+    "wof:lastmodified":1509407338,
+    "wof:name":"Mabamba",
+    "wof:parent_id":1108693059,
+    "wof:placetype":"locality",
+    "wof:population":14140,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.50194,
+    -3.59833,
+    30.50194,
+    -3.59833
+],
+  "geometry": {"coordinates":[30.50194,-3.59833],"type":"Point"}
+}

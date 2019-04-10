@@ -1,0 +1,68 @@
+{
+  "id": 1209422407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.73333,-4.45,35.73333,-4.45",
+    "geom:latitude":-4.45,
+    "geom:longitude":35.73333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0101",
+    "gn:admin3_code":"0101091",
+    "gn:asciiname":"Bereku",
+    "gn:country_code":"TZ",
+    "gn:dem":1534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161169,
+    "gn:latitude":-4.45,
+    "gn:longitude":35.73333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Bereku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bereko",
+        "Bereku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161169,
+        "wk:page":"Bereko"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"0f04a74a07e5367ce6df069f6113c338",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209422407
+        }
+    ],
+    "wof:id":1209422407,
+    "wof:lastmodified":1537710061,
+    "wof:name":"Bereku",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.73333,
+    -4.45,
+    35.73333,
+    -4.45
+],
+  "geometry": {"coordinates":[35.73333,-4.45],"type":"Point"}
+}

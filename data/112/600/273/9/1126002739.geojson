@@ -1,0 +1,78 @@
+{
+  "id": 1126002739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.96389,-3.49194,31.96389,-3.49194",
+    "geom:latitude":-3.49194,
+    "geom:longitude":31.96389,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":95052,
+    "gn:population":95052,
+    "iso:country":"TZ",
+    "lbl:latitude":-3.49194,
+    "lbl:longitude":31.96389,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":149129,
+    "qs_pg:gn_pop":95052,
+    "qs_pg:name":"Ushirombo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":517210,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679761,
+        1108693169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149129,
+        "qs_pg:id":517210
+    },
+    "wof:country":"TZ",
+    "wof:created":1497299748,
+    "wof:geomhash":"3be39caf0bbc9d8183ad85c64570c27b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693169,
+            "locality_id":1126002739,
+            "region_id":85679761
+        }
+    ],
+    "wof:id":1126002739,
+    "wof:lastmodified":1509406253,
+    "wof:name":"Ushirombo",
+    "wof:parent_id":1108693169,
+    "wof:placetype":"locality",
+    "wof:population":95052,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.96389,
+    -3.49194,
+    31.96389,
+    -3.49194
+],
+  "geometry": {"coordinates":[31.96389,-3.49194],"type":"Point"}
+}

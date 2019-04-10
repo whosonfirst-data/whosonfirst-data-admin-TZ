@@ -1,0 +1,81 @@
+{
+  "id": 1125957063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.3849,-4.52483,35.3849,-4.52483",
+    "geom:latitude":-4.52483,
+    "geom:longitude":35.3849,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4943,
+    "gn:population":4943,
+    "iso:country":"TZ",
+    "lbl:latitude":-4.52483,
+    "lbl:longitude":35.3849,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Ghatesh"
+    ],
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":158178,
+    "qs_pg:gn_pop":4943,
+    "qs_pg:name":"Katesh",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":68664,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679733,
+        421171039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158178,
+        "qs_pg:id":68664
+    },
+    "wof:country":"TZ",
+    "wof:created":1497297653,
+    "wof:geomhash":"84ee319e02f58541d1ec615139b6238e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421171039,
+            "locality_id":1125957063,
+            "region_id":85679733
+        }
+    ],
+    "wof:id":1125957063,
+    "wof:lastmodified":1509403058,
+    "wof:name":"Katesh",
+    "wof:parent_id":421171039,
+    "wof:placetype":"locality",
+    "wof:population":4943,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.3849,
+    -4.52483,
+    35.3849,
+    -4.52483
+],
+  "geometry": {"coordinates":[35.3849,-4.52483],"type":"Point"}
+}

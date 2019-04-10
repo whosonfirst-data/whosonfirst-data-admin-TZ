@@ -1,0 +1,73 @@
+{
+  "id": 1360141661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.55,-1.9,35.55,-1.9",
+    "geom:latitude":-1.9,
+    "geom:longitude":35.55,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"0205",
+    "gn:admin3_code":"0205141",
+    "gn:asciiname":"Luguru",
+    "gn:country_code":"TZ",
+    "gn:dem":2039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155717,
+    "gn:latitude":-1.9,
+    "gn:longitude":35.55,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Luguru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zuguru",
+        "Luguru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679731,
+        421171979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155717
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"486948115e87f1b6e4b476c2ebb220b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421171979,
+            "locality_id":1360141661,
+            "region_id":85679731
+        }
+    ],
+    "wof:id":1360141661,
+    "wof:lastmodified":1537710028,
+    "wof:name":"Luguru",
+    "wof:parent_id":421171979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.55,
+    -1.9,
+    35.55,
+    -1.9
+],
+  "geometry": {"coordinates":[35.55,-1.9],"type":"Point"}
+}

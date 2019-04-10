@@ -1,0 +1,74 @@
+{
+  "id": 1226316615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.25,-10.56667,36.25,-10.56667",
+    "geom:latitude":-10.56667,
+    "geom:longitude":36.25,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1005",
+    "gn:admin3_code":"1005181",
+    "gn:asciiname":"Masaguro",
+    "gn:country_code":"TZ",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":878062,
+    "gn:latitude":-10.56667,
+    "gn:longitude":36.25,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Masaguro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Machuguru",
+        "Masaguro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679723,
+        1108692993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878062,
+        "wk:page":"Masaguro"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"b3316bf39620d3b38447de4caee572c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692993,
+            "locality_id":1226316615,
+            "region_id":85679723
+        }
+    ],
+    "wof:id":1226316615,
+    "wof:lastmodified":1537710065,
+    "wof:name":"Masaguro",
+    "wof:parent_id":1108692993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.25,
+    -10.56667,
+    36.25,
+    -10.56667
+],
+  "geometry": {"coordinates":[36.25,-10.56667],"type":"Point"}
+}

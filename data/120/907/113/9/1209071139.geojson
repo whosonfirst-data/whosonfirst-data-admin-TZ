@@ -1,0 +1,61 @@
+{
+  "id": 1209071139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.73333,-5.46667,39.73333,-5.46667",
+    "geom:latitude":-5.46667,
+    "geom:longitude":39.73333,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kiweni",
+    "gn:country_code":"TZ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156634,
+    "gn:latitude":-5.46667,
+    "gn:longitude":39.73333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kiweni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156634
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"ddd6bac66a99e15257f1e66b4b9a4d4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209071139
+        }
+    ],
+    "wof:id":1209071139,
+    "wof:lastmodified":1536298643,
+    "wof:name":"Kiweni",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.73333,
+    -5.46667,
+    39.73333,
+    -5.46667
+],
+  "geometry": {"coordinates":[39.73333,-5.46667],"type":"Point"}
+}

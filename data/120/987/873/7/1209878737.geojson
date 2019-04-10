@@ -1,0 +1,69 @@
+{
+  "id": 1209878737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.85472,-1.48,30.85472,-1.48",
+    "geom:latitude":-1.48,
+    "geom:longitude":30.85472,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1808",
+    "gn:admin3_code":"1808151",
+    "gn:asciiname":"Karere",
+    "gn:country_code":"TZ",
+    "gn:dem":1344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389668,
+    "gn:latitude":-1.48,
+    "gn:longitude":30.85472,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Karere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389668
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"d30391fbed6e22c803d63d377b35e260",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693101,
+            "locality_id":1209878737,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1209878737,
+    "wof:lastmodified":1536396025,
+    "wof:name":"Karere",
+    "wof:parent_id":1108693101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85472,
+    -1.48,
+    30.85472,
+    -1.48
+],
+  "geometry": {"coordinates":[30.85472,-1.48],"type":"Point"}
+}

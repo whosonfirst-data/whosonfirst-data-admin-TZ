@@ -1,0 +1,63 @@
+{
+  "id": 1209172985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.3,-6.16667,39.3,-6.16667",
+    "geom:latitude":-6.16667,
+    "geom:longitude":39.3,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5201",
+    "gn:admin3_code":"5201021",
+    "gn:asciiname":"Pongwe",
+    "gn:country_code":"TZ",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150669,
+    "gn:latitude":-6.16667,
+    "gn:longitude":39.3,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Pongwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150669
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"67648e7f7a8a7ca0ba135ba603a00f2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209172985
+        }
+    ],
+    "wof:id":1209172985,
+    "wof:lastmodified":1536295518,
+    "wof:name":"Pongwe",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.3,
+    -6.16667,
+    39.3,
+    -6.16667
+],
+  "geometry": {"coordinates":[39.3,-6.16667],"type":"Point"}
+}

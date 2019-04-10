@@ -1,0 +1,69 @@
+{
+  "id": 1326805621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.20028,-2.90389,31.20028,-2.90389",
+    "geom:latitude":-2.90389,
+    "geom:longitude":31.20028,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1804",
+    "gn:admin3_code":"1804121",
+    "gn:asciiname":"Nyamahuna",
+    "gn:country_code":"TZ",
+    "gn:dem":1356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387748,
+    "gn:latitude":-2.90389,
+    "gn:longitude":31.20028,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nyamahuna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387748
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"a4b40685f540612f21084b074ec9a693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693093,
+            "locality_id":1326805621,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1326805621,
+    "wof:lastmodified":1537084016,
+    "wof:name":"Nyamahuna",
+    "wof:parent_id":1108693093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.20028,
+    -2.90389,
+    31.20028,
+    -2.90389
+],
+  "geometry": {"coordinates":[31.20028,-2.90389],"type":"Point"}
+}

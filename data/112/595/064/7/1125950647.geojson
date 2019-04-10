@@ -1,0 +1,91 @@
+{
+  "id": 1125950647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.81667,-8.8,35.81667,-8.8",
+    "geom:latitude":-8.8,
+    "geom:longitude":35.81667,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":34970,
+    "gn:population":34970,
+    "iso:country":"TZ",
+    "lbl:latitude":-8.8,
+    "lbl:longitude":35.81667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u043b\u0438\u043c\u0431\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Mlimba"
+    ],
+    "name:eng_x_preferred":[
+        "Mlimba"
+    ],
+    "name:fin_x_preferred":[
+        "Mlimba"
+    ],
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":153384,
+    "qs_pg:gn_pop":34970,
+    "qs_pg:name":"Mlimba",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":67913,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        1108692935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153384,
+        "qs_pg:id":67913,
+        "wd:id":"Q6885728"
+    },
+    "wof:country":"TZ",
+    "wof:created":1497297443,
+    "wof:geomhash":"05f64292eb3ad34be2632a5bd9309c41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692935,
+            "locality_id":1125950647,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1125950647,
+    "wof:lastmodified":1514508666,
+    "wof:name":"Mlimba",
+    "wof:parent_id":1108692935,
+    "wof:placetype":"locality",
+    "wof:population":34970,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.81667,
+    -8.8,
+    35.81667,
+    -8.8
+],
+  "geometry": {"coordinates":[35.81667,-8.8],"type":"Point"}
+}

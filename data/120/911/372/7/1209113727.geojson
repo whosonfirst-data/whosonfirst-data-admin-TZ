@@ -1,0 +1,63 @@
+{
+  "id": 1209113727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.65,-6.51667,35.65,-6.51667",
+    "geom:latitude":-6.51667,
+    "geom:longitude":35.65,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0106",
+    "gn:admin3_code":"0106191",
+    "gn:asciiname":"Mwitikira",
+    "gn:country_code":"TZ",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":152107,
+    "gn:latitude":-6.51667,
+    "gn:longitude":35.65,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mwitikira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152107
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"0d1cd5a7fac7f63336fb853a8a7a8739",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209113727
+        }
+    ],
+    "wof:id":1209113727,
+    "wof:lastmodified":1536297322,
+    "wof:name":"Mwitikira",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.65,
+    -6.51667,
+    35.65,
+    -6.51667
+],
+  "geometry": {"coordinates":[35.65,-6.51667],"type":"Point"}
+}

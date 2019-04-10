@@ -1,0 +1,67 @@
+{
+  "id": 1242967727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.55,-8.38333,38.55,-8.38333",
+    "geom:latitude":-8.38333,
+    "geom:longitude":38.55,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Namageni",
+    "gn:country_code":"TZ",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151997,
+    "gn:latitude":-8.38333,
+    "gn:longitude":38.55,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Namageni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        421182255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151997
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"e2ff767d06417d3a9ba06509f63df8e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421182255,
+            "locality_id":1242967727,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1242967727,
+    "wof:lastmodified":1536998031,
+    "wof:name":"Namageni",
+    "wof:parent_id":421182255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.55,
+    -8.38333,
+    38.55,
+    -8.38333
+],
+  "geometry": {"coordinates":[38.55,-8.38333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293600733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.33152,-7.06623,36.33152,-7.06623",
+    "geom:latitude":-7.06623,
+    "geom:longitude":36.33152,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0102",
+    "gn:admin3_code":"0102081",
+    "gn:asciiname":"Chamolutse",
+    "gn:country_code":"TZ",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7388792,
+    "gn:latitude":-7.06623,
+    "gn:longitude":36.33152,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Chamolutse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chamolutse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679705,
+        1108692893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7388792
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"954b78e432575353012955757f8bac2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692893,
+            "locality_id":1293600733,
+            "region_id":85679705
+        }
+    ],
+    "wof:id":1293600733,
+    "wof:lastmodified":1537710068,
+    "wof:name":"Chamolutse",
+    "wof:parent_id":1108692893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.33152000000001,
+    -7.06623,
+    36.33152000000001,
+    -7.06623
+],
+  "geometry": {"coordinates":[36.33152000000001,-7.06623],"type":"Point"}
+}

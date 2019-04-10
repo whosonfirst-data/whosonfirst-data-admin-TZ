@@ -1,0 +1,75 @@
+{
+  "id": 421189831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.823013,-3.392812,35.823013,-3.392812",
+    "geom:latitude":-3.392812,
+    "geom:longitude":35.823013,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Mto",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Arusha",
+    "qs:photos":1441,
+    "qs:photos_1k":292,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1441,
+    "qs:photos_sr":12,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1117123,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1447868,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679731,
+        421187711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1447868,
+        "qs:id":1117123
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009637,
+    "wof:geomhash":"433e52548be5fb413b3c4512c92c886a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187711,
+            "locality_id":421189831,
+            "region_id":85679731
+        }
+    ],
+    "wof:id":421189831,
+    "wof:lastmodified":1500033553,
+    "wof:name":"Mto",
+    "wof:parent_id":421187711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.823013,
+    -3.392812,
+    35.823013,
+    -3.392812
+],
+  "geometry": {"coordinates":[35.823013,-3.392812],"type":"Point"}
+}

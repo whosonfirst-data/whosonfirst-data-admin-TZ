@@ -1,0 +1,72 @@
+{
+  "id": 1259586253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.35195,-7.84984,39.35195,-7.84984",
+    "geom:latitude":-7.84984,
+    "geom:longitude":39.35195,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0605",
+    "gn:admin3_code":"0605161",
+    "gn:asciiname":"Salale",
+    "gn:country_code":"TZ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150310,
+    "gn:latitude":-7.84984,
+    "gn:longitude":39.35195,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Salale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Salale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679691,
+        421182255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150310
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"4e7016521252315b89f69517e1c3f970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421182255,
+            "locality_id":1259586253,
+            "region_id":85679691
+        }
+    ],
+    "wof:id":1259586253,
+    "wof:lastmodified":1537709996,
+    "wof:name":"Salale",
+    "wof:parent_id":421182255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.35195,
+    -7.84984,
+    39.35195,
+    -7.84984
+],
+  "geometry": {"coordinates":[39.35195,-7.84984],"type":"Point"}
+}

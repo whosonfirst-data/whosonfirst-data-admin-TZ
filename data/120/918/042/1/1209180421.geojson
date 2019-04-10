@@ -1,0 +1,63 @@
+{
+  "id": 1209180421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.66667,-5.68333,38.66667,-5.68333",
+    "geom:latitude":-5.68333,
+    "geom:longitude":38.66667,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0405",
+    "gn:admin3_code":"0405131",
+    "gn:asciiname":"Kitara",
+    "gn:country_code":"TZ",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156831,
+    "gn:latitude":-5.68333,
+    "gn:longitude":38.66667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kitara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156831
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"343ca8fccbc01231bf9f503cc2db49a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209180421
+        }
+    ],
+    "wof:id":1209180421,
+    "wof:lastmodified":1536295277,
+    "wof:name":"Kitara",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.66667,
+    -5.6833300000000015,
+    38.66667,
+    -5.6833300000000015
+],
+  "geometry": {"coordinates":[38.66667,-5.68333],"type":"Point"}
+}

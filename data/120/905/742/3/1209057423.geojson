@@ -1,0 +1,61 @@
+{
+  "id": 1209057423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.81667,-2.63333,31.81667,-2.63333",
+    "geom:latitude":-2.63333,
+    "geom:longitude":31.81667,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ntunganire",
+    "gn:country_code":"TZ",
+    "gn:dem":1133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151333,
+    "gn:latitude":-2.63333,
+    "gn:longitude":31.81667,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Ntunganire",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151333
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"a914d320f76deb3c7c8623bb3bee3409",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209057423
+        }
+    ],
+    "wof:id":1209057423,
+    "wof:lastmodified":1536299065,
+    "wof:name":"Ntunganire",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.81667,
+    -2.63333,
+    31.81667,
+    -2.63333
+],
+  "geometry": {"coordinates":[31.81667,-2.63333],"type":"Point"}
+}

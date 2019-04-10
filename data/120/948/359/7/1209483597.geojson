@@ -1,0 +1,63 @@
+{
+  "id": 1209483597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.66667,-8.15,31.66667,-8.15",
+    "geom:latitude":-8.15,
+    "geom:longitude":31.66667,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1504",
+    "gn:admin3_code":"1504101",
+    "gn:asciiname":"Nzeka",
+    "gn:country_code":"TZ",
+    "gn:dem":1876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150926,
+    "gn:latitude":-8.15,
+    "gn:longitude":31.66667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nzeka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150926
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"7ea4f19fbf6a5474c26528e6b6128f30",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209483597
+        }
+    ],
+    "wof:id":1209483597,
+    "wof:lastmodified":1536285705,
+    "wof:name":"Nzeka",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.66667,
+    -8.15,
+    31.66667,
+    -8.15
+],
+  "geometry": {"coordinates":[31.66667,-8.15],"type":"Point"}
+}

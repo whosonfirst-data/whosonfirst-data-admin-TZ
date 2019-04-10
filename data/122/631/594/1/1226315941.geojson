@@ -1,0 +1,73 @@
+{
+  "id": 1226315941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.85,-3.86667,32.85,-3.86667",
+    "geom:latitude":-3.86667,
+    "geom:longitude":32.85,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"1704",
+    "gn:admin3_code":"1704141",
+    "gn:asciiname":"Senegeza",
+    "gn:country_code":"TZ",
+    "gn:dem":1182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150116,
+    "gn:latitude":-3.86667,
+    "gn:longitude":32.85,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Senegeza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Isengeja",
+        "Senegeza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679657,
+        1108693081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150116
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"169f7df0ce3b2ce1dcb6c768f4bac8d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693081,
+            "locality_id":1226315941,
+            "region_id":85679657
+        }
+    ],
+    "wof:id":1226315941,
+    "wof:lastmodified":1537709996,
+    "wof:name":"Senegeza",
+    "wof:parent_id":1108693081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.85,
+    -3.86667,
+    32.85,
+    -3.86667
+],
+  "geometry": {"coordinates":[32.85,-3.86667],"type":"Point"}
+}

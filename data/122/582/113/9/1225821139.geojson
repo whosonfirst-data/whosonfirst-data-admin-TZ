@@ -1,0 +1,73 @@
+{
+  "id": 1225821139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.98333,-5.33333,38.98333,-5.33333",
+    "geom:latitude":-5.33333,
+    "geom:longitude":38.98333,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"0403",
+    "gn:admin3_code":"0403041",
+    "gn:asciiname":"Kwasemakarawe",
+    "gn:country_code":"TZ",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":156208,
+    "gn:latitude":-5.33333,
+    "gn:longitude":38.98333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kwasemakarawe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwasamakarawa",
+        "Kwasemakarawe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679747,
+        1108692921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":156208
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"06b886173475ae379c68ea4d747fe923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692921,
+            "locality_id":1225821139,
+            "region_id":85679747
+        }
+    ],
+    "wof:id":1225821139,
+    "wof:lastmodified":1537710031,
+    "wof:name":"Kwasemakarawe",
+    "wof:parent_id":1108692921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.98333,
+    -5.33333,
+    38.98333,
+    -5.33333
+],
+  "geometry": {"coordinates":[38.98333,-5.33333],"type":"Point"}
+}

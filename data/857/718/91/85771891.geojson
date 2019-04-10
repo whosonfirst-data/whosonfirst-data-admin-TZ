@@ -1,0 +1,155 @@
+{
+  "id": 85771891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9321906.078667,
+    "geom:bbox":"39.283351,-6.808258,39.283351,-6.808258",
+    "geom:latitude":-6.808258,
+    "geom:longitude":39.283351,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":-6.79882,
+    "gn:longitude":39.2872,
+    "iso:country":"TZ",
+    "lbl:latitude":-6.808258,
+    "lbl:longitude":39.283351,
+    "mps:latitude":-6.8019,
+    "mps:longitude":39.287512,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "Sea View Farm"
+    ],
+    "name:eng_x_colloquial":[
+        "Dar es Salam"
+    ],
+    "name:eng_x_preferred":[
+        "Sea View"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc \u0648\u06cc\u0648 \u0641\u0627\u0631\u0645"
+    ],
+    "name:pol_x_preferred":[
+        "Sea View Farm"
+    ],
+    "name:swe_x_preferred":[
+        "Sea View Farm"
+    ],
+    "name:und_x_colloquial":[
+        "Daar es Salaam"
+    ],
+    "name:und_x_preferred":[
+        "D\u00e5r es Sal\u00e5m"
+    ],
+    "name:unk_x_variant":[
+        "Sea View"
+    ],
+    "qs:gn_adm0_cc":"TZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":160263,
+    "qs:gn_nam_loc":"Dar es Salaam",
+    "qs:gn_namadm1":"23",
+    "qs:gn_name":"Sea View",
+    "qs:local_max":627,
+    "qs:local_sum":1871,
+    "qs:localhoods":7,
+    "qs:name":"Sea View",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Dar es Salaam",
+    "qs:name_adm2":"Ilala",
+    "qs:name_local":"Dar es Salaam",
+    "qs:photo_max":112,
+    "qs:photo_sum":627,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424973,
+    "qs:woe_adm1":2347374,
+    "qs:woe_adm2":56025105,
+    "qs:woe_lau":0,
+    "qs:woe_local":1443415,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":150173,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Sea View",
+    "qs_pg:name_adm0":"Tanzania",
+    "qs_pg:name_adm1":"Dar es Salaam",
+    "qs_pg:photos":674,
+    "qs_pg:photos_1k":137,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":674,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":238643,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424973,
+    "qs_pg:woe_id":1449302,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":99,
+    "wof:belongsto":[
+        85679675,
+        102191573,
+        85632227,
+        1108692955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150173,
+        "gp:id":1449302,
+        "qs:id":238643,
+        "qs_pg:id":238643
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"b81d89f6a617d69bd1ec4021b5559f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692955,
+            "locality_id":-1,
+            "neighbourhood_id":85771891,
+            "region_id":85679675
+        }
+    ],
+    "wof:id":85771891,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379470,
+    "wof:name":"Sea View",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126101703
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.283351,
+    -6.808258,
+    39.283351,
+    -6.808258
+],
+  "geometry": {"coordinates":[39.283351,-6.808258],"type":"Point"}
+}

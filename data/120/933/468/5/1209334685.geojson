@@ -1,0 +1,63 @@
+{
+  "id": 1209334685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.66667,-1.56667,33.66667,-1.56667",
+    "geom:latitude":-1.56667,
+    "geom:longitude":33.66667,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"2007",
+    "gn:admin3_code":"2007131",
+    "gn:asciiname":"Ikungu",
+    "gn:country_code":"TZ",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159264,
+    "gn:latitude":-1.56667,
+    "gn:longitude":33.66667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ikungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159264
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"b02047f2da003b4bb5314c2d4f15c1c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209334685
+        }
+    ],
+    "wof:id":1209334685,
+    "wof:lastmodified":1536290262,
+    "wof:name":"Ikungu",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.66667,
+    -1.56667,
+    33.66667,
+    -1.56667
+],
+  "geometry": {"coordinates":[33.66667,-1.56667],"type":"Point"}
+}

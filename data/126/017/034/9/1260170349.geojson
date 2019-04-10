@@ -1,0 +1,69 @@
+{
+  "id": 1260170349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.8,-7.05,37.8,-7.05",
+    "geom:latitude":-7.05,
+    "geom:longitude":37.8,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0502",
+    "gn:admin3_code":"0502223",
+    "gn:asciiname":"Mbagalala",
+    "gn:country_code":"TZ",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":154450,
+    "gn:latitude":-7.05,
+    "gn:longitude":37.8,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mbagalala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        421193165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154450
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"40d66d81c6f4257f9e8f79759c3abda2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421193165,
+            "locality_id":1260170349,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1260170349,
+    "wof:lastmodified":1536864639,
+    "wof:name":"Mbagalala",
+    "wof:parent_id":421193165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.8,
+    -7.05,
+    37.8,
+    -7.05
+],
+  "geometry": {"coordinates":[37.8,-7.05],"type":"Point"}
+}

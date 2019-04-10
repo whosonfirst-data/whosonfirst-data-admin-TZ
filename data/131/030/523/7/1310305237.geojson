@@ -1,0 +1,72 @@
+{
+  "id": 1310305237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.32437,-7.64613,36.32437,-7.64613",
+    "geom:latitude":-7.64613,
+    "geom:longitude":36.32437,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1104",
+    "gn:admin3_code":"1104061",
+    "gn:asciiname":"Virunde",
+    "gn:country_code":"TZ",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7389280,
+    "gn:latitude":-7.64613,
+    "gn:longitude":36.32437,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Virunde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Virunde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679711,
+        1108693001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7389280
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"988a104b3d61de38d16238d40082a31e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693001,
+            "locality_id":1310305237,
+            "region_id":85679711
+        }
+    ],
+    "wof:id":1310305237,
+    "wof:lastmodified":1537710069,
+    "wof:name":"Virunde",
+    "wof:parent_id":1108693001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.32437,
+    -7.64613,
+    36.32437,
+    -7.64613
+],
+  "geometry": {"coordinates":[36.32437,-7.64613],"type":"Point"}
+}

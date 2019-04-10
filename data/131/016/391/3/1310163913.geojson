@@ -1,0 +1,69 @@
+{
+  "id": 1310163913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.24381,-6.84049,39.24381,-6.84049",
+    "geom:latitude":-6.84049,
+    "geom:longitude":39.24381,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"0702",
+    "gn:admin3_code":"0702082",
+    "gn:asciiname":"Kilawani",
+    "gn:country_code":"TZ",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8693219,
+    "gn:latitude":-6.84049,
+    "gn:longitude":39.24381,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kilawani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679675,
+        1108692955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8693219
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"2e7c4d17f5efaa9ae9a0796cba2ce8f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692955,
+            "locality_id":1310163913,
+            "region_id":85679675
+        }
+    ],
+    "wof:id":1310163913,
+    "wof:lastmodified":1536912851,
+    "wof:name":"Kilawani",
+    "wof:parent_id":1108692955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.24381,
+    -6.84049,
+    39.24381,
+    -6.84049
+],
+  "geometry": {"coordinates":[39.24381,-6.84049],"type":"Point"}
+}

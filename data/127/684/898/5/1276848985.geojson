@@ -1,0 +1,69 @@
+{
+  "id": 1276848985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.98333,-10.76667,39.98333,-10.76667",
+    "geom:latitude":-10.76667,
+    "geom:longitude":39.98333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0901",
+    "gn:admin3_code":"0901181",
+    "gn:asciiname":"Mnongodi",
+    "gn:country_code":"TZ",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":877833,
+    "gn:latitude":-10.76667,
+    "gn:longitude":39.98333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mnongodi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679717,
+        1108692969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877833
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"6ba01b87daa9c063ef09d44b60436c69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692969,
+            "locality_id":1276848985,
+            "region_id":85679717
+        }
+    ],
+    "wof:id":1276848985,
+    "wof:lastmodified":1537079363,
+    "wof:name":"Mnongodi",
+    "wof:parent_id":1108692969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.98333,
+    -10.76667,
+    39.98333,
+    -10.76667
+],
+  "geometry": {"coordinates":[39.98333,-10.76667],"type":"Point"}
+}

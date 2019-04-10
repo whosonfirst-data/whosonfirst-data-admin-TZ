@@ -1,0 +1,84 @@
+{
+  "id": 890442355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.9,-9.48333,33.9,-9.48333",
+    "geom:latitude":-9.48333,
+    "geom:longitude":33.9,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
+    "gn:pop":17775,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0418\u043f\u0438\u043d\u0434\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Ipinda"
+    ],
+    "name:eng_x_preferred":[
+        "Ipinda"
+    ],
+    "name:swa_x_preferred":[
+        "Ipinda"
+    ],
+    "name:unk_x_variant":[
+        "Ipande"
+    ],
+    "qs:name":"Ipinda",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679641,
+        421192909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159107,
+        "gp:id":1446638,
+        "qs:id":525553,
+        "wd:id":"Q6065152",
+        "wk:page":"Ipinda"
+    },
+    "wof:country":"TZ",
+    "wof:created":1469052359,
+    "wof:geomhash":"056e9bcfb2888e31d9da26fc801662c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421192909,
+            "locality_id":890442355,
+            "region_id":85679641
+        }
+    ],
+    "wof:id":890442355,
+    "wof:lastmodified":1527792852,
+    "wof:name":"Ipinda",
+    "wof:parent_id":421192909,
+    "wof:placetype":"locality",
+    "wof:population":17775,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.9,
+    -9.48333,
+    33.9,
+    -9.48333
+],
+  "geometry": {"coordinates":[33.9,-9.48333],"type":"Point"}
+}

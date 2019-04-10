@@ -1,0 +1,67 @@
+{
+  "id": 1209204259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.33333,-8.9,33.33333,-8.9",
+    "geom:latitude":-8.9,
+    "geom:longitude":33.33333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1202",
+    "gn:admin3_code":"1202113",
+    "gn:asciiname":"Utengule",
+    "gn:country_code":"TZ",
+    "gn:dem":1397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149072,
+    "gn:latitude":-8.9,
+    "gn:longitude":33.33333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Utengule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Utenguli",
+        "Utengule"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149072
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"286ded94297b69ed074f759d4b404230",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209204259
+        }
+    ],
+    "wof:id":1209204259,
+    "wof:lastmodified":1537709990,
+    "wof:name":"Utengule",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.33333,
+    -8.9,
+    33.33333,
+    -8.9
+],
+  "geometry": {"coordinates":[33.33333,-8.9],"type":"Point"}
+}

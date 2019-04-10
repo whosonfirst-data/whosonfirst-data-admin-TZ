@@ -1,0 +1,69 @@
+{
+  "id": 1310269225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.43333,-6.16667,39.43333,-6.16667",
+    "geom:latitude":-6.16667,
+    "geom:longitude":39.43333,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"5201",
+    "gn:admin3_code":"5201211",
+    "gn:asciiname":"Jamat Khana",
+    "gn:country_code":"TZ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158805,
+    "gn:latitude":-6.16667,
+    "gn:longitude":39.43333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Jamat Khana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679651,
+        421191173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158805
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"7e7718a6a9174ff14adbba00dc937363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421191173,
+            "locality_id":1310269225,
+            "region_id":85679651
+        }
+    ],
+    "wof:id":1310269225,
+    "wof:lastmodified":1536760558,
+    "wof:name":"Jamat Khana",
+    "wof:parent_id":421191173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.43333,
+    -6.16667,
+    39.43333,
+    -6.16667
+],
+  "geometry": {"coordinates":[39.43333,-6.16667],"type":"Point"}
+}

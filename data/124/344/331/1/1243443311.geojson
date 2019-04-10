@@ -1,0 +1,69 @@
+{
+  "id": 1243443311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.9,-6.83333,37.9,-6.83333",
+    "geom:latitude":-6.83333,
+    "geom:longitude":37.9,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"0502",
+    "gn:admin3_code":"0502171",
+    "gn:asciiname":"Lukangazi",
+    "gn:country_code":"TZ",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":155673,
+    "gn:latitude":-6.83333,
+    "gn:longitude":37.9,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Lukangazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679677,
+        421193165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":155673
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"a31850d661bf5e26ff08e47a48517159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421193165,
+            "locality_id":1243443311,
+            "region_id":85679677
+        }
+    ],
+    "wof:id":1243443311,
+    "wof:lastmodified":1536809607,
+    "wof:name":"Lukangazi",
+    "wof:parent_id":421193165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.9,
+    -6.83333,
+    37.9,
+    -6.83333
+],
+  "geometry": {"coordinates":[37.9,-6.83333],"type":"Point"}
+}

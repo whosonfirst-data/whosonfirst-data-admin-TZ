@@ -1,0 +1,69 @@
+{
+  "id": 1343717747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.48333,-7.58333,31.48333,-7.58333",
+    "geom:latitude":-7.58333,
+    "geom:longitude":31.48333,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"1502",
+    "gn:admin3_code":"1502011",
+    "gn:asciiname":"Nkwilo",
+    "gn:country_code":"TZ",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":151405,
+    "gn:latitude":-7.58333,
+    "gn:longitude":31.48333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Nkwilo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679645,
+        1108693051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":151405
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"333b9d104423a0a44cc9ba4ea0971808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693051,
+            "locality_id":1343717747,
+            "region_id":85679645
+        }
+    ],
+    "wof:id":1343717747,
+    "wof:lastmodified":1536871554,
+    "wof:name":"Nkwilo",
+    "wof:parent_id":1108693051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.48333,
+    -7.58333,
+    31.48333,
+    -7.58333
+],
+  "geometry": {"coordinates":[31.48333,-7.58333],"type":"Point"}
+}

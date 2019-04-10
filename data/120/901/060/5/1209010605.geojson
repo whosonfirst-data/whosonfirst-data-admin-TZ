@@ -1,0 +1,63 @@
+{
+  "id": 1209010605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.41667,-7.2,35.41667,-7.2",
+    "geom:latitude":-7.2,
+    "geom:longitude":35.41667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1101",
+    "gn:admin3_code":"1101241",
+    "gn:asciiname":"Iwawi",
+    "gn:country_code":"TZ",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158848,
+    "gn:latitude":-7.2,
+    "gn:longitude":35.41667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Iwawi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":158848
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"526ba445bc5a3f89019f67b25941818e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632227,
+            "locality_id":1209010605
+        }
+    ],
+    "wof:id":1209010605,
+    "wof:lastmodified":1536300459,
+    "wof:name":"Iwawi",
+    "wof:parent_id":85632227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.41667,
+    -7.2,
+    35.41667,
+    -7.2
+],
+  "geometry": {"coordinates":[35.41667,-7.2],"type":"Point"}
+}

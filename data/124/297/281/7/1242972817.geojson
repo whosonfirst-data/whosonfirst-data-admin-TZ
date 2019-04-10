@@ -1,0 +1,69 @@
+{
+  "id": 1242972817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.8,-4.96667,35.8,-4.96667",
+    "geom:latitude":-4.96667,
+    "geom:longitude":35.8,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"0101",
+    "gn:admin3_code":"0101211",
+    "gn:asciiname":"Ausia",
+    "gn:country_code":"TZ",
+    "gn:dem":1371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161319,
+    "gn:latitude":-4.96667,
+    "gn:longitude":35.8,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ausia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679705,
+        1108692889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161319
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"d9c0881ab962567f3d0101b42a62a870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692889,
+            "locality_id":1242972817,
+            "region_id":85679705
+        }
+    ],
+    "wof:id":1242972817,
+    "wof:lastmodified":1536990554,
+    "wof:name":"Ausia",
+    "wof:parent_id":1108692889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.8,
+    -4.96667,
+    35.8,
+    -4.96667
+],
+  "geometry": {"coordinates":[35.8,-4.96667],"type":"Point"}
+}

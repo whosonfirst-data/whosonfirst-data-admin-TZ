@@ -1,0 +1,73 @@
+{
+  "id": 1310370895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.45,-1.75,31.45,-1.75",
+    "geom:latitude":-1.75,
+    "geom:longitude":31.45,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1803",
+    "gn:admin3_code":"1803311",
+    "gn:asciiname":"Chansangi",
+    "gn:country_code":"TZ",
+    "gn:dem":1214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160571,
+    "gn:latitude":-1.75,
+    "gn:longitude":31.45,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Chansangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chausangi",
+        "Chansangi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160571
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"82a0e5056493f0e387bfa4a42df8715b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693091,
+            "locality_id":1310370895,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1310370895,
+    "wof:lastmodified":1537710057,
+    "wof:name":"Chansangi",
+    "wof:parent_id":1108693091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.45,
+    -1.75,
+    31.45,
+    -1.75
+],
+  "geometry": {"coordinates":[31.45,-1.75],"type":"Point"}
+}

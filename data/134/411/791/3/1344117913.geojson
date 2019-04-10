@@ -1,0 +1,75 @@
+{
+  "id": 1344117913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.97732,-6.26877,30.97732,-6.26877",
+    "geom:latitude":-6.26877,
+    "geom:longitude":30.97732,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"2302",
+    "gn:admin3_code":"2302021",
+    "gn:asciiname":"Shongo",
+    "gn:country_code":"TZ",
+    "gn:dem":1138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":160371,
+    "gn:latitude":-6.26877,
+    "gn:longitude":30.97732,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Shongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chongo"
+    ],
+    "name:eng_x_variant":[
+        "Shongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679751,
+        1108693149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":160371
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"f3c09e1f0b2a5e26288c70b0a6906b04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693149,
+            "locality_id":1344117913,
+            "region_id":85679751
+        }
+    ],
+    "wof:id":1344117913,
+    "wof:lastmodified":1537710056,
+    "wof:name":"Shongo",
+    "wof:parent_id":1108693149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.97732,
+    -6.26877,
+    30.97732,
+    -6.26877
+],
+  "geometry": {"coordinates":[30.97732,-6.26877],"type":"Point"}
+}

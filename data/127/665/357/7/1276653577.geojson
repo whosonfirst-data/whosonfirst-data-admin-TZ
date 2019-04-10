@@ -1,0 +1,67 @@
+{
+  "id": 1276653577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.51667,-10.5,39.51667,-10.5",
+    "geom:latitude":-10.5,
+    "geom:longitude":39.51667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Liteho",
+    "gn:country_code":"TZ",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":878258,
+    "gn:latitude":-10.5,
+    "gn:longitude":39.51667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Liteho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679717,
+        1108692975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":878258
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"c5d2d03e87faec94dc4851a466e9ee81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692975,
+            "locality_id":1276653577,
+            "region_id":85679717
+        }
+    ],
+    "wof:id":1276653577,
+    "wof:lastmodified":1536845623,
+    "wof:name":"Liteho",
+    "wof:parent_id":1108692975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.51667,
+    -10.5,
+    39.51667,
+    -10.5
+],
+  "geometry": {"coordinates":[39.51667,-10.5],"type":"Point"}
+}

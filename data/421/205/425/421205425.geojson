@@ -1,0 +1,82 @@
+{
+  "id": 421205425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.51667,-2.98333,33.51667,-2.98333",
+    "geom:latitude":-2.98333,
+    "geom:longitude":33.51667,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Malaya"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":154995,
+    "qs:gn_pop":12627,
+    "qs:name":"Malya",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Mwanza",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":263099,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1446425,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679655,
+        1108693111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":154995,
+        "gp:id":1446425,
+        "qs:id":263099
+    },
+    "wof:country":"TZ",
+    "wof:created":1459010224,
+    "wof:geomhash":"72d9ec5ac7caf383d154e751535aa552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693111,
+            "locality_id":421205425,
+            "region_id":85679655
+        }
+    ],
+    "wof:id":421205425,
+    "wof:lastmodified":1505340794,
+    "wof:name":"Malya",
+    "wof:parent_id":1108693111,
+    "wof:placetype":"locality",
+    "wof:population":12627,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.51667,
+    -2.98333,
+    33.51667,
+    -2.98333
+],
+  "geometry": {"coordinates":[33.51667,-2.98333],"type":"Point"}
+}

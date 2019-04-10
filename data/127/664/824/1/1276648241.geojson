@@ -1,0 +1,73 @@
+{
+  "id": 1276648241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.61667,-9.25,39.61667,-9.25",
+    "geom:latitude":-9.25,
+    "geom:longitude":39.61667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0801",
+    "gn:admin3_code":"0801151",
+    "gn:asciiname":"Roango",
+    "gn:country_code":"TZ",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150565,
+    "gn:latitude":-9.25,
+    "gn:longitude":39.61667,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Roango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loangwa",
+        "Roango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679713,
+        421187961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150565
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"33a5d1fde0fb434150af8a47a4e263a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187961,
+            "locality_id":1276648241,
+            "region_id":85679713
+        }
+    ],
+    "wof:id":1276648241,
+    "wof:lastmodified":1537709998,
+    "wof:name":"Roango",
+    "wof:parent_id":421187961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.61667,
+    -9.25,
+    39.61667,
+    -9.25
+],
+  "geometry": {"coordinates":[39.61667,-9.25],"type":"Point"}
+}

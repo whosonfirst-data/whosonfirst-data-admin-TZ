@@ -1,0 +1,69 @@
+{
+  "id": 1292976131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.97333,-1.65222,30.97333,-1.65222",
+    "geom:latitude":-1.65222,
+    "geom:longitude":30.97333,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1801",
+    "gn:admin3_code":"1801191",
+    "gn:asciiname":"Biyungu",
+    "gn:country_code":"TZ",
+    "gn:dem":1352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442775,
+    "gn:latitude":-1.65222,
+    "gn:longitude":30.97333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Biyungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442775
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"641250da6469a8c305f6d7631418dc07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693085,
+            "locality_id":1292976131,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1292976131,
+    "wof:lastmodified":1537026092,
+    "wof:name":"Biyungu",
+    "wof:parent_id":1108693085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.97333,
+    -1.65222,
+    30.97333,
+    -1.65222
+],
+  "geometry": {"coordinates":[30.97333,-1.65222],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 421178545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.01667,-10.93333,35.01667,-10.93333",
+    "geom:latitude":-10.93333,
+    "geom:longitude":35.01667,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Mbinga"
+    ],
+    "name:dut_x_preferred":[
+        "Mbinga"
+    ],
+    "name:eng_x_preferred":[
+        "Mbinga"
+    ],
+    "name:fra_x_preferred":[
+        "Mbinga"
+    ],
+    "name:fre_x_preferred":[
+        "Mbinga"
+    ],
+    "name:swa_x_preferred":[
+        "Wilaya ya Mbinga"
+    ],
+    "name:unk_x_variant":[
+        "Mbinga"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":877998,
+    "qs:gn_pop":25192,
+    "qs:name":"Mbunga",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Ruvuma",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":129832,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1446856,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679723,
+        1108692989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877998,
+        "gp:id":1446856,
+        "qs:id":129832,
+        "wd:id":"Q15252474",
+        "wk:page":"Mbinga"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009185,
+    "wof:geomhash":"28d0c9d623ac9a4e169cddf6304a3fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692989,
+            "locality_id":421178545,
+            "region_id":85679723
+        }
+    ],
+    "wof:id":421178545,
+    "wof:lastmodified":1527717723,
+    "wof:name":"Mbunga",
+    "wof:parent_id":1108692989,
+    "wof:placetype":"locality",
+    "wof:population":25192,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.01667,
+    -10.93333,
+    35.01667,
+    -10.93333
+],
+  "geometry": {"coordinates":[35.01667,-10.93333],"type":"Point"}
+}

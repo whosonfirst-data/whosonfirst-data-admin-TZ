@@ -1,0 +1,103 @@
+{
+  "id": 1125949593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.85,-3.35,35.85,-3.35",
+    "geom:latitude":-3.35,
+    "geom:longitude":35.85,
+    "gn:gn_country":"TZ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":17754,
+    "gn:population":17754,
+    "iso:country":"TZ",
+    "lbl:latitude":-3.35,
+    "lbl:longitude":35.85,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u5716\u74e6\u5e03\u93ae"
+    ],
+    "name:dut_x_preferred":[
+        "Mto wa Mbu"
+    ],
+    "name:eng_x_preferred":[
+        "Mto wa Mbu"
+    ],
+    "name:fre_x_preferred":[
+        "Mto wa Mbu"
+    ],
+    "name:ger_x_preferred":[
+        "Mto wa Mbu"
+    ],
+    "name:ita_x_preferred":[
+        "Mto wa Mbu"
+    ],
+    "name:swa_x_preferred":[
+        "Mto wa Mbu"
+    ],
+    "name:swe_x_preferred":[
+        "Mto wa Mbu"
+    ],
+    "qs_pg:aaroncc":"TZ",
+    "qs_pg:gn_country":"TZ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":152743,
+    "qs_pg:gn_pop":17754,
+    "qs_pg:name":"Mto wa Mbu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":67783,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679731,
+        1108692903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152743,
+        "qs_pg:id":67783,
+        "wd:id":"Q995238"
+    },
+    "wof:country":"TZ",
+    "wof:created":1497297406,
+    "wof:geomhash":"4a32a0d327f9b94dd1642a49d17d58af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108692903,
+            "locality_id":1125949593,
+            "region_id":85679731
+        }
+    ],
+    "wof:id":1125949593,
+    "wof:lastmodified":1514508688,
+    "wof:name":"Mto wa Mbu",
+    "wof:parent_id":1108692903,
+    "wof:placetype":"locality",
+    "wof:population":17754,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.85,
+    -3.35,
+    35.85,
+    -3.35
+],
+  "geometry": {"coordinates":[35.85,-3.35],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1310488049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.75,-5.06667,39.75,-5.06667",
+    "geom:latitude":-5.06667,
+    "geom:longitude":39.75,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"5401",
+    "gn:admin3_code":"5401312",
+    "gn:asciiname":"Mikindani",
+    "gn:country_code":"TZ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":153891,
+    "gn:latitude":-5.06667,
+    "gn:longitude":39.75,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mikindani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679683,
+        421190259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":153891
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"0dbad2ce977875c57fcaa7ae1ccbdfea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421190259,
+            "locality_id":1310488049,
+            "region_id":85679683
+        }
+    ],
+    "wof:id":1310488049,
+    "wof:lastmodified":1536942683,
+    "wof:name":"Mikindani",
+    "wof:parent_id":421190259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.75,
+    -5.06667,
+    39.75,
+    -5.06667
+],
+  "geometry": {"coordinates":[39.75,-5.06667],"type":"Point"}
+}

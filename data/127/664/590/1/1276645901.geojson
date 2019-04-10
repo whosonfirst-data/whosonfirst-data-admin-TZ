@@ -1,0 +1,70 @@
+{
+  "id": 1276645901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.63333,-8.76667,33.63333,-8.76667",
+    "geom:latitude":-8.76667,
+    "geom:longitude":33.63333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"1207",
+    "gn:admin3_code":"1207081",
+    "gn:asciiname":"Ruiwa",
+    "gn:country_code":"TZ",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":150455,
+    "gn:latitude":-8.76667,
+    "gn:longitude":33.63333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ruiwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679641,
+        1108693015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":150455,
+        "wk:page":"Ruiwa"
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"1e37ae255cad931221082a0fa3a03cc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693015,
+            "locality_id":1276645901,
+            "region_id":85679641
+        }
+    ],
+    "wof:id":1276645901,
+    "wof:lastmodified":1537574846,
+    "wof:name":"Ruiwa",
+    "wof:parent_id":1108693015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.63333,
+    -8.76667,
+    33.63333,
+    -8.76667
+],
+  "geometry": {"coordinates":[33.63333,-8.76667],"type":"Point"}
+}

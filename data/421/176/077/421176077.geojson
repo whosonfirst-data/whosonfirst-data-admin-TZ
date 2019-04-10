@@ -1,0 +1,93 @@
+{
+  "id": 421176077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.55237,-6.41254,39.55237,-6.41254",
+    "geom:latitude":-6.41254,
+    "geom:longitude":39.55237,
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Makunduchi"
+    ],
+    "name:dut_x_preferred":[
+        "Makunduchi"
+    ],
+    "name:eng_x_preferred":[
+        "Makunduchi"
+    ],
+    "name:fre_x_preferred":[
+        "Makunduchi"
+    ],
+    "name:ita_x_preferred":[
+        "Makunduchi"
+    ],
+    "qs:gn_country":"TZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":8295628,
+    "qs:gn_pop":0,
+    "qs:name":"Makunduchi",
+    "qs:name_adm0":"Tanzania",
+    "qs:name_adm1":"Zanzibar South and Central",
+    "qs:photos":115,
+    "qs:photos_1k":23,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":115,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1041103,
+    "qs:woe_adm0":23424973,
+    "qs:woe_id":1446361,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":322,
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679651,
+        421188197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8295628,
+        "gp:id":1446361,
+        "qs:id":1041103,
+        "wd:id":"Q3843701"
+    },
+    "wof:country":"TZ",
+    "wof:created":1459009094,
+    "wof:geomhash":"0bb036accc1edf10e45fe64f82cabf73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421188197,
+            "locality_id":421176077,
+            "region_id":85679651
+        }
+    ],
+    "wof:id":421176077,
+    "wof:lastmodified":1527726469,
+    "wof:name":"Makunduchi",
+    "wof:parent_id":421188197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.55237,
+    -6.41254,
+    39.55237,
+    -6.41254
+],
+  "geometry": {"coordinates":[39.55237,-6.41254],"type":"Point"}
+}

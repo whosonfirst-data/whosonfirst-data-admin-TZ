@@ -1,0 +1,64 @@
+{
+  "id": 1276631691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.81667,-4.96667,39.81667,-4.96667",
+    "geom:latitude":-4.96667,
+    "geom:longitude":39.81667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Shumba",
+    "gn:country_code":"TZ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":149976,
+    "gn:latitude":-4.96667,
+    "gn:longitude":39.81667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Shumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":149976
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"a8042d6e88fe4f77df4c87bcc8f7c4f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "locality_id":1276631691,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276631691,
+    "wof:lastmodified":1536875381,
+    "wof:name":"Shumba",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.81667,
+    -4.96667,
+    39.81667,
+    -4.96667
+],
+  "geometry": {"coordinates":[39.81667,-4.96667],"type":"Point"}
+}

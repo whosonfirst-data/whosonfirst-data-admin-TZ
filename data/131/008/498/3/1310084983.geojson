@@ -1,0 +1,69 @@
+{
+  "id": 1310084983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.73333,-4.96667,39.73333,-4.96667",
+    "geom:latitude":-4.96667,
+    "geom:longitude":39.73333,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"5402",
+    "gn:admin3_code":"5402221",
+    "gn:asciiname":"Kifundi",
+    "gn:country_code":"TZ",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":157770,
+    "gn:latitude":-4.96667,
+    "gn:longitude":39.73333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kifundi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679683,
+        421198067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":157770
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"25cacbedc7d280c3bc7ba053462b8dfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421198067,
+            "locality_id":1310084983,
+            "region_id":85679683
+        }
+    ],
+    "wof:id":1310084983,
+    "wof:lastmodified":1537025033,
+    "wof:name":"Kifundi",
+    "wof:parent_id":421198067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.73333,
+    -4.96667,
+    39.73333,
+    -4.96667
+],
+  "geometry": {"coordinates":[39.73333,-4.96667],"type":"Point"}
+}

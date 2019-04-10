@@ -1,0 +1,69 @@
+{
+  "id": 1209950427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.65,-2.95,33.65,-2.95",
+    "geom:latitude":-2.95,
+    "geom:longitude":33.65,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"2404",
+    "gn:admin3_code":"2404181",
+    "gn:asciiname":"Mwalukuliko",
+    "gn:country_code":"TZ",
+    "gn:dem":1252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":152332,
+    "gn:latitude":-2.95,
+    "gn:longitude":33.65,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Mwalukuliko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679755,
+        1108693157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":152332
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"5a48df51051fde35f15c16e7246232c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693157,
+            "locality_id":1209950427,
+            "region_id":85679755
+        }
+    ],
+    "wof:id":1209950427,
+    "wof:lastmodified":1536384198,
+    "wof:name":"Mwalukuliko",
+    "wof:parent_id":1108693157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.65,
+    -2.95,
+    33.65,
+    -2.95
+],
+  "geometry": {"coordinates":[33.65,-2.95],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226048551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68333,-7.51667,35.68333,-7.51667",
+    "geom:latitude":-7.51667,
+    "geom:longitude":35.68333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1101",
+    "gn:admin3_code":"1101211",
+    "gn:asciiname":"Ikengeza",
+    "gn:country_code":"TZ",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":159311,
+    "gn:latitude":-7.51667,
+    "gn:longitude":35.68333,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ikengeza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679711,
+        421187959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":159311
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"2d1c24572d897ff048cb5b178a8797d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":421187959,
+            "locality_id":1226048551,
+            "region_id":85679711
+        }
+    ],
+    "wof:id":1226048551,
+    "wof:lastmodified":1536721419,
+    "wof:name":"Ikengeza",
+    "wof:parent_id":421187959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68333,
+    -7.51667,
+    35.68333,
+    -7.51667
+],
+  "geometry": {"coordinates":[35.68333,-7.51667],"type":"Point"}
+}

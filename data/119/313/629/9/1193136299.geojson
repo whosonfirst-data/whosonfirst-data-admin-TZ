@@ -1,0 +1,69 @@
+{
+  "id": 1193136299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.60278,-4.8625,30.60278,-4.8625",
+    "geom:latitude":-4.8625,
+    "geom:longitude":30.60278,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1602",
+    "gn:admin3_code":"1602091",
+    "gn:asciiname":"Kavanga",
+    "gn:country_code":"TZ",
+    "gn:dem":1205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387549,
+    "gn:latitude":-4.8625,
+    "gn:longitude":30.60278,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Kavanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Dar_es_Salaam",
+    "iso:country":"TZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679669,
+        1108693061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387549
+    },
+    "wof:country":"TZ",
+    "wof:geomhash":"eba6669dd8434d3104a8518a5f183552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693061,
+            "locality_id":1193136299,
+            "region_id":85679669
+        }
+    ],
+    "wof:id":1193136299,
+    "wof:lastmodified":1536370364,
+    "wof:name":"Kavanga",
+    "wof:parent_id":1108693061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.60278,
+    -4.8625,
+    30.60278,
+    -4.8625
+],
+  "geometry": {"coordinates":[30.60278,-4.8625],"type":"Point"}
+}
