@@ -10,6 +10,12 @@
     "geom:latitude":-9.531766,
     "geom:longitude":33.871108,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Kyela District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-9.537582,
     "lbl:longitude":33.856713,
     "meso:admin_1":"Mbeya",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":421192909,
-    "wof:lastmodified":1536616103,
+    "wof:lastmodified":1553717515,
     "wof:name":"Kyela",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-3.345523,
     "geom:longitude":36.687354,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Arusha District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-3.25385,
     "lbl:longitude":36.654443,
     "meso:admin_1":"Arusha",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421175227,
-    "wof:lastmodified":1536615950,
+    "wof:lastmodified":1553717357,
     "wof:name":"Arusha",
     "wof:parent_id":85679731,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098991,
-    "geom:area_square_m":1222279731.313389,
+    "geom:area_square_m":1222279731.313374,
     "geom:bbox":"36.889584966,-3.367170866,37.264025162,-2.849522468",
     "geom:latitude":-3.071408,
     "geom:longitude":37.083537,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Siha District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-3.078666,
     "lbl:longitude":37.065186,
     "meso:admin_1":"Kilimanjaro",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1108692917,
-    "wof:lastmodified":1514508951,
+    "wof:lastmodified":1555047727,
     "wof:name":"Siha",
     "wof:parent_id":85679737,
     "wof:placetype":"county",

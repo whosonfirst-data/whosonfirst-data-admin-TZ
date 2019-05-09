@@ -10,6 +10,12 @@
     "geom:latitude":-6.338447,
     "geom:longitude":39.492968,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Kusini District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.337886,
     "lbl:longitude":39.49151,
     "meso:admin_1":"Kusini Unguja",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421188197,
-    "wof:lastmodified":1536616050,
+    "wof:lastmodified":1553717464,
     "wof:name":"Kusini",
     "wof:parent_id":85679651,
     "wof:placetype":"county",

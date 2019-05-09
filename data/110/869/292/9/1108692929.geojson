@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.221059,
-    "geom:area_square_m":2724046865.398967,
+    "geom:area_square_m":2724046865.398732,
     "geom:bbox":"38.661295271,-5.036693778,39.220055926,-4.358038695",
     "geom:latitude":-4.748237,
     "geom:longitude":38.925209,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Mkinga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.753132,
     "lbl:longitude":38.952584,
     "meso:admin_1":"Tanga",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1108692929,
-    "wof:lastmodified":1514508665,
+    "wof:lastmodified":1555047727,
     "wof:name":"Mkinga",
     "wof:parent_id":85679747,
     "wof:placetype":"county",

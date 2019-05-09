@@ -10,6 +10,12 @@
     "geom:latitude":-9.052334,
     "geom:longitude":36.613334,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Ulanga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-8.982373,
     "lbl:longitude":36.630143,
     "meso:admin_1":"Morogoro",
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":1108692937,
-    "wof:lastmodified":1536615294,
+    "wof:lastmodified":1553718230,
     "wof:name":"Ulanga",
     "wof:parent_id":85679677,
     "wof:placetype":"county",

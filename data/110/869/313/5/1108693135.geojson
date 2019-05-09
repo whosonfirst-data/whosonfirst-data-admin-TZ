@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.282664,
-    "geom:area_square_m":3451726144.923748,
+    "geom:area_square_m":3451726144.924033,
     "geom:bbox":"34.272463613,-9.443813602,34.895114176,-8.663164353",
     "geom:latitude":-9.04316,
     "geom:longitude":34.56889,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Wanging'ombe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-9.032407,
     "lbl:longitude":34.538322,
     "meso:admin_1":"Njombe",
@@ -25,6 +31,9 @@
     "mps:longitude":34.538322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Wanging'ombe"
+    ],
     "name:eng_x_variant":[
         "Wanging'ombe"
     ],
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1108693135,
-    "wof:lastmodified":1512516809,
+    "wof:lastmodified":1555047730,
     "wof:name":"Wanging'ombe",
     "wof:parent_id":85679765,
     "wof:placetype":"county",

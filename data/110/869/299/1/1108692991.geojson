@@ -10,6 +10,12 @@
     "geom:latitude":-10.651678,
     "geom:longitude":35.619265,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Songea Urban District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-10.660068,
     "lbl:longitude":35.648706,
     "meso:admin_1":"Ruvuma",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1108692991,
-    "wof:lastmodified":1536615298,
+    "wof:lastmodified":1553718226,
     "wof:name":"Songea Urban",
     "wof:parent_id":85679723,
     "wof:placetype":"county",

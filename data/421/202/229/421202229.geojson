@@ -10,6 +10,12 @@
     "geom:latitude":-6.728189,
     "geom:longitude":39.142115,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Kinondoni District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.727135,
     "lbl:longitude":39.143954,
     "meso:admin_1":"Dar-es-salaam",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421202229,
-    "wof:lastmodified":1536616143,
+    "wof:lastmodified":1553717562,
     "wof:name":"Kinondoni",
     "wof:parent_id":85679675,
     "wof:placetype":"county",

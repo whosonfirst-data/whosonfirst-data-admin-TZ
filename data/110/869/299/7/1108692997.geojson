@@ -10,6 +10,12 @@
     "geom:latitude":-8.510303,
     "geom:longitude":35.271988,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Mufindi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-8.448084,
     "lbl:longitude":35.539948,
     "meso:admin_1":"Iringa",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108692997,
-    "wof:lastmodified":1536615298,
+    "wof:lastmodified":1553718232,
     "wof:name":"Mufindi",
     "wof:parent_id":85679711,
     "wof:placetype":"county",

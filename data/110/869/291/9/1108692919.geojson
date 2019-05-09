@@ -10,6 +10,12 @@
     "geom:latitude":-4.921609,
     "geom:longitude":38.307605,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Korogwe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.958539,
     "lbl:longitude":38.157034,
     "meso:admin_1":"Tanga",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1108692919,
-    "wof:lastmodified":1536615294,
+    "wof:lastmodified":1553718230,
     "wof:name":"Korogwe",
     "wof:parent_id":85679747,
     "wof:placetype":"county",

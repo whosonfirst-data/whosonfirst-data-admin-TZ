@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.457394,
-    "geom:area_square_m":5593251447.4414,
+    "geom:area_square_m":5593251447.441164,
     "geom:bbox":"31.020310403,-9.07334186,32.142195853,-8.003112754",
     "geom:latitude":-8.523721,
     "geom:longitude":31.571729,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Kalambo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-8.440567,
     "lbl:longitude":31.487228,
     "meso:admin_1":"Rukwa",
@@ -25,6 +31,9 @@
     "mps:longitude":31.487228,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kalambo"
+    ],
     "name:eng_x_variant":[
         "Kalambo"
     ],
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1108693049,
-    "wof:lastmodified":1512516808,
+    "wof:lastmodified":1555047729,
     "wof:name":"Kalambo",
     "wof:parent_id":85679645,
     "wof:placetype":"county",

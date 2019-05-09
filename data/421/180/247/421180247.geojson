@@ -10,6 +10,12 @@
     "geom:latitude":-4.719504,
     "geom:longitude":29.741811,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Kigoma Rural District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.749095,
     "lbl:longitude":29.71221,
     "meso:admin_1":"Kigoma",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421180247,
-    "wof:lastmodified":1536615966,
+    "wof:lastmodified":1553717376,
     "wof:name":"Kigoma Rural",
     "wof:parent_id":85679669,
     "wof:placetype":"county",

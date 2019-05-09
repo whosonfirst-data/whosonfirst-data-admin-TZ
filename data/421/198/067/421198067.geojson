@@ -10,6 +10,12 @@
     "geom:latitude":-4.971815,
     "geom:longitude":39.77609,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Micheweni District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.985121,
     "lbl:longitude":39.766112,
     "meso:admin_1":"Kaskazini Pemba",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421198067,
-    "wof:lastmodified":1536616125,
+    "wof:lastmodified":1553717541,
     "wof:name":"Micheweni",
     "wof:parent_id":85679683,
     "wof:placetype":"county",

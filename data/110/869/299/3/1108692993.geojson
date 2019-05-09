@@ -10,6 +10,12 @@
     "geom:latitude":-10.636934,
     "geom:longitude":36.317497,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Namtumbo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-10.454888,
     "lbl:longitude":36.181732,
     "meso:admin_1":"Ruvuma",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1108692993,
-    "wof:lastmodified":1536615298,
+    "wof:lastmodified":1553718228,
     "wof:name":"Namtumbo",
     "wof:parent_id":85679723,
     "wof:placetype":"county",

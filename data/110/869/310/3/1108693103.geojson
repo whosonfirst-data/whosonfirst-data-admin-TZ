@@ -10,6 +10,12 @@
     "geom:latitude":-1.99813,
     "geom:longitude":33.014368,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Ukerewe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-2.042089,
     "lbl:longitude":33.004549,
     "meso:admin_1":"Mwanza",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108693103,
-    "wof:lastmodified":1536615302,
+    "wof:lastmodified":1553718238,
     "wof:name":"Ukerewe",
     "wof:parent_id":85679655,
     "wof:placetype":"county",

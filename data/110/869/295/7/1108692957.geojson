@@ -10,6 +10,12 @@
     "geom:latitude":-10.032566,
     "geom:longitude":39.466797,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Lindi Rural District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-10.132786,
     "lbl:longitude":39.299301,
     "meso:admin_1":"Lindi",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108692957,
-    "wof:lastmodified":1536615296,
+    "wof:lastmodified":1553718227,
     "wof:name":"Lindi Rural",
     "wof:parent_id":85679713,
     "wof:placetype":"county",

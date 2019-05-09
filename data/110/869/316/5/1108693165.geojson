@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.130712,
-    "geom:area_square_m":1613838915.240364,
+    "geom:area_square_m":1613838915.240389,
     "geom:bbox":"32.382300965,-3.457163361,32.792926549,-2.899108307",
     "geom:latitude":-3.14955,
     "geom:longitude":32.604833,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Nyang'wale District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-3.1159,
     "lbl:longitude":32.62506,
     "meso:admin_1":"Geita",
@@ -26,10 +32,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Nyang'hwale District"
+        "Nyang'wale"
     ],
     "name:eng_x_variant":[
         "Nyang'hwale",
+        "Nyang'wale",
         "Nyang'wale"
     ],
     "name:nob_x_preferred":[
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":1108693165,
-    "wof:lastmodified":1514508779,
+    "wof:lastmodified":1555047731,
     "wof:name":"Nyang'wale",
     "wof:parent_id":85679761,
     "wof:placetype":"county",

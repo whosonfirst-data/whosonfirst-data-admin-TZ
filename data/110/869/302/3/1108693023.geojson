@@ -10,6 +10,12 @@
     "geom:latitude":-4.433693,
     "geom:longitude":34.287132,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Iramba District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.435539,
     "lbl:longitude":34.293361,
     "meso:admin_1":"Singida",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108693023,
-    "wof:lastmodified":1536615299,
+    "wof:lastmodified":1553718234,
     "wof:name":"Iramba",
     "wof:parent_id":85679727,
     "wof:placetype":"county",

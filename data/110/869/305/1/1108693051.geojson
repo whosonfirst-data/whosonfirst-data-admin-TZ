@@ -10,6 +10,12 @@
     "geom:latitude":-8.227255,
     "geom:longitude":31.943828,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Sumbawanga Rural District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-8.265543,
     "lbl:longitude":31.899014,
     "meso:admin_1":"Rukwa",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1108693051,
-    "wof:lastmodified":1536615300,
+    "wof:lastmodified":1553718235,
     "wof:name":"Sumbawanga Rural",
     "wof:parent_id":85679645,
     "wof:placetype":"county",

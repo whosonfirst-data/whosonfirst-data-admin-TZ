@@ -10,6 +10,12 @@
     "geom:latitude":-5.099036,
     "geom:longitude":39.766984,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Wete District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-5.105592,
     "lbl:longitude":39.77471,
     "meso:admin_1":"Kaskazini Pemba",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421190259,
-    "wof:lastmodified":1536616080,
+    "wof:lastmodified":1553717491,
     "wof:name":"Wete",
     "wof:parent_id":85679683,
     "wof:placetype":"county",

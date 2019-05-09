@@ -10,6 +10,12 @@
     "geom:latitude":-7.502077,
     "geom:longitude":35.195316,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Iringa Rural District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-7.50503,
     "lbl:longitude":35.127133,
     "meso:admin_1":"Iringa",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421187959,
-    "wof:lastmodified":1536616046,
+    "wof:lastmodified":1553717458,
     "wof:name":"Iringa Rural",
     "wof:parent_id":85679711,
     "wof:placetype":"county",

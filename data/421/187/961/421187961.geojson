@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.233793,
-    "geom:area_square_m":15063400871.759119,
+    "geom:area_square_m":15063400871.762012,
     "geom:bbox":"38.436246968,-9.920367386,39.663796558,-8.257188156",
     "geom:latitude":-9.108351,
     "geom:longitude":39.016196,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Kilwa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-9.199962,
     "lbl:longitude":38.954925,
     "meso:admin_1":"Lindi",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421187961,
-    "wof:lastmodified":1553816377,
+    "wof:lastmodified":1555037094,
     "wof:name":"Kilwa",
     "wof:parent_id":85679713,
     "wof:placetype":"county",

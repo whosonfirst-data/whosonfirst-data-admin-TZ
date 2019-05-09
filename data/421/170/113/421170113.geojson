@@ -10,6 +10,12 @@
     "geom:latitude":-8.897832,
     "geom:longitude":33.47738,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Mbeya Urban District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-8.885477,
     "lbl:longitude":33.465937,
     "meso:admin_1":"Mbeya",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421170113,
-    "wof:lastmodified":1536615906,
+    "wof:lastmodified":1553717310,
     "wof:name":"Mbeya Urban",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

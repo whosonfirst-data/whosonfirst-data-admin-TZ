@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.17732,
-    "geom:area_square_m":2164195700.81933,
+    "geom:area_square_m":2164195700.8195,
     "geom:bbox":"33.427950944,-9.494435937,33.98436143,-8.978534545",
     "geom:latitude":-9.231301,
     "geom:longitude":33.688215,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Rungwe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-9.213821,
     "lbl:longitude":33.66574,
     "meso:admin_1":"Mbeya",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1108693009,
-    "wof:lastmodified":1553816460,
+    "wof:lastmodified":1555037578,
     "wof:name":"Rungwe",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

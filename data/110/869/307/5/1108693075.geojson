@@ -10,6 +10,12 @@
     "geom:latitude":-3.62573,
     "geom:longitude":33.4453,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Shinyanga Urban District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-3.625822,
     "lbl:longitude":33.44267,
     "meso:admin_1":"Shinyanga",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1108693075,
-    "wof:lastmodified":1536615301,
+    "wof:lastmodified":1553718236,
     "wof:name":"Shinyanga Urban",
     "wof:parent_id":85679657,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-3.84768,
     "geom:longitude":32.368702,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Kahama District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.02267,
     "lbl:longitude":32.218276,
     "meso:admin_1":"Shinyanga",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108693081,
-    "wof:lastmodified":1536615301,
+    "wof:lastmodified":1553718237,
     "wof:name":"Kahama",
     "wof:parent_id":85679657,
     "wof:placetype":"county",

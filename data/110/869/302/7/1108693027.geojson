@@ -10,6 +10,12 @@
     "geom:latitude":-4.831538,
     "geom:longitude":34.720363,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Singida Urban District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.816261,
     "lbl:longitude":34.722895,
     "meso:admin_1":"Singida",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108693027,
-    "wof:lastmodified":1536615299,
+    "wof:lastmodified":1553718233,
     "wof:name":"Singida Urban",
     "wof:parent_id":85679727,
     "wof:placetype":"county",

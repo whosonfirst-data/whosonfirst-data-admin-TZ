@@ -10,6 +10,12 @@
     "geom:latitude":-4.992899,
     "geom:longitude":32.795384,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Tabora Urban District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-5.005991,
     "lbl:longitude":32.791916,
     "meso:admin_1":"Tabora",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108693045,
-    "wof:lastmodified":1536615300,
+    "wof:lastmodified":1553718234,
     "wof:name":"Tabora Urban",
     "wof:parent_id":85679661,
     "wof:placetype":"county",

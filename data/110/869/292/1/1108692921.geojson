@@ -10,6 +10,12 @@
     "geom:latitude":-5.180976,
     "geom:longitude":38.763903,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Muheza District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-5.150304,
     "lbl:longitude":38.73947,
     "meso:admin_1":"Tanga",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1108692921,
-    "wof:lastmodified":1536615294,
+    "wof:lastmodified":1553718227,
     "wof:name":"Muheza",
     "wof:parent_id":85679747,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-3.289209,
     "geom:longitude":37.200541,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Hai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-3.365988,
     "lbl:longitude":37.198479,
     "meso:admin_1":"Kilimanjaro",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421202555,
-    "wof:lastmodified":1536616148,
+    "wof:lastmodified":1553717563,
     "wof:name":"Hai",
     "wof:parent_id":85679737,
     "wof:placetype":"county",

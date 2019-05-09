@@ -10,6 +10,12 @@
     "geom:latitude":-2.597105,
     "geom:longitude":32.517473,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Sengerema District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-2.696912,
     "lbl:longitude":32.670761,
     "meso:admin_1":"Mwanza",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1108693113,
-    "wof:lastmodified":1536615303,
+    "wof:lastmodified":1553718242,
     "wof:name":"Sengerema",
     "wof:parent_id":85679655,
     "wof:placetype":"county",

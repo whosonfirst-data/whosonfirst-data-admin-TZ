@@ -10,6 +10,12 @@
     "geom:latitude":-1.317135,
     "geom:longitude":31.804956,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Bukoba Urban District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.311853,
     "lbl:longitude":31.805488,
     "meso:admin_1":"Kagera",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108693097,
-    "wof:lastmodified":1536615302,
+    "wof:lastmodified":1553718236,
     "wof:name":"Bukoba Urban",
     "wof:parent_id":85679665,
     "wof:placetype":"county",

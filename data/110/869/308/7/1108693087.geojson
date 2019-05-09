@@ -10,6 +10,12 @@
     "geom:latitude":-1.431518,
     "geom:longitude":31.586198,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Bukoba Rural District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.414912,
     "lbl:longitude":31.654234,
     "meso:admin_1":"Kagera",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108693087,
-    "wof:lastmodified":1536615301,
+    "wof:lastmodified":1553718237,
     "wof:name":"Bukoba Rural",
     "wof:parent_id":85679665,
     "wof:placetype":"county",

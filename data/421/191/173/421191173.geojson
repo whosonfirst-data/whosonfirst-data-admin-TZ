@@ -10,6 +10,12 @@
     "geom:latitude":-6.163957,
     "geom:longitude":39.370858,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Kati District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.141254,
     "lbl:longitude":39.349267,
     "meso:admin_1":"Kusini Unguja",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421191173,
-    "wof:lastmodified":1536616088,
+    "wof:lastmodified":1553717496,
     "wof:name":"Kati",
     "wof:parent_id":85679651,
     "wof:placetype":"county",

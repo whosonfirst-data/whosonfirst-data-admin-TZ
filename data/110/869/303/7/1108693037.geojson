@@ -10,6 +10,12 @@
     "geom:latitude":-4.343733,
     "geom:longitude":33.687961,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Igunga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.331884,
     "lbl:longitude":33.687899,
     "meso:admin_1":"Tabora",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108693037,
-    "wof:lastmodified":1536615299,
+    "wof:lastmodified":1553718234,
     "wof:name":"Igunga",
     "wof:parent_id":85679661,
     "wof:placetype":"county",

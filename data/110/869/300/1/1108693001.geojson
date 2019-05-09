@@ -10,6 +10,12 @@
     "geom:latitude":-7.799307,
     "geom:longitude":36.214102,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Kilolo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-7.716656,
     "lbl:longitude":36.223656,
     "meso:admin_1":"Iringa",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108693001,
-    "wof:lastmodified":1536615298,
+    "wof:lastmodified":1553718230,
     "wof:name":"Kilolo",
     "wof:parent_id":85679711,
     "wof:placetype":"county",

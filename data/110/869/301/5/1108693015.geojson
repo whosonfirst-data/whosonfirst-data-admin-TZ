@@ -10,6 +10,12 @@
     "geom:latitude":-8.291427,
     "geom:longitude":34.233418,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Mbarali District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-8.272152,
     "lbl:longitude":34.220014,
     "meso:admin_1":"Mbeya",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1108693015,
-    "wof:lastmodified":1536615299,
+    "wof:lastmodified":1553718232,
     "wof:name":"Mbarali",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

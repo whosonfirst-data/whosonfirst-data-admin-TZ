@@ -10,6 +10,12 @@
     "geom:latitude":-10.9557,
     "geom:longitude":37.284662,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Tunduru District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-11.026352,
     "lbl:longitude":37.348874,
     "meso:admin_1":"Ruvuma",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108692985,
-    "wof:lastmodified":1536615297,
+    "wof:lastmodified":1553718229,
     "wof:name":"Tunduru",
     "wof:parent_id":85679723,
     "wof:placetype":"county",

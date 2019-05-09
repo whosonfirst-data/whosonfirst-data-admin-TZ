@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046999,
-    "geom:area_square_m":574975573.781374,
+    "geom:area_square_m":574975573.7814,
     "geom:bbox":"35.13703182,-8.508404518,35.408562162,-8.21635375",
     "geom:latitude":-8.363636,
     "geom:longitude":35.244421,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Mafinga Township Authority District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-8.350122,
     "lbl:longitude":35.214689,
     "meso:admin_1":"Iringa",
@@ -25,6 +31,9 @@
     "mps:longitude":35.214689,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Mafinga Township Authority"
+    ],
     "name:eng_x_variant":[
         "Mafinga Township Authority"
     ],
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1108693003,
-    "wof:lastmodified":1512516807,
+    "wof:lastmodified":1555047728,
     "wof:name":"Mafinga Township Authority",
     "wof:parent_id":85679711,
     "wof:placetype":"county",

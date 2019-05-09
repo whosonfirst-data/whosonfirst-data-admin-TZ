@@ -10,6 +10,12 @@
     "geom:latitude":-4.100097,
     "geom:longitude":35.858246,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Babati District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.112388,
     "lbl:longitude":36.034031,
     "meso:admin_1":"Manyara",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1108693123,
-    "wof:lastmodified":1536615304,
+    "wof:lastmodified":1553718239,
     "wof:name":"Babati",
     "wof:parent_id":85679733,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-7.733797,
     "geom:longitude":35.708653,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Iringa Urban District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-7.723145,
     "lbl:longitude":35.710512,
     "meso:admin_1":"Iringa",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421198449,
-    "wof:lastmodified":1536616126,
+    "wof:lastmodified":1553717542,
     "wof:name":"Iringa Urban",
     "wof:parent_id":85679711,
     "wof:placetype":"county",

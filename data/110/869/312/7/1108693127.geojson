@@ -10,6 +10,12 @@
     "geom:latitude":-3.953212,
     "geom:longitude":35.294652,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Mbulu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-3.947551,
     "lbl:longitude":35.286955,
     "meso:admin_1":"Manyara",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108693127,
-    "wof:lastmodified":1536615304,
+    "wof:lastmodified":1553718238,
     "wof:name":"Mbulu",
     "wof:parent_id":85679733,
     "wof:placetype":"county",

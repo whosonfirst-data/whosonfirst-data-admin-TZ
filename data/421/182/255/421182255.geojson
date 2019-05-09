@@ -10,6 +10,12 @@
     "geom:latitude":-7.93905,
     "geom:longitude":38.62841,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Rufiji District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-7.974503,
     "lbl:longitude":38.682373,
     "meso:admin_1":"Pwani",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421182255,
-    "wof:lastmodified":1536615982,
+    "wof:lastmodified":1553717415,
     "wof:name":"Rufiji",
     "wof:parent_id":85679691,
     "wof:placetype":"county",

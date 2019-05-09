@@ -10,6 +10,12 @@
     "geom:latitude":-10.484051,
     "geom:longitude":40.003378,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Mtwara Rural District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-10.527777,
     "lbl:longitude":39.963815,
     "meso:admin_1":"Mtwara",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108692969,
-    "wof:lastmodified":1536615296,
+    "wof:lastmodified":1553718228,
     "wof:name":"Mtwara Rural",
     "wof:parent_id":85679717,
     "wof:placetype":"county",

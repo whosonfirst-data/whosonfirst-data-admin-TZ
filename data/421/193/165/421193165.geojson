@@ -10,6 +10,12 @@
     "geom:latitude":-7.194211,
     "geom:longitude":37.84133,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Morogoro District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-7.182441,
     "lbl:longitude":37.965654,
     "meso:admin_1":"Morogoro",
@@ -30,7 +36,7 @@
         "\u0391\u03c3\u03c4\u03b9\u03ba\u03ae \u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039c\u03bf\u03c1\u03bf\u03b3\u03ba\u03cc\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
-        "Morogoro Rural"
+        "Morogoro"
     ],
     "name:eng_x_variant":[
         "Morogoro",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":421193165,
-    "wof:lastmodified":1536616104,
+    "wof:lastmodified":1555047725,
     "wof:name":"Morogoro",
     "wof:parent_id":85679677,
     "wof:placetype":"county",

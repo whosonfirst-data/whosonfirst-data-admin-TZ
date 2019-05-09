@@ -10,6 +10,12 @@
     "geom:latitude":-1.392734,
     "geom:longitude":34.467131,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Tarime District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.369826,
     "lbl:longitude":34.436661,
     "meso:admin_1":"Mara",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421175441,
-    "wof:lastmodified":1536615952,
+    "wof:lastmodified":1553717362,
     "wof:name":"Tarime",
     "wof:parent_id":85679743,
     "wof:placetype":"county",

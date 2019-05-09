@@ -10,6 +10,12 @@
     "geom:latitude":-5.24984,
     "geom:longitude":39.770848,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Chake Chake District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-5.25601,
     "lbl:longitude":39.789788,
     "meso:admin_1":"Kusini Pemba",
@@ -27,7 +33,7 @@
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
-        "Chake"
+        "Chake Chake"
     ],
     "name:eng_x_variant":[
         "Chake Chake",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421187955,
-    "wof:lastmodified":1536616045,
+    "wof:lastmodified":1555047725,
     "wof:name":"Chake Chake",
     "wof:parent_id":85679687,
     "wof:placetype":"county",

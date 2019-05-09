@@ -10,6 +10,12 @@
     "geom:latitude":-6.976037,
     "geom:longitude":39.406205,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Temeke District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-7.02635,
     "lbl:longitude":39.478549,
     "meso:admin_1":"Dar-es-salaam",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":421198913,
-    "wof:lastmodified":1536616130,
+    "wof:lastmodified":1553717544,
     "wof:name":"Temeke",
     "wof:parent_id":85679675,
     "wof:placetype":"county",

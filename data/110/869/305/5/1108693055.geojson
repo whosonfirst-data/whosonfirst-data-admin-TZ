@@ -10,6 +10,12 @@
     "geom:latitude":-7.552078,
     "geom:longitude":31.005097,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Nkasi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-7.513591,
     "lbl:longitude":31.013149,
     "meso:admin_1":"Rukwa",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1108693055,
-    "wof:lastmodified":1536615300,
+    "wof:lastmodified":1553718235,
     "wof:name":"Nkasi",
     "wof:parent_id":85679645,
     "wof:placetype":"county",

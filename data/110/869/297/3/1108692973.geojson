@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.331104,
-    "geom:area_square_m":4021596532.309801,
+    "geom:area_square_m":4021596532.310194,
     "geom:bbox":"38.264241499,-11.17628785,39.377768923,-10.346942124",
     "geom:latitude":-10.80132,
     "geom:longitude":38.895918,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Masasi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-11.01534,
     "lbl:longitude":38.952445,
     "meso:admin_1":"Mtwara",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1108692973,
-    "wof:lastmodified":1553816460,
+    "wof:lastmodified":1555037579,
     "wof:name":"Masasi",
     "wof:parent_id":85679717,
     "wof:placetype":"county",

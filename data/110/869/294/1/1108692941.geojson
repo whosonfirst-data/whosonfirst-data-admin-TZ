@@ -10,6 +10,12 @@
     "geom:latitude":-6.519537,
     "geom:longitude":37.545176,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Mvomero District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-7.028554,
     "lbl:longitude":37.440732,
     "meso:admin_1":"Morogoro",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1108692941,
-    "wof:lastmodified":1536615295,
+    "wof:lastmodified":1553718226,
     "wof:name":"Mvomero",
     "wof:parent_id":85679677,
     "wof:placetype":"county",

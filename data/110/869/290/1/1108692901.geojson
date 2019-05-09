@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.594658,
-    "geom:area_square_m":7322086302.169183,
+    "geom:area_square_m":7322086302.169415,
     "geom:bbox":"35.065388488,-5.68313394,36.323711625,-4.856079102",
     "geom:latitude":-5.258049,
     "geom:longitude":35.666767,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Chemba District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-5.382318,
     "lbl:longitude":35.447697,
     "meso:admin_1":"Dodoma",
@@ -25,6 +31,9 @@
     "mps:longitude":35.447697,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Chemba"
+    ],
     "name:eng_x_variant":[
         "Chemba"
     ],
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1108692901,
-    "wof:lastmodified":1512516805,
+    "wof:lastmodified":1555047726,
     "wof:name":"Chemba",
     "wof:parent_id":85679705,
     "wof:placetype":"county",

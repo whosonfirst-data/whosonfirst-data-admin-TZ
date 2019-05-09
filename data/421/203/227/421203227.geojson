@@ -10,6 +10,12 @@
     "geom:latitude":-3.731624,
     "geom:longitude":37.641787,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Mwanga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-3.740334,
     "lbl:longitude":37.623353,
     "meso:admin_1":"Kilimanjaro",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421203227,
-    "wof:lastmodified":1536616150,
+    "wof:lastmodified":1553717566,
     "wof:name":"Mwanga",
     "wof:parent_id":85679737,
     "wof:placetype":"county",

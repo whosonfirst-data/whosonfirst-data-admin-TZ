@@ -10,6 +10,12 @@
     "geom:latitude":-10.313108,
     "geom:longitude":40.153351,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Mtwara Urban District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-10.329959,
     "lbl:longitude":40.160519,
     "meso:admin_1":"Mtwara",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108692977,
-    "wof:lastmodified":1536615297,
+    "wof:lastmodified":1553718228,
     "wof:name":"Mtwara Urban",
     "wof:parent_id":85679717,
     "wof:placetype":"county",

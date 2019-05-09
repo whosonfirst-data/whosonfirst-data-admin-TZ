@@ -10,6 +10,12 @@
     "geom:latitude":-2.672196,
     "geom:longitude":35.49482,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Ngorongoro District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-2.726505,
     "lbl:longitude":35.5373,
     "meso:admin_1":"Arusha",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":421171979,
-    "wof:lastmodified":1536615936,
+    "wof:lastmodified":1553717334,
     "wof:name":"Ngorongoro",
     "wof:parent_id":85679731,
     "wof:placetype":"county",

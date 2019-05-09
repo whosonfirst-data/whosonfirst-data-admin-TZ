@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074309,
-    "geom:area_square_m":915902234.085506,
+    "geom:area_square_m":915902234.085545,
     "geom:bbox":"29.920064112,-4.760632518,30.259199319,-4.404032977",
     "geom:latitude":-4.587009,
     "geom:longitude":30.094404,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Kasulu Township Authority District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.54239,
     "lbl:longitude":30.124956,
     "meso:admin_1":"Kigoma",
@@ -25,6 +31,9 @@
     "mps:longitude":30.124956,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kasulu Township Authority"
+    ],
     "name:eng_x_variant":[
         "Kasulu Township Authority"
     ],
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1108693073,
-    "wof:lastmodified":1512516808,
+    "wof:lastmodified":1555047729,
     "wof:name":"Kasulu Township Authority",
     "wof:parent_id":85679669,
     "wof:placetype":"county",

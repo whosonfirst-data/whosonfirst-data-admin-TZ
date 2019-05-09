@@ -10,6 +10,12 @@
     "geom:latitude":-9.223481,
     "geom:longitude":34.146412,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Makete District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-9.128789,
     "lbl:longitude":34.095554,
     "meso:admin_1":"Njombe",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108693137,
-    "wof:lastmodified":1536615304,
+    "wof:lastmodified":1553718238,
     "wof:name":"Makete",
     "wof:parent_id":85679765,
     "wof:placetype":"county",

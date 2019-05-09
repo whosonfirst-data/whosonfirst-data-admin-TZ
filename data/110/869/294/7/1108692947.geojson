@@ -10,6 +10,12 @@
     "geom:latitude":-6.311685,
     "geom:longitude":38.409017,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Bagamoyo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.349459,
     "lbl:longitude":38.409061,
     "meso:admin_1":"Pwani",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108692947,
-    "wof:lastmodified":1536615295,
+    "wof:lastmodified":1553718231,
     "wof:name":"Bagamoyo",
     "wof:parent_id":85679691,
     "wof:placetype":"county",

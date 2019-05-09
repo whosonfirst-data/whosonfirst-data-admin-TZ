@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072626,
-    "geom:area_square_m":887212620.625638,
+    "geom:area_square_m":887212620.625857,
     "geom:bbox":"34.68761355,-9.034340048,35.144914778,-8.769074447",
     "geom:latitude":-8.901709,
     "geom:longitude":34.947182,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Makambako Township Authority District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-8.892649,
     "lbl:longitude":35.015749,
     "meso:admin_1":"Njombe",
@@ -25,6 +31,9 @@
     "mps:longitude":35.015749,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Makambako Township Authority"
+    ],
     "name:eng_x_variant":[
         "Makambako Township Authority"
     ],
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1108693145,
-    "wof:lastmodified":1512516809,
+    "wof:lastmodified":1555047730,
     "wof:name":"Makambako Township Authority",
     "wof:parent_id":85679765,
     "wof:placetype":"county",

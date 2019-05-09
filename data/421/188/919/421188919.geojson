@@ -10,6 +10,12 @@
     "geom:latitude":-1.853994,
     "geom:longitude":33.590584,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Musoma District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.887373,
     "lbl:longitude":33.61469,
     "meso:admin_1":"Mara",
@@ -27,7 +33,7 @@
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
-        "Musoma Rural"
+        "Musoma"
     ],
     "name:eng_x_variant":[
         "Musoma",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421188919,
-    "wof:lastmodified":1536616073,
+    "wof:lastmodified":1555047725,
     "wof:name":"Musoma",
     "wof:parent_id":85679743,
     "wof:placetype":"county",

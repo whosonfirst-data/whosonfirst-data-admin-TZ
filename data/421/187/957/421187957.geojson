@@ -10,6 +10,12 @@
     "geom:latitude":-6.105878,
     "geom:longitude":35.791215,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Dodoma Urban District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.10512,
     "lbl:longitude":35.796207,
     "meso:admin_1":"Dodoma",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421187957,
-    "wof:lastmodified":1536616046,
+    "wof:lastmodified":1553717457,
     "wof:name":"Dodoma Urban",
     "wof:parent_id":85679705,
     "wof:placetype":"county",

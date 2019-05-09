@@ -10,6 +10,12 @@
     "geom:latitude":-6.014816,
     "geom:longitude":36.54622,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Kongwa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.020723,
     "lbl:longitude":36.511354,
     "meso:admin_1":"Dodoma",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108692895,
-    "wof:lastmodified":1536615293,
+    "wof:lastmodified":1553718227,
     "wof:name":"Kongwa",
     "wof:parent_id":85679705,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-2.573212,
     "geom:longitude":34.307975,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Bariadi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-2.491726,
     "lbl:longitude":34.18694,
     "meso:admin_1":"Simiyu",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421187951,
-    "wof:lastmodified":1536616045,
+    "wof:lastmodified":1553717457,
     "wof:name":"Bariadi",
     "wof:parent_id":85679755,
     "wof:placetype":"county",

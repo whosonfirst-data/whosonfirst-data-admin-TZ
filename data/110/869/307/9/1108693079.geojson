@@ -10,6 +10,12 @@
     "geom:latitude":-3.628861,
     "geom:longitude":33.09652,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Shinyanga Rural District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-3.622351,
     "lbl:longitude":33.103009,
     "meso:admin_1":"Shinyanga",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108693079,
-    "wof:lastmodified":1536615301,
+    "wof:lastmodified":1553718236,
     "wof:name":"Shinyanga Rural",
     "wof:parent_id":85679657,
     "wof:placetype":"county",

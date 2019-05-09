@@ -10,6 +10,12 @@
     "geom:latitude":-4.387762,
     "geom:longitude":33.012428,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Nzega District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.391461,
     "lbl:longitude":33.020845,
     "meso:admin_1":"Tabora",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1108693033,
-    "wof:lastmodified":1536615299,
+    "wof:lastmodified":1553718235,
     "wof:name":"Nzega",
     "wof:parent_id":85679661,
     "wof:placetype":"county",

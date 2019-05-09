@@ -10,6 +10,12 @@
     "geom:latitude":-5.275716,
     "geom:longitude":32.134969,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Urambo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-5.290591,
     "lbl:longitude":32.141049,
     "meso:admin_1":"Tabora",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1108693041,
-    "wof:lastmodified":1536615300,
+    "wof:lastmodified":1553718234,
     "wof:name":"Urambo",
     "wof:parent_id":85679661,
     "wof:placetype":"county",

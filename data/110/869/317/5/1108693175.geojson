@@ -10,6 +10,12 @@
     "geom:latitude":-5.380464,
     "geom:longitude":39.706554,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Mkoani District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-5.376958,
     "lbl:longitude":39.719439,
     "meso:admin_1":"Kusini Pemba",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108693175,
-    "wof:lastmodified":1536615306,
+    "wof:lastmodified":1553718244,
     "wof:name":"Mkoani",
     "wof:parent_id":85679687,
     "wof:placetype":"county",

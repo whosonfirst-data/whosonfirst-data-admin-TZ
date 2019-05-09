@@ -10,6 +10,12 @@
     "geom:latitude":-6.039301,
     "geom:longitude":33.095824,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Sikonge District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.066041,
     "lbl:longitude":33.19846,
     "meso:admin_1":"Tabora",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108693043,
-    "wof:lastmodified":1536615300,
+    "wof:lastmodified":1553718235,
     "wof:name":"Sikonge",
     "wof:parent_id":85679661,
     "wof:placetype":"county",

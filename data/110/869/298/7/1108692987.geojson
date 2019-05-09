@@ -10,6 +10,12 @@
     "geom:latitude":-10.429045,
     "geom:longitude":35.522267,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Songea Rural District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-10.212855,
     "lbl:longitude":35.446443,
     "meso:admin_1":"Ruvuma",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108692987,
-    "wof:lastmodified":1536615297,
+    "wof:lastmodified":1553718232,
     "wof:name":"Songea Rural",
     "wof:parent_id":85679723,
     "wof:placetype":"county",

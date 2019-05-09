@@ -10,6 +10,12 @@
     "geom:latitude":-4.316191,
     "geom:longitude":37.091043,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Simanjiro District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.148138,
     "lbl:longitude":37.090999,
     "meso:admin_1":"Manyara",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421178387,
-    "wof:lastmodified":1536615963,
+    "wof:lastmodified":1553717371,
     "wof:name":"Simanjiro",
     "wof:parent_id":85679733,
     "wof:placetype":"county",

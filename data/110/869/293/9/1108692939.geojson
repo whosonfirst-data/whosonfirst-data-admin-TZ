@@ -10,6 +10,12 @@
     "geom:latitude":-6.778727,
     "geom:longitude":37.663501,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Morogoro Urban District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.779875,
     "lbl:longitude":37.669235,
     "meso:admin_1":"Morogoro",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108692939,
-    "wof:lastmodified":1536615295,
+    "wof:lastmodified":1553718226,
     "wof:name":"Morogoro Urban",
     "wof:parent_id":85679677,
     "wof:placetype":"county",

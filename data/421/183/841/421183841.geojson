@@ -10,6 +10,12 @@
     "geom:latitude":-7.271197,
     "geom:longitude":39.158009,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Mkuranga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-7.306966,
     "lbl:longitude":39.161667,
     "meso:admin_1":"Pwani",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421183841,
-    "wof:lastmodified":1536616013,
+    "wof:lastmodified":1553717420,
     "wof:name":"Mkuranga",
     "wof:parent_id":85679691,
     "wof:placetype":"county",

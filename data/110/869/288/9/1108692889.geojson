@@ -10,6 +10,12 @@
     "geom:latitude":-4.741713,
     "geom:longitude":35.899225,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Kondoa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.655585,
     "lbl:longitude":35.930494,
     "meso:admin_1":"Dodoma",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108692889,
-    "wof:lastmodified":1536615293,
+    "wof:lastmodified":1553718229,
     "wof:name":"Kondoa",
     "wof:parent_id":85679705,
     "wof:placetype":"county",

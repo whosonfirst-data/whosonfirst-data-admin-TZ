@@ -10,6 +10,12 @@
     "geom:latitude":-6.932808,
     "geom:longitude":39.149243,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Ilala District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.910039,
     "lbl:longitude":39.16296,
     "meso:admin_1":"Dar-es-salaam",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108692955,
-    "wof:lastmodified":1536615296,
+    "wof:lastmodified":1553718229,
     "wof:name":"Ilala",
     "wof:parent_id":85679675,
     "wof:placetype":"county",

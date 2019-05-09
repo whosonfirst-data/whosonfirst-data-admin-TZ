@@ -10,6 +10,12 @@
     "geom:latitude":-5.565083,
     "geom:longitude":38.300138,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Handeni District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-5.636595,
     "lbl:longitude":38.351336,
     "meso:admin_1":"Tanga",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108692923,
-    "wof:lastmodified":1536615294,
+    "wof:lastmodified":1553718226,
     "wof:name":"Handeni",
     "wof:parent_id":85679747,
     "wof:placetype":"county",

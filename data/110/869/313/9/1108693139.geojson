@@ -10,6 +10,12 @@
     "geom:latitude":-9.225419,
     "geom:longitude":35.18956,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Njombe Rural District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-9.201806,
     "lbl:longitude":35.19534,
     "meso:admin_1":"Njombe",
@@ -29,10 +35,11 @@
         "Njombe District"
     ],
     "name:eng_x_preferred":[
-        "Njombe District"
+        "Njombe Rural"
     ],
     "name:eng_x_variant":[
-        "Njombe"
+        "Njombe",
+        "Njombe Rural"
     ],
     "name:ger_x_preferred":[
         "Njombe"
@@ -70,7 +77,7 @@
         }
     ],
     "wof:id":1108693139,
-    "wof:lastmodified":1536615304,
+    "wof:lastmodified":1555047730,
     "wof:name":"Njombe Rural",
     "wof:parent_id":85679765,
     "wof:placetype":"county",

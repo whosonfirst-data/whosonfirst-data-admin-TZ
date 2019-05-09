@@ -10,6 +10,12 @@
     "geom:latitude":-3.092937,
     "geom:longitude":37.490285,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Rombo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-3.089626,
     "lbl:longitude":37.493856,
     "meso:admin_1":"Kilimanjaro",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421171981,
-    "wof:lastmodified":1536615936,
+    "wof:lastmodified":1553717334,
     "wof:name":"Rombo",
     "wof:parent_id":85679737,
     "wof:placetype":"county",

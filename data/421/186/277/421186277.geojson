@@ -10,6 +10,12 @@
     "geom:latitude":-6.411144,
     "geom:longitude":34.451358,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Manyoni District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.373718,
     "lbl:longitude":34.529003,
     "meso:admin_1":"Singida",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421186277,
-    "wof:lastmodified":1536616034,
+    "wof:lastmodified":1553717449,
     "wof:name":"Manyoni",
     "wof:parent_id":85679727,
     "wof:placetype":"county",

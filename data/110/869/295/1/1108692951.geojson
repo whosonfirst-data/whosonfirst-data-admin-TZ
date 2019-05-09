@@ -10,6 +10,12 @@
     "geom:latitude":-7.870189,
     "geom:longitude":39.754865,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Mafia District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-7.842963,
     "lbl:longitude":39.779678,
     "meso:admin_1":"Pwani",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108692951,
-    "wof:lastmodified":1536615295,
+    "wof:lastmodified":1553718230,
     "wof:name":"Mafia",
     "wof:parent_id":85679691,
     "wof:placetype":"county",

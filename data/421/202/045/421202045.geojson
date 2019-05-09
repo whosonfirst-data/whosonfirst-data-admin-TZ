@@ -10,6 +10,12 @@
     "geom:latitude":-6.167693,
     "geom:longitude":39.251392,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Magharibi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.221103,
     "lbl:longitude":39.250568,
     "meso:admin_1":"Mjini Magharibi",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421202045,
-    "wof:lastmodified":1536616142,
+    "wof:lastmodified":1553717558,
     "wof:name":"Magharibi",
     "wof:parent_id":85679699,
     "wof:placetype":"county",

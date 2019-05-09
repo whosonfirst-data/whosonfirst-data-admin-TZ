@@ -10,6 +10,12 @@
     "geom:latitude":-2.86752,
     "geom:longitude":32.174217,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Geita District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-2.920018,
     "lbl:longitude":32.180788,
     "meso:admin_1":"Geita",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1108693163,
-    "wof:lastmodified":1536615305,
+    "wof:lastmodified":1553718240,
     "wof:name":"Geita",
     "wof:parent_id":85679761,
     "wof:placetype":"county",

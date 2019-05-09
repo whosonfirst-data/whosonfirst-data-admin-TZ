@@ -10,6 +10,12 @@
     "geom:latitude":-8.930361,
     "geom:longitude":33.405047,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Mbeya Rural District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-9.038975,
     "lbl:longitude":33.330904,
     "meso:admin_1":"Mbeya",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108693007,
-    "wof:lastmodified":1536615298,
+    "wof:lastmodified":1553718231,
     "wof:name":"Mbeya Rural",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

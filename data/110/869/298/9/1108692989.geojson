@@ -10,6 +10,12 @@
     "geom:latitude":-10.773726,
     "geom:longitude":34.988772,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Mbinga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-10.706466,
     "lbl:longitude":34.966432,
     "meso:admin_1":"Ruvuma",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1108692989,
-    "wof:lastmodified":1536615297,
+    "wof:lastmodified":1553718232,
     "wof:name":"Mbinga",
     "wof:parent_id":85679723,
     "wof:placetype":"county",

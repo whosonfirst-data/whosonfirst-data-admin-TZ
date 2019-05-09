@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.25006,
-    "geom:area_square_m":3088201546.416267,
+    "geom:area_square_m":3088201546.415627,
     "geom:bbox":"31.402933546,-3.396643676,31.930120375,-2.29304917",
     "geom:latitude":-2.84248,
     "geom:longitude":31.681623,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Chato District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-2.973826,
     "lbl:longitude":31.721399,
     "meso:admin_1":"Geita",
@@ -25,6 +31,9 @@
     "mps:longitude":31.721399,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Chato"
+    ],
     "name:eng_x_variant":[
         "Chato"
     ],
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1108693171,
-    "wof:lastmodified":1512516810,
+    "wof:lastmodified":1555047731,
     "wof:name":"Chato",
     "wof:parent_id":85679761,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-4.154573,
     "geom:longitude":30.979339,
     "iso:country":"TZ",
+    "label:eng_x_preferred_longname":[
+        "Kibondo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-3.960337,
     "lbl:longitude":30.989951,
     "meso:admin_1":"Kigoma",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108693059,
-    "wof:lastmodified":1536615300,
+    "wof:lastmodified":1553718236,
     "wof:name":"Kibondo",
     "wof:parent_id":85679669,
     "wof:placetype":"county",
