@@ -39,14 +39,14 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Zanzibar Urb\u00e0-Oest"
     ],
-    "name:chi_x_preferred":[
-        "\u5c1a\u897f\u5df4\u897f\u5340"
-    ],
     "name:dan_x_preferred":[
         "Unguja Mjini Magharibi"
     ],
-    "name:dut_x_preferred":[
-        "Stedelijk- en West-Zanzibar"
+    "name:deu_x_preferred":[
+        "Zanzibar Urban/West"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c4\u03b6\u03af\u03bd\u03b9 \u039c\u03b1\u03b3\u03ba\u03c7\u03b1\u03c1\u03af\u03bc\u03c0\u03b9"
     ],
     "name:eng_x_preferred":[
         "Zanzibar West"
@@ -58,23 +58,17 @@
     "name:epo_x_preferred":[
         "Regiono Urba-Okcidenta Ungu\u0135o"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0632\u0646\u06af\u0628\u0627\u0631\u0634\u0647\u0631\u06cc-\u063a\u0631\u0628\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Zanzibar Urban/West Region"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Unguja Ville et Ouest"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d0\u10e1\u10d0\u10d5\u10da\u10d4\u10d7 \u10d6\u10d0\u10dc\u10d6\u10d8\u10d1\u10d0\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Zanzibar Urban/West"
     ],
     "name:glg_x_preferred":[
         "Zanz\u00edbar Urbano/Oeste"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c4\u03b6\u03af\u03bd\u03b9 \u039c\u03b1\u03b3\u03ba\u03c7\u03b1\u03c1\u03af\u03bc\u03c0\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abe\u0a82\u0a9d\u0ac0\u0aac\u0abe\u0ab0 \u0a85\u0ab0\u0acd\u0aac\u0aa8 / \u0aaa\u0ab6\u0acd\u0a9a\u0abf\u0aae \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -97,6 +91,9 @@
     "name:kan_x_preferred":[
         "\u0c9c\u0c82\u0c9c\u0cbf\u0cac\u0cbe\u0cb0\u0ccd \u0c85\u0cb0\u0ccd\u0cac\u0ca8\u0ccd / \u0cb5\u0cc6\u0cb8\u0ccd\u0c9f\u0ccd \u0cb0\u0cc0\u0c9c\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10e1\u10d0\u10d5\u10da\u10d4\u10d7 \u10d6\u10d0\u10dc\u10d6\u10d8\u10d1\u10d0\u10e0\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc794\uc9c0\ubc14\ub974 \ub3c4\uc2dc\u00b7\uc11c\ubd80 \uc8fc"
     ],
@@ -106,20 +103,20 @@
     "name:lit_x_preferred":[
         "Zanzibaro vakarinis regionas"
     ],
-    "name:mac_x_preferred":[
-        "\u0417\u0430\u043d\u0437\u0438\u0431\u0430\u0440 \u0413\u0440\u0430\u0434/\u0417\u0430\u043f\u0430\u0434"
-    ],
     "name:mar_x_preferred":[
         "\u091d\u093e\u0902\u091d\u093f\u092c\u093e\u0930 \u0936\u0939\u0930\u0940/\u092a\u0936\u094d\u091a\u093f\u092e \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0417\u0430\u043d\u0437\u0438\u0431\u0430\u0440 \u0413\u0440\u0430\u0434/\u0417\u0430\u043f\u0430\u0434"
+    ],
+    "name:msa_x_preferred":[
         "Mjini Magharibi Region"
+    ],
+    "name:nld_x_preferred":[
+        "Stedelijk- en West-Zanzibar"
     ],
     "name:nob_x_preferred":[
         "Unguja Mjini Magharibi"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0632\u0646\u06af\u0628\u0627\u0631\u0634\u0647\u0631\u06cc-\u063a\u0631\u0628\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0646\u06af\u0631\u06cc \u0632\u0646\u0628\u062c\u0627\u0631"
@@ -130,7 +127,7 @@
     "name:por_x_preferred":[
         "Zanzibar Urban/West"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Zanzibar West"
     ],
     "name:rus_x_preferred":[
@@ -187,6 +184,9 @@
     ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Zanzibar \u00ccl\u00fa/\u00ccw\u1ecd\u0300or\u00f9n"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c1a\u897f\u5df4\u897f\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TZA",
@@ -310,7 +310,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550581,
+    "wof:lastmodified":1561775566,
     "wof:name":"Zanzibar West",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

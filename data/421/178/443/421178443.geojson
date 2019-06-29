@@ -17,11 +17,8 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0633\u0648\u0644\u0648"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u8607\u76e7"
-    ],
-    "name:dut_x_preferred":[
-        "Kasulu"
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03c4\u03b9\u03ba\u03ae \u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039a\u03b1\u03c3\u03bf\u03cd\u03bb\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Kasulu"
@@ -29,19 +26,16 @@
     "name:fin_x_preferred":[
         "Kasulu"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kasulu"
     ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c3\u03c4\u03b9\u03ba\u03ae \u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039a\u03b1\u03c3\u03bf\u03cd\u03bb\u03bf\u03c5"
+    "name:nld_x_preferred":[
+        "Kasulu"
     ],
     "name:por_x_preferred":[
         "Kasulu"
     ],
     "name:ron_x_preferred":[
-        "Kasulu"
-    ],
-    "name:rum_x_preferred":[
         "Kasulu"
     ],
     "name:rus_x_preferred":[
@@ -55,6 +49,9 @@
     ],
     "name:unk_x_variant":[
         "Kassulo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u8607\u76e7"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tanzania",
@@ -198,7 +195,7 @@
         }
     ],
     "wof:id":421178443,
-    "wof:lastmodified":1527717725,
+    "wof:lastmodified":1561775627,
     "wof:name":"Kasulu",
     "wof:parent_id":1108693073,
     "wof:placetype":"locality",

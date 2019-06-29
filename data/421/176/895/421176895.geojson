@@ -16,10 +16,10 @@
     "name:bul_x_preferred":[
         "\u041d\u0430\u043d\u0441\u0438\u043e"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Nansio"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Nansio"
     ],
     "name:swa_x_preferred":[
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":421176895,
-    "wof:lastmodified":1527726470,
+    "wof:lastmodified":1561775628,
     "wof:name":"Nansio",
     "wof:parent_id":85679655,
     "wof:placetype":"locality",

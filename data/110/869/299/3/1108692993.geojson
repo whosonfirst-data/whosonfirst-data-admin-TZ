@@ -34,15 +34,15 @@
     "name:bul_x_preferred":[
         "\u041d\u0430\u043c\u0442\u0443\u043c\u0431\u043e"
     ],
+    "name:deu_x_preferred":[
+        "Namtumbo"
+    ],
     "name:eng_x_preferred":[
         "Namtumbo"
     ],
     "name:eng_x_variant":[
         "Namtumbo",
         "Namtumbo District"
-    ],
-    "name:ger_x_preferred":[
-        "Namtumbo"
     ],
     "name:swa_x_preferred":[
         "Wilaya ya Namtumbo"
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1108692993,
-    "wof:lastmodified":1553718228,
+    "wof:lastmodified":1561775608,
     "wof:name":"Namtumbo",
     "wof:parent_id":85679723,
     "wof:placetype":"county",

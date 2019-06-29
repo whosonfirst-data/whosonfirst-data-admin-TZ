@@ -39,14 +39,14 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Pemba del Nord"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u5954\u5df4\u5340"
-    ],
     "name:dan_x_preferred":[
         "Pemba Kaskazini"
     ],
-    "name:dut_x_preferred":[
-        "Noord-Pemba"
+    "name:deu_x_preferred":[
+        "Pemba Kaskazini"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ad\u03bc\u03c0\u03b1 \u039d\u03bf\u03c1\u03b8 \u03a1\u03af\u03c4\u03b6\u03b9\u03bf\u03bd"
     ],
     "name:eng_x_preferred":[
         "Pemba North"
@@ -58,23 +58,17 @@
     "name:epo_x_preferred":[
         "Regiono Norda Pembo"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u067e\u0645\u0628\u0627\u06cc \u0634\u0645\u0627\u0644\u06cc"
+    ],
     "name:fin_x_preferred":[
         "North Pemban maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pemba Nord"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7\u10d8 \u10de\u10d4\u10db\u10d1\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Pemba Kaskazini"
     ],
     "name:glg_x_preferred":[
         "Pemba Norte"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03ad\u03bc\u03c0\u03b1 \u039d\u03bf\u03c1\u03b8 \u03a1\u03af\u03c4\u03b6\u03b9\u03bf\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0aa4\u0acd\u0aa4\u0ab0 \u0aaa\u0ac7\u0aae\u0acd\u0aac\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -97,6 +91,9 @@
     "name:kan_x_preferred":[
         "\u0c89\u0ca4\u0ccd\u0ca4\u0cb0 \u0caa\u0cc6\u0c82\u0cac\u0cbe \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7\u10d8 \u10de\u10d4\u10db\u10d1\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ud3a8\ubc14 \ubd81\ubd80 \uc8fc"
     ],
@@ -109,14 +106,14 @@
     "name:mar_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930 \u092a\u0947\u092e\u094d\u092c\u093e \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "North Pemba Region"
+    ],
+    "name:nld_x_preferred":[
+        "Noord-Pemba"
     ],
     "name:nob_x_preferred":[
         "Pemba Kaskazini"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u067e\u0645\u0628\u0627\u06cc \u0634\u0645\u0627\u0644\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u062a\u0644\u0627 \u067e\u0645\u0628\u0627"
@@ -127,7 +124,7 @@
     "name:por_x_preferred":[
         "Pemba Norte"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Pemba North"
     ],
     "name:rus_x_preferred":[
@@ -184,6 +181,9 @@
     ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Pemba \u00c0r\u00edw\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u5954\u5df4\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TZA",
@@ -310,7 +310,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550624,
+    "wof:lastmodified":1561775569,
     "wof:name":"Kaskazini-Pemba",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

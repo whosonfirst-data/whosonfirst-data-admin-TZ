@@ -16,10 +16,10 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u043f\u0443\u043a\u0430"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Sepuka"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Sepuka"
     ],
     "name:swa_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":421166971,
-    "wof:lastmodified":1527716104,
+    "wof:lastmodified":1561775620,
     "wof:name":"Sipuka",
     "wof:parent_id":1108693029,
     "wof:placetype":"locality",

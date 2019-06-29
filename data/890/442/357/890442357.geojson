@@ -18,10 +18,10 @@
     "name:bul_x_preferred":[
         "\u0418\u043b\u0435\u043c\u0431\u0443\u043b\u0430"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Ilembula"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Ilembula"
     ],
     "name:swa_x_preferred":[
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":890442357,
-    "wof:lastmodified":1527792856,
+    "wof:lastmodified":1561775629,
     "wof:name":"Ilembula",
     "wof:parent_id":1108693135,
     "wof:placetype":"locality",

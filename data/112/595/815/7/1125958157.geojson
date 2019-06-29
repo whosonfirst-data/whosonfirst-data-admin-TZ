@@ -22,10 +22,10 @@
     "name:bul_x_preferred":[
         "\u0418\u0437\u0430\u0437\u0438"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Izazi"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Izazi"
     ],
     "name:swa_x_preferred":[
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":1125958157,
-    "wof:lastmodified":1514508414,
+    "wof:lastmodified":1561775630,
     "wof:name":"Izazi",
     "wof:parent_id":421187959,
     "wof:placetype":"locality",

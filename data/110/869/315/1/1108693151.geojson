@@ -31,15 +31,15 @@
     "mps:longitude":31.757888,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039c\u03bb\u03ad\u03bb\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Mlele"
     ],
     "name:eng_x_variant":[
         "Mlele",
         "Mlele"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039c\u03bb\u03ad\u03bb\u03b5"
     ],
     "name:nob_x_preferred":[
         "Mlele"
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1108693151,
-    "wof:lastmodified":1555047731,
+    "wof:lastmodified":1561775604,
     "wof:name":"Mlele",
     "wof:parent_id":85679751,
     "wof:placetype":"county",

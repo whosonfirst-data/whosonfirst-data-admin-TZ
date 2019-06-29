@@ -32,8 +32,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Pangani"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03a0\u03b1\u03bd\u03b3\u03ba\u03ac\u03bd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Pangani"
@@ -42,8 +42,8 @@
         "Pangani",
         "Pangani District"
     ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03a0\u03b1\u03bd\u03b3\u03ba\u03ac\u03bd\u03b9"
+    "name:nld_x_preferred":[
+        "Pangani"
     ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"ADM2",
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":421203229,
-    "wof:lastmodified":1553717566,
+    "wof:lastmodified":1561775621,
     "wof:name":"Pangani",
     "wof:parent_id":85679747,
     "wof:placetype":"county",

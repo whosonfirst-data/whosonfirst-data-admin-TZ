@@ -23,22 +23,19 @@
     "name:deu_x_preferred":[
         "Wete"
     ],
-    "name:dut_x_preferred":[
-        "Wete"
-    ],
     "name:eng_x_preferred":[
         "Wete"
     ],
     "name:epo_x_preferred":[
         "Wete"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0648\u062a\u0647"
+    ],
     "name:fin_x_preferred":[
         "Wete"
     ],
-    "name:fre_x_preferred":[
-        "Wete"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Wete"
     ],
     "name:hrv_x_preferred":[
@@ -59,13 +56,7 @@
     "name:nor_x_preferred":[
         "Wete"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0648\u062a\u0647"
-    ],
     "name:ron_x_preferred":[
-        "Wete"
-    ],
-    "name:rum_x_preferred":[
         "Wete"
     ],
     "name:rus_x_preferred":[
@@ -228,7 +219,7 @@
         }
     ],
     "wof:id":421201985,
-    "wof:lastmodified":1527716435,
+    "wof:lastmodified":1561775626,
     "wof:name":"Wete",
     "wof:parent_id":421190259,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.073609,
-    "geom:area_square_m":13246317756.765316,
+    "geom:area_square_m":13246317756.768799,
     "geom:bbox":"36.889584966,-4.613710213,38.403605131,-2.849522468",
     "geom:latitude":-3.760131,
     "geom:longitude":37.640144,
@@ -39,17 +39,14 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Kilimanjaro"
     ],
-    "name:chi_x_preferred":[
-        "\u4e5e\u529b\u99ac\u624e\u7f85\u5340"
-    ],
     "name:dan_x_preferred":[
         "Kilimanjaro"
     ],
     "name:deu_x_preferred":[
         "Kilimandscharo"
     ],
-    "name:dut_x_preferred":[
-        "Kilimanjaro"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b9\u03bb\u03b9\u03bc\u03b1\u03bd\u03c4\u03b6\u03ac\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
         "Kilimanjaro"
@@ -69,20 +66,8 @@
     "name:fra_x_preferred":[
         "Kilimandjaro"
     ],
-    "name:fre_x_preferred":[
-        "Kilimandjaro"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d8\u10da\u10d8\u10db\u10d0\u10dc\u10ef\u10d0\u10e0\u10dd\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kilimandscharo"
-    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n do Kilimanjaro"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b9\u03bb\u03b9\u03bc\u03b1\u03bd\u03c4\u03b6\u03ac\u03c1\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0ab2\u0ac0\u0aae\u0a82\u0a9c\u0abe\u0ab0\u0acb \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -120,7 +105,7 @@
     "name:mar_x_preferred":[
         "\u0915\u093f\u0932\u0940\u092e\u0902\u091c\u093e\u0930\u094b \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Kilimanjaro"
     ],
     "name:nld_x_preferred":[
@@ -132,9 +117,6 @@
     "name:nor_x_preferred":[
         "Kilimanjaro"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0644\u06cc\u0645\u0627\u0646\u062c\u0627\u0631\u0648"
-    ],
     "name:pnb_x_preferred":[
         "\u06a9\u0644\u06cc\u0645\u0646\u062c\u0627\u0631\u0648(\u0635\u0648\u0628\u06c1)"
     ],
@@ -145,9 +127,6 @@
         "Kilimanjaro"
     ],
     "name:ron_x_preferred":[
-        "Regiunea Kilimanjaro"
-    ],
-    "name:rum_x_preferred":[
         "Regiunea Kilimanjaro"
     ],
     "name:rus_x_preferred":[
@@ -327,7 +306,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553814831,
+    "wof:lastmodified":1561775557,
     "wof:name":"Kilimanjaro",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

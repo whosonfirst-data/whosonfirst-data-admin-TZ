@@ -16,10 +16,10 @@
     "name:bul_x_preferred":[
         "\u041c\u0442\u0438\u043d\u043a\u043e"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Mtinko"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Mtinko"
     ],
     "name:swa_x_preferred":[
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":421196815,
-    "wof:lastmodified":1527716366,
+    "wof:lastmodified":1561775625,
     "wof:name":"Mtinko",
     "wof:parent_id":1108693025,
     "wof:placetype":"locality",

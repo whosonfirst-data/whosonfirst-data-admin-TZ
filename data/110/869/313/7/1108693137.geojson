@@ -34,8 +34,11 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043a\u0435\u0442\u0435"
     ],
-    "name:dut_x_preferred":[
-        "Makete District"
+    "name:deu_x_preferred":[
+        "Makete"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039c\u03b1\u03ba\u03ad\u03c4\u03b5"
     ],
     "name:eng_x_preferred":[
         "Makete"
@@ -44,14 +47,11 @@
         "Makete",
         "Makete District"
     ],
-    "name:ger_x_preferred":[
-        "Makete"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039c\u03b1\u03ba\u03ad\u03c4\u03b5"
-    ],
     "name:ita_x_preferred":[
         "Distretto di Makete"
+    ],
+    "name:nld_x_preferred":[
+        "Makete District"
     ],
     "name:swa_x_preferred":[
         "Wilaya ya Makete"
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1108693137,
-    "wof:lastmodified":1553718238,
+    "wof:lastmodified":1561775605,
     "wof:name":"Makete",
     "wof:parent_id":85679765,
     "wof:placetype":"county",

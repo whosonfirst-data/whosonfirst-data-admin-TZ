@@ -17,11 +17,11 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0648\u063a\u0648\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u7f85\u572d"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Korogwe"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c1\u03cc\u03b3\u03ba\u03bf\u03c5\u03b5"
     ],
     "name:eng_x_preferred":[
         "Korogwe"
@@ -29,22 +29,19 @@
     "name:fin_x_preferred":[
         "Korogwe"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Korogwe"
-    ],
-    "name:ger_x_preferred":[
-        "Korogwe"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c1\u03cc\u03b3\u03ba\u03bf\u03c5\u03b5"
     ],
     "name:ita_x_preferred":[
+        "Korogwe"
+    ],
+    "name:nld_x_preferred":[
         "Korogwe"
     ],
     "name:por_x_preferred":[
         "Korogwe"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Korogwe"
     ],
     "name:rus_x_preferred":[
@@ -55,6 +52,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u043e\u0433\u0432\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u7f85\u572d"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tanzania",
@@ -175,7 +175,7 @@
         }
     ],
     "wof:id":1141907037,
-    "wof:lastmodified":1514508516,
+    "wof:lastmodified":1561775651,
     "wof:name":"Korogwe",
     "wof:parent_id":1108692919,
     "wof:placetype":"locality",

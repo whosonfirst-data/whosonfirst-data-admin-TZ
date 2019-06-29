@@ -17,13 +17,7 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0648\u063a\u0648\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u7f85\u572d"
-    ],
     "name:deu_x_preferred":[
-        "Korogwe"
-    ],
-    "name:dut_x_preferred":[
         "Korogwe"
     ],
     "name:ell_x_preferred":[
@@ -38,25 +32,16 @@
     "name:fra_x_preferred":[
         "Korogwe"
     ],
-    "name:fre_x_preferred":[
-        "Korogwe"
-    ],
-    "name:ger_x_preferred":[
-        "Korogwe"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c1\u03cc\u03b3\u03ba\u03bf\u03c5\u03b5"
-    ],
     "name:ita_x_preferred":[
+        "Korogwe"
+    ],
+    "name:nld_x_preferred":[
         "Korogwe"
     ],
     "name:por_x_preferred":[
         "Korogwe"
     ],
     "name:ron_x_preferred":[
-        "Korogwe"
-    ],
-    "name:rum_x_preferred":[
         "Korogwe"
     ],
     "name:rus_x_preferred":[
@@ -218,7 +203,7 @@
         }
     ],
     "wof:id":421166987,
-    "wof:lastmodified":1527716106,
+    "wof:lastmodified":1561775620,
     "wof:name":"Korogwe",
     "wof:parent_id":1108692931,
     "wof:placetype":"locality",

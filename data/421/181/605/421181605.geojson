@@ -23,16 +23,10 @@
     "name:bul_x_preferred":[
         "\u0418\u0440\u0438\u043d\u0433\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u6797\u52a0"
-    ],
     "name:dan_x_preferred":[
         "Iringa"
     ],
     "name:deu_x_preferred":[
-        "Iringa"
-    ],
-    "name:dut_x_preferred":[
         "Iringa"
     ],
     "name:ell_x_preferred":[
@@ -52,15 +46,6 @@
     ],
     "name:fra_x_preferred":[
         "Iringa"
-    ],
-    "name:fre_x_preferred":[
-        "Iringa"
-    ],
-    "name:ger_x_preferred":[
-        "Iringa"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03c1\u03af\u03bd\u03b3\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0ab0\u0ac0\u0a82\u0a97\u0abe"
@@ -101,7 +86,7 @@
     "name:mar_x_preferred":[
         "\u0907\u0930\u0940\u0902\u0917\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Iringa"
     ],
     "name:nld_x_preferred":[
@@ -113,9 +98,6 @@
     "name:nor_x_preferred":[
         "Iringa"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0631\u06cc\u0646\u06af\u0627"
-    ],
     "name:pol_x_preferred":[
         "Iringa"
     ],
@@ -123,9 +105,6 @@
         "Iringa"
     ],
     "name:ron_x_preferred":[
-        "Iringa"
-    ],
-    "name:rum_x_preferred":[
         "Iringa"
     ],
     "name:rus_x_preferred":[
@@ -320,7 +299,7 @@
         }
     ],
     "wof:id":421181605,
-    "wof:lastmodified":1527716323,
+    "wof:lastmodified":1561775624,
     "wof:name":"Iringa",
     "wof:parent_id":421198449,
     "wof:placetype":"locality",

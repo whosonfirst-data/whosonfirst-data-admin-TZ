@@ -19,20 +19,17 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0646\u062f\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u056b\u0576\u0564\u056b"
-    ],
     "name:bul_x_preferred":[
         "\u041b\u0438\u043d\u0434\u0438"
-    ],
-    "name:chi_x_preferred":[
-        "\u6797\u8fea"
     ],
     "name:dan_x_preferred":[
         "Lindi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lindi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03af\u03bd\u03c4\u03b9"
     ],
     "name:eng_x_preferred":[
         "Lindi"
@@ -43,23 +40,23 @@
     "name:est_x_preferred":[
         "Lindi"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0646\u062f\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Lindi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lindi"
-    ],
-    "name:ger_x_preferred":[
-        "Lindi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03af\u03bd\u03c4\u03b9"
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d9\u05e0\u05d3\u05d9"
     ],
     "name:hrv_x_preferred":[
         "Lindi"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u0576\u0564\u056b"
     ],
     "name:ita_x_preferred":[
         "Lindi"
@@ -73,11 +70,11 @@
     "name:lit_x_preferred":[
         "Lindis"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Lindi"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u06cc\u0646\u062f\u06cc"
+    "name:nob_x_preferred":[
+        "Lindi"
     ],
     "name:pol_x_preferred":[
         "Lindi"
@@ -85,7 +82,7 @@
     "name:por_x_preferred":[
         "Lindi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Lindi"
     ],
     "name:rus_x_preferred":[
@@ -110,6 +107,9 @@
         "Lindi"
     ],
     "name:yue_x_preferred":[
+        "\u6797\u8fea"
+    ],
+    "name:zho_x_preferred":[
         "\u6797\u8fea"
     ],
     "ne:ADM0CAP":0.0,
@@ -231,7 +231,7 @@
         }
     ],
     "wof:id":1141908899,
-    "wof:lastmodified":1534379470,
+    "wof:lastmodified":1561775650,
     "wof:name":"Lindi",
     "wof:parent_id":1108692967,
     "wof:placetype":"locality",

@@ -13,13 +13,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u6f58\u52a0\u5c3c"
-    ],
     "name:dan_x_preferred":[
         "Pangani"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Pangani"
     ],
     "name:eng_x_preferred":[
@@ -28,16 +25,16 @@
     "name:fin_x_preferred":[
         "Pangani"
     ],
-    "name:fre_x_preferred":[
-        "Pangani"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Pangani"
     ],
     "name:jpn_x_preferred":[
         "\u30d1\u30f3\u30ac\u30cb"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Pangani"
+    ],
+    "name:ron_x_preferred":[
         "Pangani"
     ],
     "name:swa_x_preferred":[
@@ -51,6 +48,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0646\u06af\u0627\u0646\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u6f58\u52a0\u5c3c"
     ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"PPL",
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":421168503,
-    "wof:lastmodified":1527716090,
+    "wof:lastmodified":1561775619,
     "wof:name":"Pangani",
     "wof:parent_id":421203229,
     "wof:placetype":"locality",

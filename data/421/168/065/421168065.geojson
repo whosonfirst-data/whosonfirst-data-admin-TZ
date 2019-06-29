@@ -19,9 +19,6 @@
     "name:dan_x_preferred":[
         "Kidatu"
     ],
-    "name:dut_x_preferred":[
-        "Kidatu"
-    ],
     "name:eng_x_preferred":[
         "Kidatu"
     ],
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":421168065,
-    "wof:lastmodified":1527716092,
+    "wof:lastmodified":1561775620,
     "wof:name":"Kidatu",
     "wof:parent_id":1108692935,
     "wof:placetype":"locality",

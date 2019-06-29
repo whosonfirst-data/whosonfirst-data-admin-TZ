@@ -32,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Kyela"
+    ],
     "name:eng_x_preferred":[
         "Kyela"
     ],
@@ -39,10 +42,7 @@
         "Kyela",
         "Kyela District"
     ],
-    "name:fre_x_preferred":[
-        "Kyela"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kyela"
     ],
     "name:swa_x_preferred":[
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":421192909,
-    "wof:lastmodified":1553717515,
+    "wof:lastmodified":1561775620,
     "wof:name":"Kyela",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

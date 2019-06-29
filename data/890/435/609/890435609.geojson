@@ -30,13 +30,13 @@
     "name:bul_x_preferred":[
         "\u0417\u0430\u043d\u0437\u0438\u0431\u0430\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u6851\u7ed9\u5df4\u5c14\u5e02"
+    "name:ces_x_preferred":[
+        "Zanzibar"
     ],
     "name:cym_x_preferred":[
         "Sansibar"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_variant":[
         "Zanzibar"
     ],
     "name:dan_x_preferred":[
@@ -44,9 +44,6 @@
     ],
     "name:deu_x_preferred":[
         "Sansibar-Stadt"
-    ],
-    "name:dut_x_preferred":[
-        "Zanzibar"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03cc\u03bb\u03b7 \u03c4\u03b7\u03c2 \u0396\u03b1\u03bd\u03b6\u03b9\u03b2\u03ac\u03c1\u03b7\u03c2"
@@ -60,23 +57,17 @@
     "name:fas_x_preferred":[
         "\u0632\u0646\u06af\u0628\u0627\u0631"
     ],
+    "name:fas_x_variant":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0632\u0646\u06af\u0628\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "Zanzibar City"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zanzibar"
     ],
     "name:fry_x_preferred":[
         "S\u00e2nsibar"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d6\u10d0\u10dc\u10d6\u10d8\u10d1\u10d0\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Sansibar-Stadt"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03cc\u03bb\u03b7 \u03c4\u03b7\u03c2 \u0396\u03b1\u03bd\u03b6\u03b9\u03b2\u03ac\u03c1\u03b7\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abe\u0a82\u0a9d\u0ac0\u0aac\u0ab0 \u0ab6\u0ab9\u0ac7\u0ab0"
@@ -120,7 +111,7 @@
     "name:mar_x_preferred":[
         "\u091d\u093e\u0902\u091d\u093f\u092c\u093e\u0930 \u0936\u0939\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Zanzibar City"
     ],
     "name:nld_x_preferred":[
@@ -132,16 +123,13 @@
     "name:nor_x_preferred":[
         "Zanzibar by"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0632\u0646\u06af\u0628\u0627\u0631"
-    ],
     "name:pol_x_preferred":[
         "Zanzibar"
     ],
     "name:por_x_preferred":[
         "Zanzibar"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Zanzibar"
     ],
     "name:rus_x_preferred":[
@@ -150,7 +138,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0db1\u0dca\u0dc3\u0dd2\u0db6\u0dcf\u0dbb\u0dca \u0db1\u0d9c\u0dbb\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Zanzibar"
     ],
     "name:spa_x_preferred":[
@@ -196,9 +184,6 @@
         "Th\u00e0nh ph\u1ed1 Zanzibar"
     ],
     "name:war_x_preferred":[
-        "Zanzibar"
-    ],
-    "name:wel_x_preferred":[
         "Zanzibar"
     ],
     "name:yor_x_preferred":[
@@ -335,7 +320,7 @@
         }
     ],
     "wof:id":890435609,
-    "wof:lastmodified":1553816397,
+    "wof:lastmodified":1561775629,
     "wof:name":"Zanzibar",
     "wof:parent_id":1108693173,
     "wof:placetype":"locality",

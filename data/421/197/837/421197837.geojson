@@ -17,23 +17,20 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0647\u0627\u0645\u0627"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u54c8\u99ac"
-    ],
-    "name:dut_x_preferred":[
-        "Kahama"
-    ],
     "name:eng_x_preferred":[
         "Kahama"
     ],
     "name:fin_x_preferred":[
         "Kahama"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kahama"
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30cf\u30de"
+    ],
+    "name:nld_x_preferred":[
+        "Kahama"
     ],
     "name:pol_x_preferred":[
         "Kahama"
@@ -44,11 +41,11 @@
     "name:ron_x_preferred":[
         "Kahama"
     ],
-    "name:rum_x_preferred":[
-        "Kahama"
-    ],
     "name:swa_x_preferred":[
         "Kahama"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u54c8\u99ac"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tanzania",
@@ -192,7 +189,7 @@
         }
     ],
     "wof:id":421197837,
-    "wof:lastmodified":1527716406,
+    "wof:lastmodified":1561775626,
     "wof:name":"Kahama",
     "wof:parent_id":1108693083,
     "wof:placetype":"locality",

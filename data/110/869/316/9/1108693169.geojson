@@ -38,7 +38,7 @@
         "Bukombe",
         "Bukombe District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bukombe"
     ],
     "name:nob_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1108693169,
-    "wof:lastmodified":1553718239,
+    "wof:lastmodified":1561775610,
     "wof:name":"Bukombe",
     "wof:parent_id":85679761,
     "wof:placetype":"county",

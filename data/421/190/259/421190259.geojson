@@ -39,7 +39,7 @@
         "Wete",
         "Wete District"
     ],
-    "name:per_x_preferred":[
+    "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0648\u062a\u0647"
     ],
     "name:swa_x_preferred":[
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":421190259,
-    "wof:lastmodified":1553717491,
+    "wof:lastmodified":1561775625,
     "wof:name":"Wete",
     "wof:parent_id":85679683,
     "wof:placetype":"county",

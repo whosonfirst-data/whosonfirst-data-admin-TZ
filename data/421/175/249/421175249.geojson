@@ -14,22 +14,22 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Same"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bc\u03b5"
     ],
     "name:eng_x_preferred":[
         "Same"
     ],
-    "name:ger_x_preferred":[
-        "Same"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03bc\u03b5"
-    ],
     "name:jpn_x_preferred":[
         "\u30b5\u30e1"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Same"
+    ],
+    "name:ron_x_preferred":[
         "Same"
     ],
     "name:swa_x_preferred":[
@@ -176,7 +176,7 @@
         }
     ],
     "wof:id":421175249,
-    "wof:lastmodified":1514508930,
+    "wof:lastmodified":1561775624,
     "wof:name":"Same",
     "wof:parent_id":1108692913,
     "wof:placetype":"locality",

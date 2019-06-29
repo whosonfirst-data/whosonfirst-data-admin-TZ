@@ -38,6 +38,9 @@
     "name:cat_x_preferred":[
         "Districte de Kilwa"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039a\u03af\u03bb\u03bf\u03c5\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Kilwa"
     ],
@@ -45,11 +48,8 @@
         "Kilwa",
         "Kilwa District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kilwa"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039a\u03af\u03bb\u03bf\u03c5\u03b1"
     ],
     "name:jpn_x_preferred":[
         "\u30ad\u30eb\u30ef\u770c"
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":421187961,
-    "wof:lastmodified":1555037094,
+    "wof:lastmodified":1561775622,
     "wof:name":"Kilwa",
     "wof:parent_id":85679713,
     "wof:placetype":"county",
