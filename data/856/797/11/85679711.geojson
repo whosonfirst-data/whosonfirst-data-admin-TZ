@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.991096,
-    "geom:area_square_m":36641892226.047112,
+    "geom:area_square_m":36641892226.044792,
     "geom:bbox":"34.193339037,-9.040651408,36.844811467,-6.886497099",
     "geom:latitude":-7.801272,
     "geom:longitude":35.475212,
@@ -39,14 +39,14 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 d'Iringa"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u6797\u52a0\u5340"
-    ],
     "name:dan_x_preferred":[
         "Iringa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Iringa"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0399\u03c1\u03af\u03bd\u03b3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Iringa"
@@ -57,23 +57,17 @@
     "name:est_x_preferred":[
         "Iringa piirkond"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u06cc\u0631\u06cc\u0646\u06af\u0627"
+    ],
     "name:fin_x_preferred":[
         "Iringan alue"
     ],
-    "name:fre_x_preferred":[
-        "Iringa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10e0\u10d8\u10dc\u10d2\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Iringa"
     ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Iringa"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0399\u03c1\u03af\u03bd\u03b3\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a88\u0ab0\u0abf\u0a82\u0a97\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -96,6 +90,9 @@
     "name:kan_x_preferred":[
         "\u0c87\u0cb0\u0cbf\u0c82\u0c97 \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e0\u10d8\u10dc\u10d2\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc774\ub9c1\uac00 \uc8fc"
     ],
@@ -108,14 +105,14 @@
     "name:mar_x_preferred":[
         "\u0907\u0930\u0940\u0917\u093e \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Iringa Region"
+    ],
+    "name:nld_x_preferred":[
+        "Iringa"
     ],
     "name:nob_x_preferred":[
         "Iringa"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u06cc\u0631\u06cc\u0646\u06af\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0631\u0646\u06af\u0627"
@@ -126,7 +123,7 @@
     "name:por_x_preferred":[
         "Iringa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Iringa"
     ],
     "name:rus_x_preferred":[
@@ -176,6 +173,9 @@
     ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Iringa"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u6797\u52a0\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TZA",
@@ -300,7 +300,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553814831,
+    "wof:lastmodified":1561775555,
     "wof:name":"Iringa",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

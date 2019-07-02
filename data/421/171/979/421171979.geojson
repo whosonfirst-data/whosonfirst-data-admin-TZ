@@ -32,8 +32,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Ngorongoro District"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039d\u03b3\u03ba\u03bf\u03c1\u03bf\u03bd\u03b3\u03ba\u03cc\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
         "Ngorongoro"
@@ -42,17 +42,17 @@
         "Ngorongoro",
         "Ngorongoro District"
     ],
-    "name:fre_x_preferred":[
-        "District de Ngorongoro"
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u0646\u06af\u0648\u0631\u0648\u0646\u06af\u0648\u0631\u0648"
     ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039d\u03b3\u03ba\u03bf\u03c1\u03bf\u03bd\u03b3\u03ba\u03cc\u03c1\u03bf"
+    "name:fra_x_preferred":[
+        "District de Ngorongoro"
     ],
     "name:ita_x_preferred":[
         "Distretto di Ngorongoro"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u0646\u06af\u0648\u0631\u0648\u0646\u06af\u0648\u0631\u0648"
+    "name:nld_x_preferred":[
+        "Ngorongoro District"
     ],
     "name:pol_x_preferred":[
         "dystrykt Ngorongoro"
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":421171979,
-    "wof:lastmodified":1553717334,
+    "wof:lastmodified":1561775628,
     "wof:name":"Ngorongoro",
     "wof:parent_id":85679731,
     "wof:placetype":"county",

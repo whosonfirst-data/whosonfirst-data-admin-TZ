@@ -20,16 +20,10 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0433\u0430\u043c\u043e\u0439\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u52a0\u83ab\u7d04"
-    ],
     "name:dan_x_preferred":[
         "Bagamoyo"
     ],
     "name:deu_x_preferred":[
-        "Bagamoyo"
-    ],
-    "name:dut_x_preferred":[
         "Bagamoyo"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +33,6 @@
         "Bagamoyo"
     ],
     "name:fra_x_preferred":[
-        "Bagamoyo"
-    ],
-    "name:fre_x_preferred":[
-        "Bagamoyo"
-    ],
-    "name:ger_x_preferred":[
         "Bagamoyo"
     ],
     "name:glg_x_preferred":[
@@ -81,9 +69,6 @@
         "Bagamoyo"
     ],
     "name:ron_x_preferred":[
-        "Bagamoyo"
-    ],
-    "name:rum_x_preferred":[
         "Bagamoyo"
     ],
     "name:rus_x_preferred":[
@@ -255,7 +240,7 @@
         }
     ],
     "wof:id":421181463,
-    "wof:lastmodified":1527716323,
+    "wof:lastmodified":1561775624,
     "wof:name":"Bagamoyo",
     "wof:parent_id":1108692947,
     "wof:placetype":"locality",

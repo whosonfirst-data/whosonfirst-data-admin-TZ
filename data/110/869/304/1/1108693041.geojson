@@ -31,18 +31,18 @@
     "mps:longitude":32.141049,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Urambo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039f\u03c5\u03c1\u03ac\u03bc\u03c0\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Urambo"
     ],
     "name:eng_x_variant":[
         "Urambo",
         "Urambo District"
-    ],
-    "name:ger_x_preferred":[
-        "Urambo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039f\u03c5\u03c1\u03ac\u03bc\u03c0\u03bf"
     ],
     "name:swa_x_preferred":[
         "Wilaya ya Urambo"
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1108693041,
-    "wof:lastmodified":1553718234,
+    "wof:lastmodified":1561775606,
     "wof:name":"Urambo",
     "wof:parent_id":85679661,
     "wof:placetype":"county",

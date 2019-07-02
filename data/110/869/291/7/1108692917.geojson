@@ -31,11 +31,11 @@
     "mps:longitude":37.065186,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03a3\u03af\u03c7\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Siha"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03a3\u03af\u03c7\u03b1"
     ],
     "name:swa_x_preferred":[
         "Wilaya ya Siha"
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":1108692917,
-    "wof:lastmodified":1555047727,
+    "wof:lastmodified":1561775607,
     "wof:name":"Siha",
     "wof:parent_id":85679737,
     "wof:placetype":"county",

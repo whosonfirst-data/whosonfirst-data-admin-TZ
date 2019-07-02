@@ -20,17 +20,14 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0431\u0430\u0442\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u5df4\u8482"
-    ],
     "name:dan_x_preferred":[
         "Babati"
     ],
     "name:deu_x_preferred":[
         "Babati"
     ],
-    "name:dut_x_preferred":[
-        "Babati"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bc\u03c0\u03ac\u03c4\u03b9"
     ],
     "name:eng_x_preferred":[
         "Babati"
@@ -46,15 +43,6 @@
     ],
     "name:fra_x_preferred":[
         "Babati"
-    ],
-    "name:fre_x_preferred":[
-        "Babati"
-    ],
-    "name:ger_x_preferred":[
-        "Babati"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03bc\u03c0\u03ac\u03c4\u03b9"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d1\u05d8\u05d9"
@@ -80,9 +68,6 @@
     "name:nob_x_preferred":[
         "Babati"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0628\u0627\u062a\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Babati"
     ],
@@ -90,9 +75,6 @@
         "Babati"
     ],
     "name:ron_x_preferred":[
-        "Babati"
-    ],
-    "name:rum_x_preferred":[
         "Babati"
     ],
     "name:rus_x_preferred":[
@@ -261,7 +243,7 @@
         }
     ],
     "wof:id":421201983,
-    "wof:lastmodified":1527716435,
+    "wof:lastmodified":1561775626,
     "wof:name":"Babati",
     "wof:parent_id":1108693131,
     "wof:placetype":"locality",

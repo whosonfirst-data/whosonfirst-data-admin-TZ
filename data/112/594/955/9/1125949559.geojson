@@ -22,10 +22,10 @@
     "name:bul_x_preferred":[
         "\u041c\u0443\u043d\u0433\u0430"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Mungaa"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Mungaa"
     ],
     "name:swa_x_preferred":[
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1125949559,
-    "wof:lastmodified":1514508701,
+    "wof:lastmodified":1561775629,
     "wof:name":"Mungaa",
     "wof:parent_id":1108693029,
     "wof:placetype":"locality",

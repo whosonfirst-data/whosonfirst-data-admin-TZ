@@ -23,17 +23,14 @@
     "name:bul_x_preferred":[
         "\u0421\u043e\u043d\u0433\u0435\u044f"
     ],
-    "name:chi_x_preferred":[
-        "\u677e\u84cb\u963f"
-    ],
     "name:dan_x_preferred":[
         "Songea"
     ],
     "name:deu_x_preferred":[
         "Songea"
     ],
-    "name:dut_x_preferred":[
-        "Songea"
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03bd\u03b3\u03ba\u03ad\u03b1"
     ],
     "name:eng_x_preferred":[
         "Songea"
@@ -49,15 +46,6 @@
     ],
     "name:fra_x_preferred":[
         "Songea"
-    ],
-    "name:fre_x_preferred":[
-        "Songea"
-    ],
-    "name:ger_x_preferred":[
-        "Songea"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03bd\u03b3\u03ba\u03ad\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0aa8\u0acd\u0a97\u0abf\u0aaf\u0abe"
@@ -92,7 +80,7 @@
     "name:mar_x_preferred":[
         "\u0938\u094b\u0902\u091c\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Songea"
     ],
     "name:nld_x_preferred":[
@@ -104,9 +92,6 @@
     "name:nor_x_preferred":[
         "Songea"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0646\u06af\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Songea"
     ],
@@ -114,9 +99,6 @@
         "Songea"
     ],
     "name:ron_x_preferred":[
-        "Songea"
-    ],
-    "name:rum_x_preferred":[
         "Songea"
     ],
     "name:rus_x_preferred":[
@@ -314,7 +296,7 @@
         }
     ],
     "wof:id":421170423,
-    "wof:lastmodified":1527716460,
+    "wof:lastmodified":1561775626,
     "wof:name":"Songea",
     "wof:parent_id":1108692991,
     "wof:placetype":"locality",

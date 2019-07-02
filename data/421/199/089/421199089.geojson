@@ -14,9 +14,6 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Tunduma"
-    ],
     "name:eng_x_preferred":[
         "Tunduma"
     ],
@@ -25,6 +22,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c8\u30a5\u30f3\u30c9\u30a5\u30de"
+    ],
+    "name:nld_x_preferred":[
+        "Tunduma"
     ],
     "name:nob_x_preferred":[
         "Tunduma"
@@ -175,7 +175,7 @@
         }
     ],
     "wof:id":421199089,
-    "wof:lastmodified":1527716416,
+    "wof:lastmodified":1561775626,
     "wof:name":"Tunduma",
     "wof:parent_id":1108693021,
     "wof:placetype":"locality",

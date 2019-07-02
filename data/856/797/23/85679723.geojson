@@ -39,14 +39,14 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Ruvuma"
     ],
-    "name:chi_x_preferred":[
-        "\u9b6f\u4f0d\u99ac\u5340"
-    ],
     "name:dan_x_preferred":[
         "Ruvuma"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ruvuma"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03c5\u03b2\u03bf\u03cd\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ruvuma"
@@ -54,23 +54,17 @@
     "name:epo_x_preferred":[
         "Regiono Ruvuma"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0631\u0648\u0648\u0648\u0645\u0627"
+    ],
     "name:fin_x_preferred":[
         "Ruvuman alue"
     ],
-    "name:fre_x_preferred":[
-        "Ruvuma"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10e3\u10d5\u10e3\u10db\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ruvuma"
     ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Ruvuma"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03bf\u03c5\u03b2\u03bf\u03cd\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0ac1\u0ab5\u0ac1\u0aae\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -93,6 +87,9 @@
     "name:kan_x_preferred":[
         "\u0cb0\u0cc1\u0cb5\u0cc1\u0cae\u0cbe \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10e3\u10d5\u10e3\u10db\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub8e8\ubd80\ub9c8 \uc8fc"
     ],
@@ -102,20 +99,20 @@
     "name:lit_x_preferred":[
         "Ruvumos regionas"
     ],
-    "name:mac_x_preferred":[
-        "\u0420\u0443\u0432\u0443\u043c\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0930\u0941\u0935\u093e\u092e\u093e \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0420\u0443\u0432\u0443\u043c\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Ruvuma Region"
+    ],
+    "name:nld_x_preferred":[
+        "Ruvuma"
     ],
     "name:nob_x_preferred":[
         "Ruvuma"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0631\u0648\u0648\u0648\u0645\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0631\u0648\u0648\u0645\u0627"
@@ -126,7 +123,7 @@
     "name:por_x_preferred":[
         "Ruvuma"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Ruvuma"
     ],
     "name:rus_x_preferred":[
@@ -176,6 +173,9 @@
     ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Ruvuma"
+    ],
+    "name:zho_x_preferred":[
+        "\u9b6f\u4f0d\u99ac\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TZA",
@@ -302,7 +302,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550610,
+    "wof:lastmodified":1561775558,
     "wof:name":"Ruvuma",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

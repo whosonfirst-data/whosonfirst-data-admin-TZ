@@ -19,14 +19,14 @@
     "name:ara_x_preferred":[
         "\u064a\u0648\u0641\u064a\u0646\u0632\u0627"
     ],
-    "name:dut_x_preferred":[
-        "Uvinza"
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03b2\u03af\u03bd\u03b6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Uvinza"
     ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03b2\u03af\u03bd\u03b6\u03b1"
+    "name:nld_x_preferred":[
+        "Uvinza"
     ],
     "name:pol_x_preferred":[
         "Uvinza"
@@ -34,7 +34,7 @@
     "name:por_x_preferred":[
         "Uvinza"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Uvinza"
     ],
     "name:rus_x_preferred":[
@@ -162,7 +162,7 @@
         }
     ],
     "wof:id":1141907019,
-    "wof:lastmodified":1534379469,
+    "wof:lastmodified":1561775650,
     "wof:name":"Uvinza",
     "wof:parent_id":1108693065,
     "wof:placetype":"locality",

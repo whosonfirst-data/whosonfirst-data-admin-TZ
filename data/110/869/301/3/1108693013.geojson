@@ -34,18 +34,18 @@
     "name:bul_x_preferred":[
         "\u041c\u0431\u043e\u0437\u0438"
     ],
+    "name:deu_x_preferred":[
+        "Mbozi"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039c\u03c0\u03cc\u03b6\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Mbozi"
     ],
     "name:eng_x_variant":[
         "Mbozi",
         "Mbozi District"
-    ],
-    "name:ger_x_preferred":[
-        "Mbozi"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039c\u03c0\u03cc\u03b6\u03b9"
     ],
     "name:jpn_x_preferred":[
         "\u30f3\u30dc\u30b8\u770c"
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1108693013,
-    "wof:lastmodified":1553718232,
+    "wof:lastmodified":1561775601,
     "wof:name":"Mbozi",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

@@ -38,7 +38,7 @@
         "Liwale",
         "Liwale District"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Liwale"
     ],
     "name:swa_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1108692961,
-    "wof:lastmodified":1553718226,
+    "wof:lastmodified":1561775607,
     "wof:name":"Liwale",
     "wof:parent_id":85679713,
     "wof:placetype":"county",

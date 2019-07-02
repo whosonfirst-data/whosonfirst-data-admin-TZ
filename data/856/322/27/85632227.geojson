@@ -156,9 +156,6 @@
     "name:cym_x_variant":[
         "Tanzania"
     ],
-    "name:cze_x_preferred":[
-        "Tanzanie"
-    ],
     "name:cze_x_variant":[
         "Tanz\u00e1nie"
     ],
@@ -768,7 +765,6 @@
         "\u5766\u6851\u5c3c\u4e9a"
     ],
     "name:zho_x_variant":[
-        "\u5766\u6851\u5c3c\u4e9a",
         "\u5766\u5c1a\u5c3c\u4e9e"
     ],
     "name:zho_yue_x_preferred":[
@@ -929,7 +925,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1544059106,
+    "wof:lastmodified":1561775570,
     "wof:name":"Tanzania",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

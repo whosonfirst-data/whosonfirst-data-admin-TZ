@@ -41,7 +41,7 @@
     "name:jpn_x_preferred":[
         "\u30c1\u30e5\u30fc\u30cb\u30e3\u770c"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Chunya"
     ],
     "name:swa_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1108693005,
-    "wof:lastmodified":1553718231,
+    "wof:lastmodified":1561775600,
     "wof:name":"Chunya",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

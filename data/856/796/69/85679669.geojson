@@ -39,14 +39,14 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Kigoma"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u6208\u99ac\u5340"
-    ],
     "name:dan_x_preferred":[
         "Kigoma"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kigoma"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b9\u03b3\u03ba\u03cc\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Kigoma"
@@ -57,23 +57,17 @@
     "name:est_x_preferred":[
         "Kigoma piirkond"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u06cc\u06af\u0648\u0645\u0627"
+    ],
     "name:fin_x_preferred":[
         "Kigoman alue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "R\u00e9gion de Kigoma"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d8\u10d2\u10dd\u10db\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kigoma"
     ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Kigoma"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b9\u03b3\u03ba\u03cc\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0a97\u0acb\u0aae\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -99,6 +93,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cbf\u0c97\u0cca\u0cae\u0cbe \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10d2\u10dd\u10db\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud0a4\uace0\ub9c8 \uc8fc"
     ],
@@ -111,14 +108,14 @@
     "name:mar_x_preferred":[
         "\u0915\u093f\u0917\u094b\u092e\u093e \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kigoma Region"
+    ],
+    "name:nld_x_preferred":[
+        "Kigoma"
     ],
     "name:nob_x_preferred":[
         "Kigoma"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u06cc\u06af\u0648\u0645\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u06a9\u06cc\u06af\u0648\u0645\u0627"
@@ -129,7 +126,7 @@
     "name:por_x_preferred":[
         "Kigoma"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Kigoma"
     ],
     "name:rus_x_preferred":[
@@ -179,6 +176,9 @@
     ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Kigoma"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u6208\u99ac\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TZA",
@@ -305,7 +305,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550608,
+    "wof:lastmodified":1561775560,
     "wof:name":"Kigoma",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

@@ -14,10 +14,10 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Karema"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Karema"
     ],
     "ne:ADM0CAP":0.0,
@@ -159,7 +159,7 @@
         }
     ],
     "wof:id":421166981,
-    "wof:lastmodified":1527716107,
+    "wof:lastmodified":1561775620,
     "wof:name":"Karema",
     "wof:parent_id":1108693149,
     "wof:placetype":"locality",

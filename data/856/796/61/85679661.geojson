@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.150316,
-    "geom:area_square_m":75723087725.459396,
+    "geom:area_square_m":75723087725.456955,
     "geom:bbox":"31.038017399,-6.976729139,34.242038053,-3.876683972",
     "geom:latitude":-5.263757,
     "geom:longitude":32.821586,
@@ -39,14 +39,14 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Tabora"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u6ce2\u62c9\u5340"
-    ],
     "name:dan_x_preferred":[
         "Tabora"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tabora"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a4\u03b1\u03bc\u03c0\u03cc\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Tabora"
@@ -57,23 +57,17 @@
     "name:est_x_preferred":[
         "Tabora piirkond"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062a\u0627\u0628\u0648\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Taboran alue"
     ],
-    "name:fre_x_preferred":[
-        "Tabora"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10d1\u10dd\u10e0\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tabora"
     ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Tabora"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a4\u03b1\u03bc\u03c0\u03cc\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0aac\u0acb\u0ab0\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -96,6 +90,9 @@
     "name:kan_x_preferred":[
         "\u0c9f\u0cbe\u0cac\u0cb0\u0cbe \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10d1\u10dd\u10e0\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud0c0\ubcf4\ub77c \uc8fc"
     ],
@@ -108,14 +105,14 @@
     "name:mar_x_preferred":[
         "\u0924\u093e\u092c\u094b\u0930\u093e \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tabora Region"
+    ],
+    "name:nld_x_preferred":[
+        "Tabora"
     ],
     "name:nob_x_preferred":[
         "Tabora"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062a\u0627\u0628\u0648\u0631\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0679\u0627\u0628\u0648\u0631\u0627"
@@ -126,7 +123,7 @@
     "name:por_x_preferred":[
         "Tabora"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Tabora"
     ],
     "name:rus_x_preferred":[
@@ -176,6 +173,9 @@
     ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Tabora"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u6ce2\u62c9\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TZA",
@@ -302,7 +302,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553814830,
+    "wof:lastmodified":1561775559,
     "wof:name":"Tabora",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

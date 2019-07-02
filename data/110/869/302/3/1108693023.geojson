@@ -34,11 +34,11 @@
     "name:bul_x_preferred":[
         "\u0418\u0440\u0430\u043c\u0431\u0430"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u0399\u03c1\u03ac\u03bc\u03c0\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Iramba"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u0399\u03c1\u03ac\u03bc\u03c0\u03b1"
     ],
     "name:swa_x_preferred":[
         "Iramba"
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1108693023,
-    "wof:lastmodified":1553718234,
+    "wof:lastmodified":1561775606,
     "wof:name":"Iramba",
     "wof:parent_id":85679727,
     "wof:placetype":"county",

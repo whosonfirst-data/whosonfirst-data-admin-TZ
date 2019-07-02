@@ -32,15 +32,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039a\u03b9\u03c3\u03b1\u03c1\u03ac\u03bf\u03c5\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Kisarawe"
     ],
     "name:eng_x_variant":[
         "Kisarawe",
         "Kisarawe District"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039a\u03b9\u03c3\u03b1\u03c1\u03ac\u03bf\u03c5\u03b5"
     ],
     "name:swa_x_preferred":[
         "Wilaya ya Kisarawe"
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":421192907,
-    "wof:lastmodified":1553717516,
+    "wof:lastmodified":1561775620,
     "wof:name":"Kisarawe",
     "wof:parent_id":85679691,
     "wof:placetype":"county",

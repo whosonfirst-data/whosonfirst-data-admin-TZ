@@ -41,7 +41,7 @@
     "name:jpn_x_preferred":[
         "\u30d3\u30cf\u30e9\u30e0\u30ed"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Biharamulo"
     ],
     "name:swa_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1108693093,
-    "wof:lastmodified":1553718237,
+    "wof:lastmodified":1561775601,
     "wof:name":"Biharamulo",
     "wof:parent_id":85679665,
     "wof:placetype":"county",

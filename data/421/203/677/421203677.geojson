@@ -14,16 +14,13 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ngara"
     ],
     "name:eng_x_preferred":[
         "Ngara"
     ],
-    "name:fre_x_preferred":[
-        "Ngara"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ngara"
     ],
     "name:ita_x_preferred":[
@@ -33,6 +30,9 @@
         "\u30f3\u30ac\u30e9"
     ],
     "name:nds_x_preferred":[
+        "Ngara"
+    ],
+    "name:nld_x_preferred":[
         "Ngara"
     ],
     "name:nob_x_preferred":[
@@ -45,9 +45,6 @@
         "Ngara"
     ],
     "name:ron_x_preferred":[
-        "Ngara"
-    ],
-    "name:rum_x_preferred":[
         "Ngara"
     ],
     "name:rus_x_preferred":[
@@ -202,7 +199,7 @@
         }
     ],
     "wof:id":421203677,
-    "wof:lastmodified":1527716199,
+    "wof:lastmodified":1561775621,
     "wof:name":"Ngara",
     "wof:parent_id":1108693095,
     "wof:placetype":"locality",

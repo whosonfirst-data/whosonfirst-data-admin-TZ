@@ -30,9 +30,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u0627\u0646\u063a\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Tanga eskualdea"
-    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u0982\u0997\u09be \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -42,14 +39,14 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Tanga"
     ],
-    "name:chi_x_preferred":[
-        "\u5766\u5676\u533a"
-    ],
     "name:dan_x_preferred":[
         "Tanga"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tanga"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a4\u03ac\u03bd\u03b3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Tanga"
@@ -60,23 +57,20 @@
     "name:est_x_preferred":[
         "Tanga piirkond"
     ],
+    "name:eus_x_preferred":[
+        "Tanga eskualdea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062a\u0627\u0646\u06af\u0627"
+    ],
     "name:fin_x_preferred":[
         "Tangan alue"
     ],
-    "name:fre_x_preferred":[
-        "Tanga"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10dc\u10d2\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tanga"
     ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Tanga"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a4\u03ac\u03bd\u03b3\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0a82\u0a97\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -99,6 +93,9 @@
     "name:kan_x_preferred":[
         "\u0c9f\u0c82\u0c97\u0cbe \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10dc\u10d2\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud0d5\uac00 \uc8fc"
     ],
@@ -111,14 +108,14 @@
     "name:mar_x_preferred":[
         "\u0924\u0902\u0917\u093e \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tanga Region"
+    ],
+    "name:nld_x_preferred":[
+        "Tanga"
     ],
     "name:nob_x_preferred":[
         "Tanga"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062a\u0627\u0646\u06af\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0679\u0627\u0646\u06af\u0627"
@@ -129,7 +126,7 @@
     "name:por_x_preferred":[
         "Tanga"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Tanga"
     ],
     "name:rus_x_preferred":[
@@ -179,6 +176,9 @@
     ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Tanga"
+    ],
+    "name:zho_x_preferred":[
+        "\u5766\u5676\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TZA",
@@ -305,7 +305,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550597,
+    "wof:lastmodified":1561775558,
     "wof:name":"Tanga",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

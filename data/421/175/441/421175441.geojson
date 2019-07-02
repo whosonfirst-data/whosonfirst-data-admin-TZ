@@ -32,15 +32,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03a4\u03b1\u03c1\u03af\u03bc\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Tarime"
     ],
     "name:eng_x_variant":[
         "Tarime",
         "Tarime District"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03a4\u03b1\u03c1\u03af\u03bc\u03b5"
     ],
     "name:swa_x_preferred":[
         "Wilaya ya Tarime"
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":421175441,
-    "wof:lastmodified":1553717362,
+    "wof:lastmodified":1561775624,
     "wof:name":"Tarime",
     "wof:parent_id":85679743,
     "wof:placetype":"county",

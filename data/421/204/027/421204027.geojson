@@ -32,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039a\u03b9\u03bb\u03cc\u03c3\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Kilosa"
     ],
@@ -39,10 +42,7 @@
         "Kilosa",
         "Kilosa District"
     ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039a\u03b9\u03bb\u03cc\u03c3\u03b1"
-    ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kilosa"
     ],
     "name:swa_x_preferred":[
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":421204027,
-    "wof:lastmodified":1553717578,
+    "wof:lastmodified":1561775621,
     "wof:name":"Kilosa",
     "wof:parent_id":85679677,
     "wof:placetype":"county",

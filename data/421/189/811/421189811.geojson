@@ -26,17 +26,14 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u043a\u043e\u0431\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u79d1\u5df4"
-    ],
     "name:dan_x_preferred":[
         "Bukoba"
     ],
     "name:deu_x_preferred":[
         "Bukoba"
     ],
-    "name:dut_x_preferred":[
-        "Bukoba"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03ba\u03cc\u03bc\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
         "Bukoba"
@@ -56,15 +53,6 @@
     "name:fra_x_preferred":[
         "Bukoba"
     ],
-    "name:fre_x_preferred":[
-        "Bukoba"
-    ],
-    "name:ger_x_preferred":[
-        "Bukoba"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03c5\u03ba\u03cc\u03bc\u03c0\u03b1"
-    ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0a95\u0acb\u0aac\u0abe"
     ],
@@ -75,9 +63,6 @@
         "\u092c\u0941\u0915\u094b\u092c\u093e"
     ],
     "name:hrv_x_preferred":[
-        "Bukoba"
-    ],
-    "name:ice_x_preferred":[
         "Bukoba"
     ],
     "name:ind_x_preferred":[
@@ -107,7 +92,7 @@
     "name:mar_x_preferred":[
         "\u092c\u0941\u0915\u094b\u092c\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bukoba"
     ],
     "name:nld_x_preferred":[
@@ -119,9 +104,6 @@
     "name:nor_x_preferred":[
         "Bukoba"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u06a9\u0648\u0628\u0627"
-    ],
     "name:pol_x_preferred":[
         "Bukoba"
     ],
@@ -129,9 +111,6 @@
         "Bukoba"
     ],
     "name:ron_x_preferred":[
-        "Bukoba"
-    ],
-    "name:rum_x_preferred":[
         "Bukoba"
     ],
     "name:rus_x_preferred":[
@@ -320,7 +299,7 @@
         }
     ],
     "wof:id":421189811,
-    "wof:lastmodified":1527716264,
+    "wof:lastmodified":1561775623,
     "wof:name":"Bukoba",
     "wof:parent_id":1108693097,
     "wof:placetype":"locality",

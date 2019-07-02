@@ -16,14 +16,14 @@
     "name:deu_x_preferred":[
         "Liuli"
     ],
-    "name:dut_x_preferred":[
-        "Liuli"
+    "name:deu_x_variant":[
+        "Sphinxhafen"
     ],
     "name:eng_x_preferred":[
         "Liuli"
     ],
-    "name:ger_x_preferred":[
-        "Sphinxhafen"
+    "name:nld_x_preferred":[
+        "Liuli"
     ],
     "name:swa_x_preferred":[
         "Liuli"
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":421179681,
-    "wof:lastmodified":1527717702,
+    "wof:lastmodified":1561775627,
     "wof:name":"Liuli",
     "wof:parent_id":85679723,
     "wof:placetype":"locality",

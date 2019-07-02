@@ -31,18 +31,18 @@
     "mps:longitude":36.223656,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Kilolo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039a\u03b9\u03bb\u03cc\u03bb\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Kilolo"
     ],
     "name:eng_x_variant":[
         "Kilolo",
         "Kilolo District"
-    ],
-    "name:ger_x_preferred":[
-        "Kilolo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039a\u03b9\u03bb\u03cc\u03bb\u03bf"
     ],
     "name:ita_x_preferred":[
         "Distretto di Kilolo"
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1108693001,
-    "wof:lastmodified":1553718230,
+    "wof:lastmodified":1561775600,
     "wof:name":"Kilolo",
     "wof:parent_id":85679711,
     "wof:placetype":"county",

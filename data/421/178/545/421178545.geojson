@@ -16,16 +16,13 @@
     "name:deu_x_preferred":[
         "Mbinga"
     ],
-    "name:dut_x_preferred":[
-        "Mbinga"
-    ],
     "name:eng_x_preferred":[
         "Mbinga"
     ],
     "name:fra_x_preferred":[
         "Mbinga"
     ],
-    "name:fre_x_preferred":[
+    "name:nld_x_preferred":[
         "Mbinga"
     ],
     "name:swa_x_preferred":[
@@ -82,7 +79,7 @@
         }
     ],
     "wof:id":421178545,
-    "wof:lastmodified":1527717723,
+    "wof:lastmodified":1561775627,
     "wof:name":"Mbunga",
     "wof:parent_id":1108692989,
     "wof:placetype":"locality",

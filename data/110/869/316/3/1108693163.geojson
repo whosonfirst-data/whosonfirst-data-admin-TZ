@@ -38,11 +38,11 @@
         "Geita",
         "Geita District"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06af\u06cc\u062a\u0627"
+    ],
     "name:nob_x_preferred":[
         "Geita"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06af\u06cc\u062a\u0627"
     ],
     "name:por_x_preferred":[
         "Geita"
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1108693163,
-    "wof:lastmodified":1553718240,
+    "wof:lastmodified":1561775610,
     "wof:name":"Geita",
     "wof:parent_id":85679761,
     "wof:placetype":"county",

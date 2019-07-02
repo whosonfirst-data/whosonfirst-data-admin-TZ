@@ -22,25 +22,22 @@
     "name:bul_x_preferred":[
         "\u0422\u0443\u043a\u0443\u044e"
     ],
-    "name:chi_x_preferred":[
-        "\u5716\u5eab\u5c24"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tukuyu"
     ],
     "name:eng_x_preferred":[
         "Tukuyu"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tukuyu"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Tukuyu"
     ],
     "name:por_x_preferred":[
         "Tukuyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tukuyu"
     ],
     "name:swa_x_preferred":[
@@ -48,6 +45,9 @@
     ],
     "name:unk_x_variant":[
         "Neu-Langenberg"
+    ],
+    "name:zho_x_preferred":[
+        "\u5716\u5eab\u5c24"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tanzania",
@@ -176,7 +176,7 @@
         }
     ],
     "wof:id":890420633,
-    "wof:lastmodified":1527792808,
+    "wof:lastmodified":1561775629,
     "wof:name":"Tukuyu",
     "wof:parent_id":1108693009,
     "wof:placetype":"locality",
