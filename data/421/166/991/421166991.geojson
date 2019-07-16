@@ -13,8 +13,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Kisarawe"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039a\u03b9\u03c3\u03b1\u03c1\u03ac\u03bf\u03c5\u03b5"
+    ],
+    "name:eng_x_preferred":[
+        "Kisarawe District"
+    ],
     "name:unk_x_variant":[
         "Kiserawe"
+    ],
+    "name:vie_x_preferred":[
+        "Kisarawe"
     ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"PPL",
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":421166991,
-    "wof:lastmodified":1527716101,
+    "wof:lastmodified":1563283875,
     "wof:name":"Kisarawe",
     "wof:parent_id":421192907,
     "wof:placetype":"locality",

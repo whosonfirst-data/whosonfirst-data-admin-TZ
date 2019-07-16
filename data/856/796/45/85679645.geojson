@@ -39,6 +39,9 @@
     "name:cat_x_preferred":[
         "Rukwa"
     ],
+    "name:ceb_x_preferred":[
+        "Rukwa Region"
+    ],
     "name:dan_x_preferred":[
         "Rukwa"
     ],
@@ -168,8 +171,14 @@
     "name:vie_x_preferred":[
         "Rukwa"
     ],
+    "name:wuu_x_preferred":[
+        "\u9b6f\u5938\u5340"
+    ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Rukwa"
+    ],
+    "name:yue_x_preferred":[
+        "\u9b6f\u5938\u5340"
     ],
     "name:zho_x_preferred":[
         "\u9b6f\u5938\u5340"
@@ -297,7 +306,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561775560,
+    "wof:lastmodified":1563283198,
     "wof:name":"Rukwa",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

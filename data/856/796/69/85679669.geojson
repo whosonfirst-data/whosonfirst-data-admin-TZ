@@ -39,6 +39,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Kigoma"
     ],
+    "name:ceb_x_preferred":[
+        "Kigoma Region"
+    ],
     "name:dan_x_preferred":[
         "Kigoma"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:eng_x_preferred":[
         "Kigoma"
+    ],
+    "name:eng_x_variant":[
+        "Kigoma Region"
     ],
     "name:epo_x_preferred":[
         "Regiono Kigoma"
@@ -65,6 +71,9 @@
     ],
     "name:fra_x_preferred":[
         "R\u00e9gion de Kigoma"
+    ],
+    "name:fra_x_variant":[
+        "Kigoma"
     ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Kigoma"
@@ -174,8 +183,14 @@
     "name:vie_x_preferred":[
         "Kigoma"
     ],
+    "name:wuu_x_preferred":[
+        "\u57fa\u6208\u99ac\u5340"
+    ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Kigoma"
+    ],
+    "name:yue_x_preferred":[
+        "\u57fa\u6208\u99ac\u5340"
     ],
     "name:zho_x_preferred":[
         "\u57fa\u6208\u99ac\u5340"
@@ -305,7 +320,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561775560,
+    "wof:lastmodified":1563283196,
     "wof:name":"Kigoma",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

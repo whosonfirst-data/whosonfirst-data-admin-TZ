@@ -182,6 +182,9 @@
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Pemba \u00c0r\u00edw\u00e1"
     ],
+    "name:yue_x_preferred":[
+        "\u5317\u5954\u5df4\u5340"
+    ],
     "name:zho_x_preferred":[
         "\u5317\u5954\u5df4\u5340"
     ],
@@ -310,7 +313,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561775569,
+    "wof:lastmodified":1563283213,
     "wof:name":"Kaskazini-Pemba",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

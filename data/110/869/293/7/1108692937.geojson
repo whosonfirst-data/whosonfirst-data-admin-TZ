@@ -34,6 +34,9 @@
     "name:bul_x_preferred":[
         "\u0423\u043b\u0430\u043d\u0433\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Ulanga"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039f\u03c5\u03bb\u03ac\u03bd\u03b3\u03ba\u03b1"
     ],
@@ -41,11 +44,13 @@
         "Ulanga"
     ],
     "name:eng_x_variant":[
-        "Ulanga",
         "Ulanga District"
     ],
     "name:swa_x_preferred":[
         "Ulanga"
+    ],
+    "name:swe_x_preferred":[
+        "Morogoro Urban"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":1108692937,
-    "wof:lastmodified":1561775603,
+    "wof:lastmodified":1563283670,
     "wof:name":"Ulanga",
     "wof:parent_id":85679677,
     "wof:placetype":"county",

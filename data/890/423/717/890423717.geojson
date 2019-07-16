@@ -15,6 +15,21 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Same"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03a3\u03ac\u03bc\u03b5"
+    ],
+    "name:eng_x_preferred":[
+        "Same District"
+    ],
+    "name:vie_x_preferred":[
+        "Same"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u66fc\u52a0"
+    ],
     "qs:name":"Hedaru",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":890423717,
-    "wof:lastmodified":1527729728,
+    "wof:lastmodified":1563283943,
     "wof:name":"Hedaru",
     "wof:parent_id":1108692913,
     "wof:placetype":"locality",

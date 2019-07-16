@@ -13,8 +13,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Ruangwa District"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0430\u043d\u0433\u0432\u0430"
+    ],
     "name:swa_x_preferred":[
         "Ruangwa"
+    ],
+    "name:swa_x_variant":[
+        "Nanyanga"
+    ],
+    "name:vie_x_preferred":[
+        "Ruangwa"
+    ],
+    "name:zho_x_preferred":[
+        "\u842c\u74e6\u5340\u57df"
     ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"PPL",
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":421167139,
-    "wof:lastmodified":1527716158,
+    "wof:lastmodified":1563283885,
     "wof:name":"Ruangwa",
     "wof:parent_id":1108692965,
     "wof:placetype":"locality",

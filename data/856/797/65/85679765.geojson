@@ -26,11 +26,29 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
+    "name:ara_x_preferred":[
+        "\u0646\u062c\u0648\u0645\u0628\u064a"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b6\u03cc\u03bc\u03c0\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Njombe"
     ],
     "name:eng_x_variant":[
         "Iringa"
+    ],
+    "name:fra_x_preferred":[
+        "Njombe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f3\u30b8\u30e7\u30f3\u30d9"
+    ],
+    "name:pol_x_preferred":[
+        "Njombe"
+    ],
+    "name:por_x_preferred":[
+        "Njombe"
     ],
     "name:swa_x_preferred":[
         "Njombe"
@@ -157,7 +175,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550581,
+    "wof:lastmodified":1563283186,
     "wof:name":"Njombe",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

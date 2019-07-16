@@ -39,6 +39,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Manyara"
     ],
+    "name:ceb_x_preferred":[
+        "Manyara Region"
+    ],
     "name:dan_x_preferred":[
         "Manyara"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:eng_x_preferred":[
         "Manyara"
+    ],
+    "name:eng_x_variant":[
+        "Manyara Region"
     ],
     "name:epo_x_preferred":[
         "Regiono Manyara"
@@ -173,6 +179,9 @@
     ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Manyara"
+    ],
+    "name:yue_x_preferred":[
+        "\u66fc\u4e9e\u62c9\u5340"
     ],
     "name:zho_x_preferred":[
         "\u66fc\u4e9e\u62c9\u5340"
@@ -302,7 +311,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561775554,
+    "wof:lastmodified":1563283178,
     "wof:name":"Manyara",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

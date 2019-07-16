@@ -22,7 +22,13 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u043d\u0442\u0438\u043d\u043a\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Kintinku"
+    ],
     "name:eng_x_preferred":[
+        "Kintinku"
+    ],
+    "name:ita_x_preferred":[
         "Kintinku"
     ],
     "name:nld_x_preferred":[
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1125955789,
-    "wof:lastmodified":1561775630,
+    "wof:lastmodified":1563283968,
     "wof:name":"Kintinku",
     "wof:parent_id":421186277,
     "wof:placetype":"locality",

@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Bariadi"
+    ],
     "name:eng_x_preferred":[
         "Bariadi"
     ],
@@ -20,6 +23,9 @@
         "Bariadi"
     ],
     "name:fra_x_preferred":[
+        "Bariadi"
+    ],
+    "name:ita_x_preferred":[
         "Bariadi"
     ],
     "name:jpn_x_preferred":[
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421178423,
-    "wof:lastmodified":1561775627,
+    "wof:lastmodified":1563283930,
     "wof:name":"Bariadi",
     "wof:parent_id":421187951,
     "wof:placetype":"locality",

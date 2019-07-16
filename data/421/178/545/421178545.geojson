@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Mbinga"
+    ],
     "name:deu_x_preferred":[
         "Mbinga"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421178545,
-    "wof:lastmodified":1561775627,
+    "wof:lastmodified":1563283931,
     "wof:name":"Mbunga",
     "wof:parent_id":1108692989,
     "wof:placetype":"locality",

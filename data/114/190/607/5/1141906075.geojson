@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0643\u0648\u0643\u0648\u062a\u0648\u0646\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Mkokotoni"
+    ],
     "name:eng_x_preferred":[
         "Mkokotoni"
     ],
@@ -62,6 +65,9 @@
     ],
     "name:swe_x_preferred":[
         "Mkokotoni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043a\u043e\u043a\u043e\u0442\u043e\u043d\u0456"
     ],
     "name:yor_x_preferred":[
         "Mkokotoni"
@@ -199,7 +205,7 @@
         }
     ],
     "wof:id":1141906075,
-    "wof:lastmodified":1561775651,
+    "wof:lastmodified":1563284341,
     "wof:name":"Mkokotoni",
     "wof:parent_id":890451535,
     "wof:placetype":"locality",

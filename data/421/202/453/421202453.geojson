@@ -14,11 +14,17 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Ngorongoro"
+    ],
     "name:eng_x_preferred":[
         "Ngorongoro"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0646\u06af\u0648\u0631\u0648\u0646\u06af\u0648\u0631\u0648"
+    ],
+    "name:ita_x_preferred":[
+        "Ngorongoro"
     ],
     "name:nld_x_preferred":[
         "Ngorongoro"
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":421202453,
-    "wof:lastmodified":1561775621,
+    "wof:lastmodified":1563283889,
     "wof:name":"Ngorongoro",
     "wof:parent_id":421171979,
     "wof:placetype":"locality",

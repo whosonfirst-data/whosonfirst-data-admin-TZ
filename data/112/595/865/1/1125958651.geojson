@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0418\u0444\u0430\u043a\u0430\u0440\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Ifakara"
+    ],
     "name:dan_x_preferred":[
         "Ifakara"
     ],
@@ -38,6 +41,9 @@
         "Ifakara"
     ],
     "name:fra_x_preferred":[
+        "Ifakara"
+    ],
+    "name:ita_x_preferred":[
         "Ifakara"
     ],
     "name:jpn_x_preferred":[
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1125958651,
-    "wof:lastmodified":1561775630,
+    "wof:lastmodified":1563283967,
     "wof:name":"Ifakara",
     "wof:parent_id":1108692935,
     "wof:placetype":"locality",

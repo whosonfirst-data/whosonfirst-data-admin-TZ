@@ -35,6 +35,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Zanzibar Central-Sud"
     ],
+    "name:ceb_x_preferred":[
+        "Zanzibar Central/South Region"
+    ],
     "name:dan_x_preferred":[
         "Unguja Kusini"
     ],
@@ -62,6 +65,9 @@
     ],
     "name:hrv_x_preferred":[
         "Zanzibar Centar/Jug"
+    ],
+    "name:ind_x_preferred":[
+        "Region Unguja Selatan"
     ],
     "name:ita_x_preferred":[
         "regione di Zanzibar Centro-Sud"
@@ -117,6 +123,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041c\u0430\u0440\u043a\u0430\u0437\u04e3-\u04b6\u0430\u043d\u0443\u0431\u04e3 \u0417\u0430\u043d\u0437\u0438\u0431\u0430\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u043d\u0437\u0456\u0431\u0430\u0440 \u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0438\u0439"
     ],
     "name:und_x_variant":[
         "Kusini Unguja"
@@ -249,7 +258,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561775560,
+    "wof:lastmodified":1563283196,
     "wof:name":"Zanzibar South and Central",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

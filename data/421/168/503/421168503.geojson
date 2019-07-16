@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Pangani"
+    ],
     "name:dan_x_preferred":[
         "Pangani"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:ron_x_preferred":[
         "Pangani"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043d\u0433\u0430\u043d\u0438"
     ],
     "name:swa_x_preferred":[
         "Pangani"
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":421168503,
-    "wof:lastmodified":1561775619,
+    "wof:lastmodified":1563283874,
     "wof:name":"Pangani",
     "wof:parent_id":421203229,
     "wof:placetype":"locality",

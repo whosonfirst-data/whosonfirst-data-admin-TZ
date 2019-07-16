@@ -42,6 +42,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Mara"
     ],
+    "name:ceb_x_preferred":[
+        "Mara Region"
+    ],
     "name:dan_x_preferred":[
         "Mara"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:eng_x_preferred":[
         "Mara"
+    ],
+    "name:eng_x_variant":[
+        "Mara Region"
     ],
     "name:epo_x_preferred":[
         "Regiono Mara"
@@ -173,6 +179,9 @@
     ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Mara"
+    ],
+    "name:yue_x_preferred":[
+        "\u99ac\u62c9\u5340"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u62c9\u5340"
@@ -302,7 +311,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561775556,
+    "wof:lastmodified":1563283183,
     "wof:name":"Mara",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

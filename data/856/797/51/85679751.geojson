@@ -38,6 +38,9 @@
     "name:cat_x_preferred":[
         "Rukwa"
     ],
+    "name:ceb_x_preferred":[
+        "Rukwa Region"
+    ],
     "name:dan_x_preferred":[
         "Rukwa"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:eng_x_preferred":[
         "Rukwa"
+    ],
+    "name:eng_x_variant":[
+        "Rukwa Region"
     ],
     "name:epo_x_preferred":[
         "Regiono Rukwa"
@@ -164,8 +170,14 @@
     "name:vie_x_preferred":[
         "Rukwa"
     ],
+    "name:wuu_x_preferred":[
+        "\u9b6f\u5938\u5340"
+    ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Rukwa"
+    ],
+    "name:yue_x_preferred":[
+        "\u9b6f\u5938\u5340"
     ],
     "name:zho_x_preferred":[
         "\u9b6f\u5938\u5340"
@@ -291,7 +303,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561775554,
+    "wof:lastmodified":1563283177,
     "wof:name":"Katavi",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

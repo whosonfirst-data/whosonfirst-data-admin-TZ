@@ -15,6 +15,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kiwira"
+    ],
     "name:eng_x_preferred":[
         "Kiwira"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":890442353,
-    "wof:lastmodified":1561775629,
+    "wof:lastmodified":1563283948,
     "wof:name":"Kiwira",
     "wof:parent_id":1108693009,
     "wof:placetype":"locality",

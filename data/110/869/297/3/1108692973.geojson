@@ -73,6 +73,9 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0441\u0430\u0441\u0456"
     ],
+    "name:zho_x_preferred":[
+        "Newala"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1108692973,
-    "wof:lastmodified":1561775608,
+    "wof:lastmodified":1563283686,
     "wof:name":"Masasi",
     "wof:parent_id":85679717,
     "wof:placetype":"county",

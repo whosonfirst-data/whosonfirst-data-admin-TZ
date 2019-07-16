@@ -22,6 +22,12 @@
     "name:eng_x_preferred":[
         "Bukene"
     ],
+    "name:ita_x_preferred":[
+        "Bukene"
+    ],
+    "name:swa_x_preferred":[
+        "Bukene"
+    ],
     "qs_pg:aaroncc":"TZ",
     "qs_pg:gn_country":"TZ",
     "qs_pg:gn_fcode":"PPL",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1125961315,
-    "wof:lastmodified":1514508364,
+    "wof:lastmodified":1563283971,
     "wof:name":"Bukene",
     "wof:parent_id":1108693033,
     "wof:placetype":"locality",

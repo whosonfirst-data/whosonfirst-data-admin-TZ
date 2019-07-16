@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Mtwango"
+    ],
     "name:eng_x_preferred":[
         "Mtwango"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":421197311,
-    "wof:lastmodified":1561775626,
+    "wof:lastmodified":1563283916,
     "wof:name":"Mtwango",
     "wof:parent_id":1108693139,
     "wof:placetype":"locality",

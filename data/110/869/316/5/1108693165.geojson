@@ -37,13 +37,16 @@
     "name:eng_x_variant":[
         "Nyang'hwale",
         "Nyang'wale",
-        "Nyang'wale"
+        "Nyang'hwale District"
     ],
     "name:nob_x_preferred":[
         "Nyang'hwale"
     ],
     "name:swa_x_preferred":[
         "Wilaya ya Nyang'hwale"
+    ],
+    "name:tur_x_preferred":[
+        "Geita"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108693165,
-    "wof:lastmodified":1555047731,
+    "wof:lastmodified":1563283693,
     "wof:name":"Nyang'wale",
     "wof:parent_id":85679761,
     "wof:placetype":"county",

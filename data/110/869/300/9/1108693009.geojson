@@ -31,12 +31,17 @@
     "mps:longitude":33.66574,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Rungwe"
+    ],
     "name:eng_x_preferred":[
         "Rungwe"
     ],
     "name:eng_x_variant":[
-        "Rungwe",
         "Rungwe District"
+    ],
+    "name:ita_x_preferred":[
+        "Shinyanga Urban"
     ],
     "name:swa_x_preferred":[
         "Rungwe"
@@ -80,7 +85,7 @@
         }
     ],
     "wof:id":1108693009,
-    "wof:lastmodified":1555037578,
+    "wof:lastmodified":1563283657,
     "wof:name":"Rungwe",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

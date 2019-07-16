@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0648\u063a\u0648\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Korogwe"
+    ],
     "name:deu_x_preferred":[
         "Korogwe"
     ],
@@ -36,6 +39,9 @@
         "Korogwe"
     ],
     "name:nld_x_preferred":[
+        "Korogwe"
+    ],
+    "name:pol_x_preferred":[
         "Korogwe"
     ],
     "name:por_x_preferred":[
@@ -175,7 +181,7 @@
         }
     ],
     "wof:id":1141907037,
-    "wof:lastmodified":1561775651,
+    "wof:lastmodified":1563284340,
     "wof:name":"Korogwe",
     "wof:parent_id":1108692919,
     "wof:placetype":"locality",

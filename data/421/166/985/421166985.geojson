@@ -13,11 +13,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Liwale"
+    ],
+    "name:eng_x_preferred":[
+        "Liwale District"
+    ],
     "name:ron_x_preferred":[
         "Liwale"
     ],
     "name:swa_x_preferred":[
         "Liwale"
+    ],
+    "name:swa_x_variant":[
+        "Sepuka"
     ],
     "name:unk_x_variant":[
         "Livale"
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":421166985,
-    "wof:lastmodified":1527716104,
+    "wof:lastmodified":1563283876,
     "wof:name":"Liwale",
     "wof:parent_id":1108692961,
     "wof:placetype":"locality",

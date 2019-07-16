@@ -39,6 +39,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 d'Iringa"
     ],
+    "name:ceb_x_preferred":[
+        "Iringa Region"
+    ],
     "name:dan_x_preferred":[
         "Iringa"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:eng_x_preferred":[
         "Iringa"
+    ],
+    "name:eng_x_variant":[
+        "Iringa Region"
     ],
     "name:epo_x_preferred":[
         "Regiono Iringa"
@@ -162,6 +168,9 @@
     "name:ukr_x_preferred":[
         "\u0406\u0440\u0456\u043d\u0491\u0430"
     ],
+    "name:ukr_x_variant":[
+        "\u0406\u0440\u0438\u043d\u0433\u0430"
+    ],
     "name:unk_x_variant":[
         "Iringa Region"
     ],
@@ -171,8 +180,14 @@
     "name:vie_x_preferred":[
         "Iringa"
     ],
+    "name:wuu_x_preferred":[
+        "\u4f0a\u6797\u52a0\u5340"
+    ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Iringa"
+    ],
+    "name:yue_x_preferred":[
+        "\u4f0a\u6797\u52a0\u5340"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u6797\u52a0\u5340"
@@ -300,7 +315,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561775555,
+    "wof:lastmodified":1563283181,
     "wof:name":"Iringa",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

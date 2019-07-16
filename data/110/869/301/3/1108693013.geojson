@@ -34,6 +34,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0431\u043e\u0437\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Mbozi"
+    ],
     "name:deu_x_preferred":[
         "Mbozi"
     ],
@@ -44,11 +47,13 @@
         "Mbozi"
     ],
     "name:eng_x_variant":[
-        "Mbozi",
         "Mbozi District"
     ],
     "name:jpn_x_preferred":[
         "\u30f3\u30dc\u30b8\u770c"
+    ],
+    "name:jpn_x_variant":[
+        "Ileje"
     ],
     "name:swa_x_preferred":[
         "Mbozi"
@@ -92,7 +97,7 @@
         }
     ],
     "wof:id":1108693013,
-    "wof:lastmodified":1561775601,
+    "wof:lastmodified":1563283662,
     "wof:name":"Mbozi",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

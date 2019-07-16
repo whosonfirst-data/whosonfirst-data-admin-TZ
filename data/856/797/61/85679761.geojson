@@ -26,20 +26,59 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
+    "name:ara_x_preferred":[
+        "\u063a\u064a\u062a\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Geita"
+    ],
     "name:eng_x_preferred":[
         "Kagera"
     ],
+    "name:eng_x_variant":[
+        "Geita"
+    ],
     "name:fin_x_preferred":[
+        "Geita"
+    ],
+    "name:fra_x_preferred":[
+        "Geita"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b2\u30a4\u30bf"
+    ],
+    "name:nld_x_preferred":[
+        "Geita"
+    ],
+    "name:nob_x_preferred":[
+        "Geita"
+    ],
+    "name:pol_x_preferred":[
+        "Geita"
+    ],
+    "name:por_x_preferred":[
         "Geita"
     ],
     "name:ron_x_preferred":[
         "Geita"
     ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0438\u0442\u0430"
+    ],
     "name:swa_x_preferred":[
         "Geita"
     ],
+    "name:swe_x_preferred":[
+        "Keko Chini"
+    ],
     "name:tur_x_preferred":[
         "Geita"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0435\u0456\u0442\u0430"
+    ],
+    "name:yue_x_preferred":[
+        "\u84cb\u5854"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TZA",
@@ -164,7 +203,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550614,
+    "wof:lastmodified":1563283176,
     "wof:name":"Geita",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

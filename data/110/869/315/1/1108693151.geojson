@@ -39,7 +39,10 @@
     ],
     "name:eng_x_variant":[
         "Mlele",
-        "Mlele"
+        "Mlele District"
+    ],
+    "name:ita_x_preferred":[
+        "Maswa"
     ],
     "name:nob_x_preferred":[
         "Mlele"
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108693151,
-    "wof:lastmodified":1561775604,
+    "wof:lastmodified":1563283672,
     "wof:name":"Mlele",
     "wof:parent_id":85679751,
     "wof:placetype":"county",

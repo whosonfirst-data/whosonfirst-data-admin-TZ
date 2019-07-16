@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043d\u0434\u0435\u0442\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Kandete"
+    ],
     "name:eng_x_preferred":[
         "Kandete"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1125957377,
-    "wof:lastmodified":1561775630,
+    "wof:lastmodified":1563283962,
     "wof:name":"Kandete",
     "wof:parent_id":1108693009,
     "wof:placetype":"locality",

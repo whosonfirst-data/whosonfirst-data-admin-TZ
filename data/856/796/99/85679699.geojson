@@ -39,6 +39,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Zanzibar Urb\u00e0-Oest"
     ],
+    "name:ceb_x_preferred":[
+        "Zanzibar Urban/West Region"
+    ],
     "name:dan_x_preferred":[
         "Unguja Mjini Magharibi"
     ],
@@ -78,6 +81,9 @@
     ],
     "name:hrv_x_preferred":[
         "Zanzibar Grad/Zapad"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0587\u0574\u057f\u0575\u0561\u0576 \u0536\u0561\u0576\u0566\u056b\u0562\u0561\u0580"
     ],
     "name:ind_x_preferred":[
         "Wilayah Zanzibar Urban/Barat"
@@ -184,6 +190,9 @@
     ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Zanzibar \u00ccl\u00fa/\u00ccw\u1ecd\u0300or\u00f9n"
+    ],
+    "name:yue_x_preferred":[
+        "\u6851\u7d66\u5df4\u723e\u897f\u5340"
     ],
     "name:zho_x_preferred":[
         "\u5c1a\u897f\u5df4\u897f\u5340"
@@ -310,7 +319,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561775566,
+    "wof:lastmodified":1563283208,
     "wof:name":"Zanzibar West",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

@@ -44,6 +44,9 @@
     "name:swa_x_preferred":[
         "Wilaya ya Lushoto"
     ],
+    "name:zho_x_preferred":[
+        "Ndagaa"
+    ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"ADM2",
     "qs:gn_id":155568,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421175229,
-    "wof:lastmodified":1561775624,
+    "wof:lastmodified":1563283908,
     "wof:name":"Lushoto",
     "wof:parent_id":85679747,
     "wof:placetype":"county",

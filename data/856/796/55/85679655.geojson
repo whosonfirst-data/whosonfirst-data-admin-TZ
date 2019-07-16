@@ -39,6 +39,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Mwanza"
     ],
+    "name:ceb_x_preferred":[
+        "Mwanza Region"
+    ],
     "name:dan_x_preferred":[
         "Mwanza"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:eng_x_preferred":[
         "Mwanza"
+    ],
+    "name:eng_x_variant":[
+        "Mwanza Region"
     ],
     "name:epo_x_preferred":[
         "Regiono Mwanza"
@@ -95,6 +101,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubbc0\uc644\uc790"
+    ],
+    "name:kor_x_variant":[
+        "\ubbc0\uc644\uc790 \uc8fc"
     ],
     "name:lav_x_preferred":[
         "Mvanzas re\u0123ions"
@@ -176,6 +185,9 @@
     ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Mwanza"
+    ],
+    "name:yue_x_preferred":[
+        "\u59c6\u5b9b\u672d\u5340"
     ],
     "name:zho_x_preferred":[
         "\u59c6\u4e07\u624e\u533a"
@@ -308,7 +320,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561775567,
+    "wof:lastmodified":1563283209,
     "wof:name":"Mwanza",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

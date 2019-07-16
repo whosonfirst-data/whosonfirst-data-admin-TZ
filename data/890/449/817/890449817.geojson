@@ -15,6 +15,15 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039c\u03c0\u03b1\u03c1\u03b9\u03ac\u03bd\u03c4\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Bariadi District"
+    ],
+    "name:swa_x_preferred":[
+        "Mwandiga"
+    ],
     "qs:name":"Somanda",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":890449817,
-    "wof:lastmodified":1527727155,
+    "wof:lastmodified":1563283939,
     "wof:name":"Somanda",
     "wof:parent_id":1108693157,
     "wof:placetype":"locality",

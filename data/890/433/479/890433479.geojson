@@ -15,6 +15,24 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ruangwa District"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0430\u043d\u0433\u0432\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Ruangwa"
+    ],
+    "name:vie_x_preferred":[
+        "Kaskazini A"
+    ],
+    "name:vie_x_variant":[
+        "Ruangwa"
+    ],
+    "name:zho_x_preferred":[
+        "\u842c\u74e6\u5340\u57df"
+    ],
     "qs:name":"Mbekenyera",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":890433479,
-    "wof:lastmodified":1527792952,
+    "wof:lastmodified":1563283952,
     "wof:name":"Mbekenyera",
     "wof:parent_id":1108692965,
     "wof:placetype":"locality",

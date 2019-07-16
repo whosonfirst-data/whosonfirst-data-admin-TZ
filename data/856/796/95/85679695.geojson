@@ -181,6 +181,9 @@
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Zanzibar \u00c0r\u00edw\u00e1"
     ],
+    "name:yue_x_preferred":[
+        "\u5317\u5b89\u53e4\u8fe6\u5340"
+    ],
     "name:zho_x_preferred":[
         "\u5c1a\u897f\u5df4\u5317\u5340"
     ],
@@ -309,7 +312,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561775559,
+    "wof:lastmodified":1563283193,
     "wof:name":"Kaskazini-Unguja",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

@@ -42,6 +42,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Mtwara"
     ],
+    "name:ceb_x_preferred":[
+        "Mtwara Region"
+    ],
     "name:dan_x_preferred":[
         "Mtwara"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:eng_x_preferred":[
         "Mtwara"
+    ],
+    "name:eng_x_variant":[
+        "Mtwara Region"
     ],
     "name:epo_x_preferred":[
         "Regiono Mtwara"
@@ -171,8 +177,14 @@
     "name:vie_x_preferred":[
         "Mtwara"
     ],
+    "name:wuu_x_preferred":[
+        "\u59c6\u7279\u74e6\u62c9\u5340"
+    ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Mtwara"
+    ],
+    "name:yue_x_preferred":[
+        "\u59c6\u7279\u83ef\u62c9\u5340"
     ],
     "name:zho_x_preferred":[
         "\u59c6\u7279\u74e6\u62c9\u5340"
@@ -302,7 +314,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561775556,
+    "wof:lastmodified":1563283182,
     "wof:name":"Mtwara",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

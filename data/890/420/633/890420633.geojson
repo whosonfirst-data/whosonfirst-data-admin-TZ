@@ -22,10 +22,16 @@
     "name:bul_x_preferred":[
         "\u0422\u0443\u043a\u0443\u044e"
     ],
+    "name:ceb_x_preferred":[
+        "Tukuyu"
+    ],
     "name:deu_x_preferred":[
         "Tukuyu"
     ],
     "name:eng_x_preferred":[
+        "Tukuyu"
+    ],
+    "name:fin_x_preferred":[
         "Tukuyu"
     ],
     "name:fra_x_preferred":[
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":890420633,
-    "wof:lastmodified":1561775629,
+    "wof:lastmodified":1563283948,
     "wof:name":"Tukuyu",
     "wof:parent_id":1108693009,
     "wof:placetype":"locality",

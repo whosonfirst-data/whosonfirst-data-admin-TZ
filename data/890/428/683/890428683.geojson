@@ -15,6 +15,15 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ilembo"
+    ],
+    "name:ita_x_preferred":[
+        "Ilembo"
+    ],
+    "name:swa_x_preferred":[
+        "Ilembo"
+    ],
     "qs:name":"Ilembo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":890428683,
-    "wof:lastmodified":1527782118,
+    "wof:lastmodified":1563283946,
     "wof:name":"Ilembo",
     "wof:parent_id":1108693007,
     "wof:placetype":"locality",

@@ -36,10 +36,16 @@
         "Moshi"
     ],
     "name:eng_x_variant":[
-        "Moshi",
-        "Moshi Rural"
+        "Moshi Rural",
+        "Moshi Urban"
     ],
     "name:unk_x_variant":[
+        "Moshi Urban"
+    ],
+    "name:vie_x_preferred":[
+        "Ngorongoro"
+    ],
+    "name:vie_x_variant":[
         "Moshi Urban"
     ],
     "qs:gn_country":"TZ",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421171043,
-    "wof:lastmodified":1555047725,
+    "wof:lastmodified":1563283937,
     "wof:name":"Moshi",
     "wof:parent_id":85679737,
     "wof:placetype":"county",

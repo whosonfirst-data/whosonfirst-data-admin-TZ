@@ -40,6 +40,9 @@
     "name:swa_x_preferred":[
         "Wilaya ya Siha"
     ],
+    "name:zho_x_preferred":[
+        "\u79d1\u7f85\u572d"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1108692917,
-    "wof:lastmodified":1561775607,
+    "wof:lastmodified":1563283683,
     "wof:name":"Siha",
     "wof:parent_id":85679737,
     "wof:placetype":"county",
