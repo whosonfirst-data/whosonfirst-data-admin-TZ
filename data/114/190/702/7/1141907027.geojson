@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0646\u062f\u0648\u0631\u0648"
     ],
+    "name:bar_x_preferred":[
+        "Tunduru"
+    ],
     "name:deu_x_preferred":[
         "Tunduru"
     ],
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":1141907027,
-    "wof:lastmodified":1561775651,
+    "wof:lastmodified":1563284340,
     "wof:name":"Tunduru",
     "wof:parent_id":1108692985,
     "wof:placetype":"locality",

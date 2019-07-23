@@ -15,8 +15,29 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Magu"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039c\u03ac\u03b3\u03ba\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Magu District"
+    ],
+    "name:por_x_preferred":[
+        "Magu"
+    ],
+    "name:swa_x_preferred":[
+        "Matongo"
+    ],
+    "name:swa_x_variant":[
+        "Wilaya ya Magu"
+    ],
     "name:unk_x_variant":[
         "Kihangara"
+    ],
+    "name:vie_x_preferred":[
+        "Magu"
     ],
     "qs:name":"Magu Kahangara",
     "qs:photos_9r":0,
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":890433255,
-    "wof:lastmodified":1527792957,
+    "wof:lastmodified":1563283953,
     "wof:name":"Magu Kahangara",
     "wof:parent_id":1108693105,
     "wof:placetype":"locality",

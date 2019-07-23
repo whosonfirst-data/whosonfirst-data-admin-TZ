@@ -37,6 +37,9 @@
     "name:nld_x_preferred":[
         "Bunda Town"
     ],
+    "name:pol_x_preferred":[
+        "Bunda"
+    ],
     "name:por_x_preferred":[
         "Bunda"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421189387,
-    "wof:lastmodified":1561775623,
+    "wof:lastmodified":1563283902,
     "wof:name":"Bunda",
     "wof:parent_id":421187953,
     "wof:placetype":"locality",

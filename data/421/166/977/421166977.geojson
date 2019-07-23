@@ -14,8 +14,23 @@
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Mbulu"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039c\u03c0\u03bf\u03cd\u03bb\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Mbulu"
+    ],
+    "name:nld_x_preferred":[
+        "Mbulu"
+    ],
     "name:unk_x_variant":[
         "Iraku"
+    ],
+    "name:vie_x_preferred":[
+        "Mbulu"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tanzania",
@@ -156,7 +171,7 @@
         }
     ],
     "wof:id":421166977,
-    "wof:lastmodified":1505340583,
+    "wof:lastmodified":1563283875,
     "wof:name":"Mbulu",
     "wof:parent_id":1108693127,
     "wof:placetype":"locality",

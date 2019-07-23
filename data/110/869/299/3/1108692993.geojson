@@ -31,8 +31,14 @@
     "mps:longitude":36.181732,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bar_x_preferred":[
+        "Namtumbo"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0430\u043c\u0442\u0443\u043c\u0431\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Namtumbo"
     ],
     "name:deu_x_preferred":[
         "Namtumbo"
@@ -41,7 +47,6 @@
         "Namtumbo"
     ],
     "name:eng_x_variant":[
-        "Namtumbo",
         "Namtumbo District"
     ],
     "name:swa_x_preferred":[
@@ -86,7 +91,7 @@
         }
     ],
     "wof:id":1108692993,
-    "wof:lastmodified":1561775608,
+    "wof:lastmodified":1563283688,
     "wof:name":"Namtumbo",
     "wof:parent_id":85679723,
     "wof:placetype":"county",

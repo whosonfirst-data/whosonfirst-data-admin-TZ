@@ -30,6 +30,9 @@
     "name:ara_x_preferred":[
         "\u0625\u0642\u0644\u064a\u0645 \u0645\u0648\u0631\u0648\u063a\u0648\u0631\u0648"
     ],
+    "name:bar_x_preferred":[
+        "Morogoro"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u09b0\u09cb\u0997\u09c1\u09b0\u09cb \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:cat_x_preferred":[
         "Regi\u00f3 de Morogoro"
+    ],
+    "name:ceb_x_preferred":[
+        "Morogoro Region"
     ],
     "name:dan_x_preferred":[
         "Morogoro"
@@ -171,8 +177,14 @@
     "name:vie_x_preferred":[
         "Morogoro"
     ],
+    "name:wuu_x_preferred":[
+        "\u83ab\u7f85\u6208\u7f85\u5340"
+    ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Morogoro"
+    ],
+    "name:yue_x_preferred":[
+        "\u83ab\u7f85\u6208\u7f85\u5340"
     ],
     "name:zho_x_preferred":[
         "\u83ab\u7f57\u6208\u7f57\u533a"
@@ -302,7 +314,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561775569,
+    "wof:lastmodified":1563283214,
     "wof:name":"Morogoro",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

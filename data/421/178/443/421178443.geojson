@@ -32,6 +32,9 @@
     "name:nld_x_preferred":[
         "Kasulu"
     ],
+    "name:pol_x_preferred":[
+        "Kasulu"
+    ],
     "name:por_x_preferred":[
         "Kasulu"
     ],
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":421178443,
-    "wof:lastmodified":1561775627,
+    "wof:lastmodified":1563283932,
     "wof:name":"Kasulu",
     "wof:parent_id":1108693073,
     "wof:placetype":"locality",

@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Liuli"
+    ],
     "name:deu_x_preferred":[
         "Liuli"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":421179681,
-    "wof:lastmodified":1561775627,
+    "wof:lastmodified":1563283929,
     "wof:name":"Liuli",
     "wof:parent_id":85679723,
     "wof:placetype":"locality",

@@ -39,6 +39,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Kilimanjaro"
     ],
+    "name:ceb_x_preferred":[
+        "Kilimanjaro Region"
+    ],
     "name:dan_x_preferred":[
         "Kilimanjaro"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:eng_x_preferred":[
         "Kilimanjaro"
+    ],
+    "name:eng_x_variant":[
+        "Kilimanjaro Region"
     ],
     "name:epo_x_preferred":[
         "Regiono Kiliman\u011daro"
@@ -176,6 +182,9 @@
     ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Kilimanjaro"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e5e\u529b\u99ac\u624e\u7f85\u5340"
     ],
     "name:zho_x_preferred":[
         "\u4e5e\u529b\u99ac\u624e\u7f85\u5340"
@@ -306,7 +315,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561775557,
+    "wof:lastmodified":1563283187,
     "wof:name":"Kilimanjaro",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

@@ -23,6 +23,12 @@
     "name:eng_x_preferred":[
         "Same"
     ],
+    "name:ita_x_preferred":[
+        "Kibiti"
+    ],
+    "name:ita_x_variant":[
+        "Same"
+    ],
     "name:jpn_x_preferred":[
         "\u30b5\u30e1"
     ],
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":421175249,
-    "wof:lastmodified":1561775624,
+    "wof:lastmodified":1563283910,
     "wof:name":"Same",
     "wof:parent_id":1108692913,
     "wof:placetype":"locality",

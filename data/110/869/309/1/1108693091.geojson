@@ -31,11 +31,16 @@
     "mps:longitude":31.495533,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Muleba"
+    ],
+    "name:cym_x_preferred":[
+        "Muleba"
+    ],
     "name:eng_x_preferred":[
         "Muleba"
     ],
     "name:eng_x_variant":[
-        "Muleba",
         "Muleba District"
     ],
     "name:epo_x_preferred":[
@@ -43,6 +48,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05dc\u05d0\u05d1\u05d4"
+    ],
+    "name:jpn_x_preferred":[
+        "Bukoba Urban"
     ],
     "name:spa_x_preferred":[
         "distrito de Muleba"
@@ -89,7 +97,7 @@
         }
     ],
     "wof:id":1108693091,
-    "wof:lastmodified":1553718239,
+    "wof:lastmodified":1563283659,
     "wof:name":"Muleba",
     "wof:parent_id":85679665,
     "wof:placetype":"county",

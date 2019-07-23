@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0628\u0648\u0631\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u0628\u0648\u0631\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u0430\u0431\u043e\u0440\u0430"
     ],
@@ -27,6 +30,9 @@
         "\u0422\u0430\u0431\u043e\u0440\u0430"
     ],
     "name:cat_x_preferred":[
+        "Tabora"
+    ],
+    "name:ceb_x_preferred":[
         "Tabora"
     ],
     "name:dan_x_preferred":[
@@ -296,7 +302,7 @@
         }
     ],
     "wof:id":421185287,
-    "wof:lastmodified":1561775628,
+    "wof:lastmodified":1563283938,
     "wof:name":"Tabora",
     "wof:parent_id":1108693045,
     "wof:placetype":"locality",

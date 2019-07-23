@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Ngerengere"
+    ],
     "name:ell_x_preferred":[
         "\u039d\u03b3\u03ba\u03b5\u03c1\u03b5\u03bd\u03b3\u03ba\u03ad\u03c1\u03b5"
     ],
@@ -37,7 +40,13 @@
     "name:nld_x_preferred":[
         "Ngerengere"
     ],
+    "name:ron_x_preferred":[
+        "Mahonda"
+    ],
     "name:spa_x_preferred":[
+        "Ngerengere"
+    ],
+    "name:swa_x_preferred":[
         "Ngerengere"
     ],
     "qs_pg:aaroncc":"TZ",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1125774289,
-    "wof:lastmodified":1561775631,
+    "wof:lastmodified":1563283980,
     "wof:name":"Ngerengere",
     "wof:parent_id":421193165,
     "wof:placetype":"locality",

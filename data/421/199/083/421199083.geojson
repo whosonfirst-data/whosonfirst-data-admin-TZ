@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0418\u043b\u043e\u043d\u0433\u0435\u0440\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Ilongero"
+    ],
     "name:eng_x_preferred":[
         "Ilongero"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421199083,
-    "wof:lastmodified":1561775626,
+    "wof:lastmodified":1563283917,
     "wof:name":"Ilongero",
     "wof:parent_id":1108693025,
     "wof:placetype":"locality",

@@ -19,6 +19,18 @@
     "name:deu_x_preferred":[
         "Wilhelmstal"
     ],
+    "name:deu_x_variant":[
+        "Lushoto"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039b\u03bf\u03c5\u03c3\u03cc\u03c4\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Lushoto"
+    ],
+    "name:swa_x_preferred":[
+        "Muheza"
+    ],
     "name:unk_x_variant":[
         "Wilhelmstal"
     ],
@@ -69,7 +81,7 @@
         }
     ],
     "wof:id":421204499,
-    "wof:lastmodified":1505340788,
+    "wof:lastmodified":1563283886,
     "wof:name":"Lushoto",
     "wof:parent_id":421175229,
     "wof:placetype":"locality",

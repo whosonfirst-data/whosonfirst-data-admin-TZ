@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Handeni"
     ],
+    "name:ita_x_preferred":[
+        "Muheza"
+    ],
     "name:nld_x_preferred":[
         "Handeni"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108692923,
-    "wof:lastmodified":1561775602,
+    "wof:lastmodified":1563283665,
     "wof:name":"Handeni",
     "wof:parent_id":85679747,
     "wof:placetype":"county",

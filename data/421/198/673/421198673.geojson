@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Itumba"
+    ],
     "name:swa_x_preferred":[
         "Itumba"
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421198673,
-    "wof:lastmodified":1527716349,
+    "wof:lastmodified":1563283910,
     "wof:name":"Itumba",
     "wof:parent_id":1108693011,
     "wof:placetype":"locality",

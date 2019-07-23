@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0646\u0629 \u0632\u0646\u062c\u0628\u0627\u0631 \u0627\u0644\u062d\u062c\u0631\u064a\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Stone Town"
+    ],
     "name:aze_x_preferred":[
         "Stoun Taun"
     ],
@@ -52,6 +55,12 @@
     "name:heb_x_preferred":[
         "\u05e1\u05d8\u05d5\u05df \u05d8\u05d0\u05d5\u05df"
     ],
+    "name:hun_x_preferred":[
+        "Stone Town"
+    ],
+    "name:hye_x_preferred":[
+        "\u0554\u0561\u0580\u0565 \u0584\u0561\u0572\u0561\u0584"
+    ],
     "name:ind_x_preferred":[
         "Stone Town"
     ],
@@ -67,11 +76,20 @@
     "name:kor_x_preferred":[
         "\uc2a4\ud1a4 \ud0c0\uc6b4"
     ],
+    "name:kor_x_variant":[
+        "\uc2a4\ud1a4\ud0c0\uc6b4"
+    ],
     "name:lit_x_preferred":[
         "Stountaunas"
     ],
     "name:mal_x_preferred":[
         "\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4b\u0d7a \u0d1f\u0d57\u0d7a"
+    ],
+    "name:mya_x_preferred":[
+        "\u1000\u103b\u1031\u102c\u1000\u103a\u1010\u102f\u1036\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:nep_x_preferred":[
+        "\u091c\u0928\u094d\u091c\u093f\u092c\u093e\u0930\u0915\u094b \u0922\u0941\u0919\u094d\u0917\u093e \u0938\u0939\u0930"
     ],
     "name:nld_x_preferred":[
         "Stone Town"
@@ -100,6 +118,9 @@
     "name:spa_x_preferred":[
         "Stone Town"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u043e\u0443\u043d \u0422\u0430\u0443\u043d"
+    ],
     "name:swa_x_preferred":[
         "Wilaya ya Unguja Mjini"
     ],
@@ -115,11 +136,17 @@
     "name:tur_x_preferred":[
         "Stone Town"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c'\u044f\u043d\u0435 \u043c\u0456\u0441\u0442\u043e"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u0679\u0648\u0646 \u0679\u0627\u0624\u0646"
     ],
     "name:vie_x_preferred":[
         "Th\u1ecb tr\u1ea5n \u0110\u00e1 Zanzibar"
+    ],
+    "name:war_x_preferred":[
+        "Stone Town"
     ],
     "name:zho_x_preferred":[
         "\u6851\u7ed9\u5df4\u5c14\u77f3\u5934\u57ce"
@@ -171,7 +198,7 @@
         }
     ],
     "wof:id":421189835,
-    "wof:lastmodified":1561775623,
+    "wof:lastmodified":1563283900,
     "wof:name":"Stone Town",
     "wof:parent_id":1108693173,
     "wof:placetype":"locality",

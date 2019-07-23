@@ -42,6 +42,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Pwani"
     ],
+    "name:ceb_x_preferred":[
+        "Coast Region"
+    ],
     "name:dan_x_preferred":[
         "Pwani"
     ],
@@ -182,6 +185,9 @@
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Pwani"
     ],
+    "name:yue_x_preferred":[
+        "\u6ff1\u6d77\u5340"
+    ],
     "name:zho_x_preferred":[
         "\u6ff1\u6d77\u5340"
     ],
@@ -310,7 +316,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561775563,
+    "wof:lastmodified":1563283203,
     "wof:name":"Pwani",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

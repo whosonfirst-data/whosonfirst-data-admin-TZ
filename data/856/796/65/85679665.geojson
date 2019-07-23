@@ -39,6 +39,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Kagera"
     ],
+    "name:ceb_x_preferred":[
+        "Kagera Region"
+    ],
     "name:dan_x_preferred":[
         "Kagera"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:eng_x_preferred":[
         "Kagera"
+    ],
+    "name:eng_x_variant":[
+        "Kagera Region"
     ],
     "name:epo_x_preferred":[
         "Regiono Kagera"
@@ -173,6 +179,9 @@
     ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Kagera"
+    ],
+    "name:yue_x_preferred":[
+        "\u5361\u84cb\u62c9\u5340"
     ],
     "name:zho_x_preferred":[
         "\u5361\u84cb\u62c9\u5340"
@@ -300,7 +309,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561775566,
+    "wof:lastmodified":1563283207,
     "wof:name":"Kagera",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

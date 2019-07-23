@@ -39,6 +39,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Ruvuma"
     ],
+    "name:ceb_x_preferred":[
+        "Ruvuma Region"
+    ],
     "name:dan_x_preferred":[
         "Ruvuma"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:eng_x_preferred":[
         "Ruvuma"
+    ],
+    "name:eng_x_variant":[
+        "Ruvuma Region"
     ],
     "name:epo_x_preferred":[
         "Regiono Ruvuma"
@@ -171,8 +177,14 @@
     "name:vie_x_preferred":[
         "Ruvuma"
     ],
+    "name:wuu_x_preferred":[
+        "\u9b6f\u4f0d\u99ac\u5340"
+    ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Ruvuma"
+    ],
+    "name:yue_x_preferred":[
+        "\u9b6f\u4f0d\u99ac\u5340"
     ],
     "name:zho_x_preferred":[
         "\u9b6f\u4f0d\u99ac\u5340"
@@ -302,7 +314,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561775558,
+    "wof:lastmodified":1563283189,
     "wof:name":"Ruvuma",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

@@ -39,6 +39,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Singida"
     ],
+    "name:ceb_x_preferred":[
+        "Singida Region"
+    ],
     "name:dan_x_preferred":[
         "Singida"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:eng_x_preferred":[
         "Singida"
+    ],
+    "name:eng_x_variant":[
+        "Singida Region"
     ],
     "name:epo_x_preferred":[
         "Regiono Singida"
@@ -170,6 +176,9 @@
     ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Singida"
+    ],
+    "name:yue_x_preferred":[
+        "\u8f9b\u57fa\u9054\u5340"
     ],
     "name:zho_x_preferred":[
         "\u8f9b\u5409\u9054\u5340"
@@ -299,7 +308,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561775555,
+    "wof:lastmodified":1563283180,
     "wof:name":"Singida",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

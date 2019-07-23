@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041c\u043b\u0430\u043d\u0433\u0430\u043b\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Mlangali"
+    ],
     "name:eng_x_preferred":[
         "Mlangali"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1125950655,
-    "wof:lastmodified":1561775630,
+    "wof:lastmodified":1563283963,
     "wof:name":"Mlangali",
     "wof:parent_id":1108693141,
     "wof:placetype":"locality",

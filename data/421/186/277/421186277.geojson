@@ -32,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Manyoni"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039c\u03b1\u03bd\u03c5\u03cc\u03bd\u03b9"
     ],
@@ -39,7 +42,6 @@
         "Manyoni"
     ],
     "name:eng_x_variant":[
-        "Manyoni",
         "Manyoni District"
     ],
     "name:ron_x_preferred":[
@@ -47,6 +49,9 @@
     ],
     "name:swa_x_preferred":[
         "Wilaya ya Manyoni"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u7d22\u99ac"
     ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"ADM2",
@@ -109,7 +114,7 @@
         }
     ],
     "wof:id":421186277,
-    "wof:lastmodified":1561775624,
+    "wof:lastmodified":1563283905,
     "wof:name":"Manyoni",
     "wof:parent_id":85679727,
     "wof:placetype":"county",

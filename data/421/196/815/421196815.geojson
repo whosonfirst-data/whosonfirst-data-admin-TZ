@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0442\u0438\u043d\u043a\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Mtinko"
+    ],
     "name:eng_x_preferred":[
         "Mtinko"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":421196815,
-    "wof:lastmodified":1561775625,
+    "wof:lastmodified":1563283913,
     "wof:name":"Mtinko",
     "wof:parent_id":1108693025,
     "wof:placetype":"locality",

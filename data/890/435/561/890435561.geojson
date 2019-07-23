@@ -22,11 +22,17 @@
     "name:bul_x_preferred":[
         "\u0418\u0442\u0438\u0433\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Itigi"
+    ],
     "name:eng_x_preferred":[
         "Itigi"
     ],
     "name:epo_x_preferred":[
         "Itigio"
+    ],
+    "name:ita_x_preferred":[
+        "Itigi Mjini"
     ],
     "name:nld_x_preferred":[
         "Itigi"
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":890435561,
-    "wof:lastmodified":1561775629,
+    "wof:lastmodified":1563283954,
     "wof:name":"Itigi",
     "wof:parent_id":421186277,
     "wof:placetype":"locality",

@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043a\u0443\u043c\u0431\u0430\u043a\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Makumbako"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03ba\u03b1\u03bc\u03c0\u03ac\u03ba\u03bf"
     ],
@@ -42,8 +45,14 @@
     "name:ron_x_preferred":[
         "Makambako"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u043c\u0431\u0430\u043a\u043e"
+    ],
     "name:swa_x_preferred":[
         "Makambako"
+    ],
+    "name:swa_x_variant":[
+        "Usagara"
     ],
     "name:unk_x_variant":[
         "Makambako"
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":890435625,
-    "wof:lastmodified":1561775629,
+    "wof:lastmodified":1563283956,
     "wof:name":"Makumbako",
     "wof:parent_id":1108693145,
     "wof:placetype":"locality",

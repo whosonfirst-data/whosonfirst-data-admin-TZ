@@ -39,6 +39,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 d'Arusha"
     ],
+    "name:ceb_x_preferred":[
+        "Arusha Region"
+    ],
     "name:dan_x_preferred":[
         "Arusha"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:eng_x_preferred":[
         "Arusha"
+    ],
+    "name:eng_x_variant":[
+        "Arusha Region"
     ],
     "name:epo_x_preferred":[
         "Regiono Arusha"
@@ -65,6 +71,9 @@
     ],
     "name:fra_x_preferred":[
         "R\u00e9gion d'Arusha"
+    ],
+    "name:fra_x_variant":[
+        "Arusha"
     ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Arusha"
@@ -87,6 +96,9 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30eb\u30fc\u30b7\u30e3"
     ],
+    "name:jpn_x_variant":[
+        "\u30a2\u30eb\u30fc\u30b7\u30e3\u5dde"
+    ],
     "name:kan_x_preferred":[
         "\u0c85\u0cb0\u0cc1\u0cb6 \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
@@ -95,6 +107,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\ub8e8\uc0e4"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\ub8e8\uc0e4 \uc8fc"
     ],
     "name:lav_x_preferred":[
         "Aru\u0161as re\u0123ions"
@@ -173,6 +188,9 @@
     ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Arusha"
+    ],
+    "name:yue_x_preferred":[
+        "\u963f\u9b6f\u6c99\u5340"
     ],
     "name:zho_x_preferred":[
         "\u963f\u9c81\u6c99"
@@ -305,7 +323,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561775557,
+    "wof:lastmodified":1563283185,
     "wof:name":"Arusha",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

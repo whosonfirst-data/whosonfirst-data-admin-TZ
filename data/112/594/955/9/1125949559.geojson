@@ -22,7 +22,13 @@
     "name:bul_x_preferred":[
         "\u041c\u0443\u043d\u0433\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Mungaa"
+    ],
     "name:eng_x_preferred":[
+        "Mungaa"
+    ],
+    "name:ita_x_preferred":[
         "Mungaa"
     ],
     "name:nld_x_preferred":[
@@ -30,6 +36,9 @@
     ],
     "name:swa_x_preferred":[
         "Mungaa"
+    ],
+    "name:swa_x_variant":[
+        "Muriti"
     ],
     "qs_pg:aaroncc":"TZ",
     "qs_pg:gn_country":"TZ",
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":1125949559,
-    "wof:lastmodified":1561775629,
+    "wof:lastmodified":1563283958,
     "wof:name":"Mungaa",
     "wof:parent_id":1108693029,
     "wof:placetype":"locality",

@@ -17,11 +17,17 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0643-\u062a\u0634\u0627\u0643"
     ],
+    "name:ceb_x_preferred":[
+        "Chake Chake"
+    ],
     "name:deu_x_preferred":[
         "Chake-Chake"
     ],
     "name:eng_x_preferred":[
         "Chake Chake"
+    ],
+    "name:eng_x_variant":[
+        "Chake-Chake"
     ],
     "name:fin_x_preferred":[
         "Chake Chake"
@@ -207,7 +213,7 @@
         }
     ],
     "wof:id":421170433,
-    "wof:lastmodified":1561775626,
+    "wof:lastmodified":1563283925,
     "wof:name":"Chake Chake",
     "wof:parent_id":421187955,
     "wof:placetype":"locality",

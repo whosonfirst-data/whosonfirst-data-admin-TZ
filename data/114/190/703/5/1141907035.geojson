@@ -20,6 +20,9 @@
     "name:fas_x_preferred":[
         "\u0622\u0644\u062f\u06cc\u0646\u06cc"
     ],
+    "name:ita_x_preferred":[
+        "Oldeani"
+    ],
     "name:jpn_x_preferred":[
         "\u30aa\u30eb\u30c7\u30a2\u30cb\u5c71"
     ],
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":1141907035,
-    "wof:lastmodified":1561775651,
+    "wof:lastmodified":1563284341,
     "wof:name":"Oldeani",
     "wof:parent_id":421187711,
     "wof:placetype":"locality",

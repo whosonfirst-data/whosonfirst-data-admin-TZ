@@ -32,12 +32,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Mbeya"
+    ],
     "name:eng_x_preferred":[
         "Mbeya Urban"
     ],
     "name:eng_x_variant":[
-        "Mbeya Urban",
         "Mbeya Urban District"
+    ],
+    "name:heb_x_preferred":[
+        "Chake Chake"
     ],
     "name:jpn_x_preferred":[
         "\u30e0\u30d9\u30e4\u30fb\u30a2\u30fc\u30d0\u30f3\u770c"
@@ -107,7 +112,7 @@
         }
     ],
     "wof:id":421170113,
-    "wof:lastmodified":1553717310,
+    "wof:lastmodified":1563283925,
     "wof:name":"Mbeya Urban",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

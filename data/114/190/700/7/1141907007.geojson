@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u063a\u064a\u062a\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Geita"
+    ],
     "name:eng_x_preferred":[
         "Geita"
     ],
@@ -35,6 +38,9 @@
     "name:nob_x_preferred":[
         "Geita"
     ],
+    "name:pol_x_preferred":[
+        "Geita"
+    ],
     "name:por_x_preferred":[
         "Geita"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:swa_x_preferred":[
         "Geita"
+    ],
+    "name:swe_x_preferred":[
+        "Nyahanga"
     ],
     "name:tur_x_preferred":[
         "Geita"
@@ -175,7 +184,7 @@
         }
     ],
     "wof:id":1141907007,
-    "wof:lastmodified":1561775650,
+    "wof:lastmodified":1563284339,
     "wof:name":"Geita",
     "wof:parent_id":1108693163,
     "wof:placetype":"locality",

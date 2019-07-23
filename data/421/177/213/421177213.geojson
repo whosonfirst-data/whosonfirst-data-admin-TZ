@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0438\u043d\u0433\u0438\u0434\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Singida"
+    ],
     "name:dan_x_preferred":[
         "Singida"
     ],
@@ -73,6 +76,9 @@
     ],
     "name:swa_x_preferred":[
         "Singida"
+    ],
+    "name:swa_x_variant":[
+        "Singida Mjini"
     ],
     "name:swe_x_preferred":[
         "Singida"
@@ -228,7 +234,7 @@
         }
     ],
     "wof:id":421177213,
-    "wof:lastmodified":1561775627,
+    "wof:lastmodified":1563283927,
     "wof:name":"Singida",
     "wof:parent_id":1108693027,
     "wof:placetype":"locality",

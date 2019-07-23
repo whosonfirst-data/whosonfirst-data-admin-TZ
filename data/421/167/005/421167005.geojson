@@ -16,7 +16,13 @@
     "name:bul_x_preferred":[
         "\u0418\u0433\u0443\u0433\u0443\u043d\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Igugunu"
+    ],
     "name:eng_x_preferred":[
+        "Iguguno"
+    ],
+    "name:ita_x_preferred":[
         "Iguguno"
     ],
     "name:nld_x_preferred":[
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":421167005,
-    "wof:lastmodified":1561775621,
+    "wof:lastmodified":1563283885,
     "wof:name":"Iguguno",
     "wof:parent_id":1108693031,
     "wof:placetype":"locality",

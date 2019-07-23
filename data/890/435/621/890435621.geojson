@@ -15,6 +15,15 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mbogwe District"
+    ],
+    "name:nob_x_preferred":[
+        "Mbongwe"
+    ],
+    "name:swa_x_preferred":[
+        "Nguruka"
+    ],
     "qs:name":"Masumbwe",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":890435621,
-    "wof:lastmodified":1527793045,
+    "wof:lastmodified":1563283955,
     "wof:name":"Masumbwe",
     "wof:parent_id":1108693167,
     "wof:placetype":"locality",

@@ -36,6 +36,12 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Dodoma"
     ],
+    "name:ceb_x_preferred":[
+        "Dodoma Region"
+    ],
+    "name:cym_x_preferred":[
+        "Ardal Dodoma"
+    ],
     "name:dan_x_preferred":[
         "Dodoma"
     ],
@@ -47,6 +53,9 @@
     ],
     "name:eng_x_preferred":[
         "Dodoma"
+    ],
+    "name:eng_x_variant":[
+        "Dodoma Region"
     ],
     "name:epo_x_preferred":[
         "Regiono Dodomao"
@@ -71,6 +80,9 @@
     ],
     "name:hrv_x_preferred":[
         "Dodoma"
+    ],
+    "name:ind_x_preferred":[
+        "Region Dodoma"
     ],
     "name:ita_x_preferred":[
         "regione di Dodoma"
@@ -135,8 +147,14 @@
     "name:vie_x_preferred":[
         "Dodoma"
     ],
+    "name:wuu_x_preferred":[
+        "\u591a\u591a\u99ac\u5340"
+    ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Dodoma"
+    ],
+    "name:yue_x_preferred":[
+        "\u675c\u7be4\u746a\u5340"
     ],
     "name:zho_x_preferred":[
         "\u591a\u591a\u99ac\u5340"
@@ -263,7 +281,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561775555,
+    "wof:lastmodified":1563283179,
     "wof:name":"Dodoma",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

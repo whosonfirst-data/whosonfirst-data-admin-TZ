@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u0433\u043e\u043d\u0441\u0435\u0440\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Kigonsera"
+    ],
     "name:eng_x_preferred":[
         "Kigonsera"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890415409,
-    "wof:lastmodified":1561775628,
+    "wof:lastmodified":1563283942,
     "wof:name":"Kigonsera",
     "wof:parent_id":1108692989,
     "wof:placetype":"locality",

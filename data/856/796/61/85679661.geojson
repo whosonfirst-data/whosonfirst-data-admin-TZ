@@ -39,6 +39,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Tabora"
     ],
+    "name:ceb_x_preferred":[
+        "Tabora Region"
+    ],
     "name:dan_x_preferred":[
         "Tabora"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:eng_x_preferred":[
         "Tabora"
+    ],
+    "name:eng_x_variant":[
+        "Tabora Region"
     ],
     "name:epo_x_preferred":[
         "Regiono Tabora"
@@ -173,6 +179,9 @@
     ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Tabora"
+    ],
+    "name:yue_x_preferred":[
+        "\u5854\u6ce2\u62c9\u5340"
     ],
     "name:zho_x_preferred":[
         "\u5854\u6ce2\u62c9\u5340"
@@ -302,7 +311,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561775559,
+    "wof:lastmodified":1563283192,
     "wof:name":"Tabora",
     "wof:parent_id":85632227,
     "wof:placetype":"region",
