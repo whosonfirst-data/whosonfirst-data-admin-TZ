@@ -27,6 +27,33 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Ngoma"
+    ],
+    "name:ceb_x_preferred":[
+        "Ngoma"
+    ],
+    "name:deu_x_preferred":[
+        "Ngoma"
+    ],
+    "name:est_x_preferred":[
+        "Ngoma"
+    ],
+    "name:fra_x_preferred":[
+        "Ngoma"
+    ],
+    "name:ita_x_preferred":[
+        "Ngoma"
+    ],
+    "name:pol_x_preferred":[
+        "Ngoma"
+    ],
+    "name:swa_x_preferred":[
+        "Ngoma"
+    ],
+    "name:swe_x_preferred":[
+        "Ngoma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1360262265,
-    "wof:lastmodified":1536690222,
+    "wof:lastmodified":1564188753,
     "wof:name":"Ngoma",
     "wof:parent_id":1108693113,
     "wof:placetype":"locality",

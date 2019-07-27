@@ -25,6 +25,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Mbweni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1242790873,
-    "wof:lastmodified":1536756456,
+    "wof:lastmodified":1564188959,
     "wof:name":"Mbweni",
     "wof:parent_id":421202229,
     "wof:placetype":"locality",

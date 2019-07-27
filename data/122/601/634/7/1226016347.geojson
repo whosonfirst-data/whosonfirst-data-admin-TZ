@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Ilolanguru"
+    ],
+    "name:swa_x_preferred":[
+        "Ilolanguru"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1226016347,
-    "wof:lastmodified":1536768128,
+    "wof:lastmodified":1564189196,
     "wof:name":"Lulanguru",
     "wof:parent_id":1108693039,
     "wof:placetype":"locality",

@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Uroa"
+    ],
+    "name:swa_x_preferred":[
+        "Uroa"
+    ],
     "name:und_x_variant":[
         "Urua",
         "Uroa"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1277135927,
-    "wof:lastmodified":1537709991,
+    "wof:lastmodified":1564188320,
     "wof:name":"Uroa",
     "wof:parent_id":421191173,
     "wof:placetype":"locality",

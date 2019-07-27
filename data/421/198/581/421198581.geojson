@@ -14,6 +14,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":6.1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ell_x_preferred":[
+        "\u039d\u03b6\u03ad\u03b3\u03ba\u03b1"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tanzania",
     "ne:ADM0_A3":"TZA",
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":421198581,
-    "wof:lastmodified":1527716352,
+    "wof:lastmodified":1564188825,
     "wof:name":"Nzega",
     "wof:parent_id":1108693033,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Ufana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1225998919,
-    "wof:lastmodified":1537574845,
+    "wof:lastmodified":1564189147,
     "wof:name":"Ufana",
     "wof:parent_id":1108693123,
     "wof:placetype":"locality",

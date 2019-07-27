@@ -27,11 +27,32 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kamba"
+    ],
+    "name:deu_x_preferred":[
+        "Kamba"
+    ],
     "name:eng_x_preferred":[
         "Kamba"
     ],
     "name:eng_x_variant":[
         "Kambakwe"
+    ],
+    "name:fra_x_preferred":[
+        "Kamba"
+    ],
+    "name:nld_x_preferred":[
+        "Kamba"
+    ],
+    "name:slv_x_preferred":[
+        "Kamba"
+    ],
+    "name:swa_x_preferred":[
+        "Kamba"
+    ],
+    "name:swe_x_preferred":[
+        "Kamba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1193023483,
-    "wof:lastmodified":1537710068,
+    "wof:lastmodified":1564188536,
     "wof:name":"Kamba",
     "wof:parent_id":1108692893,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ita_x_preferred":[
+        "Unguja Ukuu"
+    ],
     "name:unk_x_variant":[
         "Unguja Ukuu Kaebona"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125358897,
-    "wof:lastmodified":1509389023,
+    "wof:lastmodified":1564188847,
     "wof:name":"Unguja Ukuu",
     "wof:parent_id":421191173,
     "wof:placetype":"localadmin",

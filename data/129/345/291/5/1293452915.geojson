@@ -27,6 +27,21 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sigi"
+    ],
+    "name:fra_x_preferred":[
+        "Sigi"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc\uae30"
+    ],
+    "name:nld_x_preferred":[
+        "Sigi"
+    ],
+    "name:spa_x_preferred":[
+        "Sigi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1293452915,
-    "wof:lastmodified":1536836001,
+    "wof:lastmodified":1564188241,
     "wof:name":"Sigi",
     "wof:parent_id":1108692921,
     "wof:placetype":"locality",

@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Pandambili"
+    ],
+    "name:swa_x_preferred":[
+        "Pandambili"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1326814079,
-    "wof:lastmodified":1537071863,
+    "wof:lastmodified":1564187911,
     "wof:name":"Pandambili",
     "wof:parent_id":1108692941,
     "wof:placetype":"locality",

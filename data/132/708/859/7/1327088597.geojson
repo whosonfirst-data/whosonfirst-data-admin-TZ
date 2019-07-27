@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Riroda"
+    ],
+    "name:swa_x_preferred":[
+        "Riroda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1327088597,
-    "wof:lastmodified":1537574846,
+    "wof:lastmodified":1564187901,
     "wof:name":"Riroda",
     "wof:parent_id":1108693123,
     "wof:placetype":"locality",

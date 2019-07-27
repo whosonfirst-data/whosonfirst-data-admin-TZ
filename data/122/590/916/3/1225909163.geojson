@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nyali"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1225909163,
-    "wof:lastmodified":1536923114,
+    "wof:lastmodified":1564189151,
     "wof:name":"Nyali",
     "wof:parent_id":421187955,
     "wof:placetype":"locality",

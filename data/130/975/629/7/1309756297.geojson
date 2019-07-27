@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mdandu"
+    ],
+    "name:swa_x_preferred":[
+        "Mdandu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1309756297,
-    "wof:lastmodified":1537574851,
+    "wof:lastmodified":1564188813,
     "wof:name":"Mdandu",
     "wof:parent_id":1108693135,
     "wof:placetype":"locality",

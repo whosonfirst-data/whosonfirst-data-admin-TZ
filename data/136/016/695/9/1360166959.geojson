@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Mgori"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1360166959,
-    "wof:lastmodified":1537574851,
+    "wof:lastmodified":1564188745,
     "wof:name":"Mgori",
     "wof:parent_id":1108693025,
     "wof:placetype":"locality",

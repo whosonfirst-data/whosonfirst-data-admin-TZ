@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Huzi"
+    ],
+    "name:swa_x_preferred":[
+        "Huzi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1293795687,
-    "wof:lastmodified":1537574860,
+    "wof:lastmodified":1564188166,
     "wof:name":"Huzi",
     "wof:parent_id":1108692899,
     "wof:placetype":"locality",

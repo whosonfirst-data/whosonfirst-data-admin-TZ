@@ -27,6 +27,33 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mondo"
+    ],
+    "name:deu_x_preferred":[
+        "Mondo"
+    ],
+    "name:fin_x_preferred":[
+        "Mondo"
+    ],
+    "name:fra_x_preferred":[
+        "Mondo"
+    ],
+    "name:ita_x_preferred":[
+        "Mondo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Mondo"
+    ],
+    "name:swa_x_preferred":[
+        "Mondo"
+    ],
+    "name:swe_x_preferred":[
+        "Mondo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632227
@@ -36,7 +63,7 @@
         "gn:id":153250
     },
     "wof:country":"TZ",
-    "wof:geomhash":"826c871ec67763fb983f15fb197421fc",
+    "wof:geomhash":"a1cc7bc834edfcd828b3f0ee779d82e8",
     "wof:hierarchy":[
         {
             "country_id":85632227,
@@ -44,7 +71,7 @@
         }
     ],
     "wof:id":1209226133,
-    "wof:lastmodified":1536293794,
+    "wof:lastmodified":1564188454,
     "wof:name":"Mondo",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",
@@ -55,9 +82,9 @@
 },
   "bbox": [
     35.9,
-    -4.9833300000000005,
+    -4.98333,
     35.9,
-    -4.9833300000000005
+    -4.98333
 ],
   "geometry": {"coordinates":[35.9,-4.98333],"type":"Point"}
 }

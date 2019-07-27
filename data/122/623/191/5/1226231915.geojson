@@ -27,6 +27,69 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Igea"
+    ],
+    "name:cat_x_preferred":[
+        "Igea"
+    ],
+    "name:ceb_x_preferred":[
+        "Igea"
+    ],
+    "name:eus_x_preferred":[
+        "Igea"
+    ],
+    "name:fra_x_preferred":[
+        "Igea"
+    ],
+    "name:hun_x_preferred":[
+        "Igea"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u056d\u0565\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Igea"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0418\u0445\u0435\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Igea"
+    ],
+    "name:oci_x_preferred":[
+        "Igea"
+    ],
+    "name:pol_x_preferred":[
+        "Igea"
+    ],
+    "name:por_x_preferred":[
+        "Igea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0445\u0435\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Igea"
+    ],
+    "name:swe_x_preferred":[
+        "Igea"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0445\u0435\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Igea"
+    ],
+    "name:vie_x_preferred":[
+        "Igea"
+    ],
+    "name:war_x_preferred":[
+        "Igea"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u8d6b\u4e9a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +113,7 @@
         }
     ],
     "wof:id":1226231915,
-    "wof:lastmodified":1536953682,
+    "wof:lastmodified":1564189168,
     "wof:name":"Igea",
     "wof:parent_id":1108693015,
     "wof:placetype":"locality",

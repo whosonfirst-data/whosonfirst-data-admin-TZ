@@ -27,6 +27,21 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chunyu"
+    ],
+    "name:deu_x_preferred":[
+        "Chunyu"
+    ],
+    "name:ita_x_preferred":[
+        "Chunyu"
+    ],
+    "name:swa_x_preferred":[
+        "Chunyu"
+    ],
+    "name:swe_x_preferred":[
+        "Chunyu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1243088787,
-    "wof:lastmodified":1536823244,
+    "wof:lastmodified":1564188864,
     "wof:name":"Chunyu",
     "wof:parent_id":1108692965,
     "wof:placetype":"locality",

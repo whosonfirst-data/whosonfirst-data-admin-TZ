@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Mangonyi"
+    ],
     "name:und_x_variant":[
         "Manoni",
         "Mangonyi"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1259653305,
-    "wof:lastmodified":1537710023,
+    "wof:lastmodified":1564188998,
     "wof:name":"Mangonyi",
     "wof:parent_id":1108693029,
     "wof:placetype":"locality",

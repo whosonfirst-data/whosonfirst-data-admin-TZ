@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Matui"
+    ],
+    "name:swe_x_preferred":[
+        "Matui"
+    ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":154566,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":421195819,
-    "wof:lastmodified":1527716119,
+    "wof:lastmodified":1564188819,
     "wof:name":"Matui",
     "wof:parent_id":421175229,
     "wof:placetype":"locality",

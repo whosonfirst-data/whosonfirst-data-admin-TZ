@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Zoissa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632227
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209422509,
-    "wof:lastmodified":1537574843,
+    "wof:lastmodified":1564188499,
     "wof:name":"Zoissa",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",

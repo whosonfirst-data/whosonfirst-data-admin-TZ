@@ -27,6 +27,42 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kasama"
+    ],
+    "name:deu_x_preferred":[
+        "Kasama"
+    ],
+    "name:ita_x_preferred":[
+        "Kasama"
+    ],
+    "name:mlg_x_preferred":[
+        "Kasama"
+    ],
+    "name:nld_x_preferred":[
+        "Kasama"
+    ],
+    "name:pol_x_preferred":[
+        "Kasama"
+    ],
+    "name:ron_x_preferred":[
+        "Kasama"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u0430\u043c\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Kasama"
+    ],
+    "name:swe_x_preferred":[
+        "Kasama"
+    ],
+    "name:tgl_x_preferred":[
+        "Kasama"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0441\u0430\u043c\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +86,7 @@
         }
     ],
     "wof:id":1293205273,
-    "wof:lastmodified":1536697086,
+    "wof:lastmodified":1564188229,
     "wof:name":"Kasama",
     "wof:parent_id":1108693067,
     "wof:placetype":"locality",

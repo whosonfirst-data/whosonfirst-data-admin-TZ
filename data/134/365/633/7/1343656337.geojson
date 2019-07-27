@@ -27,7 +27,19 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ndende"
+    ],
+    "name:deu_x_preferred":[
+        "Ndende"
+    ],
     "name:eng_x_preferred":[
+        "Ndende"
+    ],
+    "name:fra_x_preferred":[
+        "Ndende"
+    ],
+    "name:swe_x_preferred":[
         "Ndende"
     ],
     "src:geom":"geonames",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1343656337,
-    "wof:lastmodified":1537710006,
+    "wof:lastmodified":1564188016,
     "wof:name":"Ndende",
     "wof:parent_id":421187961,
     "wof:placetype":"locality",

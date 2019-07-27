@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Lilambo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1276411069,
-    "wof:lastmodified":1537574864,
+    "wof:lastmodified":1564188357,
     "wof:name":"Lilambo",
     "wof:parent_id":1108692991,
     "wof:placetype":"locality",

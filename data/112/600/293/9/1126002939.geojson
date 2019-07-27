@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ron_x_preferred":[
+        "Mwaya"
+    ],
+    "name:swa_x_preferred":[
+        "Mwaya"
+    ],
     "name:unk_x_variant":[
         "Mvaya"
     ],
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1126002939,
-    "wof:lastmodified":1509406266,
+    "wof:lastmodified":1564188851,
     "wof:name":"Mwaya",
     "wof:parent_id":421192909,
     "wof:placetype":"locality",

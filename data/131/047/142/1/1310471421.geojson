@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Ihanja"
+    ],
+    "name:swa_x_preferred":[
+        "Ihanja"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1310471421,
-    "wof:lastmodified":1537574860,
+    "wof:lastmodified":1564188643,
     "wof:name":"Ihanja",
     "wof:parent_id":1108693029,
     "wof:placetype":"locality",

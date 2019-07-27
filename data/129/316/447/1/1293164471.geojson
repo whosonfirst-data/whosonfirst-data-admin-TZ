@@ -27,6 +27,90 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u064a\u0648\u0631\u0648\u0645\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Uruma"
+    ],
+    "name:deu_x_preferred":[
+        "Uruma"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u0648\u0645\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Uruma"
+    ],
+    "name:glg_x_preferred":[
+        "Uruma"
+    ],
+    "name:ind_x_preferred":[
+        "Uruma"
+    ],
+    "name:ita_x_preferred":[
+        "Uruma"
+    ],
+    "name:jpn_x_preferred":[
+        "\u3046\u308b\u307e\u5e02"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b0\ub8e8\ub9c8\uc2dc"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0627\u0648\u0631\u0648\u0645\u0627"
+    ],
+    "name:nld_x_preferred":[
+        "Uruma"
+    ],
+    "name:pol_x_preferred":[
+        "Uruma"
+    ],
+    "name:por_x_preferred":[
+        "Uruma"
+    ],
+    "name:ron_x_preferred":[
+        "Uruma"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0440\u0443\u043c\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Uruma"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u0440\u0443\u043c\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Uruma"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0423\u0440\u0443\u043c\u0430"
+    ],
+    "name:tgl_x_preferred":[
+        "Uruma"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e39\u0e23\u0e39\u0e21\u0e30"
+    ],
+    "name:tum_x_preferred":[
+        "Uruma"
+    ],
+    "name:tur_x_preferred":[
+        "Uruma"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0440\u0443\u043c\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Uruma"
+    ],
+    "name:war_x_preferred":[
+        "Uruma"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b87\u6d41\u9ebb\u5e02"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +134,7 @@
         }
     ],
     "wof:id":1293164471,
-    "wof:lastmodified":1536755970,
+    "wof:lastmodified":1564188236,
     "wof:name":"Uruma",
     "wof:parent_id":1108693045,
     "wof:placetype":"locality",

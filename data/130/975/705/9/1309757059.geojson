@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Kharumwa"
+    ],
+    "name:swa_x_preferred":[
+        "Kharumwa"
+    ],
     "name:und_x_variant":[
         "Kharumwa"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1309757059,
-    "wof:lastmodified":1537710041,
+    "wof:lastmodified":1564188814,
     "wof:name":"Karumwa",
     "wof:parent_id":1108693165,
     "wof:placetype":"locality",

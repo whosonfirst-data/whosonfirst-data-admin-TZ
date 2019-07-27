@@ -19,6 +19,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Matai"
+    ],
+    "name:deu_x_preferred":[
+        "Matai"
+    ],
+    "name:swe_x_preferred":[
+        "Matai"
+    ],
     "qs_pg:aaroncc":"TZ",
     "qs_pg:gn_country":"TZ",
     "qs_pg:gn_fcode":"PPL",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1126003517,
-    "wof:lastmodified":1509406296,
+    "wof:lastmodified":1564188852,
     "wof:name":"Matai",
     "wof:parent_id":1108693049,
     "wof:placetype":"locality",

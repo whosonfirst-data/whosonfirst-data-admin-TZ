@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Mahongole"
     ],
+    "name:swa_x_preferred":[
+        "Mahongole"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632227
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1209338745,
-    "wof:lastmodified":1537710026,
+    "wof:lastmodified":1564188478,
     "wof:name":"Mahongole",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",

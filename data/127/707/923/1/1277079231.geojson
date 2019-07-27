@@ -34,14 +34,32 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0423\u0434\u0436\u044b\u0434\u0436\u044b"
     ],
+    "name:bel_x_variant":[
+        "\u0423\u0434\u0436\u044b\u0434\u0436\u044b"
+    ],
+    "name:ces_x_preferred":[
+        "Ud\u017eid\u017ei"
+    ],
     "name:deu_x_preferred":[
         "Udschidschi"
+    ],
+    "name:deu_x_variant":[
+        "Ujiji"
     ],
     "name:eng_x_preferred":[
         "Ujiji"
     ],
+    "name:fra_x_preferred":[
+        "Ujiji"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05d2\u05d9\u05d2\u05d9"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05d5\u05d2'\u05d9\u05d2'\u05d9"
+    ],
+    "name:ita_x_preferred":[
+        "Ujiji"
     ],
     "name:jpn_x_preferred":[
         "\u30a6\u30b8\u30b8"
@@ -55,20 +73,35 @@
     "name:nld_x_preferred":[
         "Ujiji"
     ],
+    "name:nno_x_preferred":[
+        "Ujiji"
+    ],
     "name:nor_x_preferred":[
         "Ujiji"
     ],
     "name:por_x_preferred":[
         "Ujiji"
     ],
+    "name:ron_x_preferred":[
+        "Ujiji"
+    ],
     "name:rus_x_preferred":[
         "\u0423\u0434\u0436\u0438\u0434\u0436\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Ujiji"
     ],
     "name:swa_x_preferred":[
         "Ujiji"
     ],
+    "name:tur_x_preferred":[
+        "Ujiji"
+    ],
     "name:ukr_x_preferred":[
         "\u0423\u0434\u0436\u0438\u0434\u0436\u0438"
+    ],
+    "name:ukr_x_variant":[
+        "\u0423\u0434\u0436\u0438\u0434\u0436\u0456"
     ],
     "name:und_x_variant":[
         "Udidji",
@@ -102,7 +135,7 @@
         }
     ],
     "wof:id":1277079231,
-    "wof:lastmodified":1537709992,
+    "wof:lastmodified":1564188267,
     "wof:name":"Ujiji",
     "wof:parent_id":1108693063,
     "wof:placetype":"locality",

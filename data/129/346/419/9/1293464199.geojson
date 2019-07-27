@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Mugo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1293464199,
-    "wof:lastmodified":1536819890,
+    "wof:lastmodified":1564188165,
     "wof:name":"Mugo",
     "wof:parent_id":1108693175,
     "wof:placetype":"locality",

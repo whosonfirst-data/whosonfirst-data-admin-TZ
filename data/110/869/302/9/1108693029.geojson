@@ -31,10 +31,22 @@
     "mps:longitude":34.508681,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ikungi"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03ba\u03bf\u03cd\u03bd\u03b3\u03ba\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Ikungi"
     ],
     "name:eng_x_variant":[
+        "Ikungi"
+    ],
+    "name:ita_x_preferred":[
+        "Ikungi"
+    ],
+    "name:swa_x_preferred":[
         "Ikungi"
     ],
     "src:geom":"meso",
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1108693029,
-    "wof:lastmodified":1555047728,
+    "wof:lastmodified":1564188617,
     "wof:name":"Ikungi",
     "wof:parent_id":85679727,
     "wof:placetype":"county",

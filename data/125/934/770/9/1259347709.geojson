@@ -27,6 +27,18 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ang_x_preferred":[
+        "Amani"
+    ],
+    "name:deu_x_preferred":[
+        "Amani"
+    ],
+    "name:fra_x_preferred":[
+        "Amani"
+    ],
+    "name:ita_x_preferred":[
+        "Amani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1259347709,
-    "wof:lastmodified":1537051702,
+    "wof:lastmodified":1564189055,
     "wof:name":"Amani",
     "wof:parent_id":1108693175,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mbugwe"
+    ],
     "name:und_x_variant":[
         "Mbugw",
         "Mbugwe"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276615381,
-    "wof:lastmodified":1537710020,
+    "wof:lastmodified":1564188313,
     "wof:name":"Mbugwe",
     "wof:parent_id":1108693093,
     "wof:placetype":"locality",

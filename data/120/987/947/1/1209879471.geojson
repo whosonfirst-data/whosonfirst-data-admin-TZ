@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kitara"
+    ],
+    "name:slv_x_preferred":[
+        "Kitara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1209879471,
-    "wof:lastmodified":1536395709,
+    "wof:lastmodified":1564188492,
     "wof:name":"Kitara",
     "wof:parent_id":1108692923,
     "wof:placetype":"locality",

@@ -27,6 +27,15 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Paje"
+    ],
+    "name:nor_x_preferred":[
+        "Paje"
+    ],
+    "name:swa_x_preferred":[
+        "Paje"
+    ],
     "name:und_x_variant":[
         "Padye",
         "Paje"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1276290391,
-    "wof:lastmodified":1537709999,
+    "wof:lastmodified":1564188299,
     "wof:name":"Paje",
     "wof:parent_id":421188197,
     "wof:placetype":"locality",

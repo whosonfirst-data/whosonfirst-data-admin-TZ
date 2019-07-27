@@ -25,6 +25,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03c1\u03ac\u03c4\u03b9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1226735283,
-    "wof:lastmodified":1537574846,
+    "wof:lastmodified":1564189107,
     "wof:name":"Shirati",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

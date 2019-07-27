@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Wanging'ombe"
     ],
+    "name:swa_x_preferred":[
+        "Wanging'ombe"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1108693135,
-    "wof:lastmodified":1555047730,
+    "wof:lastmodified":1564188614,
     "wof:name":"Wanging'ombe",
     "wof:parent_id":85679765,
     "wof:placetype":"county",

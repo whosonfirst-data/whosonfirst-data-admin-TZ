@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Ndalambo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1343746459,
-    "wof:lastmodified":1536830133,
+    "wof:lastmodified":1564188116,
     "wof:name":"Ndalambo",
     "wof:parent_id":1108693019,
     "wof:placetype":"locality",

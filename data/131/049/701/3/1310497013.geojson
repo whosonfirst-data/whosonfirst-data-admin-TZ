@@ -27,6 +27,30 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u0443\u0442\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Guta"
+    ],
+    "name:deu_x_preferred":[
+        "Guta"
+    ],
+    "name:ita_x_preferred":[
+        "Guta"
+    ],
+    "name:lav_x_preferred":[
+        "Guta"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0442\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Guta"
+    ],
+    "name:spa_x_preferred":[
+        "Guta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1310497013,
-    "wof:lastmodified":1536929916,
+    "wof:lastmodified":1564188637,
     "wof:name":"Guta",
     "wof:parent_id":421187953,
     "wof:placetype":"locality",

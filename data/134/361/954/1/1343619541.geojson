@@ -27,6 +27,21 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kalambo"
+    ],
+    "name:ces_x_preferred":[
+        "Kalambo"
+    ],
+    "name:ita_x_preferred":[
+        "Kalambo"
+    ],
+    "name:srp_x_preferred":[
+        "Kalambo"
+    ],
+    "name:swe_x_preferred":[
+        "Kalambo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1343619541,
-    "wof:lastmodified":1537013472,
+    "wof:lastmodified":1564188071,
     "wof:name":"Kalambo",
     "wof:parent_id":1108693049,
     "wof:placetype":"locality",

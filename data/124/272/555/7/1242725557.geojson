@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Madukani"
+    ],
+    "name:swa_x_preferred":[
+        "Madukani"
+    ],
     "name:und_x_variant":[
         "Mwada",
         "Madukani"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1242725557,
-    "wof:lastmodified":1537710027,
+    "wof:lastmodified":1564188881,
     "wof:name":"Madukani",
     "wof:parent_id":1108693123,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Jambiani"
+    ],
+    "name:nor_x_preferred":[
+        "Jambiani"
+    ],
     "name:und_x_variant":[
         "Jembiani Kaye",
         "Jembiani",
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1209473929,
-    "wof:lastmodified":1537710047,
+    "wof:lastmodified":1564188444,
     "wof:name":"Jambiani",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",

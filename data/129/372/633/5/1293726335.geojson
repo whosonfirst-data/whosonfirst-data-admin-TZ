@@ -27,6 +27,15 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bumera"
+    ],
+    "name:ita_x_preferred":[
+        "Bumera"
+    ],
+    "name:swa_x_preferred":[
+        "Bumera"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1293726335,
-    "wof:lastmodified":1536940612,
+    "wof:lastmodified":1564188258,
     "wof:name":"Bumera",
     "wof:parent_id":1108693153,
     "wof:placetype":"locality",

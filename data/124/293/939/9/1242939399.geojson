@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0577\u0561"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1242939399,
-    "wof:lastmodified":1537038069,
+    "wof:lastmodified":1564188901,
     "wof:name":"Bosha",
     "wof:parent_id":421175229,
     "wof:placetype":"locality",

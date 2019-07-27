@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Kikore"
+    ],
+    "name:swa_x_preferred":[
+        "Kikore"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632227
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1209527149,
-    "wof:lastmodified":1537574856,
+    "wof:lastmodified":1564188422,
     "wof:name":"Kikore",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",

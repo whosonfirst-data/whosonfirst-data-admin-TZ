@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Manza"
+    ],
+    "name:swe_x_preferred":[
+        "Manza"
+    ],
     "name:und_x_variant":[
         "Munsa",
         "Manza"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1259340907,
-    "wof:lastmodified":1537710023,
+    "wof:lastmodified":1564189055,
     "wof:name":"Manza",
     "wof:parent_id":1108693049,
     "wof:placetype":"locality",

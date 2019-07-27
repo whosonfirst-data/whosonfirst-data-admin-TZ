@@ -25,6 +25,15 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mugu"
+    ],
+    "name:ibo_x_preferred":[
+        "Mugu"
+    ],
+    "name:swe_x_preferred":[
+        "Mugu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1310025795,
-    "wof:lastmodified":1536611567,
+    "wof:lastmodified":1564188712,
     "wof:name":"Mugu",
     "wof:parent_id":1108693103,
     "wof:placetype":"locality",

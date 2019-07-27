@@ -27,6 +27,15 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Kivukoni"
+    ],
+    "name:ita_x_preferred":[
+        "Kivukoni"
+    ],
+    "name:swa_x_preferred":[
+        "Kivukoni"
+    ],
     "name:und_x_variant":[
         "Kivokoni",
         "Kivukoni"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1277094415,
-    "wof:lastmodified":1537710033,
+    "wof:lastmodified":1564188265,
     "wof:name":"Kivukoni",
     "wof:parent_id":1108692937,
     "wof:placetype":"locality",

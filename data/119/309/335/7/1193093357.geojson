@@ -27,6 +27,18 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Msasani"
+    ],
+    "name:ita_x_preferred":[
+        "Msasani"
+    ],
+    "name:swa_x_preferred":[
+        "Msasani"
+    ],
+    "name:swe_x_preferred":[
+        "Msasani"
+    ],
     "name:und_x_variant":[
         "Msasana",
         "Msasani"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1193093357,
-    "wof:lastmodified":1537710012,
+    "wof:lastmodified":1564188519,
     "wof:name":"Msasani",
     "wof:parent_id":421202229,
     "wof:placetype":"locality",

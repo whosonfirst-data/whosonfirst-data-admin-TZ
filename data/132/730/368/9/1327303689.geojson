@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Majiri"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1327303689,
-    "wof:lastmodified":1537574853,
+    "wof:lastmodified":1564187899,
     "wof:name":"Majiri",
     "wof:parent_id":421186277,
     "wof:placetype":"locality",

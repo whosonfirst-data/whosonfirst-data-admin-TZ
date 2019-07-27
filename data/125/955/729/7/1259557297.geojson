@@ -27,6 +27,51 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Marumba"
+    ],
+    "name:ceb_x_preferred":[
+        "Marumba"
+    ],
+    "name:deu_x_preferred":[
+        "Marumba"
+    ],
+    "name:fra_x_preferred":[
+        "Marumba"
+    ],
+    "name:nld_x_preferred":[
+        "Marumba"
+    ],
+    "name:nor_x_preferred":[
+        "Marumba"
+    ],
+    "name:por_x_preferred":[
+        "Marumba"
+    ],
+    "name:ron_x_preferred":[
+        "Marumba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0443\u043c\u0431\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "Marumba"
+    ],
+    "name:swe_x_preferred":[
+        "Marumba"
+    ],
+    "name:ukr_x_preferred":[
+        "Marumba"
+    ],
+    "name:vie_x_preferred":[
+        "Marumba"
+    ],
+    "name:war_x_preferred":[
+        "Marumba"
+    ],
+    "name:zho_x_preferred":[
+        "\u516d\u9ede\u5929\u86fe\u5c6c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +95,7 @@
         }
     ],
     "wof:id":1259557297,
-    "wof:lastmodified":1536752619,
+    "wof:lastmodified":1564189015,
     "wof:name":"Marumba",
     "wof:parent_id":1108692985,
     "wof:placetype":"locality",

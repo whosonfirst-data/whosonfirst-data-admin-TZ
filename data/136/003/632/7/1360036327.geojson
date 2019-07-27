@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30d6\u30b5\u30f3\u30c0"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1360036327,
-    "wof:lastmodified":1537015412,
+    "wof:lastmodified":1564188755,
     "wof:name":"Busanda",
     "wof:parent_id":1108693163,
     "wof:placetype":"locality",

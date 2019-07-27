@@ -27,6 +27,15 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Mchikichini"
+    ],
+    "name:ita_x_preferred":[
+        "Mchikichini"
+    ],
+    "name:swa_x_preferred":[
+        "Mchikichini"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1293760015,
-    "wof:lastmodified":1537574851,
+    "wof:lastmodified":1564188182,
     "wof:name":"Mchikichini",
     "wof:parent_id":421198067,
     "wof:placetype":"locality",

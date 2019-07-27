@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bujonde"
+    ],
+    "name:swa_x_preferred":[
+        "Bujonde"
+    ],
     "name:und_x_variant":[
         "Buyonde",
         "Bujonde"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1310100069,
-    "wof:lastmodified":1537710059,
+    "wof:lastmodified":1564188689,
     "wof:name":"Bujonde",
     "wof:parent_id":421192909,
     "wof:placetype":"locality",

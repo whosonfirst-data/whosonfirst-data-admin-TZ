@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Kondoa"
+    ],
     "name:deu_x_preferred":[
         "Kondoa"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":421199087,
-    "wof:lastmodified":1527716416,
+    "wof:lastmodified":1564188828,
     "wof:name":"Kondoa",
     "wof:parent_id":1108692889,
     "wof:placetype":"locality",

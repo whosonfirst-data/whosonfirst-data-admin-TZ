@@ -31,10 +31,28 @@
     "mps:longitude":32.798239,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tunduma"
+    ],
     "name:eng_x_preferred":[
         "Tunduma"
     ],
     "name:eng_x_variant":[
+        "Tunduma"
+    ],
+    "name:fin_x_preferred":[
+        "Tunduma"
+    ],
+    "name:nno_x_preferred":[
+        "Tunduma"
+    ],
+    "name:nor_x_preferred":[
+        "Tunduma"
+    ],
+    "name:pol_x_preferred":[
+        "Tunduma"
+    ],
+    "name:swa_x_preferred":[
         "Tunduma"
     ],
     "src:geom":"meso",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1108693021,
-    "wof:lastmodified":1555047728,
+    "wof:lastmodified":1564188617,
     "wof:name":"Tunduma",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

@@ -33,6 +33,15 @@
     "name:deu_x_preferred":[
         "Bismarckburg"
     ],
+    "name:ron_x_preferred":[
+        "Kasanga"
+    ],
+    "name:swa_x_preferred":[
+        "Kasanga"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u6851\u52a0"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1326886285,
-    "wof:lastmodified":1537710043,
+    "wof:lastmodified":1564187913,
     "wof:name":"Kasanga",
     "wof:parent_id":1108693049,
     "wof:placetype":"locality",

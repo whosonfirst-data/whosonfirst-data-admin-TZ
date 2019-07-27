@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Banani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1310665561,
-    "wof:lastmodified":1536686106,
+    "wof:lastmodified":1564188699,
     "wof:name":"Banani",
     "wof:parent_id":421187955,
     "wof:placetype":"locality",

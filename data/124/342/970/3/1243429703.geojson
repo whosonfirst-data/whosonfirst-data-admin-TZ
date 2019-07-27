@@ -27,6 +27,36 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kayunga"
+    ],
+    "name:deu_x_preferred":[
+        "Kayunga"
+    ],
+    "name:fra_x_preferred":[
+        "Kayunga"
+    ],
+    "name:ita_x_preferred":[
+        "Kayunga"
+    ],
+    "name:lug_x_preferred":[
+        "Kayunga"
+    ],
+    "name:nld_x_preferred":[
+        "Kayunga"
+    ],
+    "name:nor_x_preferred":[
+        "Kayunga"
+    ],
+    "name:ron_x_preferred":[
+        "Kayunga"
+    ],
+    "name:swa_x_preferred":[
+        "Kayunga"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0626\u0648\u0646\u06af\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +80,7 @@
         }
     ],
     "wof:id":1243429703,
-    "wof:lastmodified":1536828702,
+    "wof:lastmodified":1564188980,
     "wof:name":"Kayunga",
     "wof:parent_id":1108693085,
     "wof:placetype":"locality",

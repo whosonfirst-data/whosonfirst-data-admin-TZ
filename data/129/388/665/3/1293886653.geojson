@@ -33,6 +33,9 @@
     "name:eng_x_variant":[
         "Bueni"
     ],
+    "name:swa_x_preferred":[
+        "Bweni"
+    ],
     "name:und_x_variant":[
         "Bueni"
     ],
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1293886653,
-    "wof:lastmodified":1537710058,
+    "wof:lastmodified":1564188263,
     "wof:name":"Bweni",
     "wof:parent_id":1108692951,
     "wof:placetype":"locality",

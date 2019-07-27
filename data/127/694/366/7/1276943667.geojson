@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Makuyuni"
+    ],
+    "name:swa_x_preferred":[
+        "Makuyuni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1276943667,
-    "wof:lastmodified":1536955954,
+    "wof:lastmodified":1564188307,
     "wof:name":"Makuyuni",
     "wof:parent_id":1108692919,
     "wof:placetype":"locality",

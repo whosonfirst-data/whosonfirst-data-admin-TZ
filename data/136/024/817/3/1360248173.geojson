@@ -27,6 +27,15 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Funta"
+    ],
+    "name:jpn_x_preferred":[
+        "Funta"
+    ],
+    "name:kor_x_preferred":[
+        "Funta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1360248173,
-    "wof:lastmodified":1536710789,
+    "wof:lastmodified":1564188722,
     "wof:name":"Funta",
     "wof:parent_id":421175229,
     "wof:placetype":"locality",

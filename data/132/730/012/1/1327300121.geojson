@@ -27,6 +27,123 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ace_x_preferred":[
+        "Mangalia"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0646\u063a\u0627\u0644\u0627\u064a\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0646\u062c\u0627\u0644\u064a\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0646\u06af\u0644\u06cc\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u043d\u0433\u0430\u043b\u0456\u044f"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043d\u0433\u0430\u043b\u0438\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Mangalia"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipiul Mangalia"
+    ],
+    "name:ces_x_preferred":[
+        "Mangalia"
+    ],
+    "name:deu_x_preferred":[
+        "Mangalia"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03bb\u03b1\u03c4\u03af\u03c2"
+    ],
+    "name:epo_x_preferred":[
+        "Mangalia"
+    ],
+    "name:est_x_preferred":[
+        "Mangalia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u06af\u0644\u06cc\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Mangalia"
+    ],
+    "name:fra_x_preferred":[
+        "Mangalia"
+    ],
+    "name:glg_x_preferred":[
+        "Mangalia"
+    ],
+    "name:hun_x_preferred":[
+        "Mangalia"
+    ],
+    "name:ind_x_preferred":[
+        "Mangalia"
+    ],
+    "name:ita_x_preferred":[
+        "Mangalia"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10dc\u10d2\u10d0\u10da\u10d8\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9cc\uac08\ub9ac\uc544"
+    ],
+    "name:lat_x_preferred":[
+        "Callatis"
+    ],
+    "name:min_x_preferred":[
+        "Mangalia"
+    ],
+    "name:msa_x_preferred":[
+        "Mangalia"
+    ],
+    "name:nld_x_preferred":[
+        "Mangalia"
+    ],
+    "name:pol_x_preferred":[
+        "Mangalia"
+    ],
+    "name:por_x_preferred":[
+        "Mangalia"
+    ],
+    "name:ron_x_preferred":[
+        "Mangalia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0433\u0430\u043b\u0438\u044f"
+    ],
+    "name:slv_x_preferred":[
+        "Mangalija"
+    ],
+    "name:spa_x_preferred":[
+        "Mangalia"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041c\u0430\u043d\u0433\u0430\u043b\u0438\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Mangalia"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041c\u0430\u043d\u0433\u0430\u043b\u0438\u044f"
+    ],
+    "name:tur_x_preferred":[
+        "Mankalya"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043d\u0433\u0430\u043b\u0456\u044f"
+    ],
+    "name:vie_x_preferred":[
+        "Mangalia"
+    ],
+    "name:zho_x_preferred":[
+        "\u66fc\u52a0\u5229\u4e9e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +167,7 @@
         }
     ],
     "wof:id":1327300121,
-    "wof:lastmodified":1536870846,
+    "wof:lastmodified":1564187898,
     "wof:name":"Mangalia",
     "wof:parent_id":1108692929,
     "wof:placetype":"locality",

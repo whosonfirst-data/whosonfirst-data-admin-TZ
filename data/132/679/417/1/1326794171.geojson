@@ -27,6 +27,15 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kakuni"
+    ],
+    "name:por_x_preferred":[
+        "Kakuni"
+    ],
+    "name:spa_x_preferred":[
+        "Kakuni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1326794171,
-    "wof:lastmodified":1536603490,
+    "wof:lastmodified":1564187974,
     "wof:name":"Kakuni",
     "wof:parent_id":1108693041,
     "wof:placetype":"locality",

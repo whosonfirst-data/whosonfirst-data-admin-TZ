@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Matale"
+    ],
+    "name:swa_x_preferred":[
+        "Matale"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1293583079,
-    "wof:lastmodified":1537574852,
+    "wof:lastmodified":1564188209,
     "wof:name":"Matale",
     "wof:parent_id":1108692941,
     "wof:placetype":"locality",

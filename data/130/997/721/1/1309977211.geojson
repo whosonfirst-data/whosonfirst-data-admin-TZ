@@ -27,6 +27,15 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mawa"
+    ],
+    "name:fra_x_preferred":[
+        "Mawa"
+    ],
+    "name:swe_x_preferred":[
+        "Mawa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1309977211,
-    "wof:lastmodified":1536684094,
+    "wof:lastmodified":1564188774,
     "wof:name":"Mawa",
     "wof:parent_id":1108692993,
     "wof:placetype":"locality",

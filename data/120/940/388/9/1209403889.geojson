@@ -27,6 +27,15 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Taveta"
+    ],
+    "name:nld_x_preferred":[
+        "Taveta"
+    ],
+    "name:spa_x_preferred":[
+        "Taveta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632227
@@ -44,7 +53,7 @@
         }
     ],
     "wof:id":1209403889,
-    "wof:lastmodified":1536288057,
+    "wof:lastmodified":1564188440,
     "wof:name":"Taveta",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",

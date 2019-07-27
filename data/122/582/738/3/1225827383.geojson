@@ -27,6 +27,18 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Senga"
+    ],
+    "name:ita_x_preferred":[
+        "Senga"
+    ],
+    "name:swa_x_preferred":[
+        "Senga"
+    ],
+    "name:swe_x_preferred":[
+        "Senga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1225827383,
-    "wof:lastmodified":1537038511,
+    "wof:lastmodified":1564189213,
     "wof:name":"Senga",
     "wof:parent_id":1108693031,
     "wof:placetype":"locality",

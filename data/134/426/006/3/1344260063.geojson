@@ -25,6 +25,24 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pozo"
+    ],
+    "name:deu_x_preferred":[
+        "Pozo"
+    ],
+    "name:ita_x_preferred":[
+        "Pozo"
+    ],
+    "name:pol_x_preferred":[
+        "Pozo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Pozo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1344260063,
-    "wof:lastmodified":1537081544,
+    "wof:lastmodified":1564188096,
     "wof:name":"Pozo",
     "wof:parent_id":1108692923,
     "wof:placetype":"locality",

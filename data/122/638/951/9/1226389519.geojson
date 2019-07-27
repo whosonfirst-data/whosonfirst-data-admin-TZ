@@ -34,6 +34,12 @@
         "Nkamba",
         "Kamba"
     ],
+    "name:fra_x_preferred":[
+        "Nkamba"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d9\u10d0\u10db\u10d1\u10d0"
+    ],
     "name:und_x_variant":[
         "Kamba"
     ],
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1226389519,
-    "wof:lastmodified":1537710051,
+    "wof:lastmodified":1564189209,
     "wof:name":"Nkamba",
     "wof:parent_id":1108693149,
     "wof:placetype":"locality",

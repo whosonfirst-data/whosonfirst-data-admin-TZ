@@ -27,6 +27,18 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Malolo"
+    ],
+    "name:hif_x_preferred":[
+        "Malolo"
+    ],
+    "name:ita_x_preferred":[
+        "Malolo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u043b\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1326519901,
-    "wof:lastmodified":1537001085,
+    "wof:lastmodified":1564187920,
     "wof:name":"Malolo",
     "wof:parent_id":1108693005,
     "wof:placetype":"locality",

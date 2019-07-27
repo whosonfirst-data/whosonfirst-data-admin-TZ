@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Ihango"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632227
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":1209504097,
-    "wof:lastmodified":1536285089,
+    "wof:lastmodified":1564188455,
     "wof:name":"Ihango",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",

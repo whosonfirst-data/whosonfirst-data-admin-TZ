@@ -27,6 +27,27 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Makonde"
+    ],
+    "name:deu_x_preferred":[
+        "Makonde"
+    ],
+    "name:fra_x_preferred":[
+        "Makond\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Makonde"
+    ],
+    "name:por_x_preferred":[
+        "Maconde"
+    ],
+    "name:swa_x_preferred":[
+        "Makonde"
+    ],
+    "name:swe_x_preferred":[
+        "Makonde"
+    ],
     "name:und_x_variant":[
         "Makondo",
         "Makonde"
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1343808169,
-    "wof:lastmodified":1537710025,
+    "wof:lastmodified":1564188115,
     "wof:name":"Makonde",
     "wof:parent_id":1108693141,
     "wof:placetype":"locality",

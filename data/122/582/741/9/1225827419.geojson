@@ -27,6 +27,21 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Wala"
+    ],
+    "name:deu_x_preferred":[
+        "Wala"
+    ],
+    "name:fra_x_preferred":[
+        "Wala"
+    ],
+    "name:swe_x_preferred":[
+        "Wala"
+    ],
+    "name:tgl_x_preferred":[
+        "Wala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1225827419,
-    "wof:lastmodified":1537038464,
+    "wof:lastmodified":1564189214,
     "wof:name":"Wala",
     "wof:parent_id":1108693023,
     "wof:placetype":"locality",

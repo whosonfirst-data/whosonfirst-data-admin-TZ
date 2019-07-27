@@ -27,7 +27,19 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mohoro"
+    ],
     "name:eng_x_preferred":[
+        "Mohoro"
+    ],
+    "name:ind_x_preferred":[
+        "Mohoro"
+    ],
+    "name:ron_x_preferred":[
+        "Mohoro"
+    ],
+    "name:swe_x_preferred":[
         "Mohoro"
     ],
     "src:geom":"geonames",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1276994315,
-    "wof:lastmodified":1537710014,
+    "wof:lastmodified":1564188366,
     "wof:name":"Mohoro",
     "wof:parent_id":421182255,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Ngimu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1276409647,
-    "wof:lastmodified":1537574848,
+    "wof:lastmodified":1564188349,
     "wof:name":"Ngimu",
     "wof:parent_id":1108693025,
     "wof:placetype":"locality",

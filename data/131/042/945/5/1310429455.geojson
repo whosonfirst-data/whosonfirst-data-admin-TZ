@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Mgama"
+    ],
     "name:und_x_variant":[
         "Mgama",
         "Mugama"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1310429455,
-    "wof:lastmodified":1537710010,
+    "wof:lastmodified":1564188672,
     "wof:name":"Mugama",
     "wof:parent_id":421187959,
     "wof:placetype":"locality",

@@ -27,6 +27,27 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mikindani"
+    ],
+    "name:fra_x_preferred":[
+        "Mikindani"
+    ],
+    "name:ita_x_preferred":[
+        "Mikindani"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30ad\u30f3\u30c0\u30cb"
+    ],
+    "name:ron_x_preferred":[
+        "Mikindani"
+    ],
+    "name:swa_x_preferred":[
+        "Mikindani"
+    ],
+    "name:tur_x_preferred":[
+        "Mikindani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1260350789,
-    "wof:lastmodified":1536619857,
+    "wof:lastmodified":1564188594,
     "wof:name":"Mikindani",
     "wof:parent_id":1108693175,
     "wof:placetype":"locality",

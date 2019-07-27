@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lug_x_preferred":[
+        "Rubirizi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0628\u06cc\u0631\u06cc\u0632\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1276508207,
-    "wof:lastmodified":1537040215,
+    "wof:lastmodified":1564188318,
     "wof:name":"Rubirizi",
     "wof:parent_id":1108693171,
     "wof:placetype":"locality",

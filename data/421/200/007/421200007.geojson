@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Mkwaja"
+    ],
+    "name:ita_x_preferred":[
+        "Mkwaja"
+    ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":153450,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":421200007,
-    "wof:lastmodified":1500033632,
+    "wof:lastmodified":1564188828,
     "wof:name":"Mkwaja",
     "wof:parent_id":421203229,
     "wof:placetype":"locality",

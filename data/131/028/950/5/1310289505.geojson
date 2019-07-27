@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Uyole"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1310289505,
-    "wof:lastmodified":1537574844,
+    "wof:lastmodified":1564188688,
     "wof:name":"Uyole",
     "wof:parent_id":421170113,
     "wof:placetype":"locality",

@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Gairo"
+    ],
+    "name:swe_x_preferred":[
+        "Gairo"
+    ],
     "name:unk_x_variant":[
         "Geiro"
     ],
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":421190925,
-    "wof:lastmodified":1527716393,
+    "wof:lastmodified":1564188827,
     "wof:name":"Gairo",
     "wof:parent_id":1108692943,
     "wof:placetype":"locality",

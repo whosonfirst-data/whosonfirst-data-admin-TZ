@@ -25,6 +25,18 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Seme"
+    ],
+    "name:ita_x_preferred":[
+        "Seme"
+    ],
+    "name:slv_x_preferred":[
+        "Seme"
+    ],
+    "name:swe_x_preferred":[
+        "Seme"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -44,7 +56,7 @@
         }
     ],
     "wof:id":1226262643,
-    "wof:lastmodified":1536909653,
+    "wof:lastmodified":1564189102,
     "wof:name":"Seme",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

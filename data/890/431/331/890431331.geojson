@@ -15,6 +15,18 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Madimba"
+    ],
+    "name:fra_x_preferred":[
+        "Madimba"
+    ],
+    "name:swe_x_preferred":[
+        "Madimba"
+    ],
+    "name:wln_x_preferred":[
+        "Madimba"
+    ],
     "qs:name":"Madimba",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":890431331,
-    "wof:lastmodified":1527735408,
+    "wof:lastmodified":1564188837,
     "wof:name":"Madimba",
     "wof:parent_id":1108692969,
     "wof:placetype":"locality",

@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ita_x_preferred":[
+        "Makuyuni"
+    ],
+    "name:swa_x_preferred":[
+        "Makuyuni"
+    ],
     "qs_pg:aaroncc":"TZ",
     "qs_pg:gn_country":"TZ",
     "qs_pg:gn_fcode":"PPL",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1125953249,
-    "wof:lastmodified":1509402831,
+    "wof:lastmodified":1564188844,
     "wof:name":"Makuyuni",
     "wof:parent_id":1108692919,
     "wof:placetype":"locality",

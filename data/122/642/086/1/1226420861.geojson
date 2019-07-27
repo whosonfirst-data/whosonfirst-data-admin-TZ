@@ -27,6 +27,39 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Marika"
+    ],
+    "name:deu_x_preferred":[
+        "Marika"
+    ],
+    "name:est_x_preferred":[
+        "Marika"
+    ],
+    "name:fin_x_preferred":[
+        "Marika"
+    ],
+    "name:fra_x_preferred":[
+        "Marika"
+    ],
+    "name:ita_x_preferred":[
+        "Marica"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub9ac\uce74"
+    ],
+    "name:pol_x_preferred":[
+        "Marika"
+    ],
+    "name:slk_x_preferred":[
+        "Marika"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Marika"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +83,7 @@
         }
     ],
     "wof:id":1226420861,
-    "wof:lastmodified":1536681349,
+    "wof:lastmodified":1564189105,
     "wof:name":"Marika",
     "wof:parent_id":1108692983,
     "wof:placetype":"locality",

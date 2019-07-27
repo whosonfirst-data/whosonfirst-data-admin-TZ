@@ -27,6 +27,15 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03ac\u03bc\u03c0\u03bf"
+    ],
+    "name:ita_x_preferred":[
+        "Marambo"
+    ],
+    "name:swa_x_preferred":[
+        "Marambo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1344151351,
-    "wof:lastmodified":1537574863,
+    "wof:lastmodified":1564188043,
     "wof:name":"Marambo",
     "wof:parent_id":1108692959,
     "wof:placetype":"locality",

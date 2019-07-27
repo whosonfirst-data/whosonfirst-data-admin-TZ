@@ -31,10 +31,25 @@
     "mps:longitude":30.661496,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ngara"
+    ],
     "name:eng_x_preferred":[
         "Ngara"
     ],
     "name:eng_x_variant":[
+        "Ngara"
+    ],
+    "name:nor_x_preferred":[
+        "Ngara"
+    ],
+    "name:ron_x_preferred":[
+        "Ngara"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0433\u0430\u0440\u0430"
+    ],
+    "name:tur_x_preferred":[
         "Ngara"
     ],
     "src:geom":"meso",
@@ -72,7 +87,7 @@
         }
     ],
     "wof:id":1108693095,
-    "wof:lastmodified":1553718237,
+    "wof:lastmodified":1564188602,
     "wof:name":"Ngara",
     "wof:parent_id":85679665,
     "wof:placetype":"county",

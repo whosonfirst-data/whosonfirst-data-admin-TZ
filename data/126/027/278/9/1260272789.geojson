@@ -27,6 +27,15 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Isoko"
+    ],
+    "name:fra_x_preferred":[
+        "Isoko"
+    ],
+    "name:por_x_preferred":[
+        "Isoko"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1260272789,
-    "wof:lastmodified":1536726643,
+    "wof:lastmodified":1564188581,
     "wof:name":"Isoko",
     "wof:parent_id":1108693011,
     "wof:placetype":"locality",

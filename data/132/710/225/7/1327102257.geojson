@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Chukwani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1327102257,
-    "wof:lastmodified":1537574861,
+    "wof:lastmodified":1564188000,
     "wof:name":"Chukwani",
     "wof:parent_id":421202045,
     "wof:placetype":"locality",

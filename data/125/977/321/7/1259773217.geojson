@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Mpuguso"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1259773217,
-    "wof:lastmodified":1537574850,
+    "wof:lastmodified":1564189019,
     "wof:name":"Mpuguso",
     "wof:parent_id":1108693009,
     "wof:placetype":"locality",

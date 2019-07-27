@@ -25,6 +25,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Kendwa"
+    ],
     "name:und_x_variant":[
         "Kandwa",
         "Kendwa"
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1327397165,
-    "wof:lastmodified":1537710041,
+    "wof:lastmodified":1564187896,
     "wof:name":"Kendwa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
