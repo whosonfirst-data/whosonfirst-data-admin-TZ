@@ -27,6 +27,18 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tulia"
+    ],
+    "name:hun_x_preferred":[
+        "Tulia"
+    ],
+    "name:ita_x_preferred":[
+        "Tulia"
+    ],
+    "name:pol_x_preferred":[
+        "Tulia"
+    ],
     "name:und_x_variant":[
         "Tuli",
         "Tulia"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1344027611,
-    "wof:lastmodified":1537709993,
+    "wof:lastmodified":1564188104,
     "wof:name":"Tulia",
     "wof:parent_id":1108693023,
     "wof:placetype":"locality",

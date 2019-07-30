@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Mtekente"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632227
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209387549,
-    "wof:lastmodified":1537574850,
+    "wof:lastmodified":1564188396,
     "wof:name":"Mtekente",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",

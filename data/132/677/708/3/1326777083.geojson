@@ -25,6 +25,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Igawilo"
+    ],
+    "name:swa_x_preferred":[
+        "Igawilo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1326777083,
-    "wof:lastmodified":1537574860,
+    "wof:lastmodified":1564187978,
     "wof:name":"Igawilo",
     "wof:parent_id":1108693015,
     "wof:placetype":"locality",

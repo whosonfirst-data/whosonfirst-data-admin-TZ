@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Nduguti"
+    ],
+    "name:swa_x_preferred":[
+        "Nduguti"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1259355383,
-    "wof:lastmodified":1537574848,
+    "wof:lastmodified":1564189042,
     "wof:name":"Nduguti",
     "wof:parent_id":1108693031,
     "wof:placetype":"locality",

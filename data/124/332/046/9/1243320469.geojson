@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Kitumbeine"
+    ],
+    "name:swa_x_preferred":[
+        "Kitumbeine"
+    ],
     "name:und_x_variant":[
         "Ketumbeine",
         "Kmumbeine",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1243320469,
-    "wof:lastmodified":1537710034,
+    "wof:lastmodified":1564188938,
     "wof:name":"Kitumbeine",
     "wof:parent_id":1108692911,
     "wof:placetype":"locality",

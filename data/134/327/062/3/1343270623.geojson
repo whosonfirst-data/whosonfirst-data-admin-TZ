@@ -30,6 +30,12 @@
     "name:eng_x_preferred":[
         "Marui"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u0648\u06cc"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub8e8\uc774"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1343270623,
-    "wof:lastmodified":1537710022,
+    "wof:lastmodified":1564188108,
     "wof:name":"Marui",
     "wof:parent_id":421192907,
     "wof:placetype":"locality",

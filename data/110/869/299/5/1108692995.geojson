@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Nyasa"
     ],
+    "name:swa_x_preferred":[
+        "Nyasa"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1108692995,
-    "wof:lastmodified":1555047728,
+    "wof:lastmodified":1564188623,
     "wof:name":"Nyasa",
     "wof:parent_id":85679723,
     "wof:placetype":"county",

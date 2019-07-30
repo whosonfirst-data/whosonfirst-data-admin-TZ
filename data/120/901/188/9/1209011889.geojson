@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Idifu"
+    ],
+    "name:swa_x_preferred":[
+        "Idifu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632227
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1209011889,
-    "wof:lastmodified":1537574860,
+    "wof:lastmodified":1564188404,
     "wof:name":"Idifu",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",

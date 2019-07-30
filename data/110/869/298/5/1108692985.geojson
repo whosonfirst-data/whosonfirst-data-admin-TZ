@@ -37,6 +37,12 @@
     "name:eng_x_variant":[
         "Tunduru"
     ],
+    "name:fin_x_preferred":[
+        "Tunduru"
+    ],
+    "name:swe_x_preferred":[
+        "Tunduru"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108692985,
-    "wof:lastmodified":1553718229,
+    "wof:lastmodified":1564188618,
     "wof:name":"Tunduru",
     "wof:parent_id":85679723,
     "wof:placetype":"county",

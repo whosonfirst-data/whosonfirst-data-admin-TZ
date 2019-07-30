@@ -25,6 +25,27 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Yola"
+    ],
+    "name:ceb_x_preferred":[
+        "Yola"
+    ],
+    "name:deu_x_preferred":[
+        "Yola"
+    ],
+    "name:fra_x_preferred":[
+        "Yola"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d5\u05dc\u05d4"
+    ],
+    "name:por_x_preferred":[
+        "Yola"
+    ],
+    "name:rus_x_preferred":[
+        "\u0419\u043e\u043b\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573
@@ -44,7 +65,7 @@
         }
     ],
     "wof:id":1277059983,
-    "wof:lastmodified":1536799607,
+    "wof:lastmodified":1564188331,
     "wof:name":"Yola",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

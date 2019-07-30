@@ -31,10 +31,19 @@
     "mps:longitude":32.356378,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Momba"
+    ],
     "name:eng_x_preferred":[
         "Momba"
     ],
     "name:eng_x_variant":[
+        "Momba"
+    ],
+    "name:fra_x_preferred":[
+        "Momba"
+    ],
+    "name:swe_x_preferred":[
         "Momba"
     ],
     "src:geom":"meso",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1108693019,
-    "wof:lastmodified":1555047728,
+    "wof:lastmodified":1564188603,
     "wof:name":"Momba",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

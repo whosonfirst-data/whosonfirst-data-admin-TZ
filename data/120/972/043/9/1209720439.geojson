@@ -27,7 +27,40 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kasa"
+    ],
+    "name:ceb_x_preferred":[
+        "Kasa"
+    ],
+    "name:deu_x_preferred":[
+        "Kasa"
+    ],
     "name:eng_x_preferred":[
+        "Kasa"
+    ],
+    "name:fra_x_preferred":[
+        "Kasa"
+    ],
+    "name:ind_x_preferred":[
+        "Kasa"
+    ],
+    "name:ita_x_preferred":[
+        "Kasa"
+    ],
+    "name:pol_x_preferred":[
+        "Kasa"
+    ],
+    "name:que_x_preferred":[
+        "Kasa"
+    ],
+    "name:spa_x_preferred":[
+        "Kasa"
+    ],
+    "name:swe_x_preferred":[
+        "Kasa"
+    ],
+    "name:vie_x_preferred":[
         "Kasa"
     ],
     "src:geom":"geonames",
@@ -53,7 +86,7 @@
         }
     ],
     "wof:id":1209720439,
-    "wof:lastmodified":1537710043,
+    "wof:lastmodified":1564188511,
     "wof:name":"Kasa",
     "wof:parent_id":1108693065,
     "wof:placetype":"locality",

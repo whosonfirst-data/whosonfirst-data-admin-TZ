@@ -28,6 +28,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Kamsamba"
+    ],
     "name:und_x_variant":[
         "Msamba",
         "Kamsamba"
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1209270361,
-    "wof:lastmodified":1537710044,
+    "wof:lastmodified":1564188486,
     "wof:name":"Kamsamba",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",

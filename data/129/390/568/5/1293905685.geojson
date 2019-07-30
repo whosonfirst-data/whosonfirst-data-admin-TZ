@@ -27,6 +27,21 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gava"
+    ],
+    "name:deu_x_preferred":[
+        "Gava"
+    ],
+    "name:ita_x_preferred":[
+        "Gava"
+    ],
+    "name:nld_x_preferred":[
+        "Gava"
+    ],
+    "name:swe_x_preferred":[
+        "Gava"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1293905685,
-    "wof:lastmodified":1536681367,
+    "wof:lastmodified":1564188160,
     "wof:name":"Gava",
     "wof:parent_id":1108692913,
     "wof:placetype":"locality",

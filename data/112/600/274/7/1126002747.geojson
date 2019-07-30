@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Tinde"
+    ],
     "qs_pg:aaroncc":"TZ",
     "qs_pg:gn_country":"TZ",
     "qs_pg:gn_fcode":"PPL",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1126002747,
-    "wof:lastmodified":1509406254,
+    "wof:lastmodified":1564188850,
     "wof:name":"Tinde",
     "wof:parent_id":1108693079,
     "wof:placetype":"locality",

@@ -27,6 +27,15 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0399\u03bb\u03bf\u03cd\u03bb\u03b1"
+    ],
+    "name:ita_x_preferred":[
+        "Ilula"
+    ],
+    "name:swa_x_preferred":[
+        "Ilula"
+    ],
     "name:und_x_variant":[
         "Ilulu",
         "Ilula"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1326907577,
-    "wof:lastmodified":1537710049,
+    "wof:lastmodified":1564187984,
     "wof:name":"Ilula",
     "wof:parent_id":1108693111,
     "wof:placetype":"locality",

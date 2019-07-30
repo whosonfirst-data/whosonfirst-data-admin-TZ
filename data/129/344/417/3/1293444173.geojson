@@ -25,6 +25,15 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Arusha Chini"
+    ],
+    "name:ita_x_preferred":[
+        "Arusha Chini"
+    ],
+    "name:swa_x_preferred":[
+        "Arusha Chini"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1293444173,
-    "wof:lastmodified":1537574863,
+    "wof:lastmodified":1564188259,
     "wof:name":"Arusha Chini",
     "wof:parent_id":421171043,
     "wof:placetype":"locality",

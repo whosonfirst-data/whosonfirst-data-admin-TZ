@@ -28,6 +28,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rusumo"
+    ],
+    "name:swe_x_preferred":[
+        "Rusumo"
+    ],
     "name:und_x_variant":[
         "Rusumu",
         "Rusumo"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1226104647,
-    "wof:lastmodified":1537709997,
+    "wof:lastmodified":1564189092,
     "wof:name":"Rusumo",
     "wof:parent_id":1108693095,
     "wof:placetype":"locality",

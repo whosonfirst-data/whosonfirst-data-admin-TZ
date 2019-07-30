@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Madunga"
+    ],
+    "name:swa_x_preferred":[
+        "Madunga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1327088595,
-    "wof:lastmodified":1537574853,
+    "wof:lastmodified":1564187901,
     "wof:name":"Madunga",
     "wof:parent_id":1108693123,
     "wof:placetype":"locality",

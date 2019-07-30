@@ -27,6 +27,15 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Isawa"
+    ],
+    "name:deu_x_preferred":[
+        "Isawa"
+    ],
+    "name:mlg_x_preferred":[
+        "Isawa"
+    ],
     "name:und_x_variant":[
         "Isowa",
         "Isawa"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1293372107,
-    "wof:lastmodified":1537710048,
+    "wof:lastmodified":1564188147,
     "wof:name":"Isawa",
     "wof:parent_id":421186277,
     "wof:placetype":"locality",

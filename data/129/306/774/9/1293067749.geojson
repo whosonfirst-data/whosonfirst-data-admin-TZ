@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Terrat"
+    ],
     "name:und_x_variant":[
         "Terat",
         "Terrat"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1293067749,
-    "wof:lastmodified":1537709993,
+    "wof:lastmodified":1564188153,
     "wof:name":"Terrat",
     "wof:parent_id":421178387,
     "wof:placetype":"locality",

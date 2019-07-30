@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Wasa"
+    ],
+    "name:swa_x_preferred":[
+        "Wasa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1293784375,
-    "wof:lastmodified":1537574843,
+    "wof:lastmodified":1564188186,
     "wof:name":"Wasa",
     "wof:parent_id":421187959,
     "wof:placetype":"locality",

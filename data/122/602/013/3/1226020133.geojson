@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Ishozi"
+    ],
+    "name:swa_x_preferred":[
+        "Ishozi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226020133,
-    "wof:lastmodified":1537574859,
+    "wof:lastmodified":1564189119,
     "wof:name":"Ishozi",
     "wof:parent_id":1108693099,
     "wof:placetype":"locality",

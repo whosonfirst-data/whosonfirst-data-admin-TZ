@@ -27,6 +27,15 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Makutupora"
+    ],
+    "name:spa_x_preferred":[
+        "Makutupora"
+    ],
+    "name:swa_x_preferred":[
+        "Makutupora"
+    ],
     "name:und_x_variant":[
         "Makatupora",
         "Makutapora",
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1209287037,
-    "wof:lastmodified":1537710024,
+    "wof:lastmodified":1564188505,
     "wof:name":"Makutupora",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",

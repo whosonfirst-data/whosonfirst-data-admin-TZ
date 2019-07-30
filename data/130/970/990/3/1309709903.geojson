@@ -27,6 +27,39 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Uru"
+    ],
+    "name:ces_x_preferred":[
+        "Uru"
+    ],
+    "name:deu_x_preferred":[
+        "Uru"
+    ],
+    "name:fra_x_preferred":[
+        "Uru"
+    ],
+    "name:pol_x_preferred":[
+        "Uru"
+    ],
+    "name:por_x_preferred":[
+        "Uru"
+    ],
+    "name:que_x_preferred":[
+        "Uru"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0440\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Uru"
+    ],
+    "name:swe_x_preferred":[
+        "Uru"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0440\u0443"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +83,7 @@
         }
     ],
     "wof:id":1309709903,
-    "wof:lastmodified":1537066484,
+    "wof:lastmodified":1564188778,
     "wof:name":"Uru",
     "wof:parent_id":421171043,
     "wof:placetype":"locality",

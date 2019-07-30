@@ -30,6 +30,12 @@
     "name:eng_x_preferred":[
         "Ipera"
     ],
+    "name:ita_x_preferred":[
+        "Ipera"
+    ],
+    "name:swa_x_preferred":[
+        "Ipera"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1276443985,
-    "wof:lastmodified":1537710049,
+    "wof:lastmodified":1564188277,
     "wof:name":"Ipera",
     "wof:parent_id":1108692893,
     "wof:placetype":"locality",

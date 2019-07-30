@@ -27,6 +27,18 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Kitunda"
+    ],
+    "name:ita_x_preferred":[
+        "Kitunda"
+    ],
+    "name:ron_x_preferred":[
+        "Kitunda"
+    ],
+    "name:swa_x_preferred":[
+        "Kitunda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1226164147,
-    "wof:lastmodified":1537049156,
+    "wof:lastmodified":1564189113,
     "wof:name":"Kitunda",
     "wof:parent_id":1108692967,
     "wof:placetype":"locality",

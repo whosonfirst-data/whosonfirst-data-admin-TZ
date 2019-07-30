@@ -14,6 +14,15 @@
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b6\u03cc\u03bc\u03c0\u03b5"
+    ],
+    "name:pol_x_preferred":[
+        "Njombe"
+    ],
+    "name:swa_x_preferred":[
+        "Njombe"
+    ],
     "name:unk_x_variant":[
         "Njobe"
     ],
@@ -154,7 +163,7 @@
         }
     ],
     "wof:id":421202447,
-    "wof:lastmodified":1505340776,
+    "wof:lastmodified":1564188821,
     "wof:name":"Njombe",
     "wof:parent_id":1108693133,
     "wof:placetype":"locality",

@@ -30,6 +30,12 @@
     "name:eng_x_preferred":[
         "Rudi"
     ],
+    "name:ita_x_preferred":[
+        "Rudi"
+    ],
+    "name:swa_x_preferred":[
+        "Rudi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1343562833,
-    "wof:lastmodified":1537709998,
+    "wof:lastmodified":1564188083,
     "wof:name":"Rudi",
     "wof:parent_id":1108692893,
     "wof:placetype":"locality",

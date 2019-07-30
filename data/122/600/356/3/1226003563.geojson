@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Jendele"
+    ],
+    "name:swa_x_preferred":[
+        "Jendele"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226003563,
-    "wof:lastmodified":1537574858,
+    "wof:lastmodified":1564189207,
     "wof:name":"Jendele",
     "wof:parent_id":421191173,
     "wof:placetype":"locality",

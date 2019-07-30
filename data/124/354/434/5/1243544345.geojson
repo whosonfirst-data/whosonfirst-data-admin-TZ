@@ -27,6 +27,18 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bismarckburg"
+    ],
+    "name:ron_x_preferred":[
+        "Kasanga"
+    ],
+    "name:swa_x_preferred":[
+        "Kasanga"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u6851\u52a0"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1243544345,
-    "wof:lastmodified":1536664475,
+    "wof:lastmodified":1564188859,
     "wof:name":"Kasanga",
     "wof:parent_id":1108693005,
     "wof:placetype":"locality",

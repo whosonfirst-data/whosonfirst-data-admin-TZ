@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Seronera"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u7f57\u52d2\u90a3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1209701163,
-    "wof:lastmodified":1537574866,
+    "wof:lastmodified":1564188433,
     "wof:name":"Seronera",
     "wof:parent_id":421170243,
     "wof:placetype":"locality",

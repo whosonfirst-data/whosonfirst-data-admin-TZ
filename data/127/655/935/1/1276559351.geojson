@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Ovada"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1276559351,
-    "wof:lastmodified":1537574847,
+    "wof:lastmodified":1564188365,
     "wof:name":"Ovada",
     "wof:parent_id":1108692901,
     "wof:placetype":"locality",

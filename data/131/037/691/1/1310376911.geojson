@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ziba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0438\u0431\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1310376911,
-    "wof:lastmodified":1536601942,
+    "wof:lastmodified":1564188667,
     "wof:name":"Ziba",
     "wof:parent_id":1108693037,
     "wof:placetype":"locality",

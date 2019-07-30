@@ -25,6 +25,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0631\u0627\u0646\u0642\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0631\u0627\u0646\u06af\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1309930033,
-    "wof:lastmodified":1536751998,
+    "wof:lastmodified":1564188794,
     "wof:name":"Irangi",
     "wof:parent_id":1108692935,
     "wof:placetype":"locality",

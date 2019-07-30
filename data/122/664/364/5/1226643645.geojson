@@ -27,6 +27,15 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gonja"
+    ],
+    "name:fra_x_preferred":[
+        "Gonja"
+    ],
+    "name:swe_x_preferred":[
+        "Gonja"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1226643645,
-    "wof:lastmodified":1536861047,
+    "wof:lastmodified":1564189186,
     "wof:name":"Gonja",
     "wof:parent_id":1108692913,
     "wof:placetype":"locality",

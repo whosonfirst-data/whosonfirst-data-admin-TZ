@@ -38,6 +38,12 @@
         "Mtwara",
         "Mtwara Rural"
     ],
+    "name:swa_x_preferred":[
+        "Mtwara Vijijini"
+    ],
+    "name:vie_x_preferred":[
+        "Mtwara Rural"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1108692969,
-    "wof:lastmodified":1553718228,
+    "wof:lastmodified":1564188619,
     "wof:name":"Mtwara Rural",
     "wof:parent_id":85679717,
     "wof:placetype":"county",

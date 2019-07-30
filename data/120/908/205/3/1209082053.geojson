@@ -27,6 +27,48 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Kimbe"
+    ],
+    "name:ceb_x_preferred":[
+        "Kimbe"
+    ],
+    "name:deu_x_preferred":[
+        "Kimbe"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0645\u0628\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Kimbe"
+    ],
+    "name:glg_x_preferred":[
+        "Kimbe"
+    ],
+    "name:ita_x_preferred":[
+        "Kimbe"
+    ],
+    "name:nld_x_preferred":[
+        "Kimbe"
+    ],
+    "name:pol_x_preferred":[
+        "Kimbe"
+    ],
+    "name:por_x_preferred":[
+        "Kimbe"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043c\u0431\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Kimbe"
+    ],
+    "name:tpi_x_preferred":[
+        "Kimbe"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0645\u0628\u06d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632227
@@ -44,7 +86,7 @@
         }
     ],
     "wof:id":1209082053,
-    "wof:lastmodified":1536298305,
+    "wof:lastmodified":1564188410,
     "wof:name":"Kimbe",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",

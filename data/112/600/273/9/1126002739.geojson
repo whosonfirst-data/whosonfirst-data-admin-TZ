@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fra_x_preferred":[
+        "Ushirombo"
+    ],
     "qs_pg:aaroncc":"TZ",
     "qs_pg:gn_country":"TZ",
     "qs_pg:gn_fcode":"PPL",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1126002739,
-    "wof:lastmodified":1509406253,
+    "wof:lastmodified":1564188851,
     "wof:name":"Ushirombo",
     "wof:parent_id":1108693169,
     "wof:placetype":"locality",

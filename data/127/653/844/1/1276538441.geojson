@@ -27,6 +27,21 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gua"
+    ],
+    "name:pol_x_preferred":[
+        "Gua"
+    ],
+    "name:scn_x_preferred":[
+        "Gua"
+    ],
+    "name:spa_x_preferred":[
+        "Gua"
+    ],
+    "name:swe_x_preferred":[
+        "Gua"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1276538441,
-    "wof:lastmodified":1537000367,
+    "wof:lastmodified":1564188385,
     "wof:name":"Gua",
     "wof:parent_id":1108693005,
     "wof:placetype":"locality",

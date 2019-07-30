@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Kibara"
+    ],
+    "name:swe_x_preferred":[
+        "Kibara"
+    ],
     "name:unk_x_variant":[
         "Kibarra"
     ],
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":421166995,
-    "wof:lastmodified":1527716104,
+    "wof:lastmodified":1564188818,
     "wof:name":"Kibara",
     "wof:parent_id":421187953,
     "wof:placetype":"locality",

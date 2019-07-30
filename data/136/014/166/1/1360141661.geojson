@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Luguru"
+    ],
     "name:und_x_variant":[
         "Zuguru",
         "Luguru"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1360141661,
-    "wof:lastmodified":1537710028,
+    "wof:lastmodified":1564188729,
     "wof:name":"Luguru",
     "wof:parent_id":421171979,
     "wof:placetype":"locality",

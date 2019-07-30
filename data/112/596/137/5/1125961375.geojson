@@ -19,6 +19,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Bugarama"
+    ],
+    "name:deu_x_preferred":[
+        "Bugarama"
+    ],
+    "name:est_x_preferred":[
+        "Bugarama"
+    ],
+    "name:ita_x_preferred":[
+        "Bugarama"
+    ],
+    "name:pol_x_preferred":[
+        "Bugarama"
+    ],
     "qs_pg:aaroncc":"TZ",
     "qs_pg:gn_country":"TZ",
     "qs_pg:gn_fcode":"PPL",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1125961375,
-    "wof:lastmodified":1509403338,
+    "wof:lastmodified":1564188849,
     "wof:name":"Bugarama",
     "wof:parent_id":1108693095,
     "wof:placetype":"locality",

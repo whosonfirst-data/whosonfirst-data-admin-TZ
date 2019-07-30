@@ -27,6 +27,24 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Simbo"
+    ],
+    "name:fra_x_preferred":[
+        "Simbo"
+    ],
+    "name:glg_x_preferred":[
+        "Simbo"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u0574\u0562\u0578"
+    ],
+    "name:ita_x_preferred":[
+        "Simbo"
+    ],
+    "name:nld_x_preferred":[
+        "Simbo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1310473459,
-    "wof:lastmodified":1536963034,
+    "wof:lastmodified":1564188644,
     "wof:name":"Simbo",
     "wof:parent_id":1108693037,
     "wof:placetype":"locality",

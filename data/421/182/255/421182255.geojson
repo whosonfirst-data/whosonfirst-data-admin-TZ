@@ -35,6 +35,9 @@
     "name:cat_x_preferred":[
         "Rufiji"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03c5\u03c6\u03af\u03c4\u03b6\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Rufiji"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421182255,
-    "wof:lastmodified":1553717415,
+    "wof:lastmodified":1564188831,
     "wof:name":"Rufiji",
     "wof:parent_id":85679691,
     "wof:placetype":"county",

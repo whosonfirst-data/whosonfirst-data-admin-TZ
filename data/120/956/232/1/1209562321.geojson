@@ -27,11 +27,26 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kalambo"
+    ],
+    "name:ces_x_preferred":[
+        "Kalambo"
+    ],
     "name:eng_x_preferred":[
         "Kalambo"
     ],
     "name:eng_x_variant":[
         "Kalambu"
+    ],
+    "name:ita_x_preferred":[
+        "Kalambo"
+    ],
+    "name:srp_x_preferred":[
+        "Kalambo"
+    ],
+    "name:swe_x_preferred":[
+        "Kalambo"
     ],
     "name:und_x_variant":[
         "Kalambu"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1209562321,
-    "wof:lastmodified":1537710045,
+    "wof:lastmodified":1564188473,
     "wof:name":"Kalambo",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",

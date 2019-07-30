@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Imalinyi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1293147311,
-    "wof:lastmodified":1537574859,
+    "wof:lastmodified":1564188187,
     "wof:name":"Imalinyi",
     "wof:parent_id":1108693135,
     "wof:placetype":"locality",

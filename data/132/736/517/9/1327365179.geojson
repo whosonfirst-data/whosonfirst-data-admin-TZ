@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sansui"
+    ],
+    "name:deu_x_preferred":[
+        "Sansui"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1327365179,
-    "wof:lastmodified":1536778481,
+    "wof:lastmodified":1564187904,
     "wof:name":"Sansui",
     "wof:parent_id":1108693153,
     "wof:placetype":"locality",

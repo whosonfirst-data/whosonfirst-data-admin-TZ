@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Matemanga"
+    ],
+    "name:swa_x_preferred":[
+        "Matemanga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1343245659,
-    "wof:lastmodified":1537574863,
+    "wof:lastmodified":1564188058,
     "wof:name":"Matemanga",
     "wof:parent_id":1108692985,
     "wof:placetype":"locality",

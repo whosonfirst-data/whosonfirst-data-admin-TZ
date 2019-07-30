@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Ilindi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1293212221,
-    "wof:lastmodified":1537574859,
+    "wof:lastmodified":1564188252,
     "wof:name":"Ilindi",
     "wof:parent_id":421187957,
     "wof:placetype":"locality",

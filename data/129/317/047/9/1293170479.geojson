@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Ntwike"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1293170479,
-    "wof:lastmodified":1537574847,
+    "wof:lastmodified":1564188246,
     "wof:name":"Ntwike",
     "wof:parent_id":1108693023,
     "wof:placetype":"locality",

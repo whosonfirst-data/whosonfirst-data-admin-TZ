@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Mlowa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1343959691,
-    "wof:lastmodified":1537020215,
+    "wof:lastmodified":1564188072,
     "wof:name":"Mlowa",
     "wof:parent_id":1108692897,
     "wof:placetype":"locality",

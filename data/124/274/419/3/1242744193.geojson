@@ -27,6 +27,36 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bwiti"
+    ],
+    "name:epo_x_preferred":[
+        "Buitio"
+    ],
+    "name:fra_x_preferred":[
+        "Bwiti"
+    ],
+    "name:ita_x_preferred":[
+        "Bwiti"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d3f\u0d35\u0d3f\u0d1f\u0d3f"
+    ],
+    "name:nor_x_preferred":[
+        "Bwiti"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0432\u0438\u0442\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Bwiti"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbf\u0bb5\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0432\u0456\u0442\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +80,7 @@
         }
     ],
     "wof:id":1242744193,
-    "wof:lastmodified":1536822991,
+    "wof:lastmodified":1564188874,
     "wof:name":"Bwiti",
     "wof:parent_id":1108692921,
     "wof:placetype":"locality",

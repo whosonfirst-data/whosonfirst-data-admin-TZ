@@ -37,6 +37,21 @@
     "name:eng_x_variant":[
         "Kasulu"
     ],
+    "name:fin_x_preferred":[
+        "Kasulu"
+    ],
+    "name:pol_x_preferred":[
+        "Kasulu"
+    ],
+    "name:ron_x_preferred":[
+        "Kasulu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u0443\u043b\u0443"
+    ],
+    "name:swa_x_preferred":[
+        "Kasulu"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +87,7 @@
         }
     ],
     "wof:id":1108693061,
-    "wof:lastmodified":1553718236,
+    "wof:lastmodified":1564188605,
     "wof:name":"Kasulu",
     "wof:parent_id":85679669,
     "wof:placetype":"county",

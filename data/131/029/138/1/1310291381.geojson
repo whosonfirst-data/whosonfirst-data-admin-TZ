@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u0633\u0627\u0648\u0646\u064a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1310291381,
-    "wof:lastmodified":1536728704,
+    "wof:lastmodified":1564188683,
     "wof:name":"Kisaoni",
     "wof:parent_id":421190259,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nkaya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1309985099,
-    "wof:lastmodified":1536672723,
+    "wof:lastmodified":1564188765,
     "wof:name":"Nkaya",
     "wof:parent_id":1108692995,
     "wof:placetype":"locality",

@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0627\u06cc\u062a \u0633\u0627\u0645\u0628\u0648"
+    ],
+    "name:swa_x_preferred":[
+        "Soit Sambu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1243409033,
-    "wof:lastmodified":1537574866,
+    "wof:lastmodified":1564188919,
     "wof:name":"Soit Sambu",
     "wof:parent_id":421171979,
     "wof:placetype":"locality",

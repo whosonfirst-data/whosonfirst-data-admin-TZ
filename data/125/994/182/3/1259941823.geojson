@@ -25,6 +25,33 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Camaat"
+    ],
+    "name:bos_x_preferred":[
+        "D\u017eemat"
+    ],
+    "name:hrv_x_preferred":[
+        "D\u017eemat"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10d0\u10db\u10d0\u10d0\u10d7\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017camaat"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043c\u0430\u0430\u0442"
+    ],
+    "name:srp_x_preferred":[
+        "\u040f\u0435\u043c\u0430\u0442"
+    ],
+    "name:tur_x_preferred":[
+        "Cemaat"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0430\u043c\u0430\u0430\u0442"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +73,7 @@
         }
     ],
     "wof:id":1259941823,
-    "wof:lastmodified":1536695478,
+    "wof:lastmodified":1564189051,
     "wof:name":"Jamia",
     "wof:parent_id":85679687,
     "wof:placetype":"locality",

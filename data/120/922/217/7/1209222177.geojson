@@ -27,6 +27,15 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chilonwa"
+    ],
+    "name:ita_x_preferred":[
+        "Chilonwa"
+    ],
+    "name:swa_x_preferred":[
+        "Chilonwa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632227
@@ -45,7 +54,7 @@
         }
     ],
     "wof:id":1209222177,
-    "wof:lastmodified":1537574861,
+    "wof:lastmodified":1564188453,
     "wof:name":"Chilonwa",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",

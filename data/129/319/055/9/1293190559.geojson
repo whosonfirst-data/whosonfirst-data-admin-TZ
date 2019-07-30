@@ -27,6 +27,24 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:amh_x_preferred":[
+        "\u12a2\u1209\u1209"
+    ],
+    "name:ara_x_preferred":[
+        "\u0625\u064a\u0644\u0648\u0644\u0648"
+    ],
+    "name:cat_x_preferred":[
+        "Ilulu"
+    ],
+    "name:nld_x_preferred":[
+        "Elulu"
+    ],
+    "name:spa_x_preferred":[
+        "Ilulu"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u043b\u0443\u043b\u0443"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1293190559,
-    "wof:lastmodified":1536718523,
+    "wof:lastmodified":1564188250,
     "wof:name":"Ilulu",
     "wof:parent_id":1108693011,
     "wof:placetype":"locality",

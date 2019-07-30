@@ -27,6 +27,15 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bububu"
+    ],
+    "name:ita_x_preferred":[
+        "Bububu"
+    ],
+    "name:swa_x_preferred":[
+        "Bububu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1276825423,
-    "wof:lastmodified":1536614341,
+    "wof:lastmodified":1564188344,
     "wof:name":"Bububu",
     "wof:parent_id":421194823,
     "wof:placetype":"locality",

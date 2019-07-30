@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chunga"
+    ],
+    "name:deu_x_preferred":[
+        "Chunga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1343229775,
-    "wof:lastmodified":1537076252,
+    "wof:lastmodified":1564188070,
     "wof:name":"Chunga",
     "wof:parent_id":421202045,
     "wof:placetype":"locality",

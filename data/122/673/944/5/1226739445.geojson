@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Itete"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1226739445,
-    "wof:lastmodified":1536724956,
+    "wof:lastmodified":1564189108,
     "wof:name":"Itete",
     "wof:parent_id":1108693009,
     "wof:placetype":"locality",

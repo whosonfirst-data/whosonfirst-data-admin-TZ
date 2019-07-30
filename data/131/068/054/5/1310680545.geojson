@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Chwaka"
+    ],
+    "name:swa_x_preferred":[
+        "Chwaka"
+    ],
     "name:und_x_variant":[
         "Chuaka",
         "Chwaka"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1310680545,
-    "wof:lastmodified":1537710055,
+    "wof:lastmodified":1564188710,
     "wof:name":"Chwaka",
     "wof:parent_id":421198067,
     "wof:placetype":"locality",

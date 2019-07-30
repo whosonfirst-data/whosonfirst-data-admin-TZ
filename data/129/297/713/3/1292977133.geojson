@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Nyasa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1292977133,
-    "wof:lastmodified":1537024709,
+    "wof:lastmodified":1564188224,
     "wof:name":"Nyasa",
     "wof:parent_id":1108693033,
     "wof:placetype":"locality",

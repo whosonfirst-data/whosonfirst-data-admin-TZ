@@ -30,6 +30,12 @@
     "name:eng_x_preferred":[
         "Kimbiji"
     ],
+    "name:nor_x_preferred":[
+        "Kimbiji"
+    ],
+    "name:swa_x_preferred":[
+        "Kimbiji"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1260250819,
-    "wof:lastmodified":1537710037,
+    "wof:lastmodified":1564188566,
     "wof:name":"Kimbiji",
     "wof:parent_id":421198913,
     "wof:placetype":"locality",

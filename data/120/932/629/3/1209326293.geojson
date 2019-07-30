@@ -27,6 +27,12 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Gulwe"
+    ],
+    "name:swa_x_preferred":[
+        "Gulwe"
+    ],
     "name:und_x_variant":[
         "Gulube",
         "Gulwe"
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1209326293,
-    "wof:lastmodified":1537710053,
+    "wof:lastmodified":1564188465,
     "wof:name":"Gulwe",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",

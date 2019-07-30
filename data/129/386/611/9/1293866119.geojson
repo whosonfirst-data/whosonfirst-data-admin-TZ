@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Mtipa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1293866119,
-    "wof:lastmodified":1537574850,
+    "wof:lastmodified":1564188255,
     "wof:name":"Mtipa",
     "wof:parent_id":1108693027,
     "wof:placetype":"locality",

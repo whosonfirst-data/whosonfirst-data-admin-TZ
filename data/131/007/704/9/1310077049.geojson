@@ -27,6 +27,9 @@
     "iso:country":"TZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Galula"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1310077049,
-    "wof:lastmodified":1537036088,
+    "wof:lastmodified":1564188650,
     "wof:name":"Galula",
     "wof:parent_id":1108693047,
     "wof:placetype":"locality",
