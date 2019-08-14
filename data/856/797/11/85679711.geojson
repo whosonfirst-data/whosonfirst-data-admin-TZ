@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IG"
+    ],
     "lbl:latitude":-7.784734,
     "lbl:longitude":35.565498,
     "meso:name_alt1":"",
@@ -304,9 +307,6 @@
         }
     ],
     "wof:id":85679711,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -315,7 +315,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563283181,
+    "wof:lastmodified":1565737843,
     "wof:name":"Iringa",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

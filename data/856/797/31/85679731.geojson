@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AS"
+    ],
     "lbl:latitude":-2.78789,
     "lbl:longitude":35.922595,
     "meso:name_alt1":"",
@@ -312,9 +315,6 @@
         }
     ],
     "wof:id":85679731,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -323,7 +323,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563283185,
+    "wof:lastmodified":1565737844,
     "wof:name":"Arusha",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

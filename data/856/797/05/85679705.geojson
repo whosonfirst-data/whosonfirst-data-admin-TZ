@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DO"
+    ],
     "lbl:latitude":-6.173391,
     "lbl:longitude":35.939652,
     "meso:name_alt1":"",
@@ -281,7 +284,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563283179,
+    "wof:lastmodified":1565737842,
     "wof:name":"Dodoma",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

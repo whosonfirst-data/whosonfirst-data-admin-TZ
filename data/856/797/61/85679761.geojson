@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GE"
+    ],
     "lbl:latitude":-3.364657,
     "lbl:longitude":31.911283,
     "meso:name_alt1":"",
@@ -203,7 +206,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563283176,
+    "wof:lastmodified":1565737841,
     "wof:name":"Geita",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TB"
+    ],
     "lbl:latitude":-5.245707,
     "lbl:longitude":32.8519,
     "meso:name_alt1":"",
@@ -300,9 +303,6 @@
         }
     ],
     "wof:id":85679661,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -311,7 +311,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563283192,
+    "wof:lastmodified":1565737846,
     "wof:name":"Tabora",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SI"
+    ],
     "lbl:latitude":-3.047908,
     "lbl:longitude":34.306501,
     "meso:name_alt1":"",
@@ -300,7 +303,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563283187,
+    "wof:lastmodified":1565737845,
     "wof:name":"Simiyu",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

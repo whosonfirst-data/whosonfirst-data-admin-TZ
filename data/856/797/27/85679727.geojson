@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SD"
+    ],
     "lbl:latitude":-5.768767,
     "lbl:longitude":34.663194,
     "meso:name_alt1":"",
@@ -297,9 +300,6 @@
         }
     ],
     "wof:id":85679727,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -308,7 +308,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563283180,
+    "wof:lastmodified":1565737843,
     "wof:name":"Singida",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

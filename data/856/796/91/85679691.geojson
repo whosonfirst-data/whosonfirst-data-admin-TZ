@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PW"
+    ],
     "lbl:latitude":-7.484173,
     "lbl:longitude":38.814478,
     "meso:name_alt1":"",
@@ -305,9 +308,6 @@
         }
     ],
     "wof:id":85679691,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -316,7 +316,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563283203,
+    "wof:lastmodified":1565737850,
     "wof:name":"Pwani",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

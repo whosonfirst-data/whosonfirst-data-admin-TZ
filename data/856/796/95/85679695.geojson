@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ZN"
+    ],
     "lbl:latitude":-5.947678,
     "lbl:longitude":39.283061,
     "meso:name_alt1":"Zanzibar North",
@@ -301,9 +304,6 @@
         }
     ],
     "wof:id":85679695,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -312,7 +312,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563283193,
+    "wof:lastmodified":1565737846,
     "wof:name":"Kaskazini-Unguja",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

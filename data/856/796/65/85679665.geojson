@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KG"
+    ],
     "lbl:latitude":-1.941813,
     "lbl:longitude":31.242339,
     "meso:name_alt1":"",
@@ -298,9 +301,6 @@
         }
     ],
     "wof:id":85679665,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -309,7 +309,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563283207,
+    "wof:lastmodified":1565737852,
     "wof:name":"Kagera",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

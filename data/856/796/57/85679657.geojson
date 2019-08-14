@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SY"
+    ],
     "lbl:latitude":-3.624169,
     "lbl:longitude":32.916789,
     "meso:name_alt1":"",
@@ -295,9 +298,6 @@
         }
     ],
     "wof:id":85679657,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -306,7 +306,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563283194,
+    "wof:lastmodified":1565737847,
     "wof:name":"Shinyanga",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

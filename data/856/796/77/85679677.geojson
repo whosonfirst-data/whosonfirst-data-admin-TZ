@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MO"
+    ],
     "lbl:latitude":-7.034768,
     "lbl:longitude":37.386604,
     "meso:name_alt1":"",
@@ -303,9 +306,6 @@
         }
     ],
     "wof:id":85679677,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -314,7 +314,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563283214,
+    "wof:lastmodified":1565737855,
     "wof:name":"Morogoro",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

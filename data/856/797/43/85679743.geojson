@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MA"
+    ],
     "lbl:latitude":-1.800033,
     "lbl:longitude":34.396813,
     "meso:name_alt1":"",
@@ -300,9 +303,6 @@
         }
     ],
     "wof:id":85679743,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -311,7 +311,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563283183,
+    "wof:lastmodified":1565737843,
     "wof:name":"Mara",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

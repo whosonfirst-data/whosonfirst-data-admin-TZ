@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LI"
+    ],
     "lbl:latitude":-9.502755,
     "lbl:longitude":38.378208,
     "meso:name_alt1":"",
@@ -306,9 +309,6 @@
         }
     ],
     "wof:id":85679713,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -317,7 +317,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563283191,
+    "wof:lastmodified":1565737846,
     "wof:name":"Lindi",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

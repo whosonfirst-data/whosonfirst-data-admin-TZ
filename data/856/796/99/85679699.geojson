@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ZW"
+    ],
     "lbl:latitude":-6.169196,
     "lbl:longitude":39.237333,
     "meso:name_alt1":"Mjini Magharibi",
@@ -308,9 +311,6 @@
         }
     ],
     "wof:id":85679699,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -319,7 +319,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563283208,
+    "wof:lastmodified":1565737853,
     "wof:name":"Zanzibar West",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

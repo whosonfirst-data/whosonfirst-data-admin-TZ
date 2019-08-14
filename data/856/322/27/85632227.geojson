@@ -15,6 +15,9 @@
     "itu:country_code":[
         "255"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TZ"
+    ],
     "lbl:latitude":-5.869032,
     "lbl:longitude":34.800732,
     "mps:latitude":-5.869032,
@@ -981,9 +984,6 @@
         }
     ],
     "wof:id":85632227,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -992,7 +992,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563283219,
+    "wof:lastmodified":1565737856,
     "wof:name":"Tanzania",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

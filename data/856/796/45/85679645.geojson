@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RU"
+    ],
     "lbl:latitude":-8.044751,
     "lbl:longitude":31.393807,
     "meso:name_alt1":"",
@@ -295,9 +298,6 @@
         }
     ],
     "wof:id":85679645,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -306,7 +306,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563283198,
+    "wof:lastmodified":1565737848,
     "wof:name":"Rukwa",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

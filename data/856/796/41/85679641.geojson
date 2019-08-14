@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MB"
+    ],
     "lbl:latitude":-8.151271,
     "lbl:longitude":33.525476,
     "meso:name_alt1":"",
@@ -303,9 +306,6 @@
         }
     ],
     "wof:id":85679641,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -314,7 +314,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563283212,
+    "wof:lastmodified":1565737855,
     "wof:name":"Mbeya",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

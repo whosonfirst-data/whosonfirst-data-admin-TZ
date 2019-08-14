@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RV"
+    ],
     "lbl:latitude":-10.632515,
     "lbl:longitude":36.217725,
     "meso:name_alt1":"",
@@ -303,9 +306,6 @@
         }
     ],
     "wof:id":85679723,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -314,7 +314,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563283189,
+    "wof:lastmodified":1565737845,
     "wof:name":"Ruvuma",
     "wof:parent_id":85632227,
     "wof:placetype":"region",
