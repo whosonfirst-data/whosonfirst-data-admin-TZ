@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.16333,-9.88667,39.20333,-9.84667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a8\u09cd\u09a6\u09be\u0993\u09af\u09bc\u09be"
     ],
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":1293511007,
-    "wof:lastmodified":1564188208,
+    "wof:lastmodified":1566590446,
     "wof:name":"Mandawa",
     "wof:parent_id":1108692965,
     "wof:placetype":"locality",

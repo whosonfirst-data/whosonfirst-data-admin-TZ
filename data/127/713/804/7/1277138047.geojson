@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"30.44667,-5.42,30.48667,-5.38",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kalama",
         "Kaloma"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277138047,
-    "wof:lastmodified":1537710045,
+    "wof:lastmodified":1566590512,
     "wof:name":"Kaloma",
     "wof:parent_id":1108693149,
     "wof:placetype":"locality",

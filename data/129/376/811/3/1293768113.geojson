@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"33.69667,-7.32,33.73667,-7.28",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Izambwa\u2019s",
         "Isambwa"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293768113,
-    "wof:lastmodified":1537710049,
+    "wof:lastmodified":1566590432,
     "wof:name":"Isambwa",
     "wof:parent_id":1108693005,
     "wof:placetype":"locality",

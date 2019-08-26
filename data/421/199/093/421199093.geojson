@@ -10,8 +10,12 @@
     "geom:latitude":-1.35,
     "geom:longitude":34.36667,
     "iso:country":"TZ",
+    "lbl:bbox":"34.34667,-1.37,34.38667,-1.33",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ell_x_preferred":[
         "\u03a4\u03b1\u03c1\u03af\u03bc\u03b5"
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":149581,
         "gp:id":1449561,
-        "qs:id":189063,
+        "qs_pg:id":189063,
         "wd:id":"Q12741940"
     },
     "wof:country":"TZ",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":421199093,
-    "wof:lastmodified":1563283918,
+    "wof:lastmodified":1566590828,
     "wof:name":"Tarime",
     "wof:parent_id":421175441,
     "wof:placetype":"locality",

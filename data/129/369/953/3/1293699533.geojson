@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"38.83,-6.58667,38.87,-6.54667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:urd_x_preferred":[
         "\u06cc\u0648\u0645\u0628\u0648"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293699533,
-    "wof:lastmodified":1564188205,
+    "wof:lastmodified":1566590444,
     "wof:name":"Yombo",
     "wof:parent_id":1108692947,
     "wof:placetype":"locality",

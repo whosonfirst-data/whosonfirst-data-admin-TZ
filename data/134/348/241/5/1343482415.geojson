@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.53,-9.12,39.57,-9.08",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343482415,
-    "wof:lastmodified":1536714825,
+    "wof:lastmodified":1566590325,
     "wof:name":"Mtandura",
     "wof:parent_id":421187961,
     "wof:placetype":"locality",

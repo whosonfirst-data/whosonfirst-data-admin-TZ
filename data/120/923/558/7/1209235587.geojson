@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"38.34667,-9.92,38.38667,-9.88",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kiangara",
         "Kihangara"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209235587,
-    "wof:lastmodified":1537710039,
+    "wof:lastmodified":1566590578,
     "wof:name":"Kihangara",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",

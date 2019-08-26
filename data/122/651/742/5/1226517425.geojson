@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"31.1075,-1.53556,31.1475,-1.49556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226517425,
-    "wof:lastmodified":1537037354,
+    "wof:lastmodified":1566591006,
     "wof:name":"Karaize",
     "wof:parent_id":1108693085,
     "wof:placetype":"locality",

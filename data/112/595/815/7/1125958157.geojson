@@ -9,15 +9,18 @@
     "geom:bbox":"35.73333,-7.2,35.73333,-7.2",
     "geom:latitude":-7.2,
     "geom:longitude":35.73333,
-    "gn:gn_country":"TZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":18010,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
     "gn:population":18010,
     "iso:country":"TZ",
+    "lbl:bbox":"35.71333,-7.22,35.75333,-7.18",
     "lbl:latitude":-7.2,
     "lbl:longitude":35.73333,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0418\u0437\u0430\u0437\u0438"
@@ -37,7 +40,7 @@
     "name:swa_x_preferred":[
         "Izazi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zasi"
     ],
     "qs_pg:aaroncc":"TZ",
@@ -52,7 +55,7 @@
     "qs_pg:qs_id":68797,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1125958157,
-    "wof:lastmodified":1563283966,
+    "wof:lastmodified":1566590851,
     "wof:name":"Izazi",
     "wof:parent_id":421187959,
     "wof:placetype":"locality",

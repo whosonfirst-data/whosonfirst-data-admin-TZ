@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"37.96754,-7.24677,38.00754,-7.20677",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Magogoni"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259968857,
-    "wof:lastmodified":1537710026,
+    "wof:lastmodified":1566590941,
     "wof:name":"Magogoni",
     "wof:parent_id":421193165,
     "wof:placetype":"locality",

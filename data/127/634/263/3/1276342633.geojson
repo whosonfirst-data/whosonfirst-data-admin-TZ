@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"35.69667,-5.55333,35.73667,-5.51333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mmekwa",
         "Humekwa"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276342633,
-    "wof:lastmodified":1537710052,
+    "wof:lastmodified":1566590502,
     "wof:name":"Humekwa",
     "wof:parent_id":1108692897,
     "wof:placetype":"locality",

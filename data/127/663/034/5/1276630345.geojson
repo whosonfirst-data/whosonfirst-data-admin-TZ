@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"31.76639,-1.35833,31.80639,-1.31833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Itahwa",
         "Itawa"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276630345,
-    "wof:lastmodified":1537710048,
+    "wof:lastmodified":1566590542,
     "wof:name":"Itawa",
     "wof:parent_id":1108693097,
     "wof:placetype":"locality",

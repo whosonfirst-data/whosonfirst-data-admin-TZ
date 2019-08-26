@@ -11,10 +11,14 @@
     "geom:longitude":32.18333,
     "gn:country":"TZ",
     "gn:fcode":"PPL",
-    "gn:pop":34780,
+    "gn:population":34780,
     "iso:country":"TZ",
+    "lbl:bbox":"32.16333,-3.65333,32.20333,-3.61333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Mbogwe District"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":154654,
         "gp:id":1443867,
-        "qs:id":522793,
+        "qs_pg:id":522793,
         "wd:id":"Q24910070",
         "wk:page":"Mbogwe District"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890435621,
-    "wof:lastmodified":1563283955,
+    "wof:lastmodified":1566590846,
     "wof:name":"Masumbwe",
     "wof:parent_id":1108693167,
     "wof:placetype":"locality",

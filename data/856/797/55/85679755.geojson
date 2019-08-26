@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-3.047908,
     "lbl:longitude":34.306501,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "meso:name_local":"Simiyu",
     "mps:latitude":-2.998324,
@@ -150,7 +151,7 @@
         "Shinyanga"
     ],
     "name:tam_x_preferred":[
-        "\u0bb7\u0bbf\u0ba9\u0bcd\u0baf\u0bbe\u0b99\u0bcd\u0b95  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0bb7\u0bbf\u0ba9\u0bcd\u0baf\u0bbe\u0b99\u0bcd\u0b95 \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c37\u0c3f\u0c28\u0c4d\u0c2f\u0c3e\u0c02\u0c17\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -255,9 +256,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-26",
+    "src:population_date":"2012-08-26",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2012-08-26",
@@ -303,11 +304,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565737845,
+    "wof:lastmodified":1566590377,
     "wof:name":"Simiyu",
     "wof:parent_id":85632227,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1584157,
     "wof:population_rank":12,

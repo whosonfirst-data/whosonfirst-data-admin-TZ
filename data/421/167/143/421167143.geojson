@@ -10,10 +10,14 @@
     "geom:latitude":-10.8,
     "geom:longitude":39.55,
     "iso:country":"TZ",
+    "lbl:bbox":"39.53,-10.82,39.57,-10.78",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nyakahanga"
     ],
     "qs:gn_country":"TZ",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":877588,
         "gp:id":1448393,
-        "qs:id":129814
+        "qs_pg:id":129814
     },
     "wof:country":"TZ",
     "wof:created":1459008721,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421167143,
-    "wof:lastmodified":1505340584,
+    "wof:lastmodified":1566590809,
     "wof:name":"Nanyanga",
     "wof:parent_id":1108692975,
     "wof:placetype":"locality",

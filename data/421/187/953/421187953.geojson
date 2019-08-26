@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-2.056648,
     "lbl:longitude":34.078905,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Mara",
     "meso:diss_me":"2004",
     "meso:gadm_admin":"Bunda",
@@ -31,6 +33,7 @@
     "mps:longitude":34.078905,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Bunda"
@@ -59,9 +62,6 @@
     "name:swa_x_variant":[
         "Kigoma Rural"
     ],
-    "name:unk_x_variant":[
-        "Bunda District"
-    ],
     "name:vie_x_preferred":[
         "Bunda"
     ],
@@ -87,9 +87,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-25",
+    "src:population_date":"2002-08-25",
     "statoids:area_km":"2782",
     "statoids:as_of_date":"2002-08-25",
     "statoids:capital":"Bunda",
@@ -110,7 +110,7 @@
         "gn:id":160891,
         "gp:id":56025095,
         "hasc:id":"TZ.MA.BU",
-        "qs:id":1086845,
+        "qs_pg:id":1086845,
         "wd:id":"Q1888276",
         "wk:page":"Bunda District"
     },
@@ -126,7 +126,7 @@
         }
     ],
     "wof:id":421187953,
-    "wof:lastmodified":1563283892,
+    "wof:lastmodified":1566590814,
     "wof:name":"Bunda",
     "wof:parent_id":85679743,
     "wof:placetype":"county",

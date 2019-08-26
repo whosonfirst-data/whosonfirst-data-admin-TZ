@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"35.88,-4.37,35.92,-4.33",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Harui",
         "Hurui"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293002435,
-    "wof:lastmodified":1537710052,
+    "wof:lastmodified":1566590408,
     "wof:name":"Hurui",
     "wof:parent_id":1108692889,
     "wof:placetype":"locality",

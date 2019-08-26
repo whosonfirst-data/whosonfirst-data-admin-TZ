@@ -11,10 +11,14 @@
     "geom:longitude":33.35,
     "gn:country":"TZ",
     "gn:fcode":"PPL",
-    "gn:pop":19082,
+    "gn:population":19082,
     "iso:country":"TZ",
+    "lbl:bbox":"33.33,-2.60333,33.37,-2.56333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Magu"
     ],
@@ -33,7 +37,7 @@
     "name:swa_x_variant":[
         "Wilaya ya Magu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kihangara"
     ],
     "name:vie_x_preferred":[
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":155307,
         "gp:id":56125787,
-        "qs:id":122541,
+        "qs_pg:id":122541,
         "wd:id":"Q1888265",
         "wk:page":"Magu District"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890433255,
-    "wof:lastmodified":1563283953,
+    "wof:lastmodified":1566590845,
     "wof:name":"Magu Kahangara",
     "wof:parent_id":1108693105,
     "wof:placetype":"locality",

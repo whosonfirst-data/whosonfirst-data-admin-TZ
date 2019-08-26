@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"34.53,-1.52,34.57,-1.48",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Mara"
     ],
@@ -136,8 +140,7 @@
         "\u041c\u0430\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "Mara Mine",
-        "Mara"
+        "Mara Mine"
     ],
     "name:vie_x_preferred":[
         "Mara"
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":1209234463,
-    "wof:lastmodified":1564188439,
+    "wof:lastmodified":1566590578,
     "wof:name":"Mara",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",

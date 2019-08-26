@@ -11,10 +11,14 @@
     "geom:longitude":38.05,
     "gn:country":"TZ",
     "gn:fcode":"PPL",
-    "gn:pop":14545,
+    "gn:population":14545,
     "iso:country":"TZ",
+    "lbl:bbox":"38.03,-4.38667,38.07,-4.34667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Ndungu"
     ],
@@ -265,7 +269,7 @@
     "wof:concordances":{
         "gn:id":151775,
         "gp:id":1443622,
-        "qs:id":274036,
+        "qs_pg:id":274036,
         "wd:id":"Q16877873",
         "wk:page":"Ndungu"
     },
@@ -282,7 +286,7 @@
         }
     ],
     "wof:id":890442047,
-    "wof:lastmodified":1563283949,
+    "wof:lastmodified":1566590844,
     "wof:name":"Ndungu",
     "wof:parent_id":1108692913,
     "wof:placetype":"locality",

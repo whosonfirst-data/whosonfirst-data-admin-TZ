@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"37.83,-5.45333,37.87,-5.41333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632227
@@ -36,7 +40,7 @@
         "gn:id":154276
     },
     "wof:country":"TZ",
-    "wof:geomhash":"73e16e5f92e6eab8c2cb7a0ed99a6878",
+    "wof:geomhash":"4af9ef77a83e2b1d4ac499227cb731a4",
     "wof:hierarchy":[
         {
             "country_id":85632227,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209691911,
-    "wof:lastmodified":1536279210,
+    "wof:lastmodified":1566590598,
     "wof:name":"Mbwego",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     37.85,
-    -5.4333300000000015,
+    -5.43333,
     37.85,
-    -5.4333300000000015
+    -5.43333
 ],
   "geometry": {"coordinates":[37.85,-5.43333],"type":"Point"}
 }

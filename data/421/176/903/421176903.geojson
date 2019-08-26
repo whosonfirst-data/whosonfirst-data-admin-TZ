@@ -10,6 +10,9 @@
     "geom:latitude":-5.63333,
     "geom:longitude":32.76667,
     "iso:country":"TZ",
+    "lbl:bbox":"32.74667,-5.65333,32.78667,-5.61333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -161,7 +164,7 @@
     "wof:concordances":{
         "gn:id":149929,
         "gp:id":1449407,
-        "qs:id":1090113,
+        "qs_pg:id":1090113,
         "wd:id":"Q7513858",
         "wk:page":"Sikonge"
     },
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":421176903,
-    "wof:lastmodified":1563283935,
+    "wof:lastmodified":1566590838,
     "wof:name":"Sikonge",
     "wof:parent_id":1108693043,
     "wof:placetype":"locality",

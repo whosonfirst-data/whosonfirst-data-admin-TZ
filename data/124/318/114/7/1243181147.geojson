@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"38.7892,-7.19665,38.8292,-7.15665",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kwasi"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243181147,
-    "wof:lastmodified":1537710071,
+    "wof:lastmodified":1566590926,
     "wof:name":"Kwasi",
     "wof:parent_id":421192907,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"31.09474,-6.75134,31.13474,-6.71134",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mivunda"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226203487,
-    "wof:lastmodified":1537710016,
+    "wof:lastmodified":1566590997,
     "wof:name":"Mivunda",
     "wof:parent_id":1108693151,
     "wof:placetype":"locality",

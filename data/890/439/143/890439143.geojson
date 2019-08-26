@@ -11,10 +11,14 @@
     "geom:longitude":37.61667,
     "gn:country":"TZ",
     "gn:fcode":"PPL",
-    "gn:pop":16008,
+    "gn:population":16008,
     "iso:country":"TZ",
+    "lbl:bbox":"37.59667,-3.80333,37.63667,-3.76333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Mwanga"
     ],
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":156025,
         "gp:id":1445675,
-        "qs:id":523645,
+        "qs_pg:id":523645,
         "wd:id":"Q6944667",
         "wk:page":"Mwanga District"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890439143,
-    "wof:lastmodified":1563283944,
+    "wof:lastmodified":1566590842,
     "wof:name":"Lembeni",
     "wof:parent_id":421203227,
     "wof:placetype":"locality",

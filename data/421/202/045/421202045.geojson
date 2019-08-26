@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-6.221103,
     "lbl:longitude":39.250568,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Mjini Magharibi",
     "meso:diss_me":"5301",
     "meso:gadm_admin":"Magharibi",
@@ -31,6 +33,7 @@
     "mps:longitude":39.250568,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Magharibi"
@@ -60,9 +63,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-25",
+    "src:population_date":"2002-08-25",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-25",
     "statoids:capital":"Mwanakwerekwe",
@@ -82,7 +85,7 @@
     "wof:concordances":{
         "gp:id":56025143,
         "hasc:id":"TZ.ZW.WE",
-        "qs:id":218427
+        "qs_pg:id":218427
     },
     "wof:country":"TZ",
     "wof:created":1459010102,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421202045,
-    "wof:lastmodified":1553717558,
+    "wof:lastmodified":1566590813,
     "wof:name":"Magharibi",
     "wof:parent_id":85679699,
     "wof:placetype":"county",

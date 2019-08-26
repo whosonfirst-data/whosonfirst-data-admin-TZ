@@ -25,15 +25,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"36.39667,-7.65333,36.43667,-7.61333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Udekwa"
     ],
     "name:eng_x_variant":[
-        "Udokwa"
-    ],
-    "name:und_x_variant":[
         "Udokwa"
     ],
     "src:geom":"geonames",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1193276623,
-    "wof:lastmodified":1537709992,
+    "wof:lastmodified":1566590635,
     "wof:name":"Udekwa",
     "wof:parent_id":1108693001,
     "wof:placetype":"locality",

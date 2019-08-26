@@ -12,6 +12,8 @@
     "iso:country":"TZ",
     "lbl:latitude":-6.181104,
     "lbl:longitude":35.746696,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -365,7 +367,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0434\u043e\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Idodoma"
     ],
     "name:urd_x_preferred":[
@@ -543,9 +545,11 @@
     "wof:concordances":{
         "gn:id":160196,
         "gp:id":1517837,
-        "qs:id":1171676,
         "qs_pg:id":69142,
         "wd:id":"Q3866"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1171676
     },
     "wof:country":"TZ",
     "wof:created":1459009745,
@@ -560,7 +564,7 @@
         }
     ],
     "wof:id":421192689,
-    "wof:lastmodified":1563283881,
+    "wof:lastmodified":1566590808,
     "wof:name":"Dodoma",
     "wof:parent_id":421187957,
     "wof:placetype":"locality",

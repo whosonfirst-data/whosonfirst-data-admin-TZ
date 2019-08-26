@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"31.90829,-2.83559,31.94829,-2.79559",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632227
@@ -36,7 +40,7 @@
         "gn:id":8549656
     },
     "wof:country":"TZ",
-    "wof:geomhash":"08a1b14e320d71d5d6465134e34c7e65",
+    "wof:geomhash":"1030b46f2f48cd62f5700672f8ba31e2",
     "wof:hierarchy":[
         {
             "country_id":85632227,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209566307,
-    "wof:lastmodified":1536283230,
+    "wof:lastmodified":1566590598,
     "wof:name":"Chigunga",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",
@@ -54,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.928290000000004,
-    -2.8155900000000003,
-    31.928290000000004,
-    -2.8155900000000003
+    31.92829,
+    -2.81559,
+    31.92829,
+    -2.81559
 ],
   "geometry": {"coordinates":[31.92829,-2.81559],"type":"Point"}
 }

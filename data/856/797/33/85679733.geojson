@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-4.612703,
     "lbl:longitude":36.915885,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "meso:name_local":"Manyara",
     "mps:latitude":-4.735513,
@@ -154,7 +155,7 @@
         "Manyara"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bbe\u0ba9\u0bcd\u0baf\u0bb0\u0bbe  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0bae\u0bbe\u0ba9\u0bcd\u0baf\u0bb0\u0bbe \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c28\u0c4d\u0c2f\u0c3e\u0c30\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -170,9 +171,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u041c\u0430\u043d\u044c\u044f\u0440\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Manyara Region"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0646\u06cc\u0627\u0631\u0627 \u0639\u0644\u0627\u0642\u06c1"
@@ -261,9 +259,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-26",
+    "src:population_date":"2012-08-26",
     "statoids:area_km":"46,359",
     "statoids:area_mi":"17,899",
     "statoids:as_of_date":"2012-08-26",
@@ -288,7 +286,7 @@
         "gp:id":56025085,
         "hasc:id":"TZ.MY",
         "iso:id":"TZ-26",
-        "qs:id":1081970,
+        "qs_pg:id":1081970,
         "unlc:id":"TZ-26",
         "wd:id":"Q331117",
         "wk:page":"Manyara Region"
@@ -311,11 +309,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565737842,
+    "wof:lastmodified":1566590371,
     "wof:name":"Manyara",
     "wof:parent_id":85632227,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1425131,
     "wof:population_rank":12,

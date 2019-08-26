@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-4.985121,
     "lbl:longitude":39.766112,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kaskazini Pemba",
     "meso:diss_me":"5402",
     "meso:gadm_admin":"Micheweni",
@@ -31,6 +33,7 @@
     "mps:longitude":39.766112,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Micheweni"
@@ -67,9 +70,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-25",
+    "src:population_date":"2002-08-25",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-25",
     "statoids:capital":"Micheweni",
@@ -90,7 +93,7 @@
         "gn:id":156511,
         "gp:id":56025156,
         "hasc:id":"TZ.PN.MI",
-        "qs:id":354502,
+        "qs_pg:id":354502,
         "wd:id":"Q6837342"
     },
     "wof:country":"TZ",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421198067,
-    "wof:lastmodified":1553717541,
+    "wof:lastmodified":1566590824,
     "wof:name":"Micheweni",
     "wof:parent_id":85679683,
     "wof:placetype":"county",

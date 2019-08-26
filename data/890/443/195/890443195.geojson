@@ -11,8 +11,11 @@
     "geom:longitude":37.33333,
     "gn:country":"TZ",
     "gn:fcode":"PPLA",
-    "gn:pop":156959,
+    "gn:population":156959,
     "iso:country":"TZ",
+    "lbl:bbox":"37.31333,-3.37,37.35333,-3.33",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -154,7 +157,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0448\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Moschi"
     ],
     "name:urd_x_preferred":[
@@ -283,7 +286,7 @@
     "wof:concordances":{
         "gn:id":153209,
         "gp:id":1447577,
-        "qs:id":1026537,
+        "qs_pg:id":1026537,
         "wd:id":"Q271733",
         "wk:page":"Moshi"
     },
@@ -300,7 +303,7 @@
         }
     ],
     "wof:id":890443195,
-    "wof:lastmodified":1563283947,
+    "wof:lastmodified":1566590843,
     "wof:name":"Moshi",
     "wof:parent_id":1108692915,
     "wof:placetype":"locality",

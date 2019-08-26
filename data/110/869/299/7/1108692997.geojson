@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-8.448084,
     "lbl:longitude":35.539948,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Iringa",
     "meso:diss_me":"1102",
     "meso:gadm_admin":"Mufindi",
@@ -31,6 +33,7 @@
     "mps:longitude":35.539948,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Mufindi"
     ],
@@ -47,9 +50,9 @@
         "Mufindi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-25",
+    "src:population_date":"2002-08-25",
     "statoids:area_km":"6177",
     "statoids:as_of_date":"2002-08-25",
     "statoids:capital":"Mafinga",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1108692997,
-    "wof:lastmodified":1564188622,
+    "wof:lastmodified":1566590701,
     "wof:name":"Mufindi",
     "wof:parent_id":85679711,
     "wof:placetype":"county",

@@ -10,10 +10,14 @@
     "geom:latitude":-3.15,
     "geom:longitude":36.85,
     "iso:country":"TZ",
+    "lbl:bbox":"36.83,-3.17,36.87,-3.13",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Engare Nanyuki"
     ],
     "qs:gn_country":"TZ",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":160060,
         "gp:id":1448535,
-        "qs:id":910613
+        "qs_pg:id":910613
     },
     "wof:country":"TZ",
     "wof:created":1459009329,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421182411,
-    "wof:lastmodified":1501212696,
+    "wof:lastmodified":1566590833,
     "wof:name":"Ngare Nanyuki",
     "wof:parent_id":1108692905,
     "wof:placetype":"locality",

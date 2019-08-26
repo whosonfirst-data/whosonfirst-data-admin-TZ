@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9779181.781417,
+    "geom:area_square_m":0.0,
     "geom:bbox":"39.244573,-6.848569,39.244573,-6.848569",
     "geom:latitude":-6.848569,
     "geom:longitude":39.244573,
     "gn:latitude":-6.85,
     "gn:longitude":39.25,
     "iso:country":"TZ",
+    "lbl:bbox":"39.239573,-6.853569,39.249573,-6.843569",
     "lbl:latitude":-6.848569,
     "lbl:longitude":39.244573,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-6.846444,
     "mps:longitude":39.244296,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Temeke"
-    ],
-    "name:unk_x_variant":[
         "Temeke"
     ],
     "qs:gn_adm0_cc":"TZ",
@@ -59,18 +58,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679675,
         102191573,
         85632227,
-        421198913,
-        85679675
+        421198913
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":149543,
         "gp:id":1449579,
-        "qs:id":316927
+        "qs_pg:id":316927
     },
     "wof:country":"TZ",
     "wof:geomhash":"57add2675d9d53095c673605f6094079",
@@ -88,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531859480,
+    "wof:lastmodified":1566590368,
     "wof:name":"Temeke",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

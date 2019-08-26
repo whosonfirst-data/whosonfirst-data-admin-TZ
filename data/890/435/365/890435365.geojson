@@ -11,10 +11,14 @@
     "geom:longitude":36.71667,
     "gn:country":"TZ",
     "gn:fcode":"PPL",
-    "gn:pop":7768,
+    "gn:population":7768,
     "iso:country":"TZ",
+    "lbl:bbox":"36.69667,-8.70333,36.73667,-8.66333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Mahenge"
     ],
@@ -39,7 +43,7 @@
     "name:swa_x_preferred":[
         "Mahenge"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mahange"
     ],
     "name:vie_x_preferred":[
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":155274,
         "gp:id":1446252,
-        "qs:id":274042,
+        "qs_pg:id":274042,
         "wd:id":"Q3323087",
         "wk:page":"Mahenge"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890435365,
-    "wof:lastmodified":1563283954,
+    "wof:lastmodified":1566590846,
     "wof:name":"Mahenge",
     "wof:parent_id":1108692937,
     "wof:placetype":"locality",

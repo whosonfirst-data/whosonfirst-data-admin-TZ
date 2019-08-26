@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"38.94667,-5.38667,38.98667,-5.34667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293267991,
-    "wof:lastmodified":1536603441,
+    "wof:lastmodified":1566590472,
     "wof:name":"Buyuni",
     "wof:parent_id":421203229,
     "wof:placetype":"locality",

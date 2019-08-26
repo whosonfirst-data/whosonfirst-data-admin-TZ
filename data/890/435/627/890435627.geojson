@@ -11,10 +11,14 @@
     "geom:longitude":36.36667,
     "gn:country":"TZ",
     "gn:fcode":"PPL",
-    "gn:pop":19526,
+    "gn:population":19526,
     "iso:country":"TZ",
+    "lbl:bbox":"36.34667,-6.73667,36.38667,-6.69667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Kibakwe"
     ],
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":158024,
         "gp:id":1444626,
-        "qs:id":524809,
+        "qs_pg:id":524809,
         "wd:id":"Q6403941",
         "wk:page":"Kibakwe"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890435627,
-    "wof:lastmodified":1563283955,
+    "wof:lastmodified":1566590846,
     "wof:name":"Kibakwe",
     "wof:parent_id":1108692893,
     "wof:placetype":"locality",

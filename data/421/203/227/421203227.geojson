@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-3.740334,
     "lbl:longitude":37.623353,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kilimanjaro",
     "meso:diss_me":"0302",
     "meso:gadm_admin":"Mwanga",
@@ -31,6 +33,7 @@
     "mps:longitude":37.623353,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Mwanga"
@@ -46,9 +49,6 @@
     ],
     "name:swa_x_preferred":[
         "Wilaya ya Mwanga"
-    ],
-    "name:unk_x_variant":[
-        "Mwanga District"
     ],
     "name:vie_x_preferred":[
         "Mwanga"
@@ -78,9 +78,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-25",
+    "src:population_date":"2002-08-25",
     "statoids:area_km":"2170",
     "statoids:as_of_date":"2002-08-25",
     "statoids:capital":"Mwanga",
@@ -101,7 +101,7 @@
         "gn:id":152262,
         "gp:id":56025176,
         "hasc:id":"TZ.KL.MW",
-        "qs:id":230297,
+        "qs_pg:id":230297,
         "wd:id":"Q6944667",
         "wk:page":"Mwanga District"
     },
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":421203227,
-    "wof:lastmodified":1563283888,
+    "wof:lastmodified":1566590811,
     "wof:name":"Mwanga",
     "wof:parent_id":85679737,
     "wof:placetype":"county",

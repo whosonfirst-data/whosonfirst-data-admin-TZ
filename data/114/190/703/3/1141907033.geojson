@@ -10,10 +10,14 @@
     "geom:latitude":-5.77961,
     "geom:longitude":34.90003,
     "iso:country":"TZ",
+    "lbl:bbox":"34.8800296618,-5.7996097627,34.9200296618,-5.7596097627",
     "lbl:latitude":-5.77961,
     "lbl:longitude":34.90003,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03bd\u03c5\u03cc\u03bd\u03b9"
     ],
@@ -137,7 +141,7 @@
         }
     ],
     "wof:id":1141907033,
-    "wof:lastmodified":1564189221,
+    "wof:lastmodified":1566591057,
     "wof:name":"Manyoni",
     "wof:parent_id":421186277,
     "wof:placetype":"locality",

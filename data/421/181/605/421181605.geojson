@@ -10,6 +10,9 @@
     "geom:latitude":-7.770695,
     "geom:longitude":35.691833,
     "iso:country":"TZ",
+    "lbl:bbox":"35.671833,-7.790695,35.711833,-7.750695",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -288,9 +291,11 @@
     "wof:concordances":{
         "gn:id":159071,
         "gp:id":1444024,
-        "qs:id":567099,
         "qs_pg:id":68840,
         "wd:id":"Q735609"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":567099
     },
     "wof:country":"TZ",
     "wof:created":1459009301,
@@ -305,7 +310,7 @@
         }
     ],
     "wof:id":421181605,
-    "wof:lastmodified":1563283906,
+    "wof:lastmodified":1566590821,
     "wof:name":"Iringa",
     "wof:parent_id":421198449,
     "wof:placetype":"locality",

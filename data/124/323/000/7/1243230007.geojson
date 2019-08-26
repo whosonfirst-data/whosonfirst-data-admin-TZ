@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"38.24667,-5.77,38.28667,-5.73",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Panga"
     ],
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1243230007,
-    "wof:lastmodified":1564188914,
+    "wof:lastmodified":1566590891,
     "wof:name":"Panga",
     "wof:parent_id":1108692923,
     "wof:placetype":"locality",

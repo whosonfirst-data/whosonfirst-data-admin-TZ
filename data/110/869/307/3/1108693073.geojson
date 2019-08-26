@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-4.54239,
     "lbl:longitude":30.124956,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kigoma",
     "meso:diss_me":"1608",
     "meso:gadm_admin":"Kasulu Township Authority",
@@ -31,6 +33,7 @@
     "mps:longitude":30.124956,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kasulu Township Authority"
     ],
@@ -38,7 +41,7 @@
         "Kasulu Township Authority"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632227,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1108693073,
-    "wof:lastmodified":1555047729,
+    "wof:lastmodified":1566590666,
     "wof:name":"Kasulu Township Authority",
     "wof:parent_id":85679669,
     "wof:placetype":"county",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"31.66333,-1.90333,31.70333,-1.86333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Katunguru"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310170947,
-    "wof:lastmodified":1564188686,
+    "wof:lastmodified":1566590743,
     "wof:name":"Katunguru",
     "wof:parent_id":1108693091,
     "wof:placetype":"locality",

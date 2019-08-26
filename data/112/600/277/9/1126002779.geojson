@@ -9,15 +9,18 @@
     "geom:bbox":"33.42118,-3.66393,33.42118,-3.66393",
     "geom:latitude":-3.66393,
     "geom:longitude":33.42118,
-    "gn:gn_country":"TZ",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":107362,
+    "gn:country":"TZ",
+    "gn:fcode":"PPLA",
     "gn:population":107362,
     "iso:country":"TZ",
+    "lbl:bbox":"33.40118,-3.68393,33.44118,-3.64393",
     "lbl:latitude":-3.66393,
     "lbl:longitude":33.42118,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0634\u064a\u0646\u064a\u0627\u0646\u063a\u0627"
@@ -145,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0438\u043d\u044c\u044f\u043d\u0491\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Schinjanga"
     ],
     "name:urd_x_preferred":[
@@ -178,7 +181,7 @@
     "qs_pg:qs_id":518028,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":1126002779,
-    "wof:lastmodified":1563283976,
+    "wof:lastmodified":1566590856,
     "wof:name":"Shinyanga",
     "wof:parent_id":1108693075,
     "wof:placetype":"locality",

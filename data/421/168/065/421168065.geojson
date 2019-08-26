@@ -10,8 +10,12 @@
     "geom:latitude":-7.69916,
     "geom:longitude":36.95722,
     "iso:country":"TZ",
+    "lbl:bbox":"36.93722,-7.71916,36.97722,-7.67916",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041a\u0438\u0434\u0430\u0442\u0443"
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":157863,
         "gp:id":1444727,
-        "qs:id":969902,
+        "qs_pg:id":969902,
         "wd:id":"Q939295",
         "wk:page":"Kidatu"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421168065,
-    "wof:lastmodified":1563283874,
+    "wof:lastmodified":1566590805,
     "wof:name":"Kidatu",
     "wof:parent_id":1108692935,
     "wof:placetype":"locality",

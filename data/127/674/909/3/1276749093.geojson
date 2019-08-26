@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"33.98,-1.87,34.02,-1.83",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bisarive",
         "Bisariye"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276749093,
-    "wof:lastmodified":1537710060,
+    "wof:lastmodified":1566590491,
     "wof:name":"Bisariye",
     "wof:parent_id":1108693121,
     "wof:placetype":"locality",

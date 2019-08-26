@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"32.86333,-2.48667,32.90333,-2.44667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bwere",
         "Bwiru"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293760769,
-    "wof:lastmodified":1537710058,
+    "wof:lastmodified":1566590432,
     "wof:name":"Bwiru",
     "wof:parent_id":421191925,
     "wof:placetype":"locality",

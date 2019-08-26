@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"31.15167,-3.96472,31.19167,-3.92472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nyvihondo",
         "Nyavihondo"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326753271,
-    "wof:lastmodified":1537710000,
+    "wof:lastmodified":1566590237,
     "wof:name":"Nyavihondo",
     "wof:parent_id":1108693059,
     "wof:placetype":"locality",

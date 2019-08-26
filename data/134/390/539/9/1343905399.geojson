@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"32.66333,-3.13667,32.70333,-3.09667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343905399,
-    "wof:lastmodified":1537096283,
+    "wof:lastmodified":1566590310,
     "wof:name":"Kadasi",
     "wof:parent_id":1108693165,
     "wof:placetype":"locality",

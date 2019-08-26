@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-9.445005,
     "lbl:longitude":33.484176,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Mbeya",
     "meso:diss_me":"1205",
     "meso:gadm_admin":"Ileje",
@@ -31,6 +33,7 @@
     "mps:longitude":33.484176,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Ileje"
     ],
@@ -53,9 +56,9 @@
         "Ileje"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-25",
+    "src:population_date":"2002-08-25",
     "statoids:area_km":"1935",
     "statoids:as_of_date":"2002-08-25",
     "statoids:capital":"Itumba",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108693011,
-    "wof:lastmodified":1563283661,
+    "wof:lastmodified":1566590673,
     "wof:name":"Ileje",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

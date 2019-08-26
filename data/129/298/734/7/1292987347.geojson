@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.69667,-5.17,39.73667,-5.13",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1292987347,
-    "wof:lastmodified":1537010384,
+    "wof:lastmodified":1566590451,
     "wof:name":"Tondoni",
     "wof:parent_id":421190259,
     "wof:placetype":"locality",

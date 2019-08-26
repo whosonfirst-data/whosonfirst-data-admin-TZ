@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"29.80833,-5.16472,29.84833,-5.12472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kababa",
         "Kabeba"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209214065,
-    "wof:lastmodified":1537710046,
+    "wof:lastmodified":1566590612,
     "wof:name":"Kabeba",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",

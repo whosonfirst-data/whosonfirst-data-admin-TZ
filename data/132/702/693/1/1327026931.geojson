@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"38.28,-10.30333,38.32,-10.26333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1327026931,
-    "wof:lastmodified":1536768857,
+    "wof:lastmodified":1566590266,
     "wof:name":"Lipumbulu",
     "wof:parent_id":1108692959,
     "wof:placetype":"locality",

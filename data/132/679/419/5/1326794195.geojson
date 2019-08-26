@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"32.86333,-3.97,32.90333,-3.93",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ikusule",
         "Igusule"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326794195,
-    "wof:lastmodified":1537710051,
+    "wof:lastmodified":1566590275,
     "wof:name":"Igusule",
     "wof:parent_id":1108693033,
     "wof:placetype":"locality",

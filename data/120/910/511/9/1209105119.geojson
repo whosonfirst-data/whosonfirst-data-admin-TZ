@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"30.25667,-4.13472,30.29667,-4.09472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632227
@@ -36,7 +40,7 @@
         "gn:id":387452
     },
     "wof:country":"TZ",
-    "wof:geomhash":"4b32a627a56aec223fcb1e2b6eeb0b28",
+    "wof:geomhash":"708ebbc465cdb58d7c2d11833a1a8a95",
     "wof:hierarchy":[
         {
             "country_id":85632227,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209105119,
-    "wof:lastmodified":1536297599,
+    "wof:lastmodified":1566590615,
     "wof:name":"Mogongo",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",
@@ -54,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.276670000000006,
-    -4.114719999999998,
-    30.276670000000006,
-    -4.114719999999998
+    30.27667000000001,
+    -4.11472,
+    30.27667000000001,
+    -4.11472
 ],
   "geometry": {"coordinates":[30.27667000000001,-4.11472],"type":"Point"}
 }

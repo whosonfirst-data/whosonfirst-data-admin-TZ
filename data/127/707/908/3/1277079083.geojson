@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"29.86156,-6.15606,29.90156,-6.11606",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mlinda"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1277079083,
-    "wof:lastmodified":1537710072,
+    "wof:lastmodified":1566590480,
     "wof:name":"Mlinda",
     "wof:parent_id":1108693065,
     "wof:placetype":"locality",

@@ -25,14 +25,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"30.695,-1.35556,30.735,-1.31556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Katera"
     ],
     "name:und_x_variant":[
-        "Katira",
-        "Katera"
+        "Katira"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1242948161,
-    "wof:lastmodified":1564188896,
+    "wof:lastmodified":1566590881,
     "wof:name":"Katera",
     "wof:parent_id":1108693101,
     "wof:placetype":"locality",

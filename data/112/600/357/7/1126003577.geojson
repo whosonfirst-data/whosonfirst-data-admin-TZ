@@ -9,17 +9,20 @@
     "geom:bbox":"35.28333,-8.73333,35.28333,-8.73333",
     "geom:latitude":-8.73333,
     "geom:longitude":35.28333,
-    "gn:gn_country":"TZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":10291,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
     "gn:population":10291,
     "iso:country":"TZ",
+    "lbl:bbox":"35.26333,-8.75333,35.30333,-8.71333",
     "lbl:latitude":-8.73333,
     "lbl:longitude":35.28333,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Makuugu"
     ],
     "qs_pg:aaroncc":"TZ",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":522903,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1126003577,
-    "wof:lastmodified":1509406298,
+    "wof:lastmodified":1566590855,
     "wof:name":"Makungu",
     "wof:parent_id":1108692997,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"32.56333,-9.05333,32.60333,-9.01333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0427\u0438\u043d\u0434\u0438"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344153175,
-    "wof:lastmodified":1564188044,
+    "wof:lastmodified":1566590316,
     "wof:name":"Chindi",
     "wof:parent_id":1108693019,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-6.165814,
     "geom:longitude":39.20264,
     "iso:country":"TZ",
+    "lbl:bbox":"39.18264,-6.185814,39.22264,-6.145814",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0646\u0629 \u0632\u0646\u062c\u0628\u0627\u0631 \u0627\u0644\u062d\u062c\u0631\u064a\u0629"
@@ -182,7 +186,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1449490,
-        "qs:id":1117148,
+        "qs_pg:id":1117148,
         "wd:id":"Q844417"
     },
     "wof:country":"TZ",
@@ -198,7 +202,7 @@
         }
     ],
     "wof:id":421189835,
-    "wof:lastmodified":1563283900,
+    "wof:lastmodified":1566590819,
     "wof:name":"Stone Town",
     "wof:parent_id":1108693173,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"33.41333,-9.08667,33.45333,-9.04667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mole"
     ],
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":1243548985,
-    "wof:lastmodified":1564188860,
+    "wof:lastmodified":1566590861,
     "wof:name":"Mole",
     "wof:parent_id":1108693007,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"34.09667,-8.85333,34.13667,-8.81333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swa_x_preferred":[
         "Mapogoro"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225894573,
-    "wof:lastmodified":1564189145,
+    "wof:lastmodified":1566591018,
     "wof:name":"Mapogoro",
     "wof:parent_id":1108693015,
     "wof:placetype":"locality",

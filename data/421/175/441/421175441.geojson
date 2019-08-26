@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-1.369826,
     "lbl:longitude":34.436661,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Mara",
     "meso:diss_me":"2001",
     "meso:gadm_admin":"Tarime",
@@ -31,6 +33,7 @@
     "mps:longitude":34.436661,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Tarime"
@@ -47,7 +50,7 @@
     "name:swa_x_preferred":[
         "Wilaya ya Tarime"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "North Mara District"
     ],
     "name:vie_x_preferred":[
@@ -78,9 +81,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-25",
+    "src:population_date":"2002-08-25",
     "statoids:area_km":"3885",
     "statoids:as_of_date":"2002-08-25",
     "statoids:capital":"Tarime",
@@ -101,7 +104,7 @@
         "gn:id":149579,
         "gp:id":56025207,
         "hasc:id":"TZ.MA.TA",
-        "qs:id":963989,
+        "qs_pg:id":963989,
         "wd:id":"Q7194958",
         "wk:page":"Tarime District"
     },
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421175441,
-    "wof:lastmodified":1563283909,
+    "wof:lastmodified":1566590822,
     "wof:name":"Tarime",
     "wof:parent_id":85679743,
     "wof:placetype":"county",

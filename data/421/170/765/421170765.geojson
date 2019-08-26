@@ -10,8 +10,12 @@
     "geom:latitude":-3.58639,
     "geom:longitude":30.72028,
     "iso:country":"TZ",
+    "lbl:bbox":"30.70028,-3.60639,30.74028,-3.56639",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039a\u03b9\u03bc\u03c0\u03cc\u03bd\u03c4\u03bf"
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":157960,
         "gp:id":1444666,
-        "qs:id":257042,
+        "qs_pg:id":257042,
         "wd:id":"Q6404057"
     },
     "wof:country":"TZ",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":421170765,
-    "wof:lastmodified":1563283921,
+    "wof:lastmodified":1566590829,
     "wof:name":"Kibondo",
     "wof:parent_id":1108693059,
     "wof:placetype":"locality",

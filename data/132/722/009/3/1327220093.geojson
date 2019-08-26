@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.74667,-5.02,39.78667,-4.98",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shumba",
         "Shumba-Vyamboni"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327220093,
-    "wof:lastmodified":1537709995,
+    "wof:lastmodified":1566590255,
     "wof:name":"Shumba-Vyamboni",
     "wof:parent_id":421198067,
     "wof:placetype":"locality",

@@ -25,15 +25,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.36316,-7.20129,39.40316,-7.16129",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shungubweni"
     ],
     "name:eng_x_variant":[
-        "Saungubweni"
-    ],
-    "name:und_x_variant":[
         "Saungubweni"
     ],
     "src:geom":"geonames",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1327440209,
-    "wof:lastmodified":1537709995,
+    "wof:lastmodified":1566590287,
     "wof:name":"Shungubweni",
     "wof:parent_id":421183841,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"38.14667,-6.65333,38.18667,-6.61333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Umbenazomozi",
         "Ubenazomozi"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209227693,
-    "wof:lastmodified":1537709993,
+    "wof:lastmodified":1566590586,
     "wof:name":"Ubenazomozi",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",

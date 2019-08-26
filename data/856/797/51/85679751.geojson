@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-6.556323,
     "lbl:longitude":31.583497,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "meso:name_local":"Katavi",
     "mps:latitude":-6.513326,
@@ -258,9 +259,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-26",
+    "src:population_date":"2012-08-26",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2012-08-26",
@@ -306,11 +307,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565737842,
+    "wof:lastmodified":1566590370,
     "wof:name":"Katavi",
     "wof:parent_id":85632227,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":564604,
     "wof:population_rank":11,

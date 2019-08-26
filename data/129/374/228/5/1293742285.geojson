@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.21333,-6.08667,39.25333,-6.04667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Mbuzini"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1293742285,
-    "wof:lastmodified":1564188244,
+    "wof:lastmodified":1566590468,
     "wof:name":"Mbuzini",
     "wof:parent_id":421202045,
     "wof:placetype":"locality",

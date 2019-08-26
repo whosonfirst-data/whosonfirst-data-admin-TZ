@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"31.51333,-8.65333,31.55333,-8.61333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0442\u0435\u0442\u0435"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1310073895,
-    "wof:lastmodified":1564188651,
+    "wof:lastmodified":1566590722,
     "wof:name":"Katete",
     "wof:parent_id":1108693049,
     "wof:placetype":"locality",

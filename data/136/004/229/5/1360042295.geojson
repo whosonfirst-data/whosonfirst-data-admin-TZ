@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"35.68,-2.17,35.72,-2.13",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1360042295,
-    "wof:lastmodified":1537006805,
+    "wof:lastmodified":1566590776,
     "wof:name":"Ssamunge",
     "wof:parent_id":421171979,
     "wof:placetype":"locality",

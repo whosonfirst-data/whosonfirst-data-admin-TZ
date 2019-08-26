@@ -10,6 +10,9 @@
     "geom:latitude":-5.242953,
     "geom:longitude":39.773337,
     "iso:country":"TZ",
+    "lbl:bbox":"39.753337,-5.262953,39.793337,-5.222953",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -65,7 +68,7 @@
     "name:swe_x_preferred":[
         "Chake Chake"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chaki Chaki"
     ],
     "name:zho_x_preferred":[
@@ -196,9 +199,11 @@
     "wof:concordances":{
         "gn:id":160677,
         "gp:id":1443163,
-        "qs:id":566989,
         "qs_pg:id":526859,
         "wd:id":"Q993159"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":566989
     },
     "wof:country":"TZ",
     "wof:created":1459008853,
@@ -213,7 +218,7 @@
         }
     ],
     "wof:id":421170433,
-    "wof:lastmodified":1563283925,
+    "wof:lastmodified":1566590830,
     "wof:name":"Chake Chake",
     "wof:parent_id":421187955,
     "wof:placetype":"locality",

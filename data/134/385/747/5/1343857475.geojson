@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"29.61917,-4.90306,29.65917,-4.86306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mwanga"
     ],
@@ -43,8 +47,7 @@
         "Mwanga"
     ],
     "name:und_x_variant":[
-        "Mwangai",
-        "Mwanga"
+        "Mwangai"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1343857475,
-    "wof:lastmodified":1564188062,
+    "wof:lastmodified":1566590329,
     "wof:name":"Mwanga",
     "wof:parent_id":1108693063,
     "wof:placetype":"locality",

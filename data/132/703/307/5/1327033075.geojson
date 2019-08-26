@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"38.80042,-7.18494,38.84042,-7.14494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Changombe"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327033075,
-    "wof:lastmodified":1537710071,
+    "wof:lastmodified":1566590269,
     "wof:name":"Changombe",
     "wof:parent_id":421192907,
     "wof:placetype":"locality",

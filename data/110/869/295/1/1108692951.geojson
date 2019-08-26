@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-7.842963,
     "lbl:longitude":39.779678,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Pwani",
     "meso:diss_me":"0606",
     "meso:gadm_admin":"Mafia",
@@ -31,6 +33,7 @@
     "mps:longitude":39.779678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0641\u064a\u0627"
     ],
@@ -251,9 +254,9 @@
         "\u9ed1\u624b\u515a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-25",
+    "src:population_date":"2002-08-25",
     "statoids:area_km":"518",
     "statoids:as_of_date":"2002-08-25",
     "statoids:capital":"Kilindoni",
@@ -285,7 +288,7 @@
         }
     ],
     "wof:id":1108692951,
-    "wof:lastmodified":1564188608,
+    "wof:lastmodified":1566590679,
     "wof:name":"Mafia",
     "wof:parent_id":85679691,
     "wof:placetype":"county",

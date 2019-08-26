@@ -11,11 +11,14 @@
     "geom:longitude":35.43537,
     "gn:country":"TZ",
     "gn:fcode":"HUTS",
-    "gn:pop":20,
+    "gn:population":20,
     "iso:country":"TZ",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "qs:name":"Hadzabe encampment",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -31,7 +34,7 @@
     "wof:concordances":{
         "gn:id":6615413,
         "gp:id":1446492,
-        "qs:id":642761
+        "qs_pg:id":642761
     },
     "wof:country":"TZ",
     "wof:created":1469052515,
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":890445579,
-    "wof:lastmodified":1505343606,
+    "wof:lastmodified":1566590845,
     "wof:name":"Hadzabe encampment",
     "wof:parent_id":421187711,
     "wof:placetype":"locality",

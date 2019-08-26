@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-10.783859,
     "lbl:longitude":39.112103,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "meso:name_local":"Mtwara",
     "mps:latitude":-10.772498,
@@ -154,7 +155,7 @@
         "Mtwara"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0ba4\u0bcd\u0bb5\u0bbe\u0bb0\u0bbe  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0bae\u0ba4\u0bcd\u0bb5\u0bbe\u0bb0\u0bbe \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c24\u0c4d\u0c35\u0c3e\u0c30\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -170,9 +171,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u041c\u0442\u0432\u0430\u0440\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Mtwara Region"
     ],
     "name:urd_x_preferred":[
         "\u0645\u062a\u0648\u0627\u0631\u0627 \u0639\u0644\u0627\u0642\u06c1"
@@ -264,9 +262,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-26",
+    "src:population_date":"2012-08-26",
     "statoids:area_km":"16,707",
     "statoids:area_mi":"6,451",
     "statoids:as_of_date":"2012-08-26",
@@ -291,7 +289,7 @@
         "gp:id":2347362,
         "hasc:id":"TZ.MT",
         "iso:id":"TZ-17",
-        "qs:id":895006,
+        "qs_pg:id":895006,
         "unlc:id":"TZ-17",
         "wd:id":"Q499465",
         "wk:page":"Mtwara Region"
@@ -314,11 +312,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565737843,
+    "wof:lastmodified":1566590373,
     "wof:name":"Mtwara",
     "wof:parent_id":85632227,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1270854,
     "wof:population_rank":12,

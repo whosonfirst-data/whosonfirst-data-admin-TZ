@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-5.376958,
     "lbl:longitude":39.719439,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kusini Pemba",
     "meso:diss_me":"5502",
     "meso:gadm_admin":"Mkoani",
@@ -31,6 +33,7 @@
     "mps:longitude":39.719439,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041c\u043a\u043e\u0430\u043d\u0438"
     ],
@@ -71,9 +74,9 @@
         "Mkoani"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-25",
+    "src:population_date":"2002-08-25",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-08-25",
     "statoids:capital":"Ngombeni",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1108693175,
-    "wof:lastmodified":1564188625,
+    "wof:lastmodified":1566590707,
     "wof:name":"Mkoani",
     "wof:parent_id":85679687,
     "wof:placetype":"county",

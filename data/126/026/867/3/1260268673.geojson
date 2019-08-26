@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"34.17255,-1.28849,34.21255,-1.24849",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1260268673,
-    "wof:lastmodified":1536732032,
+    "wof:lastmodified":1566590660,
     "wof:name":"Ryagoro",
     "wof:parent_id":1108693119,
     "wof:placetype":"locality",

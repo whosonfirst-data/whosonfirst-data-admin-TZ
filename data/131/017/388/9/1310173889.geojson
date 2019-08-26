@@ -25,15 +25,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.49089,-7.14323,39.53089,-7.10323",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Buyuni"
     ],
     "name:eng_x_variant":[
-        "Buuni Village"
-    ],
-    "name:und_x_variant":[
         "Buuni Village"
     ],
     "src:geom":"geonames",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1310173889,
-    "wof:lastmodified":1537710058,
+    "wof:lastmodified":1566590743,
     "wof:name":"Buyuni",
     "wof:parent_id":421198913,
     "wof:placetype":"locality",

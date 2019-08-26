@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.19667,-6.17,39.23667,-6.13",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Marhubi",
         "Marahubi",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310272671,
-    "wof:lastmodified":1537710023,
+    "wof:lastmodified":1566590736,
     "wof:name":"Marahubi Mlangoni",
     "wof:parent_id":1108693173,
     "wof:placetype":"locality",

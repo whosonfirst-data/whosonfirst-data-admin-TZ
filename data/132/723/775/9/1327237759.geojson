@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"34.73,-8.58667,34.77,-8.54667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ihowanza",
         "Ihoanza"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327237759,
-    "wof:lastmodified":1537710051,
+    "wof:lastmodified":1566590264,
     "wof:name":"Ihoanza",
     "wof:parent_id":1108692997,
     "wof:placetype":"locality",

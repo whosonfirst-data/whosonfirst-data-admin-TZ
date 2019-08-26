@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.12523,-7.61356,39.16523,-7.57356",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nyuruandanga"
     ],
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209217853,
-    "wof:lastmodified":1537710000,
+    "wof:lastmodified":1566590612,
     "wof:name":"Nyuruandanga",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",

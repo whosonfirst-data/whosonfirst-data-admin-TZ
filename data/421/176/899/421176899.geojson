@@ -10,8 +10,12 @@
     "geom:latitude":-2.55,
     "geom:longitude":33.2,
     "iso:country":"TZ",
+    "lbl:bbox":"33.18,-2.57,33.22,-2.53",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":151062,
         "gp:id":1448867,
-        "qs:id":1090086
+        "qs_pg:id":1090086
     },
     "wof:country":"TZ",
     "wof:created":1459009123,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421176899,
-    "wof:lastmodified":1505340630,
+    "wof:lastmodified":1566590839,
     "wof:name":"Nyanguge",
     "wof:parent_id":1108693105,
     "wof:placetype":"locality",

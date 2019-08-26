@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"31.97028,-4.03278,32.01028,-3.99278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bugomga",
         "Bugomba"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343431263,
-    "wof:lastmodified":1537710060,
+    "wof:lastmodified":1566590367,
     "wof:name":"Bugomba",
     "wof:parent_id":1108693081,
     "wof:placetype":"locality",

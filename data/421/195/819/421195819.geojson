@@ -10,8 +10,12 @@
     "geom:latitude":-4.8,
     "geom:longitude":38.25,
     "iso:country":"TZ",
+    "lbl:bbox":"38.23,-4.82,38.27,-4.78",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Matui"
@@ -50,7 +54,7 @@
     "wof:concordances":{
         "gn:id":154566,
         "gp:id":56558439,
-        "qs:id":122537
+        "qs_pg:id":122537
     },
     "wof:country":"TZ",
     "wof:created":1459009860,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":421195819,
-    "wof:lastmodified":1564188819,
+    "wof:lastmodified":1566590808,
     "wof:name":"Matui",
     "wof:parent_id":421175229,
     "wof:placetype":"locality",

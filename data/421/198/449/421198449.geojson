@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-7.723145,
     "lbl:longitude":35.710512,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Iringa",
     "meso:diss_me":"1103",
     "meso:gadm_admin":"Iringa Urban",
@@ -31,6 +33,7 @@
     "mps:longitude":35.710512,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Iringa Urban"
@@ -60,9 +63,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-25",
+    "src:population_date":"2002-08-25",
     "statoids:area_km":"160",
     "statoids:as_of_date":"2002-08-25",
     "statoids:capital":"Iringa",
@@ -83,7 +86,7 @@
         "gn:id":7731037,
         "gp:id":56025110,
         "hasc:id":"TZ.IG.IM",
-        "qs:id":424741
+        "qs_pg:id":424741
     },
     "wof:country":"TZ",
     "wof:created":1459009948,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421198449,
-    "wof:lastmodified":1553717542,
+    "wof:lastmodified":1566590823,
     "wof:name":"Iringa Urban",
     "wof:parent_id":85679711,
     "wof:placetype":"county",

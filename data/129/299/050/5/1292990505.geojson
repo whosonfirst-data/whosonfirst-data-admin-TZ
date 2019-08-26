@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"32.58,-8.38667,32.62,-8.34667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nunka",
         "Nkanga"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1292990505,
-    "wof:lastmodified":1537710003,
+    "wof:lastmodified":1566590457,
     "wof:name":"Nkanga",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

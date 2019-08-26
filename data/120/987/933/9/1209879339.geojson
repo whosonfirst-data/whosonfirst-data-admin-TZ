@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"38.19667,-4.55333,38.23667,-4.51333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shume",
         "Shome"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209879339,
-    "wof:lastmodified":1537709995,
+    "wof:lastmodified":1566590606,
     "wof:name":"Shome",
     "wof:parent_id":421175229,
     "wof:placetype":"locality",

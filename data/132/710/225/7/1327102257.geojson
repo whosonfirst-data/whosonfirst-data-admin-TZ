@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.19667,-6.25333,39.23667,-6.21333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swa_x_preferred":[
         "Chukwani"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327102257,
-    "wof:lastmodified":1564188000,
+    "wof:lastmodified":1566590292,
     "wof:name":"Chukwani",
     "wof:parent_id":421202045,
     "wof:placetype":"locality",

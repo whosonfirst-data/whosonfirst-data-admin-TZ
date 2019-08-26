@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.14738,-6.91542,39.18738,-6.87542",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1360043615,
-    "wof:lastmodified":1537004893,
+    "wof:lastmodified":1566590777,
     "wof:name":"Masika",
     "wof:parent_id":1108692955,
     "wof:placetype":"locality",

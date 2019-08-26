@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-4.190881,
     "lbl:longitude":34.720231,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Singida",
     "meso:diss_me":"1306",
     "meso:gadm_admin":"Mkalama",
@@ -31,6 +33,7 @@
     "mps:longitude":34.720231,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Mkalama"
     ],
@@ -38,7 +41,7 @@
         "Mkalama"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632227,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1108693031,
-    "wof:lastmodified":1555047728,
+    "wof:lastmodified":1566590690,
     "wof:name":"Mkalama",
     "wof:parent_id":85679727,
     "wof:placetype":"county",

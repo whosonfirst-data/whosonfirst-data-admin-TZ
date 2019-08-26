@@ -10,10 +10,14 @@
     "geom:latitude":-2.98333,
     "geom:longitude":33.51667,
     "iso:country":"TZ",
+    "lbl:bbox":"33.49667,-3.00333,33.53667,-2.96333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Malaya"
     ],
     "qs:gn_country":"TZ",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":154995,
         "gp:id":1446425,
-        "qs:id":263099
+        "qs_pg:id":263099
     },
     "wof:country":"TZ",
     "wof:created":1459010224,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421205425,
-    "wof:lastmodified":1505340794,
+    "wof:lastmodified":1566590813,
     "wof:name":"Malya",
     "wof:parent_id":1108693111,
     "wof:placetype":"locality",

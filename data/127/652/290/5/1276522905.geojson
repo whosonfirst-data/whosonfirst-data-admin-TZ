@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"31.01722,-2.68111,31.05722,-2.64111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276522905,
-    "wof:lastmodified":1537021110,
+    "wof:lastmodified":1566590539,
     "wof:name":"Mukashorogo",
     "wof:parent_id":1108693093,
     "wof:placetype":"locality",

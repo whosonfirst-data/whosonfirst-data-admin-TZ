@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"33.19463,-2.13053,33.23463,-2.09053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1360182259,
-    "wof:lastmodified":1536805333,
+    "wof:lastmodified":1566590771,
     "wof:name":"Kisorya",
     "wof:parent_id":421187953,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"33.41333,-7.45333,33.45333,-7.41333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Mbogo"
     ],
@@ -34,8 +38,7 @@
         "Mbogo"
     ],
     "name:und_x_variant":[
-        "Mbogos",
-        "Mbogo"
+        "Mbogos"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1326714683,
-    "wof:lastmodified":1564187971,
+    "wof:lastmodified":1566590273,
     "wof:name":"Mbogo",
     "wof:parent_id":1108693005,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.28,-6.00333,39.32,-5.96333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632227
@@ -36,7 +40,7 @@
         "gn:id":155212
     },
     "wof:country":"TZ",
-    "wof:geomhash":"a629788f481ae38db6a6e21ce921f4dd",
+    "wof:geomhash":"0abd3a9d73beb1ca48732d7ec604310e",
     "wof:hierarchy":[
         {
             "country_id":85632227,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209075027,
-    "wof:lastmodified":1536298523,
+    "wof:lastmodified":1566590555,
     "wof:name":"Makadara",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     39.3,
-    -5.9833300000000005,
+    -5.98333,
     39.3,
-    -5.9833300000000005
+    -5.98333
 ],
   "geometry": {"coordinates":[39.3,-5.98333],"type":"Point"}
 }

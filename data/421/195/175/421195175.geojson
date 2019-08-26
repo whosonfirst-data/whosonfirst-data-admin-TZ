@@ -10,8 +10,12 @@
     "geom:latitude":-6.16667,
     "geom:longitude":39.43333,
     "iso:country":"TZ",
+    "lbl:bbox":"39.41333,-6.18667,39.45333,-6.14667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Chwaka"
@@ -31,7 +35,7 @@
     "name:swa_x_preferred":[
         "Chwaka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chakwa"
     ],
     "qs:gn_country":"TZ",
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":160308,
         "gp:id":1443398,
-        "qs:id":279465,
+        "qs_pg:id":279465,
         "wd:id":"Q3676124"
     },
     "wof:country":"TZ",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421195175,
-    "wof:lastmodified":1561775621,
+    "wof:lastmodified":1566590808,
     "wof:name":"Chwaka",
     "wof:parent_id":421191173,
     "wof:placetype":"locality",

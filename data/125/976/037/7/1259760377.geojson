@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"33.39667,-2.70333,33.43667,-2.66333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mwamwabanza"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259760377,
-    "wof:lastmodified":1537710008,
+    "wof:lastmodified":1566590955,
     "wof:name":"Mwamabanza",
     "wof:parent_id":1108693105,
     "wof:placetype":"locality",

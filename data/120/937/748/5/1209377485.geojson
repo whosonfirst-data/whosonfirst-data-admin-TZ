@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"31.08389,-1.71139,31.12389,-1.67139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632227
@@ -36,7 +40,7 @@
         "gn:id":389779
     },
     "wof:country":"TZ",
-    "wof:geomhash":"2053ddf6e86ce5d3baa3af094ab3c778",
+    "wof:geomhash":"38232e5f393e2f5fa9a7bf4eb18c6f8b",
     "wof:hierarchy":[
         {
             "country_id":85632227,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209377485,
-    "wof:lastmodified":1536288898,
+    "wof:lastmodified":1566590565,
     "wof:name":"Lwandare",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",
@@ -54,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.103890000000003,
-    -1.6913900000000002,
-    31.103890000000003,
-    -1.6913900000000002
+    31.10389,
+    -1.69139,
+    31.10389,
+    -1.69139
 ],
   "geometry": {"coordinates":[31.10389,-1.69139],"type":"Point"}
 }

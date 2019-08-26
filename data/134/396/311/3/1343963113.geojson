@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"29.79667,-5.18667,29.83667,-5.14667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rugunga",
         "Lugunga"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343963113,
-    "wof:lastmodified":1537710028,
+    "wof:lastmodified":1566590302,
     "wof:name":"Lugunga",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

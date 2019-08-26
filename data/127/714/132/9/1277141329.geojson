@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.39667,-6.15333,39.43667,-6.11333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09be\u09b0\u09c1\u09ae\u09ac\u09bf"
     ],
@@ -70,8 +74,7 @@
         "Marumbi"
     ],
     "name:und_x_variant":[
-        "Marubi",
-        "Marumbi"
+        "Marubi"
     ],
     "name:vie_x_preferred":[
         "Marumbi"
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1277141329,
-    "wof:lastmodified":1564188322,
+    "wof:lastmodified":1566590513,
     "wof:name":"Marumbi",
     "wof:parent_id":421191173,
     "wof:placetype":"locality",

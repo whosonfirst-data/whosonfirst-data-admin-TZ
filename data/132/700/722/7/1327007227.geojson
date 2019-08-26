@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"33.29667,-2.98667,33.33667,-2.94667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kakora",
         "Kakoro"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327007227,
-    "wof:lastmodified":1537710045,
+    "wof:lastmodified":1566590235,
     "wof:name":"Kakoro",
     "wof:parent_id":1108693111,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-10.75,
     "geom:longitude":34.9,
     "iso:country":"TZ",
+    "lbl:bbox":"34.88,-10.77,34.92,-10.73",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":878041,
         "gp:id":1446685,
-        "qs:id":129834
+        "qs_pg:id":129834
     },
     "wof:country":"TZ",
     "wof:created":1459009185,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421178547,
-    "wof:lastmodified":1505340637,
+    "wof:lastmodified":1566590833,
     "wof:name":"Matiri",
     "wof:parent_id":1108692989,
     "wof:placetype":"locality",

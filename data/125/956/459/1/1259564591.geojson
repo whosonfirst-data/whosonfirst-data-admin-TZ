@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"38.86333,-11.15333,38.90333,-11.11333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259564591,
-    "wof:lastmodified":1536741888,
+    "wof:lastmodified":1566590966,
     "wof:name":"Mesaula",
     "wof:parent_id":1108692973,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-4.55,
     "geom:longitude":34.85,
     "iso:country":"TZ",
+    "lbl:bbox":"34.83,-4.57,34.87,-4.53",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041c\u0442\u0438\u043d\u043a\u043e"
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":152781,
         "gp:id":1447863,
-        "qs:id":1298794,
+        "qs_pg:id":1298794,
         "wd:id":"Q13124290",
         "wk:page":"Mtinko"
     },
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421196815,
-    "wof:lastmodified":1563283913,
+    "wof:lastmodified":1566590825,
     "wof:name":"Mtinko",
     "wof:parent_id":1108693025,
     "wof:placetype":"locality",

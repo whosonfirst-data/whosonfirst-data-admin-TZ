@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-9.199962,
     "lbl:longitude":38.954925,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Lindi",
     "meso:diss_me":"0801",
     "meso:gadm_admin":"Kilwa",
@@ -31,6 +33,7 @@
     "mps:longitude":38.954925,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041a\u0438\u043b\u0443\u0430"
@@ -90,9 +93,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-25",
+    "src:population_date":"2002-08-25",
     "statoids:area_km":"13920",
     "statoids:as_of_date":"2002-08-25",
     "statoids:capital":"Kivinje Singino",
@@ -113,7 +116,7 @@
         "gn:id":157383,
         "gp:id":56025126,
         "hasc:id":"TZ.LI.KI",
-        "qs:id":1086853,
+        "qs_pg:id":1086853,
         "wd:id":"Q2221197",
         "wk:page":"Kilwa District"
     },
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421187961,
-    "wof:lastmodified":1563283893,
+    "wof:lastmodified":1566590816,
     "wof:name":"Kilwa",
     "wof:parent_id":85679713,
     "wof:placetype":"county",

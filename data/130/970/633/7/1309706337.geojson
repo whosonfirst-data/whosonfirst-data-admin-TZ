@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"36.89667,-6.12,36.93667,-6.08",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1309706337,
-    "wof:lastmodified":1537071474,
+    "wof:lastmodified":1566590787,
     "wof:name":"Kibedya",
     "wof:parent_id":1108692943,
     "wof:placetype":"locality",

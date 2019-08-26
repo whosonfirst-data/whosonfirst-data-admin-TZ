@@ -25,14 +25,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"38.84667,-6.40333,38.88667,-6.36333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nunge"
     ],
     "name:und_x_variant":[
-        "Nungwe",
-        "Nunge"
+        "Nungwe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1327434539,
-    "wof:lastmodified":1564187995,
+    "wof:lastmodified":1566590287,
     "wof:name":"Nunge",
     "wof:parent_id":1108692947,
     "wof:placetype":"locality",

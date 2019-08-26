@@ -10,6 +10,9 @@
     "geom:latitude":-10.71667,
     "geom:longitude":38.8,
     "iso:country":"TZ",
+    "lbl:bbox":"38.78,-10.73667,38.82,-10.69667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -59,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0441\u0430\u0441\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Massassi"
     ],
     "ne:ADM0CAP":0.0,
@@ -184,7 +187,7 @@
     "wof:concordances":{
         "gn:id":878058,
         "gp:id":1446599,
-        "qs:id":116963,
+        "qs_pg:id":116963,
         "wd:id":"Q1003089",
         "wk:page":"Masasi District"
     },
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":421178383,
-    "wof:lastmodified":1563283930,
+    "wof:lastmodified":1566590832,
     "wof:name":"Masasi",
     "wof:parent_id":1108692983,
     "wof:placetype":"locality",

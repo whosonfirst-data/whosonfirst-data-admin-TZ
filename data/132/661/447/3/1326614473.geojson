@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"33.53,-8.97,33.57,-8.93",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326614473,
-    "wof:lastmodified":1536864154,
+    "wof:lastmodified":1566590251,
     "wof:name":"Mantanji",
     "wof:parent_id":1108693007,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"32.26333,-8.37,32.30333,-8.33",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Pando"
     ],
@@ -77,8 +81,7 @@
         "\u041f\u0430\u043d\u0434\u043e"
     ],
     "name:und_x_variant":[
-        "Pande",
-        "Pando"
+        "Pande"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1243036285,
-    "wof:lastmodified":1564188931,
+    "wof:lastmodified":1566590901,
     "wof:name":"Pando",
     "wof:parent_id":1108693051,
     "wof:placetype":"locality",

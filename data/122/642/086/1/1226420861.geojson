@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"38.81333,-10.77,38.85333,-10.73",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Marika"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1226420861,
-    "wof:lastmodified":1564189105,
+    "wof:lastmodified":1566590994,
     "wof:name":"Marika",
     "wof:parent_id":1108692983,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":33.96667,
     "gn:country":"TZ",
     "gn:fcode":"PPL",
-    "gn:pop":16376,
+    "gn:population":16376,
     "iso:country":"TZ",
+    "lbl:bbox":"33.94667,-1.78667,33.98667,-1.74667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:amh_x_preferred":[
         "\u1261\u1272\u12eb\u121b"
     ],
@@ -57,7 +61,7 @@
     "name:tur_x_preferred":[
         "Butiama"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Buliama"
     ],
     "qs:name":"Butiama",
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":160798,
         "gp:id":1448773,
-        "qs:id":526966,
+        "qs_pg:id":526966,
         "wd:id":"Q4833509",
         "wk:page":"Butiama"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":890442367,
-    "wof:lastmodified":1563283951,
+    "wof:lastmodified":1566590844,
     "wof:name":"Butiama",
     "wof:parent_id":1108693121,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-9.128789,
     "lbl:longitude":34.095554,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Njombe",
     "meso:diss_me":"2203",
     "meso:gadm_admin":"Makete",
@@ -31,6 +33,7 @@
     "mps:longitude":34.095554,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u043a\u0435\u0442\u0435"
     ],
@@ -63,9 +66,9 @@
         "Makete"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-25",
+    "src:population_date":"2002-08-25",
     "statoids:area_km":"3178",
     "statoids:as_of_date":"2002-08-25",
     "statoids:capital":"Iwawa",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108693137,
-    "wof:lastmodified":1561775605,
+    "wof:lastmodified":1566590687,
     "wof:name":"Makete",
     "wof:parent_id":85679765,
     "wof:placetype":"county",

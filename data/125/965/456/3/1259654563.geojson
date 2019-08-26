@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"34.71333,-11.20333,34.75333,-11.16333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lundu"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1259654563,
-    "wof:lastmodified":1564188999,
+    "wof:lastmodified":1566590939,
     "wof:name":"Lundu",
     "wof:parent_id":1108692995,
     "wof:placetype":"locality",

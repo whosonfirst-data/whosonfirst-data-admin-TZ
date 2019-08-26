@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-8.885477,
     "lbl:longitude":33.465937,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Mbeya",
     "meso:diss_me":"1208",
     "meso:gadm_admin":"Mbeya Urban",
@@ -31,6 +33,7 @@
     "mps:longitude":33.465937,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Mbeya"
@@ -75,9 +78,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-25",
+    "src:population_date":"2002-08-25",
     "statoids:area_km":"185",
     "statoids:as_of_date":"2002-08-25",
     "statoids:capital":"Mbeya",
@@ -97,7 +100,7 @@
     "wof:concordances":{
         "gp:id":56025151,
         "hasc:id":"TZ.MB.MU",
-        "qs:id":218429,
+        "qs_pg:id":218429,
         "wd:id":"Q6799690"
     },
     "wof:country":"TZ",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":421170113,
-    "wof:lastmodified":1563283925,
+    "wof:lastmodified":1566590830,
     "wof:name":"Mbeya Urban",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

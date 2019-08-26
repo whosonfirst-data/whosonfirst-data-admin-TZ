@@ -11,10 +11,14 @@
     "geom:longitude":32.888774,
     "gn:country":"TZ",
     "gn:fcode":"PPLA",
-    "gn:pop":436801,
+    "gn:population":436801,
     "iso:country":"TZ",
+    "lbl:bbox":"32.868774,-2.538662,32.908774,-2.498662",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0648\u0627\u0646\u0632\u0627"
@@ -199,7 +203,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0432\u0430\u043d\u0437\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mwansa"
     ],
     "name:urd_x_preferred":[
@@ -256,12 +260,12 @@
     "wof:concordances":{
         "gn:id":152224,
         "gp:id":1448146,
-        "qs:id":1117130,
+        "qs_pg:id":1117130,
         "wd:id":"Q110218",
         "wk:page":"Mwanza"
     },
     "wof:concordances_alt":{
-        "qs:id":273723
+        "qs_pg:id":273723
     },
     "wof:country":"TZ",
     "wof:created":1459009136,
@@ -276,7 +280,7 @@
         }
     ],
     "wof:id":421177211,
-    "wof:lastmodified":1563283926,
+    "wof:lastmodified":1566590830,
     "wof:name":"Mwanza",
     "wof:parent_id":1108693109,
     "wof:placetype":"locality",

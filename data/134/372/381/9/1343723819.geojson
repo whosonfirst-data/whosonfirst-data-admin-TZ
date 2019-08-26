@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.80055,-5.25105,39.84055,-5.21105",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vitangoge",
         "Vitongoge",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343723819,
-    "wof:lastmodified":1537709989,
+    "wof:lastmodified":1566590366,
     "wof:name":"Vitongoji",
     "wof:parent_id":421187955,
     "wof:placetype":"locality",

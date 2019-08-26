@@ -10,10 +10,14 @@
     "geom:latitude":-1.68333,
     "geom:longitude":33.7,
     "iso:country":"TZ",
+    "lbl:bbox":"33.68,-1.70333,33.72,-1.66333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mgango"
     ],
     "qs:gn_country":"TZ",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":152689,
         "gp:id":1447925,
-        "qs:id":1298793
+        "qs_pg:id":1298793
     },
     "wof:country":"TZ",
     "wof:created":1459009894,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421196813,
-    "wof:lastmodified":1505340749,
+    "wof:lastmodified":1566590825,
     "wof:name":"Mugango",
     "wof:parent_id":421188919,
     "wof:placetype":"locality",

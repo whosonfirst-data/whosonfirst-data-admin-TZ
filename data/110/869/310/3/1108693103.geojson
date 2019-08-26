@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-2.042089,
     "lbl:longitude":33.004549,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Mwanza",
     "meso:diss_me":"1901",
     "meso:gadm_admin":"Ukerewe",
@@ -31,6 +33,7 @@
     "mps:longitude":33.004549,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ukerewe"
     ],
@@ -38,9 +41,9 @@
         "Ukerewe"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-25",
+    "src:population_date":"2002-08-25",
     "statoids:area_km":"640",
     "statoids:as_of_date":"2002-08-25",
     "statoids:capital":"Kagera",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108693103,
-    "wof:lastmodified":1553718238,
+    "wof:lastmodified":1566590709,
     "wof:name":"Ukerewe",
     "wof:parent_id":85679655,
     "wof:placetype":"county",

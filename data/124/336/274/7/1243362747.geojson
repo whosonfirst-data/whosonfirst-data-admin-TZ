@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"30.935,-4.8525,30.975,-4.8125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243362747,
-    "wof:lastmodified":1536926972,
+    "wof:lastmodified":1566590859,
     "wof:name":"Ngegera",
     "wof:parent_id":1108693059,
     "wof:placetype":"locality",

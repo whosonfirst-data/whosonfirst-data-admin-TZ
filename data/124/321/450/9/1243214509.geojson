@@ -25,18 +25,18 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"30.34366,-6.18367,30.38366,-6.14367",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Munsalya"
     ],
     "name:eng_x_variant":[
         "Munsalla",
         "Munsalia"
-    ],
-    "name:und_x_variant":[
-        "Munsalia",
-        "Munsalla"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1243214509,
-    "wof:lastmodified":1537710009,
+    "wof:lastmodified":1566590930,
     "wof:name":"Munsalya",
     "wof:parent_id":1108693149,
     "wof:placetype":"locality",

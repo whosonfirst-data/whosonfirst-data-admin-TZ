@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"34.28,-8.67,34.32,-8.63",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632227
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209204273,
-    "wof:lastmodified":1536294506,
+    "wof:lastmodified":1566590603,
     "wof:name":"Urunda",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",

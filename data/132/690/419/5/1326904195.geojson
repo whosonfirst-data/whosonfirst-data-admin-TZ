@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"35.09667,-11.10333,35.13667,-11.06333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Punga"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1326904195,
-    "wof:lastmodified":1564187985,
+    "wof:lastmodified":1566590281,
     "wof:name":"Punga",
     "wof:parent_id":1108692989,
     "wof:placetype":"locality",

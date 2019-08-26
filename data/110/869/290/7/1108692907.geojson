@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-3.41577,
     "lbl:longitude":36.673165,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Arusha",
     "meso:diss_me":"0203",
     "meso:gadm_admin":"Arusha Urban",
@@ -31,6 +33,7 @@
     "mps:longitude":36.673165,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Arusha Urban"
     ],
@@ -38,7 +41,7 @@
         "Arusha Urban"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632227,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1108692907,
-    "wof:lastmodified":1555047726,
+    "wof:lastmodified":1566590698,
     "wof:name":"Arusha Urban",
     "wof:parent_id":85679731,
     "wof:placetype":"county",

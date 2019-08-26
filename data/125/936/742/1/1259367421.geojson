@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"33.58,-9.32,33.62,-9.28",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259367421,
-    "wof:lastmodified":1537024313,
+    "wof:lastmodified":1566590934,
     "wof:name":"Kapugi",
     "wof:parent_id":1108693009,
     "wof:placetype":"locality",

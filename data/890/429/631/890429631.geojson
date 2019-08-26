@@ -11,10 +11,14 @@
     "geom:longitude":39.2987,
     "gn:country":"TZ",
     "gn:fcode":"PPL",
-    "gn:pop":8000,
+    "gn:population":8000,
     "iso:country":"TZ",
+    "lbl:bbox":"39.2787,-5.74651,39.3187,-5.70651",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Nungwi"
     ],
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":7284275,
         "gp:id":1448745,
-        "qs:id":106503,
+        "qs_pg:id":106503,
         "wd:id":"Q3376139",
         "wk:page":"Nungwi"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890429631,
-    "wof:lastmodified":1563283947,
+    "wof:lastmodified":1566590843,
     "wof:name":"Nungwi",
     "wof:parent_id":890451535,
     "wof:placetype":"locality",

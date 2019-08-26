@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-3.1159,
     "lbl:longitude":32.62506,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Geita",
     "meso:diss_me":"2502",
     "meso:gadm_admin":"Nyang'wale",
@@ -31,6 +33,7 @@
     "mps:longitude":32.62506,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Nyang'wale"
     ],
@@ -49,7 +52,7 @@
         "Geita"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632227,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108693165,
-    "wof:lastmodified":1563283693,
+    "wof:lastmodified":1566590706,
     "wof:name":"Nyang'wale",
     "wof:parent_id":85679761,
     "wof:placetype":"county",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.63,-5.42,39.67,-5.38",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mikindani"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1260350789,
-    "wof:lastmodified":1564188594,
+    "wof:lastmodified":1566590663,
     "wof:name":"Mikindani",
     "wof:parent_id":1108693175,
     "wof:placetype":"locality",

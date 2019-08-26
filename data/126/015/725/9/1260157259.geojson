@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"33.18,-4.30333,33.22,-4.26333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nyambuye",
         "Myambuye"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260157259,
-    "wof:lastmodified":1537710007,
+    "wof:lastmodified":1566590642,
     "wof:name":"Myambuye",
     "wof:parent_id":1108693033,
     "wof:placetype":"locality",

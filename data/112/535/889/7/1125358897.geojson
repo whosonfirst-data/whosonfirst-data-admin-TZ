@@ -9,20 +9,23 @@
     "geom:bbox":"39.36667,-6.28333,39.36667,-6.28333",
     "geom:latitude":-6.28333,
     "geom:longitude":39.36667,
-    "gn:gn_country":"TZ",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":1060416,
+    "gn:country":"TZ",
+    "gn:fcode":"ADM3",
     "gn:population":1060416,
     "iso:country":"TZ",
+    "lbl:bbox":"39.26667,-6.38333,39.46667,-6.18333",
     "lbl:latitude":-6.28333,
     "lbl:longitude":39.36667,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":4.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ita_x_preferred":[
         "Unguja Ukuu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Unguja Ukuu Kaebona"
     ],
     "qs_pg:aaroncc":"TZ",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":517259,
     "qs_pg:qs_pg_placetype":"localadmin",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1125358897,
-    "wof:lastmodified":1564188847,
+    "wof:lastmodified":1566590852,
     "wof:name":"Unguja Ukuu",
     "wof:parent_id":421191173,
     "wof:placetype":"localadmin",
