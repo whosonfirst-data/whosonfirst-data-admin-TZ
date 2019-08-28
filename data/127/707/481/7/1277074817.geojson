@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"36.1584,-7.36248,36.1984,-7.32248",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Itami"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1277074817,
-    "wof:lastmodified":1537710069,
+    "wof:lastmodified":1566590481,
     "wof:name":"Itami",
     "wof:parent_id":1108693001,
     "wof:placetype":"locality",

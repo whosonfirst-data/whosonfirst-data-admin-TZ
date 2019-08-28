@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"34.31333,-4.67,34.35333,-4.63",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Uganda"
     ],
@@ -650,7 +654,7 @@
         }
     ],
     "wof:id":1276422909,
-    "wof:lastmodified":1564188288,
+    "wof:lastmodified":1566590491,
     "wof:name":"Uganda",
     "wof:parent_id":1108693023,
     "wof:placetype":"locality",

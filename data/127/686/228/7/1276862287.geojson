@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"34.54667,-1.42,34.58667,-1.38",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nyamwega",
         "Nyamwaga"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276862287,
-    "wof:lastmodified":1537710001,
+    "wof:lastmodified":1566590481,
     "wof:name":"Nyamwaga",
     "wof:parent_id":421175441,
     "wof:placetype":"locality",

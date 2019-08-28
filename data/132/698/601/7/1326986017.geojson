@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"30.56069,-7.01247,30.60069,-6.97247",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mkombe"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326986017,
-    "wof:lastmodified":1537710016,
+    "wof:lastmodified":1566590285,
     "wof:name":"Mkombe",
     "wof:parent_id":1108693055,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-4.78333,
     "geom:longitude":38.28333,
     "iso:country":"TZ",
+    "lbl:bbox":"38.26333,-4.80333,38.30333,-4.76333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_historical":[
         "Wilhelmstal"
@@ -30,9 +34,6 @@
     ],
     "name:swa_x_preferred":[
         "Muheza"
-    ],
-    "name:unk_x_variant":[
-        "Wilhelmstal"
     ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"PPL",
@@ -64,7 +65,7 @@
     "wof:concordances":{
         "gn:id":155569,
         "gp:id":1446072,
-        "qs:id":241142,
+        "qs_pg:id":241142,
         "wd:id":"Q1877698",
         "wk:page":"Lushoto District"
     },
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":421204499,
-    "wof:lastmodified":1563283886,
+    "wof:lastmodified":1566590810,
     "wof:name":"Lushoto",
     "wof:parent_id":421175229,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-6.210133,
     "lbl:longitude":35.377554,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Dodoma",
     "meso:diss_me":"0106",
     "meso:gadm_admin":"Bahi",
@@ -31,6 +33,7 @@
     "mps:longitude":35.377554,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Bahi District"
     ],
@@ -57,7 +60,7 @@
         "Uvinza"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632227,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108692899,
-    "wof:lastmodified":1563283663,
+    "wof:lastmodified":1566590675,
     "wof:name":"Bahi",
     "wof:parent_id":85679705,
     "wof:placetype":"county",

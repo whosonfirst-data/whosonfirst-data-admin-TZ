@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.86333,-10.33667,39.90333,-10.29667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zibobe",
         "Libobe"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293179225,
-    "wof:lastmodified":1537710066,
+    "wof:lastmodified":1566590470,
     "wof:name":"Libobe",
     "wof:parent_id":1108692969,
     "wof:placetype":"locality",

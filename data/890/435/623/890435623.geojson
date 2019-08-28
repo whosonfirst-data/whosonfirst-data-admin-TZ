@@ -11,10 +11,14 @@
     "geom:longitude":33.75,
     "gn:country":"TZ",
     "gn:fcode":"PPL",
-    "gn:pop":12720,
+    "gn:population":12720,
     "iso:country":"TZ",
+    "lbl:bbox":"33.73,-9.35333,33.77,-9.31333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Masoko"
     ],
@@ -27,7 +31,7 @@
     "name:swe_x_preferred":[
         "Masoko"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bujesi"
     ],
     "qs:name":"Masoko",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":154666,
         "gp:id":1443951,
-        "qs:id":522794,
+        "qs_pg:id":522794,
         "wk:page":"Masoko"
     },
     "wof:country":"TZ",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":890435623,
-    "wof:lastmodified":1564188840,
+    "wof:lastmodified":1566590847,
     "wof:name":"Masoko",
     "wof:parent_id":1108693009,
     "wof:placetype":"locality",

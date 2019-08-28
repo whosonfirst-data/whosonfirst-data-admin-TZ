@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-3.078666,
     "lbl:longitude":37.065186,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kilimanjaro",
     "meso:diss_me":"0307",
     "meso:gadm_admin":"Siha",
@@ -31,6 +33,7 @@
     "mps:longitude":37.065186,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03a3\u03af\u03c7\u03b1"
     ],
@@ -44,7 +47,7 @@
         "\u79d1\u7f85\u572d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632227,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108692917,
-    "wof:lastmodified":1563283683,
+    "wof:lastmodified":1566590697,
     "wof:name":"Siha",
     "wof:parent_id":85679737,
     "wof:placetype":"county",

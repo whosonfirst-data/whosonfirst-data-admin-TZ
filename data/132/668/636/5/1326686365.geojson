@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.33114,-5.89492,39.37114,-5.85492",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326686365,
-    "wof:lastmodified":1537574852,
+    "wof:lastmodified":1566590252,
     "wof:name":"Matemwe",
     "wof:parent_id":890451535,
     "wof:placetype":"locality",

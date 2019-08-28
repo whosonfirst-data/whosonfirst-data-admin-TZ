@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"37.74496,-7.15619,37.78496,-7.11619",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Marendele"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326819505,
-    "wof:lastmodified":1537710070,
+    "wof:lastmodified":1566590238,
     "wof:name":"Marendele",
     "wof:parent_id":421193165,
     "wof:placetype":"locality",

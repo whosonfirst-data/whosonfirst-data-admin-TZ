@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-8.151271,
     "lbl:longitude":33.525476,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "meso:name_local":"Mbeya",
     "mps:latitude":-8.2388,
@@ -154,7 +155,7 @@
         "Mbeya"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bcd\u0baa\u0bc7\u0baf\u0bbe  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0bae\u0bcd\u0baa\u0bc7\u0baf\u0bbe \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c0e\u0c02\u0c2c\u0c47\u0c2f\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -170,9 +171,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0431\u0435\u044f"
-    ],
-    "name:unk_x_variant":[
-        "Mbeya Region"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0628\u06cc\u0627 \u0639\u0644\u0627\u0642\u06c1"
@@ -264,9 +262,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-26",
+    "src:population_date":"2012-08-26",
     "statoids:area_km":"60,350",
     "statoids:area_mi":"23,301",
     "statoids:as_of_date":"2012-08-26",
@@ -291,7 +289,7 @@
         "gp:id":2347360,
         "hasc:id":"TZ.MB",
         "iso:id":"TZ-14",
-        "qs:id":319166,
+        "qs_pg:id":319166,
         "unlc:id":"TZ-14",
         "wd:id":"Q458382",
         "wk:page":"Mbeya Region"
@@ -314,11 +312,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565737855,
+    "wof:lastmodified":1566590399,
     "wof:name":"Mbeya",
     "wof:parent_id":85632227,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":2707410,
     "wof:population_rank":12,

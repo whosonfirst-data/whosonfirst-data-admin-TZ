@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"30.39657,-6.09987,30.43657,-6.05987",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mahumwe"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243515603,
-    "wof:lastmodified":1537710072,
+    "wof:lastmodified":1566590908,
     "wof:name":"Mahumwe",
     "wof:parent_id":1108693149,
     "wof:placetype":"locality",

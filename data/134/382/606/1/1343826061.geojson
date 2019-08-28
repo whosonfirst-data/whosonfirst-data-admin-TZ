@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"31.24667,-8.07,31.28667,-8.03",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nkana"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343826061,
-    "wof:lastmodified":1564188066,
+    "wof:lastmodified":1566590331,
     "wof:name":"Nkana",
     "wof:parent_id":1108693055,
     "wof:placetype":"locality",

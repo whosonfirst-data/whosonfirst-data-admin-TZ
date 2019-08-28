@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"38.81333,-7.20333,38.85333,-7.16333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mfulu"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226750951,
-    "wof:lastmodified":1537710018,
+    "wof:lastmodified":1566590984,
     "wof:name":"Mfulu",
     "wof:parent_id":421192907,
     "wof:placetype":"locality",

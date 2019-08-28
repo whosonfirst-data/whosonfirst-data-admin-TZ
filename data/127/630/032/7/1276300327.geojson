@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"31.04667,-7.12,31.08667,-7.08",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Milumba"
     ],
     "name:eng_x_variant":[
-        "Mitumba"
-    ],
-    "name:und_x_variant":[
         "Mitumba"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1276300327,
-    "wof:lastmodified":1537710017,
+    "wof:lastmodified":1566590543,
     "wof:name":"Milumba",
     "wof:parent_id":1108693151,
     "wof:placetype":"locality",

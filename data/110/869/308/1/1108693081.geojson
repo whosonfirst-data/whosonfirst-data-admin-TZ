@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-4.02267,
     "lbl:longitude":32.218276,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Shinyanga",
     "meso:diss_me":"1704",
     "meso:gadm_admin":"Kahama",
@@ -31,6 +33,7 @@
     "mps:longitude":32.218276,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kahama"
     ],
@@ -47,9 +50,9 @@
         "Kahama"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-25",
+    "src:population_date":"2002-08-25",
     "statoids:area_km":"9461",
     "statoids:as_of_date":"2002-08-25",
     "statoids:capital":"Kahama Mjini",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1108693081,
-    "wof:lastmodified":1564188603,
+    "wof:lastmodified":1566590671,
     "wof:name":"Kahama",
     "wof:parent_id":85679657,
     "wof:placetype":"county",

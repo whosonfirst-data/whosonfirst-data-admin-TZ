@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"29.98024,-6.46332,30.02024,-6.42332",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Msomsoko"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360308299,
-    "wof:lastmodified":1537710012,
+    "wof:lastmodified":1566590767,
     "wof:name":"Msomsoko",
     "wof:parent_id":1108693065,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"36.06218,-7.28005,36.10218,-7.24005",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mwanzaga"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1242577885,
-    "wof:lastmodified":1537710008,
+    "wof:lastmodified":1566590877,
     "wof:name":"Mwanzaga",
     "wof:parent_id":421187959,
     "wof:placetype":"locality",

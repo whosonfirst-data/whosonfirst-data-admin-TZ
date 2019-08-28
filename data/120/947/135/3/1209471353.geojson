@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.26333,-5.95333,39.30333,-5.91333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632227
@@ -36,7 +40,7 @@
         "gn:id":153325
     },
     "wof:country":"TZ",
-    "wof:geomhash":"39894c8e122d8271e7c7477c71c6bff3",
+    "wof:geomhash":"1fe05f2eec883498eac0b318f3fb319b",
     "wof:hierarchy":[
         {
             "country_id":85632227,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209471353,
-    "wof:lastmodified":1536286071,
+    "wof:lastmodified":1566590581,
     "wof:name":"Mnazi Mmoja",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     39.28333,
-    -5.9333300000000015,
+    -5.93333,
     39.28333,
-    -5.9333300000000015
+    -5.93333
 ],
   "geometry": {"coordinates":[39.28333,-5.93333],"type":"Point"}
 }

@@ -10,8 +10,12 @@
     "geom:latitude":-2.15,
     "geom:longitude":33.45,
     "iso:country":"TZ",
+    "lbl:bbox":"33.43,-2.17,33.47,-2.13",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Kibara"
@@ -19,7 +23,7 @@
     "name:swe_x_preferred":[
         "Kibara"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kibarra"
     ],
     "qs:gn_country":"TZ",
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":158016,
         "gp:id":1444632,
-        "qs:id":122562
+        "qs_pg:id":122562
     },
     "wof:country":"TZ",
     "wof:created":1459008710,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":421166995,
-    "wof:lastmodified":1564188818,
+    "wof:lastmodified":1566590806,
     "wof:name":"Kibara",
     "wof:parent_id":421187953,
     "wof:placetype":"locality",

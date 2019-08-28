@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"36.04667,-6.30333,36.08667,-6.26333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226547429,
-    "wof:lastmodified":1536994752,
+    "wof:lastmodified":1566591049,
     "wof:name":"Manyeche",
     "wof:parent_id":1108692897,
     "wof:placetype":"locality",

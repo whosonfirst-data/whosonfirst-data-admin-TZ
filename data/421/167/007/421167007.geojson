@@ -10,10 +10,14 @@
     "geom:latitude":-4.26667,
     "geom:longitude":35.85,
     "iso:country":"TZ",
+    "lbl:bbox":"35.83,-4.28667,35.87,-4.24667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gwanzave"
     ],
     "qs:gn_country":"TZ",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":159951,
         "gp:id":1443553,
-        "qs:id":122594
+        "qs_pg:id":122594
     },
     "wof:country":"TZ",
     "wof:created":1459008711,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421167007,
-    "wof:lastmodified":1505340583,
+    "wof:lastmodified":1566590809,
     "wof:name":"Galappo",
     "wof:parent_id":1108693123,
     "wof:placetype":"locality",

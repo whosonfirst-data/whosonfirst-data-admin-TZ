@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"35.81333,-4.37,35.85333,-4.33",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Kikore"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209527149,
-    "wof:lastmodified":1564188422,
+    "wof:lastmodified":1566590569,
     "wof:name":"Kikore",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",

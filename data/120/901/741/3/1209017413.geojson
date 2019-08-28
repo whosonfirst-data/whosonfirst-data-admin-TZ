@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.74498,-8.01845,39.78498,-7.97845",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kua"
     ],
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209017413,
-    "wof:lastmodified":1537710073,
+    "wof:lastmodified":1566590559,
     "wof:name":"Kua",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",

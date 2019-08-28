@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.29667,-6.20333,39.33667,-6.16333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632227
@@ -36,7 +40,7 @@
         "gn:id":157549
     },
     "wof:country":"TZ",
-    "wof:geomhash":"88b72a2aa54b29ca690c1392b78ad5b3",
+    "wof:geomhash":"664df4868420d3ac17b038a71445ca43",
     "wof:hierarchy":[
         {
             "country_id":85632227,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209288499,
-    "wof:lastmodified":1536291776,
+    "wof:lastmodified":1566590614,
     "wof:name":"Kikozi",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     39.31667,
-    -6.1833300000000015,
+    -6.18333,
     39.31667,
-    -6.1833300000000015
+    -6.18333
 ],
   "geometry": {"coordinates":[39.31667,-6.18333],"type":"Point"}
 }

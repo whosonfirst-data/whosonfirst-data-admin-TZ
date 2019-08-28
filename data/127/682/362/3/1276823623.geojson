@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"35.58,-3.67,35.62,-3.63",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u06a9\u0627\u0646\u0627\u0633\u0627\u06cc"
     ],
@@ -34,7 +38,6 @@
         "Kansay"
     ],
     "name:und_x_variant":[
-        "Kansay",
         "Konsay"
     ],
     "src:geom":"geonames",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1276823623,
-    "wof:lastmodified":1564188343,
+    "wof:lastmodified":1566590524,
     "wof:name":"Konsay",
     "wof:parent_id":421187711,
     "wof:placetype":"locality",

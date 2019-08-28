@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.19667,-5.98667,39.23667,-5.94667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276502977,
-    "wof:lastmodified":1537046942,
+    "wof:lastmodified":1566590512,
     "wof:name":"Mbaleni",
     "wof:parent_id":421194823,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"34.74667,-4.27,34.78667,-4.23",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243040419,
-    "wof:lastmodified":1536893657,
+    "wof:lastmodified":1566590904,
     "wof:name":"Nkalakala",
     "wof:parent_id":1108693031,
     "wof:placetype":"locality",

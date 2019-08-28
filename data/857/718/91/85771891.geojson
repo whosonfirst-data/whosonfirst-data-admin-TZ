@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9321906.078667,
+    "geom:area_square_m":0.0,
     "geom:bbox":"39.283351,-6.808258,39.283351,-6.808258",
     "geom:latitude":-6.808258,
     "geom:longitude":39.283351,
-    "gn:gn_country":"TZ",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"TZ",
+    "gn:fcode":"PPLX",
     "gn:latitude":-6.79882,
     "gn:longitude":39.2872,
+    "gn:population":0,
     "iso:country":"TZ",
+    "lbl:bbox":"39.278351,-6.813258,39.288351,-6.803258",
     "lbl:latitude":-6.808258,
     "lbl:longitude":39.283351,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-6.8019,
     "mps:longitude":39.287512,
     "mz:hierarchy_label":0,
@@ -49,11 +51,8 @@
     "name:und_x_colloquial":[
         "Daar es Salaam"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "D\u00e5r es Sal\u00e5m"
-    ],
-    "name:unk_x_variant":[
-        "Sea View"
     ],
     "qs:gn_adm0_cc":"TZ",
     "qs:gn_fcode":"PPLX",
@@ -103,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":99,
     "wof:belongsto":[
         85679675,
@@ -115,7 +114,6 @@
     "wof:concordances":{
         "gn:id":150173,
         "gp:id":1449302,
-        "qs:id":238643,
         "qs_pg:id":238643
     },
     "wof:country":"TZ",
@@ -134,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379470,
+    "wof:lastmodified":1566590368,
     "wof:name":"Sea View",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

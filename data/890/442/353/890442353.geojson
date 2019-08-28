@@ -11,10 +11,14 @@
     "geom:longitude":33.53333,
     "gn:country":"TZ",
     "gn:fcode":"PPL",
-    "gn:pop":21342,
+    "gn:population":21342,
     "iso:country":"TZ",
+    "lbl:bbox":"33.51333,-9.18667,33.55333,-9.14667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Kiwira"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":156627,
         "gp:id":1447555,
-        "qs:id":524129,
+        "qs_pg:id":524129,
         "wd:id":"Q13123586",
         "wk:page":"Kiwira"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890442353,
-    "wof:lastmodified":1563283948,
+    "wof:lastmodified":1566590844,
     "wof:name":"Kiwira",
     "wof:parent_id":1108693009,
     "wof:placetype":"locality",

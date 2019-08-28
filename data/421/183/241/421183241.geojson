@@ -10,8 +10,12 @@
     "geom:latitude":-9.58333,
     "geom:longitude":33.85,
     "iso:country":"TZ",
+    "lbl:bbox":"33.83,-9.60333,33.87,-9.56333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Kyela"
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":156111,
         "gp:id":1445794,
-        "qs:id":969877,
+        "qs_pg:id":969877,
         "wd:id":"Q995244",
         "wk:page":"Kyela District"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":421183241,
-    "wof:lastmodified":1563283928,
+    "wof:lastmodified":1566590831,
     "wof:name":"Kyela",
     "wof:parent_id":421192909,
     "wof:placetype":"locality",

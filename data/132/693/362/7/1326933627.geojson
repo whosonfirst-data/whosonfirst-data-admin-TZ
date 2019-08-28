@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.40422,-7.25908,39.44422,-7.21908",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kuruti"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326933627,
-    "wof:lastmodified":1537710067,
+    "wof:lastmodified":1566590248,
     "wof:name":"Kuruti",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

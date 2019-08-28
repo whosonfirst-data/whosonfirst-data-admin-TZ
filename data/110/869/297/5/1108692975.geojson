@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-10.791786,
     "lbl:longitude":39.587087,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Mtwara",
     "meso:diss_me":"0904",
     "meso:gadm_admin":"Tandahimba",
@@ -31,6 +33,7 @@
     "mps:longitude":39.587087,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Tandahimba"
     ],
@@ -38,9 +41,9 @@
         "Tandahimba"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-25",
+    "src:population_date":"2002-08-25",
     "statoids:area_km":"1894",
     "statoids:as_of_date":"2002-08-25",
     "statoids:capital":"Tandahimba",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108692975,
-    "wof:lastmodified":1553718226,
+    "wof:lastmodified":1566590701,
     "wof:name":"Tandahimba",
     "wof:parent_id":85679717,
     "wof:placetype":"county",

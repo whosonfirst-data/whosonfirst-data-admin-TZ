@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-6.727135,
     "lbl:longitude":39.143954,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Dar-es-salaam",
     "meso:diss_me":"0701",
     "meso:gadm_admin":"Kinondoni",
@@ -31,6 +33,7 @@
     "mps:longitude":39.143954,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Kinondoni"
@@ -60,9 +63,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-25",
+    "src:population_date":"2002-08-25",
     "statoids:area_km":"527",
     "statoids:as_of_date":"2002-08-25",
     "statoids:capital":"Dar es Salaam",
@@ -83,7 +86,7 @@
         "gn:id":157253,
         "gp:id":56025127,
         "hasc:id":"TZ.DS.KI",
-        "qs:id":220072
+        "qs_pg:id":220072
     },
     "wof:country":"TZ",
     "wof:created":1459010109,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421202229,
-    "wof:lastmodified":1553717562,
+    "wof:lastmodified":1566590812,
     "wof:name":"Kinondoni",
     "wof:parent_id":85679675,
     "wof:placetype":"county",

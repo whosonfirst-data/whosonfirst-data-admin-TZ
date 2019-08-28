@@ -11,8 +11,11 @@
     "geom:longitude":31.61667,
     "gn:country":"TZ",
     "gn:fcode":"PPLA",
-    "gn:pop":89161,
+    "gn:population":89161,
     "iso:country":"TZ",
+    "lbl:bbox":"31.59667,-7.98667,31.63667,-7.94667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -145,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u043c\u0431\u0430\u0432\u0430\u043d\u0491\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zumbayanga"
     ],
     "name:urd_x_preferred":[
@@ -276,7 +279,7 @@
     "wof:concordances":{
         "gn:id":149703,
         "gp:id":1449503,
-        "qs:id":517621,
+        "qs_pg:id":517621,
         "wd:id":"Q115323",
         "wk:page":"Sumbawanga"
     },
@@ -293,7 +296,7 @@
         }
     ],
     "wof:id":890435615,
-    "wof:lastmodified":1563283957,
+    "wof:lastmodified":1566590847,
     "wof:name":"Sumbawanga",
     "wof:parent_id":1108693057,
     "wof:placetype":"locality",

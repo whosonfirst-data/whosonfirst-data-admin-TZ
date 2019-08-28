@@ -10,8 +10,12 @@
     "geom:latitude":-7.51667,
     "geom:longitude":31.05,
     "iso:country":"TZ",
+    "lbl:bbox":"31.03,-7.53667,31.07,-7.49667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":151986,
         "gp:id":1448299,
-        "qs:id":122506
+        "qs_pg:id":122506
     },
     "wof:country":"TZ",
     "wof:created":1459009181,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421178415,
-    "wof:lastmodified":1505340636,
+    "wof:lastmodified":1566590832,
     "wof:name":"Namanyere",
     "wof:parent_id":1108693055,
     "wof:placetype":"locality",

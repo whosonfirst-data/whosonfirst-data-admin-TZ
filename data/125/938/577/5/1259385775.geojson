@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"38.93041,-7.15172,38.97041,-7.11172",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Majohi"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259385775,
-    "wof:lastmodified":1537710071,
+    "wof:lastmodified":1566590935,
     "wof:name":"Majohi",
     "wof:parent_id":421192907,
     "wof:placetype":"locality",

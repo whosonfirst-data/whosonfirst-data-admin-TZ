@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"36.28,-6.37,36.32,-6.33",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310017451,
-    "wof:lastmodified":1536624054,
+    "wof:lastmodified":1566590732,
     "wof:name":"Msagali",
     "wof:parent_id":1108692893,
     "wof:placetype":"locality",

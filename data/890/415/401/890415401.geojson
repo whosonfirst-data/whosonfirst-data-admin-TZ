@@ -11,10 +11,14 @@
     "geom:longitude":39.33333,
     "gn:country":"TZ",
     "gn:fcode":"PPL",
-    "gn:pop":25145,
+    "gn:population":25145,
     "iso:country":"TZ",
+    "lbl:bbox":"39.31333,-10.92,39.35333,-10.88",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ell_x_preferred":[
         "\u039d\u03b5\u03bf\u03c5\u03ac\u03bb\u03b1"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":878223,
         "gp:id":1448503,
-        "qs:id":129841,
+        "qs_pg:id":129841,
         "wd:id":"Q7016553",
         "wk:page":"Newala District"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890415401,
-    "wof:lastmodified":1563283941,
+    "wof:lastmodified":1566590842,
     "wof:name":"Luchingu",
     "wof:parent_id":1108692971,
     "wof:placetype":"locality",

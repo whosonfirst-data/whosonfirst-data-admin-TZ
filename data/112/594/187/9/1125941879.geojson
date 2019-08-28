@@ -9,15 +9,18 @@
     "geom:bbox":"30.39111,-5.10361,30.39111,-5.10361",
     "geom:latitude":-5.10361,
     "geom:longitude":30.39111,
-    "gn:gn_country":"TZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":24650,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
     "gn:population":24650,
     "iso:country":"TZ",
+    "lbl:bbox":"30.37111,-5.12361,30.41111,-5.08361",
     "lbl:latitude":-5.10361,
     "lbl:longitude":30.39111,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u064a\u0648\u0641\u064a\u0646\u0632\u0627"
@@ -55,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u043c\u0431\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kimalapamba"
     ],
     "qs_pg:aaroncc":"TZ",
@@ -70,7 +73,7 @@
     "qs_pg:qs_id":67394,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125941879,
-    "wof:lastmodified":1563283959,
+    "wof:lastmodified":1566590848,
     "wof:name":"Uvinza",
     "wof:parent_id":1108693065,
     "wof:placetype":"locality",

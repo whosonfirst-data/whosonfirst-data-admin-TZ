@@ -10,6 +10,9 @@
     "geom:latitude":-6.81258,
     "geom:longitude":39.274749,
     "iso:country":"TZ",
+    "lbl:bbox":"39.254749,-6.83258,39.294749,-6.79258",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":4.0,
@@ -362,7 +365,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0440-\u0435\u0441-\u0421\u0430\u043b\u0430\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u0101r es Sal\u0101m"
     ],
     "name:urd_x_preferred":[
@@ -528,9 +531,11 @@
     "wof:concordances":{
         "gn:id":160263,
         "gp:id":1443415,
-        "qs:id":1117041,
         "qs_pg:id":526367,
         "wd:id":"Q1960"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1117041
     },
     "wof:country":"TZ",
     "wof:created":1459009637,
@@ -545,7 +550,7 @@
         }
     ],
     "wof:id":421189813,
-    "wof:lastmodified":1563283902,
+    "wof:lastmodified":1566590819,
     "wof:name":"Dar es Salaam",
     "wof:parent_id":1108692955,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"31.08694,-1.73167,31.12694,-1.69167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343327271,
-    "wof:lastmodified":1536939346,
+    "wof:lastmodified":1566590340,
     "wof:name":"Nyakayanja",
     "wof:parent_id":1108693085,
     "wof:placetype":"locality",

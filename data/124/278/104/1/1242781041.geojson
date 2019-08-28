@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.40906,-7.22084,39.44906,-7.18084",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0638\u0629"
     ],
@@ -132,9 +136,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0437\u0430"
     ],
-    "name:und_x_variant":[
-        "Bosa"
-    ],
     "name:uzb_x_preferred":[
         "Bo\u02bbza"
     ],
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":1242781041,
-    "wof:lastmodified":1564188960,
+    "wof:lastmodified":1566590916,
     "wof:name":"Boza",
     "wof:parent_id":421183841,
     "wof:placetype":"locality",

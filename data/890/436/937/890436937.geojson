@@ -11,10 +11,14 @@
     "geom:longitude":34.58333,
     "gn:country":"TZ",
     "gn:fcode":"PPL",
-    "gn:pop":8393,
+    "gn:population":8393,
     "iso:country":"TZ",
+    "lbl:bbox":"34.56333,-10.48667,34.60333,-10.44667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Manda"
     ],
@@ -60,7 +64,7 @@
     "name:tur_x_preferred":[
         "Manda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bongo"
     ],
     "qs:name":"Manda",
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":878087,
         "gp:id":1446459,
-        "qs:id":1029284,
+        "qs_pg:id":1029284,
         "wk:page":"Manda"
     },
     "wof:country":"TZ",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":890436937,
-    "wof:lastmodified":1564188837,
+    "wof:lastmodified":1566590843,
     "wof:name":"Manda",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

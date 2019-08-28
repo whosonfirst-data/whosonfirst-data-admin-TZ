@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.29667,-6.83667,39.33667,-6.79667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039a\u03b9\u03b3\u03ba\u03b1\u03bc\u03c0\u03cc\u03bd\u03b9"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1310470543,
-    "wof:lastmodified":1564188642,
+    "wof:lastmodified":1566590718,
     "wof:name":"Kigamboni",
     "wof:parent_id":421198913,
     "wof:placetype":"locality",

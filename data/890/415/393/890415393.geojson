@@ -11,10 +11,14 @@
     "geom:longitude":39.63333,
     "gn:country":"TZ",
     "gn:fcode":"PPL",
-    "gn:pop":17041,
+    "gn:population":17041,
     "iso:country":"TZ",
+    "lbl:bbox":"39.61333,-10.77,39.65333,-10.73",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ell_x_preferred":[
         "\u03a4\u03b1\u03bd\u03c4\u03b1\u03c7\u03af\u03bc\u03c0\u03b1"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":877391,
         "gp:id":1446153,
-        "qs:id":129808,
+        "qs_pg:id":129808,
         "wd:id":"Q7682403",
         "wk:page":"Tandahimba District"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890415393,
-    "wof:lastmodified":1563283942,
+    "wof:lastmodified":1566590842,
     "wof:name":"Tandahimba",
     "wof:parent_id":1108692975,
     "wof:placetype":"locality",

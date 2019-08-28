@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-3.331011,
     "lbl:longitude":30.905271,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kigoma",
     "meso:diss_me":"1607",
     "meso:gadm_admin":"Kakonko",
@@ -31,6 +33,7 @@
     "mps:longitude":30.905271,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kakonko"
     ],
@@ -38,7 +41,7 @@
         "Kakonko"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632227,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1108693069,
-    "wof:lastmodified":1555047729,
+    "wof:lastmodified":1566590673,
     "wof:name":"Kakonko",
     "wof:parent_id":85679669,
     "wof:placetype":"county",

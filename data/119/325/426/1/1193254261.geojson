@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"38.11333,-5.87,38.15333,-5.83",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1193254261,
-    "wof:lastmodified":1536365477,
+    "wof:lastmodified":1566590629,
     "wof:name":"Komnazi",
     "wof:parent_id":1108692923,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.18,-6.00333,39.22,-5.96333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632227
@@ -36,7 +40,7 @@
         "gn:id":154226
     },
     "wof:country":"TZ",
-    "wof:geomhash":"0cd79caa7560e240c214c8dccca6943f",
+    "wof:geomhash":"79df969259e5a48bdd6060a317766186",
     "wof:hierarchy":[
         {
             "country_id":85632227,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209573951,
-    "wof:lastmodified":1536282997,
+    "wof:lastmodified":1566590588,
     "wof:name":"Mchangani",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     39.2,
-    -5.9833300000000005,
+    -5.98333,
     39.2,
-    -5.9833300000000005
+    -5.98333
 ],
   "geometry": {"coordinates":[39.2,-5.98333],"type":"Point"}
 }

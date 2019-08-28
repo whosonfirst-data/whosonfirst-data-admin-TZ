@@ -11,8 +11,11 @@
     "geom:longitude":38.91667,
     "gn:country":"TZ",
     "gn:fcode":"PPLA",
-    "gn:pop":23651,
+    "gn:population":23651,
     "iso:country":"TZ",
+    "lbl:bbox":"38.89667,-6.78667,38.93667,-6.74667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -201,7 +204,7 @@
     "wof:concordances":{
         "gn:id":158027,
         "gp:id":56122478,
-        "qs:id":524797,
+        "qs_pg:id":524797,
         "wd:id":"Q195492",
         "wk:page":"Kibaha"
     },
@@ -218,7 +221,7 @@
         }
     ],
     "wof:id":890438267,
-    "wof:lastmodified":1563283945,
+    "wof:lastmodified":1566590843,
     "wof:name":"Kibaha",
     "wof:parent_id":1108692953,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"38.96988,-7.95898,39.00988,-7.91898",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Umwo"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310613877,
-    "wof:lastmodified":1537710072,
+    "wof:lastmodified":1566590748,
     "wof:name":"Umwo",
     "wof:parent_id":421182255,
     "wof:placetype":"locality",

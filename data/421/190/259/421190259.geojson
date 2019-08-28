@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-5.105592,
     "lbl:longitude":39.77471,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kaskazini Pemba",
     "meso:diss_me":"5401",
     "meso:gadm_admin":"Wete",
@@ -31,6 +33,7 @@
     "mps:longitude":39.77471,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Wete"
@@ -70,9 +73,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-25",
+    "src:population_date":"2002-08-25",
     "statoids:area_km":"574",
     "statoids:as_of_date":"2002-08-25",
     "statoids:capital":"Wete",
@@ -93,7 +96,7 @@
         "gn:id":148839,
         "gp:id":56025214,
         "hasc:id":"TZ.PN.WE",
-        "qs:id":1119140,
+        "qs_pg:id":1119140,
         "wd:id":"Q7990058",
         "wk:page":"Wete District"
     },
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421190259,
-    "wof:lastmodified":1561775625,
+    "wof:lastmodified":1566590827,
     "wof:name":"Wete",
     "wof:parent_id":85679683,
     "wof:placetype":"county",

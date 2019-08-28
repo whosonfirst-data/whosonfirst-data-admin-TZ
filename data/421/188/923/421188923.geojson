@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-5.126702,
     "lbl:longitude":39.016284,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tanga",
     "meso:diss_me":"0404",
     "meso:gadm_admin":"Tanga",
@@ -31,6 +33,7 @@
     "mps:longitude":39.016284,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:als_x_preferred":[
         "Tanga"
@@ -102,7 +105,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043d\u0433\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tanga District"
     ],
     "name:vie_x_preferred":[
@@ -130,9 +133,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-25",
+    "src:population_date":"2002-08-25",
     "statoids:area_km":"474",
     "statoids:as_of_date":"2002-08-25",
     "statoids:capital":"Tanga",
@@ -154,7 +157,7 @@
         "gn:id":149601,
         "gp:id":56025206,
         "hasc:id":"TZ.TN.TA",
-        "qs:id":1105192
+        "qs_pg:id":1105192
     },
     "wof:country":"TZ",
     "wof:created":1459009588,
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":421188923,
-    "wof:lastmodified":1564188823,
+    "wof:lastmodified":1566590819,
     "wof:name":"Tanga",
     "wof:parent_id":85679747,
     "wof:placetype":"county",

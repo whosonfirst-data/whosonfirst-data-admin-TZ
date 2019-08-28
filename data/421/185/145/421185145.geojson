@@ -10,8 +10,11 @@
     "geom:latitude":-6.85,
     "geom:longitude":39.28333,
     "iso:country":"TZ",
+    "lbl:bbox":"39.27833,-6.855,39.28833,-6.845",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Kurasini"
@@ -67,7 +70,7 @@
     "wof:concordances":{
         "gn:id":156381,
         "gp:id":1445623,
-        "qs:id":1018642,
+        "qs_pg:id":1018642,
         "wd:id":"Q3817430",
         "wk:page":"Kurasini"
     },
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421185145,
-    "wof:lastmodified":1563283939,
+    "wof:lastmodified":1566590840,
     "wof:name":"Kurasini",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

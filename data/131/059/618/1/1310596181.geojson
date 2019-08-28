@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"33.41333,-7.38667,33.45333,-7.34667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Igululilo",
         "Ngululiro"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310596181,
-    "wof:lastmodified":1537710004,
+    "wof:lastmodified":1566590750,
     "wof:name":"Ngululiro",
     "wof:parent_id":1108693005,
     "wof:placetype":"locality",

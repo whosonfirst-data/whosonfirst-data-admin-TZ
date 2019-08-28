@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-5.947678,
     "lbl:longitude":39.283061,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Zanzibar North",
     "meso:name_local":"Kaskazini-Unguja",
     "mps:latitude":-5.949701,
@@ -152,7 +153,7 @@
         "Norra Zanzibar"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0ba9\u0bcd\u0ba9\u0b9c\u0bbf\u0baa\u0bcd\u0baa\u0bb0\u0bcd  \u0ba8\u0bcb\u0bb0\u0bcd\u0ba4\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0b9a\u0ba9\u0bcd\u0ba9\u0b9c\u0bbf\u0baa\u0bcd\u0baa\u0bb0\u0bcd \u0ba8\u0bcb\u0bb0\u0bcd\u0ba4\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c3e\u0c02\u0c1c\u0c3f\u0c2c\u0c3e\u0c30\u0c4d \u0c28\u0c3e\u0c30\u0c4d\u0c24\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -168,12 +169,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0438\u0439 \u0417\u0430\u043d\u0437\u0456\u0431\u0430\u0440"
-    ],
-    "name:und_x_variant":[
-        "Zanzibar North"
-    ],
-    "name:unk_x_variant":[
-        "Zanzibar North"
     ],
     "name:urd_x_preferred":[
         "\u0632\u0627\u0646\u0632\u06cc\u0628\u0631 \u0646\u0627\u0631\u062a\u06be \u0631\u06cc\u062c\u0646"
@@ -262,9 +257,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-26",
+    "src:population_date":"2012-08-26",
     "statoids:area_km":"470",
     "statoids:area_mi":"181",
     "statoids:as_of_date":"2012-08-26",
@@ -289,7 +284,7 @@
         "gp:id":2347373,
         "hasc:id":"TZ.ZN",
         "iso:id":"TZ-07",
-        "qs:id":221188,
+        "qs_pg:id":221188,
         "unlc:id":"TZ-07",
         "wd:id":"Q147116",
         "wk:page":"Unguja North Region"
@@ -312,11 +307,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565737846,
+    "wof:lastmodified":1566590381,
     "wof:name":"Kaskazini-Unguja",
     "wof:parent_id":85632227,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":187455,
     "wof:population_rank":9,

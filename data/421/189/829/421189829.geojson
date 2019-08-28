@@ -10,8 +10,12 @@
     "geom:latitude":-3.339039,
     "geom:longitude":37.342185,
     "iso:country":"TZ",
+    "lbl:bbox":"37.322185,-3.359039,37.362185,-3.319039",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0648\u0634\u064a"
@@ -198,7 +202,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1447577,
-        "qs:id":1117114,
+        "qs_pg:id":1117114,
         "wd:id":"Q271733"
     },
     "wof:country":"TZ",
@@ -214,7 +218,7 @@
         }
     ],
     "wof:id":421189829,
-    "wof:lastmodified":1563283897,
+    "wof:lastmodified":1566590818,
     "wof:name":"Moshi",
     "wof:parent_id":1108692915,
     "wof:placetype":"locality",

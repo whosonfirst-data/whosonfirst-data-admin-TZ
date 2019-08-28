@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"36.29371,-7.1694,36.33371,-7.1294",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mpaka"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1327031537,
-    "wof:lastmodified":1564187964,
+    "wof:lastmodified":1566590269,
     "wof:name":"Mpaka",
     "wof:parent_id":1108692893,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"36.98,-3.07,37.02,-3.03",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310427615,
-    "wof:lastmodified":1537028187,
+    "wof:lastmodified":1566590735,
     "wof:name":"Engare Nairobi",
     "wof:parent_id":1108692917,
     "wof:placetype":"locality",

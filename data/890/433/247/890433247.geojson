@@ -11,10 +11,14 @@
     "geom:longitude":39.68333,
     "gn:country":"TZ",
     "gn:fcode":"PPL",
-    "gn:pop":2472,
+    "gn:population":2472,
     "iso:country":"TZ",
+    "lbl:bbox":"39.66333,-5.42,39.70333,-5.38",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Uwelini",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":149039,
         "gp:id":1447340,
-        "qs:id":122440
+        "qs_pg:id":122440
     },
     "wof:country":"TZ",
     "wof:created":1469051972,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890433247,
-    "wof:lastmodified":1505343534,
+    "wof:lastmodified":1566590845,
     "wof:name":"Uwelini",
     "wof:parent_id":1108693175,
     "wof:placetype":"locality",

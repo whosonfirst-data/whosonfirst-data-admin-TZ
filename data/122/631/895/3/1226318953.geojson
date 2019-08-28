@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"33.37672,-4.04237,33.41672,-4.00237",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Choma"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1226318953,
-    "wof:lastmodified":1564189210,
+    "wof:lastmodified":1566591051,
     "wof:name":"Choma",
     "wof:parent_id":1108693037,
     "wof:placetype":"locality",

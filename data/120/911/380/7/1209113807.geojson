@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"36.04667,-4.85333,36.08667,-4.81333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u1266\u1295\u130b"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1209113807,
-    "wof:lastmodified":1564188479,
+    "wof:lastmodified":1566590600,
     "wof:name":"Bonga",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":34.58333,
     "gn:country":"TZ",
     "gn:fcode":"PPL",
-    "gn:pop":18870,
+    "gn:population":18870,
     "iso:country":"TZ",
+    "lbl:bbox":"34.56333,-8.92,34.60333,-8.88",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0418\u043b\u0435\u043c\u0431\u0443\u043b\u0430"
     ],
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":159218,
         "gp:id":1444149,
-        "qs:id":525571,
+        "qs_pg:id":525571,
         "wd:id":"Q10995812",
         "wk:page":"Ilembula"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890442357,
-    "wof:lastmodified":1563283951,
+    "wof:lastmodified":1566590844,
     "wof:name":"Ilembula",
     "wof:parent_id":1108693135,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.25894,-8.03685,39.29894,-7.99685",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Usimbe"
     ],
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1276994159,
-    "wof:lastmodified":1537709990,
+    "wof:lastmodified":1566590537,
     "wof:name":"Usimbe",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

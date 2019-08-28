@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"33.51959,-9.19099,33.55959,-9.15099",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632227
@@ -36,7 +40,7 @@
         "gn:id":9412883
     },
     "wof:country":"TZ",
-    "wof:geomhash":"e8b3ddb128df1ad71445d88d106087f8",
+    "wof:geomhash":"805b9ff145d1086ee93362f4cf68226f",
     "wof:hierarchy":[
         {
             "country_id":85632227,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209604839,
-    "wof:lastmodified":1536282046,
+    "wof:lastmodified":1566590597,
     "wof:name":"Rungwe",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.539590000000004,
+    33.53959,
     -9.17099,
-    33.539590000000004,
+    33.53959,
     -9.17099
 ],
   "geometry": {"coordinates":[33.53959,-9.17099],"type":"Point"}

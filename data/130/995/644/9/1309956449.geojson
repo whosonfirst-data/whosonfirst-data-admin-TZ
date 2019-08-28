@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"31.21333,-7.10333,31.25333,-7.06333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ikuba"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309956449,
-    "wof:lastmodified":1537710050,
+    "wof:lastmodified":1566590794,
     "wof:name":"Ikuba",
     "wof:parent_id":1108693151,
     "wof:placetype":"locality",

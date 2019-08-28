@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"36.01333,-6.15333,36.05333,-6.11333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Buigiri"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1293304233,
-    "wof:lastmodified":1564188146,
+    "wof:lastmodified":1566590412,
     "wof:name":"Buigiri",
     "wof:parent_id":1108692897,
     "wof:placetype":"locality",

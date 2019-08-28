@@ -10,8 +10,12 @@
     "geom:latitude":-1.39972,
     "geom:longitude":31.50028,
     "iso:country":"TZ",
+    "lbl:bbox":"31.48028,-1.41972,31.52028,-1.37972",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fra_x_preferred":[
         "Katogo"
@@ -53,8 +57,10 @@
     "wof:concordances":{
         "gn:id":158160,
         "gp:id":1444541,
-        "qs:id":122567,
         "qs_pg:id":68659
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":122567
     },
     "wof:country":"TZ",
     "wof:created":1459009181,
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":421178419,
-    "wof:lastmodified":1527717725,
+    "wof:lastmodified":1566590832,
     "wof:name":"Katoro",
     "wof:parent_id":1108693087,
     "wof:placetype":"locality",

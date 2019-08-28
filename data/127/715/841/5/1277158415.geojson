@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.11333,-10.73667,39.15333,-10.69667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Majembe",
         "Mjembe"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277158415,
-    "wof:lastmodified":1537710065,
+    "wof:lastmodified":1566590515,
     "wof:name":"Mjembe",
     "wof:parent_id":1108692971,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.47645,-6.49455,39.51645,-6.45455",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Usini",
         "Usine"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343816943,
-    "wof:lastmodified":1537709990,
+    "wof:lastmodified":1566590363,
     "wof:name":"Usine",
     "wof:parent_id":421188197,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.71965,-7.83646,39.75965,-7.79646",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tumbuju"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276348587,
-    "wof:lastmodified":1537710068,
+    "wof:lastmodified":1566590501,
     "wof:name":"Tumbuju",
     "wof:parent_id":1108692951,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"35.28,-9.80333,35.32,-9.76333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Wino"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1259762045,
-    "wof:lastmodified":1564189032,
+    "wof:lastmodified":1566590955,
     "wof:name":"Wino",
     "wof:parent_id":1108692987,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"38.76333,-4.95333,38.80333,-4.91333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zimbili",
         "Zimhali"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344021301,
-    "wof:lastmodified":1537709988,
+    "wof:lastmodified":1566590353,
     "wof:name":"Zimhali",
     "wof:parent_id":1108692929,
     "wof:placetype":"locality",

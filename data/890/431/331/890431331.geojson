@@ -11,10 +11,14 @@
     "geom:longitude":40.33333,
     "gn:country":"TZ",
     "gn:fcode":"PPL",
-    "gn:pop":12507,
+    "gn:population":12507,
     "iso:country":"TZ",
+    "lbl:bbox":"40.31333,-10.42,40.35333,-10.38",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Madimba"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":878141,
         "gp:id":1445896,
-        "qs:id":275801,
+        "qs_pg:id":275801,
         "wk:page":"Madimba"
     },
     "wof:country":"TZ",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890431331,
-    "wof:lastmodified":1564188837,
+    "wof:lastmodified":1566590843,
     "wof:name":"Madimba",
     "wof:parent_id":1108692969,
     "wof:placetype":"locality",

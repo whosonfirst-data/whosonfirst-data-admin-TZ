@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-9.394926,
     "lbl:longitude":34.726869,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "meso:name_local":"Njombe",
     "mps:latitude":-9.377815,
@@ -129,9 +130,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-26",
+    "src:population_date":"2012-08-26",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2012-08-26",
@@ -178,7 +179,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565737844,
+    "wof:lastmodified":1566590376,
     "wof:name":"Njombe",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

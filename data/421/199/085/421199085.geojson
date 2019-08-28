@@ -10,8 +10,12 @@
     "geom:latitude":-6.2,
     "geom:longitude":36.41667,
     "iso:country":"TZ",
+    "lbl:bbox":"36.39667,-6.22,36.43667,-6.18",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Kongwa"
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":156493,
         "gp:id":1445568,
-        "qs:id":189043,
+        "qs_pg:id":189043,
         "wd:id":"Q5318130",
         "wk:page":"Kongwa (Tanzanian ward)"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421199085,
-    "wof:lastmodified":1563283917,
+    "wof:lastmodified":1566590828,
     "wof:name":"Kongwa",
     "wof:parent_id":1108692895,
     "wof:placetype":"locality",

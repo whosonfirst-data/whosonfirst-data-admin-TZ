@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"35.78,-7.52,35.82,-7.48",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Asumani",
         "Ismani"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327437623,
-    "wof:lastmodified":1537710048,
+    "wof:lastmodified":1566590287,
     "wof:name":"Ismani",
     "wof:parent_id":421187959,
     "wof:placetype":"locality",

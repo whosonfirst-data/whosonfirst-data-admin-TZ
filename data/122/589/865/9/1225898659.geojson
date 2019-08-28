@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"37.66333,-4.57,37.70333,-4.53",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ruvu Remiti",
         "Remiti"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225898659,
-    "wof:lastmodified":1537709998,
+    "wof:lastmodified":1566591018,
     "wof:name":"Remiti",
     "wof:parent_id":421178387,
     "wof:placetype":"locality",

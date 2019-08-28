@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-3.333121,
     "lbl:longitude":36.901054,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Arusha",
     "meso:diss_me":"0202",
     "meso:gadm_admin":"Meru",
@@ -31,6 +33,7 @@
     "mps:longitude":36.901054,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041c\u0435\u0440\u0443"
     ],
@@ -104,7 +107,7 @@
         "\u041c\u0435\u0440\u0443"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632227,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1108692905,
-    "wof:lastmodified":1564188621,
+    "wof:lastmodified":1566590699,
     "wof:name":"Meru",
     "wof:parent_id":85679731,
     "wof:placetype":"county",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-6.844396,
     "lbl:longitude":39.197505,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "meso:name_local":"Dar-es-Salaam",
     "mps:latitude":-6.810276,
@@ -158,7 +159,7 @@
         "Dar-es-Salaam"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bbe\u0bb0\u0bcd \u0b8e\u0bb8\u0bcd  \u0bb8\u0bb2\u0bbe\u0bae\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0b9f\u0bbe\u0bb0\u0bcd \u0b8e\u0bb8\u0bcd \u0bb8\u0bb2\u0bbe\u0bae\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c21\u0c3e\u0c30\u0c4d \u0c0e\u0c38\u0c4d \u0c38\u0c32\u0c3e\u0c2e\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -174,9 +175,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u0414\u0430\u0440-\u0435\u0441-\u0421\u0430\u043b\u0430\u043c"
-    ],
-    "name:unk_x_variant":[
-        "Dar es Salaam"
     ],
     "name:urd_x_preferred":[
         "\u062f\u064e\u0631 \u0627\u0633 \u0633\u0644\u0627\u0645 \u0631\u06cc\u062c\u0646"
@@ -262,9 +260,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-26",
+    "src:population_date":"2012-08-26",
     "statoids:area_km":"1,393",
     "statoids:area_mi":"538",
     "statoids:as_of_date":"2012-08-26",
@@ -289,7 +287,7 @@
         "gp:id":2347374,
         "hasc:id":"TZ.DS",
         "iso:id":"TZ-02",
-        "qs:id":1114955,
+        "qs_pg:id":1114955,
         "unlc:id":"TZ-02",
         "wd:id":"Q557539",
         "wk:page":"Dar es Salaam Region"
@@ -312,11 +310,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565737849,
+    "wof:lastmodified":1566590387,
     "wof:name":"Dar-es-Salaam",
     "wof:parent_id":85632227,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":4364541,
     "wof:population_rank":12,

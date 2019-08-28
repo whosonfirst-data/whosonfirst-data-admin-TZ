@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"32.53,-4.95333,32.57,-4.91333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632227
@@ -36,7 +40,7 @@
         "gn:id":159551
     },
     "wof:country":"TZ",
-    "wof:geomhash":"79fcf104c9cd4dd93359b6d19eba158e",
+    "wof:geomhash":"423177533e1f6959a1c9f93f356bcdb9",
     "wof:hierarchy":[
         {
             "country_id":85632227,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209177753,
-    "wof:lastmodified":1536295364,
+    "wof:lastmodified":1566590614,
     "wof:name":"Ibiri",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     32.55,
-    -4.9333300000000015,
+    -4.93333,
     32.55,
-    -4.9333300000000015
+    -4.93333
 ],
   "geometry": {"coordinates":[32.55,-4.93333],"type":"Point"}
 }

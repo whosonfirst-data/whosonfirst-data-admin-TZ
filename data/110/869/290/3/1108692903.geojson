@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-3.435006,
     "lbl:longitude":36.185679,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Arusha",
     "meso:diss_me":"0201",
     "meso:gadm_admin":"Monduli",
@@ -31,6 +33,7 @@
     "mps:longitude":36.185679,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Monduli District"
     ],
@@ -62,9 +65,9 @@
         "Monduli"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-25",
+    "src:population_date":"2002-08-25",
     "statoids:area_km":"14070",
     "statoids:as_of_date":"2002-08-25",
     "statoids:capital":"Monduli Mjini",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108692903,
-    "wof:lastmodified":1563283685,
+    "wof:lastmodified":1566590699,
     "wof:name":"Monduli",
     "wof:parent_id":85679731,
     "wof:placetype":"county",

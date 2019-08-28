@@ -9,16 +9,19 @@
     "geom:bbox":"39.28333,-6.78333,39.28333,-6.78333",
     "geom:latitude":-6.78333,
     "geom:longitude":39.28333,
-    "gn:gn_country":"TZ",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"TZ",
+    "gn:fcode":"PPLX",
     "gn:latitude":-6.78333,
     "gn:longitude":39.28333,
+    "gn:population":0,
     "iso:country":"TZ",
+    "lbl:bbox":"39.27833,-6.78833,39.28833,-6.77833",
     "lbl:latitude":-6.78333,
     "lbl:longitude":39.28333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Oyster Bay"
@@ -50,9 +53,6 @@
     "name:swe_x_preferred":[
         "Oyster Bay"
     ],
-    "name:unk_x_variant":[
-        "Oyster Bay"
-    ],
     "name:zho_x_preferred":[
         "\u7261\u86ce\u6e7e"
     ],
@@ -77,7 +77,7 @@
     "qs_pg:woe_adm0":23424973,
     "qs_pg:woe_id":1448963,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424973,
     "woe:name_adm0":"Tanzania",
     "woe:name_adm1":"Dar es Salaam",
@@ -92,7 +92,6 @@
     "wof:concordances":{
         "gn:id":150852,
         "gp:id":1448963,
-        "qs:id":983987,
         "qs_pg:id":983987
     },
     "wof:country":"TZ",
@@ -109,7 +108,7 @@
         }
     ],
     "wof:id":1126065331,
-    "wof:lastmodified":1564188850,
+    "wof:lastmodified":1566590854,
     "wof:name":"Oyster Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

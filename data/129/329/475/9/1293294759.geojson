@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"35.89667,-5.67,35.93667,-5.63",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mati"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1293294759,
-    "wof:lastmodified":1564188234,
+    "wof:lastmodified":1566590461,
     "wof:name":"Mati",
     "wof:parent_id":1108692897,
     "wof:placetype":"locality",

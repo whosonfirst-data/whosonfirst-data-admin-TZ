@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"36.48,-10.60333,36.52,-10.56333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jumbe-Salim\u2019s",
         "Salims"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310472933,
-    "wof:lastmodified":1537710062,
+    "wof:lastmodified":1566590718,
     "wof:name":"Salims",
     "wof:parent_id":1108692993,
     "wof:placetype":"locality",

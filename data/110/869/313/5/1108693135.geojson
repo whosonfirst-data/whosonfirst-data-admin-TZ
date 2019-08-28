@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-9.032407,
     "lbl:longitude":34.538322,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Njombe",
     "meso:diss_me":"2202",
     "meso:gadm_admin":"Wanging'ombe",
@@ -31,6 +33,7 @@
     "mps:longitude":34.538322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Wanging'ombe"
     ],
@@ -41,7 +44,7 @@
         "Wanging'ombe"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632227,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1108693135,
-    "wof:lastmodified":1564188614,
+    "wof:lastmodified":1566590688,
     "wof:name":"Wanging'ombe",
     "wof:parent_id":85679765,
     "wof:placetype":"county",

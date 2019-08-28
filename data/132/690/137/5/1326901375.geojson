@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"36.86333,-11.57,36.90333,-11.53",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326901375,
-    "wof:lastmodified":1536949602,
+    "wof:lastmodified":1566590281,
     "wof:name":"Sasawara",
     "wof:parent_id":1108692985,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-11.08333,
     "geom:longitude":34.63333,
     "iso:country":"TZ",
+    "lbl:bbox":"34.61333,-11.10333,34.65333,-11.06333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Liuli"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":878242,
         "gp:id":1445905,
-        "qs:id":430979,
+        "qs_pg:id":430979,
         "wd:id":"Q2309656",
         "wk:page":"Liuli"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421179681,
-    "wof:lastmodified":1563283929,
+    "wof:lastmodified":1566590831,
     "wof:name":"Liuli",
     "wof:parent_id":85679723,
     "wof:placetype":"locality",

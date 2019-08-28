@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.05788,-4.7388,39.09788,-4.6988",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276728481,
-    "wof:lastmodified":1536746190,
+    "wof:lastmodified":1566590483,
     "wof:name":"Kibewani",
     "wof:parent_id":1108692929,
     "wof:placetype":"locality",

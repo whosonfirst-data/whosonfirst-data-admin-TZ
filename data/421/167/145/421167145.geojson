@@ -10,8 +10,12 @@
     "geom:latitude":-10.9,
     "geom:longitude":38.5,
     "iso:country":"TZ",
+    "lbl:bbox":"38.48,-10.92,38.52,-10.88",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":877597,
         "gp:id":1448372,
-        "qs:id":129815
+        "qs_pg:id":129815
     },
     "wof:country":"TZ",
     "wof:created":1459008721,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421167145,
-    "wof:lastmodified":1505340584,
+    "wof:lastmodified":1566590809,
     "wof:name":"Nangomba",
     "wof:parent_id":1108692979,
     "wof:placetype":"locality",

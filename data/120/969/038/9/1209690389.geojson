@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.72557,-5.32793,39.76557,-5.28793",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632227
@@ -36,7 +40,7 @@
         "gn:id":11281894
     },
     "wof:country":"TZ",
-    "wof:geomhash":"d894431bea04c73fe6aee20ed6c8bd5a",
+    "wof:geomhash":"86f14cfdaa58218143325709bf5a6748",
     "wof:hierarchy":[
         {
             "country_id":85632227,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209690389,
-    "wof:lastmodified":1536279263,
+    "wof:lastmodified":1566590598,
     "wof:name":"Kipapo",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     39.74557,
-    -5.307930000000002,
+    -5.30793,
     39.74557,
-    -5.307930000000002
+    -5.30793
 ],
   "geometry": {"coordinates":[39.74557,-5.30793],"type":"Point"}
 }

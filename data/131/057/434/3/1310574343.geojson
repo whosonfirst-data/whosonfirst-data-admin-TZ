@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"32.74667,-3.93667,32.78667,-3.89667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310574343,
-    "wof:lastmodified":1536816903,
+    "wof:lastmodified":1566590753,
     "wof:name":"Isegehe",
     "wof:parent_id":1108693083,
     "wof:placetype":"locality",

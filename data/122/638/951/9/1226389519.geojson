@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"30.78512,-6.85261,30.82512,-6.81261",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ikamba"
     ],
@@ -39,9 +43,6 @@
     ],
     "name:kat_x_preferred":[
         "\u10dc\u10d9\u10d0\u10db\u10d1\u10d0"
-    ],
-    "name:und_x_variant":[
-        "Kamba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1226389519,
-    "wof:lastmodified":1564189209,
+    "wof:lastmodified":1566591051,
     "wof:name":"Nkamba",
     "wof:parent_id":1108693149,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":-6.82052,
     "geom:longitude":30.43887,
     "iso:country":"TZ",
+    "lbl:bbox":"30.41887,-6.84052,30.45887,-6.80052",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -143,7 +146,7 @@
     "wof:concordances":{
         "gn:id":158321,
         "gp:id":1444454,
-        "qs:id":122574,
+        "qs_pg:id":122574,
         "wd:id":"Q15233670"
     },
     "wof:country":"TZ",
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":421166981,
-    "wof:lastmodified":1561775620,
+    "wof:lastmodified":1566590806,
     "wof:name":"Karema",
     "wof:parent_id":1108693149,
     "wof:placetype":"locality",

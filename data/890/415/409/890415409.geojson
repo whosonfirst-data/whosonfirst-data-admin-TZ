@@ -11,10 +11,14 @@
     "geom:longitude":35.05,
     "gn:country":"TZ",
     "gn:fcode":"PPL",
-    "gn:pop":22155,
+    "gn:population":22155,
     "iso:country":"TZ",
+    "lbl:bbox":"35.03,-10.82,35.07,-10.78",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u041a\u0438\u0433\u043e\u043d\u0441\u0435\u0440\u0430"
     ],
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":878400,
         "gp:id":1446825,
-        "qs:id":129844,
+        "qs_pg:id":129844,
         "wd:id":"Q6405967",
         "wk:page":"Kigonsera"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890415409,
-    "wof:lastmodified":1563283942,
+    "wof:lastmodified":1566590842,
     "wof:name":"Kigonsera",
     "wof:parent_id":1108692989,
     "wof:placetype":"locality",

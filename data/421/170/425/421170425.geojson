@@ -11,10 +11,14 @@
     "geom:longitude":39.20264,
     "gn:country":"TZ",
     "gn:fcode":"PPLA",
-    "gn:pop":403658,
+    "gn:population":403658,
     "iso:country":"TZ",
+    "lbl:bbox":"39.18264,-6.185909,39.22264,-6.145909",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Zanzibar"
@@ -326,7 +330,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u043d\u0437\u0456\u0431\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Unguja"
     ],
     "name:urd_x_preferred":[
@@ -396,12 +400,12 @@
     "wof:concordances":{
         "gn:id":148730,
         "gp:id":1450016,
-        "qs:id":567736,
+        "qs_pg:id":567736,
         "wd:id":"Q2222874",
         "wk:page":"Zanzibar"
     },
     "wof:concordances_alt":{
-        "qs:id":516702
+        "qs_pg:id":516702
     },
     "wof:country":"TZ",
     "wof:created":1459008852,
@@ -416,7 +420,7 @@
         }
     ],
     "wof:id":421170425,
-    "wof:lastmodified":1563283923,
+    "wof:lastmodified":1566590829,
     "wof:name":"Zanzibar",
     "wof:parent_id":1108693173,
     "wof:placetype":"locality",

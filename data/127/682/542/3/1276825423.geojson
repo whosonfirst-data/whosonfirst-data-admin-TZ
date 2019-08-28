@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.21333,-5.95333,39.25333,-5.91333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bububu"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276825423,
-    "wof:lastmodified":1564188344,
+    "wof:lastmodified":1566590524,
     "wof:name":"Bububu",
     "wof:parent_id":421194823,
     "wof:placetype":"locality",

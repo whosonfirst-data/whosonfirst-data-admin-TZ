@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-6.102259,
     "lbl:longitude":39.355975,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Kusini Unguja",
     "meso:name_local":"Zanzibar South and Central",
     "mps:latitude":-6.145429,
@@ -130,12 +131,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u043d\u0437\u0456\u0431\u0430\u0440 \u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0438\u0439"
     ],
-    "name:und_x_variant":[
-        "Kusini Unguja"
-    ],
-    "name:unk_x_variant":[
-        "Zanzibar Central/South"
-    ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Zanzibar \u00c0rin/G\u00fa\u00fas\u00f9"
     ],
@@ -214,9 +209,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-26",
+    "src:population_date":"2012-08-26",
     "statoids:area_km":"854",
     "statoids:area_mi":"330",
     "statoids:as_of_date":"2012-08-26",
@@ -240,7 +235,7 @@
         "gp:id":2347372,
         "hasc:id":"TZ.ZS",
         "iso:id":"TZ-11",
-        "qs:id":1135420,
+        "qs_pg:id":1135420,
         "wd:id":"Q643120"
     },
     "wof:country":"TZ",
@@ -261,7 +256,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565737847,
+    "wof:lastmodified":1566590383,
     "wof:name":"Zanzibar South and Central",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-2.78789,
     "lbl:longitude":35.922595,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "meso:name_local":"Arusha",
     "mps:latitude":-2.866445,
@@ -180,9 +181,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0443\u0448\u0430"
     ],
-    "name:unk_x_variant":[
-        "Arusha Region"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0631\u0648\u0634\u0627 \u0631\u06cc\u062c\u0646"
     ],
@@ -273,9 +271,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-26",
+    "src:population_date":"2012-08-26",
     "statoids:area_km":"33,809",
     "statoids:area_mi":"13,054",
     "statoids:as_of_date":"2012-08-26",
@@ -300,7 +298,7 @@
         "gp:id":2347352,
         "hasc:id":"TZ.AS",
         "iso:id":"TZ-01",
-        "qs:id":914054,
+        "qs_pg:id":914054,
         "unlc:id":"TZ-01",
         "wd:id":"Q329261",
         "wk:page":"Arusha Region"
@@ -323,11 +321,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565737844,
+    "wof:lastmodified":1566590375,
     "wof:name":"Arusha",
     "wof:parent_id":85632227,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1694310,
     "wof:population_rank":12,

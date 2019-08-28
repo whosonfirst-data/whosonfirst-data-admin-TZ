@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.09942,-4.74018,39.13942,-4.70018",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344223307,
-    "wof:lastmodified":1536639757,
+    "wof:lastmodified":1566590310,
     "wof:name":"Jikangeni",
     "wof:parent_id":1108692929,
     "wof:placetype":"locality",

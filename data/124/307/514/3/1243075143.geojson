@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"36.3849,-7.21445,36.4249,-7.17445",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fufuko"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243075143,
-    "wof:lastmodified":1537710069,
+    "wof:lastmodified":1566590858,
     "wof:name":"Fufuko",
     "wof:parent_id":1108692893,
     "wof:placetype":"locality",

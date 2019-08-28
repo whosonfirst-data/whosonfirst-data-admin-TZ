@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"29.99972,-4.84139,30.03972,-4.80139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259488119,
-    "wof:lastmodified":1536850998,
+    "wof:lastmodified":1566590946,
     "wof:name":"Mrembe",
     "wof:parent_id":1108693061,
     "wof:placetype":"locality",

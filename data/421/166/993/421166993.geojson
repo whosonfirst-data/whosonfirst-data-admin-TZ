@@ -10,8 +10,12 @@
     "geom:latitude":-4.26667,
     "geom:longitude":34.36667,
     "iso:country":"TZ",
+    "lbl:bbox":"34.34667,-4.28667,34.38667,-4.24667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041a\u0438\u043e\u043c\u0431\u043e\u0438"
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":157198,
         "gp:id":1445140,
-        "qs:id":122554,
+        "qs_pg:id":122554,
         "wd:id":"Q11929863",
         "wk:page":"Kiomboi"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421166993,
-    "wof:lastmodified":1563283877,
+    "wof:lastmodified":1566590806,
     "wof:name":"Kiomboi",
     "wof:parent_id":1108693023,
     "wof:placetype":"locality",

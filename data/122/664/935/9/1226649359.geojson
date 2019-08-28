@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"39.37326,-8.0629,39.41326,-8.0229",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kiechuru"
     ],
     "name:eng_x_variant":[
-        "Kiachuru"
-    ],
-    "name:und_x_variant":[
         "Kiachuru"
     ],
     "src:geom":"geonames",
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1226649359,
-    "wof:lastmodified":1537710040,
+    "wof:lastmodified":1566591038,
     "wof:name":"Kiechuru",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

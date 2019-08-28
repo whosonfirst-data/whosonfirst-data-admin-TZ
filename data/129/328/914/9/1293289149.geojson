@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"32.63,-8.05333,32.67,-8.01333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swa_x_preferred":[
         "Kapalala"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293289149,
-    "wof:lastmodified":1564188245,
+    "wof:lastmodified":1566590469,
     "wof:name":"Kapalala",
     "wof:parent_id":1108693005,
     "wof:placetype":"locality",

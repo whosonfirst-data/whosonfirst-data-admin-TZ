@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"36.83403,-7.07332,36.87403,-7.03332",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Isanga"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226437657,
-    "wof:lastmodified":1564189087,
+    "wof:lastmodified":1566590987,
     "wof:name":"Isanga",
     "wof:parent_id":421204027,
     "wof:placetype":"locality",

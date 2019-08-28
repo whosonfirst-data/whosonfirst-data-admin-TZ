@@ -11,10 +11,14 @@
     "geom:longitude":32.43333,
     "gn:country":"TZ",
     "gn:fcode":"PPL",
-    "gn:pop":27681,
+    "gn:population":27681,
     "iso:country":"TZ",
+    "lbl:bbox":"32.41333,-2.87,32.45333,-2.83",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Geita"
     ],
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":158289,
         "gp:id":1444475,
-        "qs:id":524976,
+        "qs_pg:id":524976,
         "wd:id":"Q1884330",
         "wk:page":"Geita District"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890442547,
-    "wof:lastmodified":1563283952,
+    "wof:lastmodified":1566590845,
     "wof:name":"Kasamwa",
     "wof:parent_id":1108693163,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
+    "lbl:bbox":"35.83,-8.75333,35.87,-8.71333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ngawsi",
         "Mgawsi"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310389157,
-    "wof:lastmodified":1537710018,
+    "wof:lastmodified":1566590721,
     "wof:name":"Mgawsi",
     "wof:parent_id":1108692935,
     "wof:placetype":"locality",

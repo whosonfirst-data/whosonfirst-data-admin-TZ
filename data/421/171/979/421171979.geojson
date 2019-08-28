@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-2.726505,
     "lbl:longitude":35.5373,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Arusha",
     "meso:diss_me":"0205",
     "meso:gadm_admin":"Ngorongoro",
@@ -31,6 +33,7 @@
     "mps:longitude":35.5373,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ngorongoro"
@@ -68,9 +71,6 @@
     "name:swa_x_preferred":[
         "Wilaya ya Ngorongoro"
     ],
-    "name:unk_x_variant":[
-        "Ngorongoro District"
-    ],
     "name:vie_x_preferred":[
         "Ngorongoro"
     ],
@@ -96,9 +96,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-25",
+    "src:population_date":"2002-08-25",
     "statoids:area_km":"13460",
     "statoids:as_of_date":"2002-08-25",
     "statoids:capital":"Ngorongoro",
@@ -119,7 +119,7 @@
         "gn:id":151607,
         "gp:id":56025181,
         "hasc:id":"TZ.AS.NG",
-        "qs:id":1288770,
+        "qs_pg:id":1288770,
         "wd:id":"Q2559572",
         "wk:page":"Ngorongoro District"
     },
@@ -135,7 +135,7 @@
         }
     ],
     "wof:id":421171979,
-    "wof:lastmodified":1563283936,
+    "wof:lastmodified":1566590839,
     "wof:name":"Ngorongoro",
     "wof:parent_id":85679731,
     "wof:placetype":"county",

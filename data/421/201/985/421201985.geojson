@@ -10,6 +10,9 @@
     "geom:latitude":-5.05589,
     "geom:longitude":39.72938,
     "iso:country":"TZ",
+    "lbl:bbox":"39.70938,-5.07589,39.74938,-5.03589",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -74,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0442\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Weti"
     ],
     "name:yor_x_preferred":[
@@ -208,7 +211,7 @@
     "wof:concordances":{
         "gn:id":148842,
         "gp:id":1449982,
-        "qs:id":1353037,
+        "qs_pg:id":1353037,
         "wd:id":"Q1023718",
         "wk:page":"Wete"
     },
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":421201985,
-    "wof:lastmodified":1563283919,
+    "wof:lastmodified":1566590829,
     "wof:name":"Wete",
     "wof:parent_id":421190259,
     "wof:placetype":"locality",

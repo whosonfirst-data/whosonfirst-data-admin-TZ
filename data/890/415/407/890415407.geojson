@@ -11,10 +11,14 @@
     "geom:longitude":39.73333,
     "gn:country":"TZ",
     "gn:fcode":"PPL",
-    "gn:pop":16232,
+    "gn:population":16232,
     "iso:country":"TZ",
+    "lbl:bbox":"39.71333,-10.73667,39.75333,-10.69667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "qs:name":"Kitama",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":878367,
         "gp:id":1448392,
-        "qs:id":129843
+        "qs_pg:id":129843
     },
     "wof:country":"TZ",
     "wof:created":1469051087,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890415407,
-    "wof:lastmodified":1505343426,
+    "wof:lastmodified":1566590842,
     "wof:name":"Kitama",
     "wof:parent_id":1108692969,
     "wof:placetype":"locality",

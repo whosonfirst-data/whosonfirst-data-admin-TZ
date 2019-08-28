@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-10.660068,
     "lbl:longitude":35.648706,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ruvuma",
     "meso:diss_me":"1004",
     "meso:gadm_admin":"Songea Urban",
@@ -31,6 +33,7 @@
     "mps:longitude":35.648706,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Songea Urban"
     ],
@@ -45,9 +48,9 @@
         "Songea Mjini"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-25",
+    "src:population_date":"2002-08-25",
     "statoids:area_km":"394",
     "statoids:as_of_date":"2002-08-25",
     "statoids:capital":"Songea",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108692991,
-    "wof:lastmodified":1561775608,
+    "wof:lastmodified":1566590701,
     "wof:name":"Songea Urban",
     "wof:parent_id":85679723,
     "wof:placetype":"county",

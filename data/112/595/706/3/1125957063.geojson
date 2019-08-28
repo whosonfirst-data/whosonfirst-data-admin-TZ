@@ -9,20 +9,23 @@
     "geom:bbox":"35.3849,-4.52483,35.3849,-4.52483",
     "geom:latitude":-4.52483,
     "geom:longitude":35.3849,
-    "gn:gn_country":"TZ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4943,
+    "gn:country":"TZ",
+    "gn:fcode":"PPL",
     "gn:population":4943,
     "iso:country":"TZ",
+    "lbl:bbox":"35.3649,-4.54483,35.4049,-4.50483",
     "lbl:latitude":-4.52483,
     "lbl:longitude":35.3849,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u039a\u03ac\u03c4\u03b5\u03c2"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ghatesh"
     ],
     "qs_pg:aaroncc":"TZ",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":68664,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1125957063,
-    "wof:lastmodified":1564188843,
+    "wof:lastmodified":1566590849,
     "wof:name":"Katesh",
     "wof:parent_id":421171039,
     "wof:placetype":"locality",

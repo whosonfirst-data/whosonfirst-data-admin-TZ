@@ -10,8 +10,12 @@
     "geom:latitude":-3.33333,
     "geom:longitude":35.66667,
     "iso:country":"TZ",
+    "lbl:bbox":"35.64667,-3.35333,35.68667,-3.31333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Karatu District"
@@ -40,7 +44,7 @@
     "name:spa_x_preferred":[
         "Karatu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kiratu"
     ],
     "name:vie_x_preferred":[
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":158324,
         "gp:id":1444452,
-        "qs:id":1168099,
+        "qs_pg:id":1168099,
         "wd:id":"Q940198",
         "wk:page":"Karatu District"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421192391,
-    "wof:lastmodified":1563283879,
+    "wof:lastmodified":1566590807,
     "wof:name":"Karatu",
     "wof:parent_id":421187711,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":-3.36667,
     "geom:longitude":36.68333,
     "iso:country":"TZ",
+    "lbl:bbox":"36.66333,-3.38667,36.70333,-3.34667",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -200,7 +203,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0443\u0448\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aruscha"
     ],
     "name:urd_x_preferred":[
@@ -347,7 +350,7 @@
     "wof:concordances":{
         "gn:id":161325,
         "gp:id":1442808,
-        "qs:id":492932,
+        "qs_pg:id":492932,
         "wd:id":"Q4301",
         "wk:page":"Arusha"
     },
@@ -364,7 +367,7 @@
         }
     ],
     "wof:id":421181459,
-    "wof:lastmodified":1563283908,
+    "wof:lastmodified":1566590821,
     "wof:name":"Arusha",
     "wof:parent_id":1108692907,
     "wof:placetype":"locality",

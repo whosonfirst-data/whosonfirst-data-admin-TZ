@@ -10,6 +10,9 @@
     "geom:latitude":-2.51222,
     "geom:longitude":30.65583,
     "iso:country":"TZ",
+    "lbl:bbox":"30.63583,-2.53222,30.67583,-2.49222",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -188,7 +191,7 @@
     "wof:concordances":{
         "gn:id":151711,
         "gp:id":1448534,
-        "qs:id":234624,
+        "qs_pg:id":234624,
         "wd:id":"Q4810507",
         "wk:page":"Ngara"
     },
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":421203677,
-    "wof:lastmodified":1563283888,
+    "wof:lastmodified":1566590811,
     "wof:name":"Ngara",
     "wof:parent_id":1108693095,
     "wof:placetype":"locality",

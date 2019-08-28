@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-2.639293,
     "lbl:longitude":36.314656,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Arusha",
     "meso:diss_me":"0207",
     "meso:gadm_admin":"Longido",
@@ -31,6 +33,7 @@
     "mps:longitude":36.314656,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Longido"
     ],
@@ -50,7 +53,7 @@
         "Longido"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632227,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108692911,
-    "wof:lastmodified":1564188619,
+    "wof:lastmodified":1566590698,
     "wof:name":"Longido",
     "wof:parent_id":85679731,
     "wof:placetype":"county",

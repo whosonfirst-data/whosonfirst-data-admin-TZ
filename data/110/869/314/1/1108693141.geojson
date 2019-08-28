@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-9.980815,
     "lbl:longitude":34.804761,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Njombe",
     "meso:diss_me":"2205",
     "meso:gadm_admin":"Ludewa",
@@ -31,6 +33,7 @@
     "mps:longitude":34.804761,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Ludewa"
     ],
@@ -57,9 +60,9 @@
         "Ludewa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-08-25",
+    "src:population_date":"2002-08-25",
     "statoids:area_km":"5597",
     "statoids:as_of_date":"2002-08-25",
     "statoids:capital":"Ludewa",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1108693141,
-    "wof:lastmodified":1561775605,
+    "wof:lastmodified":1566590689,
     "wof:name":"Ludewa",
     "wof:parent_id":85679765,
     "wof:placetype":"county",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-1.941813,
     "lbl:longitude":31.242339,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "meso:name_local":"Kagera",
     "mps:latitude":-1.611986,
@@ -171,7 +172,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u041a\u0430\u0433\u0435\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ziwa Magharibi Region"
     ],
     "name:urd_x_preferred":[
@@ -261,9 +262,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-26",
+    "src:population_date":"2012-08-26",
     "statoids:area_km":"28,388",
     "statoids:area_mi":"10,961",
     "statoids:as_of_date":"2012-08-26",
@@ -287,7 +288,7 @@
         "gp:id":2347370,
         "hasc:id":"TZ.KG",
         "iso:id":"TZ-05",
-        "qs:id":891340,
+        "qs_pg:id":891340,
         "wd:id":"Q309190",
         "wk:page":"Kagera Region"
     },
@@ -309,11 +310,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565737852,
+    "wof:lastmodified":1566590394,
     "wof:name":"Kagera",
     "wof:parent_id":85632227,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":2458023,
     "wof:population_rank":12,

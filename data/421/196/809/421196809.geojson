@@ -10,8 +10,12 @@
     "geom:latitude":-6.45,
     "geom:longitude":38.33333,
     "iso:country":"TZ",
+    "lbl:bbox":"38.31333,-6.47,38.35333,-6.43",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":155743,
         "gp:id":1445973,
-        "qs:id":1298749
+        "qs_pg:id":1298749
     },
     "wof:country":"TZ",
     "wof:created":1459009894,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421196809,
-    "wof:lastmodified":1505340749,
+    "wof:lastmodified":1566590825,
     "wof:name":"Lugoba",
     "wof:parent_id":1108692947,
     "wof:placetype":"locality",
