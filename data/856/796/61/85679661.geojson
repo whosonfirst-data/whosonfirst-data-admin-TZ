@@ -292,6 +292,9 @@
         "wk:page":"Tabora Region"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9ab5a3a6af3e52a4965f9fe0b6bd83f3",
     "wof:hierarchy":[
         {
@@ -309,7 +312,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590380,
+    "wof:lastmodified":1582347583,
     "wof:name":"Tabora",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

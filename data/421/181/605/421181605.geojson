@@ -299,6 +299,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009301,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1112b08dae1640f001ccbfac194d949f",
     "wof:hierarchy":[
         {
@@ -310,7 +313,7 @@
         }
     ],
     "wof:id":421181605,
-    "wof:lastmodified":1566590821,
+    "wof:lastmodified":1582347612,
     "wof:name":"Iringa",
     "wof:parent_id":421198449,
     "wof:placetype":"locality",

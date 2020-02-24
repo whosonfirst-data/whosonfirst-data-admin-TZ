@@ -335,6 +335,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009136,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9b3af3f63762853fb798340b4239a739",
     "wof:hierarchy":[
         {
@@ -346,7 +349,7 @@
         }
     ],
     "wof:id":421177209,
-    "wof:lastmodified":1566590830,
+    "wof:lastmodified":1582347614,
     "wof:name":"Morogoro",
     "wof:parent_id":1108692939,
     "wof:placetype":"locality",

@@ -104,6 +104,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009762,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fb9f2921d9bd0049d0d5de623dff72f5",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421193165,
-    "wof:lastmodified":1566590808,
+    "wof:lastmodified":1582347608,
     "wof:name":"Morogoro",
     "wof:parent_id":85679677,
     "wof:placetype":"county",

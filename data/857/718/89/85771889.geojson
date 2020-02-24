@@ -91,6 +91,9 @@
         "qs:id":983987
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ae1075b9506b31fd65e48dab4453c6d5",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379470,
+    "wof:lastmodified":1582347574,
     "wof:name":"Oyster Bay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

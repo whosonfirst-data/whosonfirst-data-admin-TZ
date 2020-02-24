@@ -297,6 +297,9 @@
         "wk:page":"Pwani Region"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"551ee7d391fa37653617e0b264b78071",
     "wof:hierarchy":[
         {
@@ -314,7 +317,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590389,
+    "wof:lastmodified":1582347587,
     "wof:name":"Pwani",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

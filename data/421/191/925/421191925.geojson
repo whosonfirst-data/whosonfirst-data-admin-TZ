@@ -107,6 +107,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009714,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ac651bf590437bcfa0a27188dac549cd",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421191925,
-    "wof:lastmodified":1566590826,
+    "wof:lastmodified":1582347613,
     "wof:name":"Ilemela",
     "wof:parent_id":85679655,
     "wof:placetype":"county",

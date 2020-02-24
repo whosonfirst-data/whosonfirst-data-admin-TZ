@@ -64,6 +64,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009181,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"566bef6b9976ad351ae8713271d5fcdc",
     "wof:hierarchy":[
         {
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":421178419,
-    "wof:lastmodified":1566590832,
+    "wof:lastmodified":1582347615,
     "wof:name":"Katoro",
     "wof:parent_id":1108693087,
     "wof:placetype":"locality",

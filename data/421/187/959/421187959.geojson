@@ -108,6 +108,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009529,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1cc965c7fce591670a0c43e6f39cff01",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421187959,
-    "wof:lastmodified":1566590817,
+    "wof:lastmodified":1582347611,
     "wof:name":"Iringa Rural",
     "wof:parent_id":85679711,
     "wof:placetype":"county",

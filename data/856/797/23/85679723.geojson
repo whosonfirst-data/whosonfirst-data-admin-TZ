@@ -295,6 +295,9 @@
         "wk:page":"Ruvuma Region"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2ee4470a7cad6c2d729d0a623fcae997",
     "wof:hierarchy":[
         {
@@ -312,7 +315,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590378,
+    "wof:lastmodified":1582347581,
     "wof:name":"Ruvuma",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

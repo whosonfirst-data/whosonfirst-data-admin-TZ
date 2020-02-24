@@ -105,6 +105,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009753,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"656d761bf722ecac4d8c118a619f27bb",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":421192907,
-    "wof:lastmodified":1566590807,
+    "wof:lastmodified":1582347608,
     "wof:name":"Kisarawe",
     "wof:parent_id":85679691,
     "wof:placetype":"county",

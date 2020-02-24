@@ -298,6 +298,9 @@
         "wk:page":"Lindi Region"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0190f8849dc7215314d99bef328a0392",
     "wof:hierarchy":[
         {
@@ -315,7 +318,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590379,
+    "wof:lastmodified":1582347581,
     "wof:name":"Lindi",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

@@ -114,6 +114,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459010122,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"feffa9d2a212d900bc79efcf45825ce3",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421202555,
-    "wof:lastmodified":1566590812,
+    "wof:lastmodified":1582347609,
     "wof:name":"Hai",
     "wof:parent_id":85679737,
     "wof:placetype":"county",

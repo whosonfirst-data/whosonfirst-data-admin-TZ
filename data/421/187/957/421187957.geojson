@@ -108,6 +108,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009529,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4e11fb8b8b0ce47816df69e39c25b494",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421187957,
-    "wof:lastmodified":1566590816,
+    "wof:lastmodified":1582347610,
     "wof:name":"Dodoma Urban",
     "wof:parent_id":85679705,
     "wof:placetype":"county",

@@ -72,6 +72,9 @@
         "qs_pg:id":316927
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"57add2675d9d53095c673605f6094079",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566590368,
+    "wof:lastmodified":1582347574,
     "wof:name":"Temeke",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

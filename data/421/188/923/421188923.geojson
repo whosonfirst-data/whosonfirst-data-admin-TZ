@@ -161,6 +161,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009588,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0721adbba08e099497472925fd384878",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":421188923,
-    "wof:lastmodified":1566590819,
+    "wof:lastmodified":1582347611,
     "wof:name":"Tanga",
     "wof:parent_id":85679747,
     "wof:placetype":"county",

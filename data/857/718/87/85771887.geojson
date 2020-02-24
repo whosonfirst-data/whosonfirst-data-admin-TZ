@@ -72,6 +72,9 @@
         "qs_pg:id":58927
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c64088b4c3061d41c9d1bb1a4d33c8ba",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566590368,
+    "wof:lastmodified":1582347574,
     "wof:name":"Mgulani",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

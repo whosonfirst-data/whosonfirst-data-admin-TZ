@@ -295,6 +295,9 @@
         "wk:page":"Mtwara Region"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"66af9ba853cfab2a4769950757e175d6",
     "wof:hierarchy":[
         {
@@ -312,7 +315,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590373,
+    "wof:lastmodified":1582347578,
     "wof:name":"Mtwara",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

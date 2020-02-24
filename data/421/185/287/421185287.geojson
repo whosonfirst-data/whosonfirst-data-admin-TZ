@@ -296,6 +296,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009438,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9054ba84902ab94c43472e0845ba468c",
     "wof:hierarchy":[
         {
@@ -307,7 +310,7 @@
         }
     ],
     "wof:id":421185287,
-    "wof:lastmodified":1566590840,
+    "wof:lastmodified":1582347618,
     "wof:name":"Tabora",
     "wof:parent_id":1108693045,
     "wof:placetype":"locality",

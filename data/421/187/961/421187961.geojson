@@ -122,6 +122,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009529,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"195a3c65484a21c401e86d8ae1629d63",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421187961,
-    "wof:lastmodified":1566590816,
+    "wof:lastmodified":1582347610,
     "wof:name":"Kilwa",
     "wof:parent_id":85679713,
     "wof:placetype":"county",

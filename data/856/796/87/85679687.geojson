@@ -291,6 +291,9 @@
         "wk:page":"Pemba South Region"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b25950fab0dee87836f1b94ea7b21e3b",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590384,
+    "wof:lastmodified":1582347585,
     "wof:name":"Kusini-Pemba",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

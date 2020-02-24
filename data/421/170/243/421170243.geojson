@@ -113,6 +113,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459008845,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a48f0f241524b3f4f5ca16591af776e8",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421170243,
-    "wof:lastmodified":1566590829,
+    "wof:lastmodified":1582347614,
     "wof:name":"Serengeti",
     "wof:parent_id":85679743,
     "wof:placetype":"county",

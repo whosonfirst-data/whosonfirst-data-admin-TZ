@@ -971,6 +971,11 @@
     },
     "wof:country":"TZ",
     "wof:country_alpha3":"TZA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6",
+        "meso"
+    ],
     "wof:geomhash":"5466bba4e36250e4f7008bd2a3ac1ab2",
     "wof:hierarchy":[
         {
@@ -987,7 +992,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590403,
+    "wof:lastmodified":1582347595,
     "wof:name":"Tanzania",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -90,6 +90,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009537,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"645a28c85cb36fac92cb003d7b6b652e",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421188197,
-    "wof:lastmodified":1566590820,
+    "wof:lastmodified":1582347611,
     "wof:name":"Kusini",
     "wof:parent_id":85679651,
     "wof:placetype":"county",

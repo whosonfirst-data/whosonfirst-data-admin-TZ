@@ -110,6 +110,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009067,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ea024f67e7c9d46c2d7817e75fb1d7fd",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421175441,
-    "wof:lastmodified":1566590822,
+    "wof:lastmodified":1582347612,
     "wof:name":"Tarime",
     "wof:parent_id":85679743,
     "wof:placetype":"county",

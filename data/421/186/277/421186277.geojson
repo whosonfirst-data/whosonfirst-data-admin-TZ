@@ -107,6 +107,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009476,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fdfa959c2c0d472a505d4857f633a52c",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421186277,
-    "wof:lastmodified":1566590820,
+    "wof:lastmodified":1582347612,
     "wof:name":"Manyoni",
     "wof:parent_id":85679727,
     "wof:placetype":"county",

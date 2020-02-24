@@ -287,6 +287,9 @@
         "wd:id":"Q153339"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"77e164a86c3bdab506e1f4036672f918",
     "wof:hierarchy":[
         {
@@ -304,7 +307,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590377,
+    "wof:lastmodified":1582347580,
     "wof:name":"Simiyu",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

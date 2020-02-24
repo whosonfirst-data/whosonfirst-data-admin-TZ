@@ -90,6 +90,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009948,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0f996341c9d74aeecab7d5ef5172effb",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421198449,
-    "wof:lastmodified":1566590823,
+    "wof:lastmodified":1582347612,
     "wof:name":"Iringa Urban",
     "wof:parent_id":85679711,
     "wof:placetype":"county",

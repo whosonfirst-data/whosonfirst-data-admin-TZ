@@ -293,6 +293,9 @@
         "wk:page":"Dar es Salaam Region"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e0c24b3ba8a1e7ac6e83c7bb942f0d2d",
     "wof:hierarchy":[
         {
@@ -310,7 +313,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590387,
+    "wof:lastmodified":1582347586,
     "wof:name":"Dar-es-Salaam",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

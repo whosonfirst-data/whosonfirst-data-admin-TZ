@@ -81,6 +81,9 @@
         "wk:page":"Kinondoni District"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b44c5f6dba0bc62b74b210ab42f9de45",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379470,
+    "wof:lastmodified":1582347575,
     "wof:name":"Kinondoni",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

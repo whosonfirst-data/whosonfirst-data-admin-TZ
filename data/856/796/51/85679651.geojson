@@ -239,6 +239,9 @@
         "wd:id":"Q643120"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9266d35ab778a855736c0ccf468a7a3e",
     "wof:hierarchy":[
         {
@@ -256,7 +259,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590383,
+    "wof:lastmodified":1582347584,
     "wof:name":"Zanzibar South and Central",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

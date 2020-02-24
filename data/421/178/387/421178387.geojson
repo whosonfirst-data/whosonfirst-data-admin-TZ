@@ -105,6 +105,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009180,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b2bf8d00313e28cab603440444bd8dad",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":421178387,
-    "wof:lastmodified":1566590833,
+    "wof:lastmodified":1582347615,
     "wof:name":"Simanjiro",
     "wof:parent_id":85679733,
     "wof:placetype":"county",

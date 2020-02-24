@@ -265,6 +265,9 @@
         "wk:page":"Dodoma Region"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6386ce49909ebb29fc7c63ff00e0cfc9",
     "wof:hierarchy":[
         {
@@ -282,7 +285,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590372,
+    "wof:lastmodified":1582347578,
     "wof:name":"Dodoma",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

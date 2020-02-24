@@ -301,6 +301,9 @@
         "wk:page":"Mwanza Region"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b02bb8a2d98aabd76ff489be810192b0",
     "wof:hierarchy":[
         {
@@ -318,7 +321,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590396,
+    "wof:lastmodified":1582347591,
     "wof:name":"Mwanza",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

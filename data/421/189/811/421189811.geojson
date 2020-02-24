@@ -302,6 +302,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009637,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"31d2606b514e1acd36242f012a24b080",
     "wof:hierarchy":[
         {
@@ -313,7 +316,7 @@
         }
     ],
     "wof:id":421189811,
-    "wof:lastmodified":1566590818,
+    "wof:lastmodified":1582347611,
     "wof:name":"Bukoba",
     "wof:parent_id":1108693097,
     "wof:placetype":"locality",
