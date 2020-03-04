@@ -539,6 +539,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009637,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f3405c7f6c6bd9c4c72edc5a1fa746a0",
     "wof:hierarchy":[
         {
@@ -550,7 +553,7 @@
         }
     ],
     "wof:id":421189813,
-    "wof:lastmodified":1566590819,
+    "wof:lastmodified":1582347611,
     "wof:name":"Dar es Salaam",
     "wof:parent_id":1108692955,
     "wof:placetype":"locality",

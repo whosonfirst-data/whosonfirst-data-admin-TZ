@@ -295,6 +295,9 @@
         "wk:page":"Mbeya Region"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bffd89f059bebd8a1bfe8a01f32b0878",
     "wof:hierarchy":[
         {
@@ -312,7 +315,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590399,
+    "wof:lastmodified":1582347593,
     "wof:name":"Mbeya",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

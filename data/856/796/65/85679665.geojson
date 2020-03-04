@@ -293,6 +293,9 @@
         "wk:page":"Kagera Region"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fec3a1e8a742095749027cbeae75f4e7",
     "wof:hierarchy":[
         {
@@ -310,7 +313,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590394,
+    "wof:lastmodified":1582347590,
     "wof:name":"Kagera",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

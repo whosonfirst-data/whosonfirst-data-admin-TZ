@@ -190,6 +190,9 @@
         "wd:id":"Q4622385"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"86aa5e04f8402eae5c7676a486799eca",
     "wof:hierarchy":[
         {
@@ -207,7 +210,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590369,
+    "wof:lastmodified":1582347576,
     "wof:name":"Geita",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

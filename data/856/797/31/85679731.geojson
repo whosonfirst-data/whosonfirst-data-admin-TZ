@@ -304,6 +304,9 @@
         "wk:page":"Arusha Region"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4c84be27fd86dd7ea8f6666634c90de1",
     "wof:hierarchy":[
         {
@@ -321,7 +324,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590375,
+    "wof:lastmodified":1582347579,
     "wof:name":"Arusha",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

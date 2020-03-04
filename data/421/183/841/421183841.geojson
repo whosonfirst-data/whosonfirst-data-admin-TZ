@@ -90,6 +90,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009389,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2f80091aa3f40ba245c40c79c6c2e0a2",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421183841,
-    "wof:lastmodified":1566590831,
+    "wof:lastmodified":1582347614,
     "wof:name":"Mkuranga",
     "wof:parent_id":85679691,
     "wof:placetype":"county",

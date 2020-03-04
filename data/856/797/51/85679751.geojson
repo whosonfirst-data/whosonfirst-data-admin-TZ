@@ -290,6 +290,9 @@
         "wd:id":"Q153329"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f648592d0c8a7545aa53b6670a550a05",
     "wof:hierarchy":[
         {
@@ -307,7 +310,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590370,
+    "wof:lastmodified":1582347577,
     "wof:name":"Katavi",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

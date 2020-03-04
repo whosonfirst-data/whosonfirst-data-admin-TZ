@@ -289,6 +289,9 @@
         "wk:page":"Singida Region"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"aa8124b3a9d178ce7b6399406196ea3e",
     "wof:hierarchy":[
         {
@@ -306,7 +309,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590372,
+    "wof:lastmodified":1582347578,
     "wof:name":"Singida",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

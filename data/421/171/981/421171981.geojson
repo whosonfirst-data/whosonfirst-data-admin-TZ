@@ -108,6 +108,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459008914,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e471833fe77144da14d4ad094d6b9999",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421171981,
-    "wof:lastmodified":1566590840,
+    "wof:lastmodified":1582347618,
     "wof:name":"Rombo",
     "wof:parent_id":85679737,
     "wof:placetype":"county",

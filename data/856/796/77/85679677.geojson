@@ -298,6 +298,9 @@
         "wk:page":"Morogoro Region"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a021d4ab35b14f922813c9a883d3764a",
     "wof:hierarchy":[
         {
@@ -315,7 +318,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590401,
+    "wof:lastmodified":1582347594,
     "wof:name":"Morogoro",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

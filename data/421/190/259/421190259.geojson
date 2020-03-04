@@ -102,6 +102,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009652,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c24829913eaa7522d4751edc116998e3",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":421190259,
-    "wof:lastmodified":1566590827,
+    "wof:lastmodified":1582347613,
     "wof:name":"Wete",
     "wof:parent_id":85679683,
     "wof:placetype":"county",

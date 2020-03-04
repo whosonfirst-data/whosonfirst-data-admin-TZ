@@ -296,6 +296,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459008852,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a46773ba50588b8e89a65ac095e1d41f",
     "wof:hierarchy":[
         {
@@ -307,7 +310,7 @@
         }
     ],
     "wof:id":421170423,
-    "wof:lastmodified":1566590830,
+    "wof:lastmodified":1582347614,
     "wof:name":"Songea",
     "wof:parent_id":1108692991,
     "wof:placetype":"locality",

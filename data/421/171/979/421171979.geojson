@@ -125,6 +125,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459008914,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fd625df1506c5122c74505b8df7ebd5b",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421171979,
-    "wof:lastmodified":1566590839,
+    "wof:lastmodified":1582347618,
     "wof:name":"Ngorongoro",
     "wof:parent_id":85679731,
     "wof:placetype":"county",

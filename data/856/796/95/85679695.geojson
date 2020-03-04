@@ -290,6 +290,9 @@
         "wk:page":"Unguja North Region"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"756f5df1c633cb211858d1d13e33af8f",
     "wof:hierarchy":[
         {
@@ -307,7 +310,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590381,
+    "wof:lastmodified":1582347583,
     "wof:name":"Kaskazini-Unguja",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

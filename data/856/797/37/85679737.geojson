@@ -296,6 +296,9 @@
         "wk:page":"Kilimanjaro Region"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8c53e300edd61d02f039dfbd2fc22167",
     "wof:hierarchy":[
         {
@@ -313,7 +316,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590376,
+    "wof:lastmodified":1582347580,
     "wof:name":"Kilimanjaro",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

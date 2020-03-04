@@ -290,6 +290,9 @@
         "wk:page":"Rukwa Region"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d23efe424f7e54c86ad60caae1d45db0",
     "wof:hierarchy":[
         {
@@ -307,7 +310,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590383,
+    "wof:lastmodified":1582347584,
     "wof:name":"Rukwa",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

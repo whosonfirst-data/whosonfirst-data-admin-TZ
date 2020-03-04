@@ -104,6 +104,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009753,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c8d5505c64d1669fb7ad69e320a50572",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421192909,
-    "wof:lastmodified":1566590806,
+    "wof:lastmodified":1582347607,
     "wof:name":"Kyela",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

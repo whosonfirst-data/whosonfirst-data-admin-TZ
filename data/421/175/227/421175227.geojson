@@ -114,6 +114,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009060,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"024726ac980214a41b9cc0ae156fae82",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421175227,
-    "wof:lastmodified":1566590822,
+    "wof:lastmodified":1582347612,
     "wof:name":"Arusha",
     "wof:parent_id":85679731,
     "wof:placetype":"county",

@@ -295,6 +295,9 @@
         "wk:page":"Tanga Region"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"55b0ea4685d70ba7db67ae71bb855f49",
     "wof:hierarchy":[
         {
@@ -312,7 +315,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590378,
+    "wof:lastmodified":1582347581,
     "wof:name":"Tanga",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

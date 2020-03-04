@@ -175,6 +175,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009588,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0fe9a8e1bb7432138c3069c33d6cec49",
     "wof:hierarchy":[
         {
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":421188919,
-    "wof:lastmodified":1566590820,
+    "wof:lastmodified":1582347612,
     "wof:name":"Musoma",
     "wof:parent_id":85679743,
     "wof:placetype":"county",

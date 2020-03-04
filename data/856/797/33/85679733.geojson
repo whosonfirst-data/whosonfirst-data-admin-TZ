@@ -292,6 +292,9 @@
         "wk:page":"Manyara Region"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7654df1ecd5499edfdd646b1a22cad96",
     "wof:hierarchy":[
         {
@@ -309,7 +312,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590371,
+    "wof:lastmodified":1582347577,
     "wof:name":"Manyara",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

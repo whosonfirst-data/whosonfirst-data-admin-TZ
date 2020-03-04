@@ -90,6 +90,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459010109,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"728341095811a192d4a4097e5807f349",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421202229,
-    "wof:lastmodified":1566590812,
+    "wof:lastmodified":1582347609,
     "wof:name":"Kinondoni",
     "wof:parent_id":85679675,
     "wof:placetype":"county",

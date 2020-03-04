@@ -294,6 +294,9 @@
         "wk:page":"Pemba North Region"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3a43d7ad17f9b8ca86e25ed12ba3251f",
     "wof:hierarchy":[
         {
@@ -311,7 +314,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590400,
+    "wof:lastmodified":1582347593,
     "wof:name":"Kaskazini-Pemba",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

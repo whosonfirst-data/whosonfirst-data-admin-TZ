@@ -116,6 +116,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009529,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5739dcf5641332969131c4c23546248c",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421187953,
-    "wof:lastmodified":1566590814,
+    "wof:lastmodified":1582347610,
     "wof:name":"Bunda",
     "wof:parent_id":85679743,
     "wof:placetype":"county",

@@ -117,6 +117,9 @@
         "qs_pg:id":238643
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b81d89f6a617d69bd1ec4021b5559f73",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566590368,
+    "wof:lastmodified":1582347575,
     "wof:name":"Sea View",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

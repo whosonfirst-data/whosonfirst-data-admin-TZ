@@ -91,6 +91,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009249,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"691371b64a90ddd282632582ca2f5346",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421180247,
-    "wof:lastmodified":1566590814,
+    "wof:lastmodified":1582347609,
     "wof:name":"Kigoma Rural",
     "wof:parent_id":85679669,
     "wof:placetype":"county",

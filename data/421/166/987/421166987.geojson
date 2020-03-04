@@ -201,6 +201,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459008710,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"22721a8fc98b7490ad5b4a6f385f3403",
     "wof:hierarchy":[
         {
@@ -212,7 +215,7 @@
         }
     ],
     "wof:id":421166987,
-    "wof:lastmodified":1566590806,
+    "wof:lastmodified":1582347607,
     "wof:name":"Korogwe",
     "wof:parent_id":1108692931,
     "wof:placetype":"locality",

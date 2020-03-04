@@ -162,6 +162,9 @@
         "wd:id":"Q24283486"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e96ed45a6d709604d2f709a1efc083ae",
     "wof:hierarchy":[
         {
@@ -179,7 +182,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590376,
+    "wof:lastmodified":1582347580,
     "wof:name":"Njombe",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

@@ -84,6 +84,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1469052783,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6b2dc2af11e052c8e2454f50a9a1b6ab",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":890451535,
-    "wof:lastmodified":1566590845,
+    "wof:lastmodified":1582347618,
     "wof:name":"Kaskazini A",
     "wof:parent_id":85679695,
     "wof:placetype":"county",

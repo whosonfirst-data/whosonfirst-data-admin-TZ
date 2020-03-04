@@ -99,6 +99,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459008879,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"221b71d701a724e0c5b056ae145e697d",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421171043,
-    "wof:lastmodified":1566590839,
+    "wof:lastmodified":1582347618,
     "wof:name":"Moshi",
     "wof:parent_id":85679737,
     "wof:placetype":"county",

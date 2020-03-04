@@ -100,6 +100,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009060,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"15f29fc6302b5e5f6be407e8bfd6e3f4",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421175229,
-    "wof:lastmodified":1566590821,
+    "wof:lastmodified":1582347612,
     "wof:name":"Lushoto",
     "wof:parent_id":85679747,
     "wof:placetype":"county",

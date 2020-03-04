@@ -228,6 +228,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009136,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b7b4d0f4b29220a028d18d0f54a90081",
     "wof:hierarchy":[
         {
@@ -239,7 +242,7 @@
         }
     ],
     "wof:id":421177213,
-    "wof:lastmodified":1566590830,
+    "wof:lastmodified":1582347614,
     "wof:name":"Singida",
     "wof:parent_id":1108693027,
     "wof:placetype":"locality",

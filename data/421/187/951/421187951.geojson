@@ -119,6 +119,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009529,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"287a2f3bed802330c1b18bb5b517387c",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421187951,
-    "wof:lastmodified":1566590817,
+    "wof:lastmodified":1582347611,
     "wof:name":"Bariadi",
     "wof:parent_id":85679755,
     "wof:placetype":"county",

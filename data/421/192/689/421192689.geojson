@@ -553,6 +553,10 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009745,
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d9fd434fb9de341de11519fdbc2e5195",
     "wof:hierarchy":[
         {
@@ -564,7 +568,7 @@
         }
     ],
     "wof:id":421192689,
-    "wof:lastmodified":1566590808,
+    "wof:lastmodified":1582347608,
     "wof:name":"Dodoma",
     "wof:parent_id":421187957,
     "wof:placetype":"locality",

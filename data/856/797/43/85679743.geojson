@@ -295,6 +295,9 @@
         "wk:page":"Mara Region"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"81d06bcf381c63d9b9c4df2653dd8c18",
     "wof:hierarchy":[
         {
@@ -312,7 +315,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590374,
+    "wof:lastmodified":1582347579,
     "wof:name":"Mara",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

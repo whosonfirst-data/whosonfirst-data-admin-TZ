@@ -324,6 +324,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009637,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"713d06309fd373a6f32b432da95c9d67",
     "wof:hierarchy":[
         {
@@ -334,7 +337,7 @@
         }
     ],
     "wof:id":421189817,
-    "wof:lastmodified":1566590819,
+    "wof:lastmodified":1582347611,
     "wof:name":"Kigoma",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -207,6 +207,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459008853,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5ea216ebc7db415824873432f4b01b28",
     "wof:hierarchy":[
         {
@@ -218,7 +221,7 @@
         }
     ],
     "wof:id":421170433,
-    "wof:lastmodified":1566590830,
+    "wof:lastmodified":1582347614,
     "wof:name":"Chake Chake",
     "wof:parent_id":421187955,
     "wof:placetype":"locality",

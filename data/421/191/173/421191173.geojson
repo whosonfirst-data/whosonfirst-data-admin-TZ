@@ -89,6 +89,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009683,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a11a5971cad3036cf60f7b324d9c652f",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421191173,
-    "wof:lastmodified":1566590826,
+    "wof:lastmodified":1582347613,
     "wof:name":"Kati",
     "wof:parent_id":85679651,
     "wof:placetype":"county",

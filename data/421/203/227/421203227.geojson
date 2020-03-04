@@ -107,6 +107,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459010144,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e0460761c94332c81f73517cb2d6491e",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421203227,
-    "wof:lastmodified":1566590811,
+    "wof:lastmodified":1582347609,
     "wof:name":"Mwanga",
     "wof:parent_id":85679737,
     "wof:placetype":"county",

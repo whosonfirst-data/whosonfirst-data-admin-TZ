@@ -107,6 +107,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459008879,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dcec1a6dfda07bca5a36fb6cc8d84594",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421171039,
-    "wof:lastmodified":1566590839,
+    "wof:lastmodified":1582347618,
     "wof:name":"Hanang",
     "wof:parent_id":85679733,
     "wof:placetype":"county",

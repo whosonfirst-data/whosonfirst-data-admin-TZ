@@ -296,6 +296,9 @@
         "wk:page":"Iringa Region"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"20bddef22be3e98abe18abc80212298e",
     "wof:hierarchy":[
         {
@@ -313,7 +316,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590373,
+    "wof:lastmodified":1582347578,
     "wof:name":"Iringa",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

@@ -89,6 +89,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459010102,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2f31c11b713f9f4de6597dd0f1bf28fe",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421202045,
-    "wof:lastmodified":1566590813,
+    "wof:lastmodified":1582347609,
     "wof:name":"Magharibi",
     "wof:parent_id":85679699,
     "wof:placetype":"county",

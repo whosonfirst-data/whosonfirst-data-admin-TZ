@@ -97,6 +97,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009323,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ceb1f744f0b8b4f99eff6bf70d42528e",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421182255,
-    "wof:lastmodified":1566590834,
+    "wof:lastmodified":1582347615,
     "wof:name":"Rufiji",
     "wof:parent_id":85679691,
     "wof:placetype":"county",

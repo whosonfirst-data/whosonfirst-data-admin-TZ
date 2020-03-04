@@ -105,6 +105,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459008837,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7a8096eee4d32feaa58578e64603325b",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":421170113,
-    "wof:lastmodified":1566590830,
+    "wof:lastmodified":1582347614,
     "wof:name":"Mbeya Urban",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

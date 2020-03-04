@@ -291,6 +291,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459008853,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8ff4160f67cdecd92e8e31ee54586d8e",
     "wof:hierarchy":[
         {
@@ -301,7 +304,7 @@
         }
     ],
     "wof:id":421170445,
-    "wof:lastmodified":1566590830,
+    "wof:lastmodified":1582347614,
     "wof:name":"Musoma",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

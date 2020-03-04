@@ -98,6 +98,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009935,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7cf3f05f4d78d06d65c7966074bd653f",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":421198067,
-    "wof:lastmodified":1566590824,
+    "wof:lastmodified":1582347613,
     "wof:name":"Micheweni",
     "wof:parent_id":85679683,
     "wof:placetype":"county",

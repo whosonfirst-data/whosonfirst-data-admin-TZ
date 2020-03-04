@@ -301,6 +301,9 @@
         "wk:page":"Kigoma Region"
     },
     "wof:country":"TZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"55406e875a7dd5fc0be39b3c2d2a8657",
     "wof:hierarchy":[
         {
@@ -318,7 +321,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566590382,
+    "wof:lastmodified":1582347583,
     "wof:name":"Kigoma",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

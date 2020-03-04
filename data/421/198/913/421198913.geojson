@@ -123,6 +123,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009965,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"91731eb654857c3e9db9ef5330b552c7",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421198913,
-    "wof:lastmodified":1566590824,
+    "wof:lastmodified":1582347612,
     "wof:name":"Temeke",
     "wof:parent_id":85679675,
     "wof:placetype":"county",

@@ -110,6 +110,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459010171,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"77d103a80059ad5ebc24723b82200a6f",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421204027,
-    "wof:lastmodified":1566590810,
+    "wof:lastmodified":1582347608,
     "wof:name":"Kilosa",
     "wof:parent_id":85679677,
     "wof:placetype":"county",

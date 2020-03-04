@@ -126,6 +126,9 @@
     },
     "wof:country":"TZ",
     "wof:created":1459009521,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ffd11c6458e39abf58b5522861b1076f",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421187711,
-    "wof:lastmodified":1566590818,
+    "wof:lastmodified":1582347611,
     "wof:name":"Karatu",
     "wof:parent_id":85679731,
     "wof:placetype":"county",
