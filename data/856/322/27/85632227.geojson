@@ -947,9 +947,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Tanzania",
-        "digitalenvoy:country_code":[
-            834
-        ],
+        "digitalenvoy:country_code":834,
         "fb:id":"en.tanzania",
         "fifa:id":"TAN",
         "fips:code":"TZ",
@@ -995,7 +993,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1583529236,
+    "wof:lastmodified":1583797445,
     "wof:name":"Tanzania",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
