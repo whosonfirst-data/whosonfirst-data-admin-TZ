@@ -32,8 +32,14 @@
     "name:arg_x_preferred":[
         "Dar es Salaam"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0627\u0631\u0627\u0644\u0633\u0644\u0627\u0645"
+    ],
     "name:ast_x_preferred":[
         "Dar es-Salam"
+    ],
+    "name:ast_x_variant":[
+        "Dar es Salaam"
     ],
     "name:azb_x_preferred":[
         "\u062f\u0627\u0631\u0627\u0644\u0633\u0644\u0627\u0645"
@@ -83,6 +89,9 @@
     "name:dan_x_preferred":[
         "Dar es-Salaam"
     ],
+    "name:deu_ch_x_preferred":[
+        "Daressalam"
+    ],
     "name:deu_x_preferred":[
         "Daressalam"
     ],
@@ -91,6 +100,12 @@
     ],
     "name:ell_x_variant":[
         "\u039d\u03c4\u03b1\u03c1 \u03b5\u03c2 \u03a3\u03b1\u03bb\u03ac\u03bc"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Dar es Salaam"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Dar es Salaam"
     ],
     "name:eng_x_preferred":[
         "Dar es Salaam"
@@ -154,6 +169,9 @@
     ],
     "name:hun_x_preferred":[
         "Dar es-Salaam"
+    ],
+    "name:ido_x_preferred":[
+        "Dar-es-Salaam"
     ],
     "name:ile_x_preferred":[
         "Daressalaam"
@@ -278,6 +296,9 @@
     "name:pol_x_variant":[
         "Dar es Salaam"
     ],
+    "name:por_br_x_preferred":[
+        "Dar es Salaam"
+    ],
     "name:por_x_preferred":[
         "Dar es Salaam"
     ],
@@ -347,6 +368,9 @@
     "name:tgl_x_preferred":[
         "Lungsod ng Dar es Salaam"
     ],
+    "name:tgl_x_variant":[
+        "Dar es Salaam"
+    ],
     "name:tha_x_preferred":[
         "\u0e14\u0e32\u0e23\u0e4c-\u0e40\u0e2d\u0e2a-\u0e0b\u0e32\u0e25\u0e32\u0e21"
     ],
@@ -398,8 +422,20 @@
     "name:yue_x_preferred":[
         "\u4e09\u862d\u6e2f"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u4e09\u5170\u6e2f"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u4e09\u862d\u6e2f"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4e09\u862d\u6e2f"
+    ],
     "name:zho_x_preferred":[
         "\u8fbe\u7d2f\u65af\u8428\u62c9\u59c6"
+    ],
+    "name:zho_x_variant":[
+        "\u4e09\u862d\u6e2f"
     ],
     "ne:ADM0CAP":1.0,
     "ne:ADM0NAME":"Tanzania",
@@ -524,8 +560,8 @@
     "wof:belongsto":[
         102191573,
         85632227,
-        85679675,
-        1108692955
+        1108692955,
+        85679675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -553,7 +589,7 @@
         }
     ],
     "wof:id":421189813,
-    "wof:lastmodified":1582347611,
+    "wof:lastmodified":1587428348,
     "wof:name":"Dar es Salaam",
     "wof:parent_id":1108692955,
     "wof:placetype":"locality",
