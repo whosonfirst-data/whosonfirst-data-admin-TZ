@@ -9,7 +9,6 @@
     "geom:bbox":"39.185587804,-6.321642681,39.309956528,-6.027276067",
     "geom:latitude":-6.167597,
     "geom:longitude":39.248609,
-    "gn:id":"",
     "iso:country":"TZ",
     "label:eng_x_preferred_longname":[
         "Zanzibar West Region"
@@ -320,7 +319,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582347590,
+    "wof:lastmodified":1603257337,
     "wof:name":"Zanzibar West",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

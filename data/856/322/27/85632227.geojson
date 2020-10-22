@@ -9,7 +9,6 @@
     "geom:bbox":"29.34,-11.761254,40.445446,-0.984406",
     "geom:latitude":-6.263311,
     "geom:longitude":34.8204,
-    "gn:id":"",
     "gn:population":41892895,
     "iso:country":"TZ",
     "itu:country_code":[
@@ -1056,7 +1055,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1587428346,
+    "wof:lastmodified":1603257338,
     "wof:name":"Tanzania",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
