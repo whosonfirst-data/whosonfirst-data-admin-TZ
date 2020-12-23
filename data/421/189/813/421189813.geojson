@@ -567,6 +567,7 @@
     "wof:concordances":{
         "gn:id":160263,
         "gp:id":1443415,
+        "ne:id":1159151305,
         "qs_pg:id":526367,
         "wd:id":"Q1960"
     },
@@ -589,7 +590,8 @@
         }
     ],
     "wof:id":421189813,
-    "wof:lastmodified":1587428348,
+    "wof:lastmodified":1608688184,
+    "wof:megacity":1,
     "wof:name":"Dar es Salaam",
     "wof:parent_id":1108692955,
     "wof:placetype":"locality",
