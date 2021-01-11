@@ -10,7 +10,6 @@
     "geom:latitude":-6.83441,
     "geom:longitude":39.170134,
     "iso:country":"TZ",
-    "lbl:bbox":"39.254749,-6.83258,39.294749,-6.79258",
     "lbl:latitude":-6.798067,
     "lbl:longitude":39.266396,
     "lbl:max_zoom":13.0,
@@ -597,7 +596,7 @@
         }
     ],
     "wof:id":421189813,
-    "wof:lastmodified":1608689810,
+    "wof:lastmodified":1610153737,
     "wof:megacity":1,
     "wof:name":"Dar es Salaam",
     "wof:parent_id":1108692955,
