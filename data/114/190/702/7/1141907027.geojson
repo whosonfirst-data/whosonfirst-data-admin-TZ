@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"37.3700080961,-11.0895698864,37.3700080961,-11.0895698864",
+    "geom:bbox":"37.370008,-11.08957,37.370008,-11.08957",
     "geom:latitude":-11.08957,
     "geom:longitude":37.370008,
     "iso:country":"TZ",
@@ -24,16 +24,52 @@
     "name:bar_x_preferred":[
         "Tunduru"
     ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09c1\u09a8\u09cd\u09a6\u09c1\u09b0\u09c1"
+    ],
     "name:deu_x_preferred":[
         "Tunduru"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03c5\u03bd\u03c4\u03bf\u03cd\u03c1\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Tunduru"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0646\u062f\u0648\u0631\u0648"
+    ],
     "name:fin_x_preferred":[
         "Tunduru"
     ],
+    "name:fra_x_preferred":[
+        "Tunduru"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e0\u05d3\u05d5\u05e8\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u0941\u0902\u0921\u0941\u0930\u0941"
+    ],
+    "name:hun_x_preferred":[
+        "Tunduru"
+    ],
+    "name:ind_x_preferred":[
+        "Tunduru"
+    ],
+    "name:ita_x_preferred":[
+        "Tunduru"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a5\u30f3\u30c9\u30a5\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ud230\ub450\ub8e8"
+    ],
     "name:nld_x_preferred":[
+        "Tunduru"
+    ],
+    "name:pol_x_preferred":[
         "Tunduru"
     ],
     "name:por_x_preferred":[
@@ -45,14 +81,29 @@
     "name:rus_x_preferred":[
         "\u0422\u0443\u043d\u0434\u0443\u0440\u0443"
     ],
+    "name:spa_x_preferred":[
+        "Tunduru"
+    ],
     "name:swa_x_preferred":[
         "Wilaya ya Tunduru"
     ],
     "name:swe_x_preferred":[
         "Tunduru"
     ],
+    "name:tur_x_preferred":[
+        "Tunduru"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u0443\u043d\u0434\u0443\u0440\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0646\u062f\u0648\u0631\u0648"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u901a\u675c\u9c81"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u901a\u675c\u9b6f"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tanzania",
@@ -162,7 +213,7 @@
     },
     "wof:country":"TZ",
     "wof:created":1499130671,
-    "wof:geomhash":"e621607b23d3f0aafa8643205493d7e2",
+    "wof:geomhash":"fe1611adc9c1012960dc742fb41419d8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -173,7 +224,7 @@
         }
     ],
     "wof:id":1141907027,
-    "wof:lastmodified":1566591057,
+    "wof:lastmodified":1636501553,
     "wof:name":"Tunduru",
     "wof:parent_id":1108692985,
     "wof:placetype":"locality",
@@ -183,10 +234,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    37.37000809606553,
-    -11.0895698864212,
-    37.37000809606553,
-    -11.0895698864212
+    37.370008,
+    -11.08957,
+    37.370008,
+    -11.08957
 ],
-  "geometry": {"coordinates":[37.37000809606553,-11.0895698864212],"type":"Point"}
+  "geometry": {"coordinates":[37.370008,-11.08957],"type":"Point"}
 }

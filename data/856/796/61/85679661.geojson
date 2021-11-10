@@ -85,10 +85,16 @@
     "name:guj_x_preferred":[
         "\u0aa4\u0aac\u0acb\u0ab0\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d1\u05d5\u05e8\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0924\u092c\u094b\u0930\u093e \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
     ],
     "name:hrv_x_preferred":[
+        "Tabora"
+    ],
+    "name:hun_x_preferred":[
         "Tabora"
     ],
     "name:ind_x_preferred":[
@@ -315,7 +321,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896130,
+    "wof:lastmodified":1636501508,
     "wof:name":"Tabora",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

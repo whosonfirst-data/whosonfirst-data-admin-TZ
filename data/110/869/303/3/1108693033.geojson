@@ -50,16 +50,55 @@
         "Nzega"
     ],
     "name:ita_x_preferred":[
+        "Nzega"
+    ],
+    "name:ita_x_variant":[
         "Mkalama"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cc\u30bc\u30ac"
+    ],
+    "name:kor_x_preferred":[
+        "\uc740\uc81c\uac00"
+    ],
+    "name:nld_x_preferred":[
+        "Nzega"
+    ],
+    "name:pol_x_preferred":[
+        "Nzega"
+    ],
+    "name:por_x_preferred":[
+        "Nzega"
     ],
     "name:ron_x_preferred":[
         "Nzega"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u0437\u0435\u0433\u0430"
+    ],
     "name:swa_x_preferred":[
         "Nzega"
     ],
+    "name:swe_x_preferred":[
+        "Nzega"
+    ],
+    "name:tur_x_preferred":[
+        "Nzega"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0437\u0435\u0433\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0632\u06cc\u06af\u0627"
+    ],
     "name:vie_x_preferred":[
         "Nzega"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6069\u6cfd\u52a0"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6069\u6fa4\u52a0"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -97,7 +136,7 @@
         }
     ],
     "wof:id":1108693033,
-    "wof:lastmodified":1627522873,
+    "wof:lastmodified":1636501527,
     "wof:name":"Nzega",
     "wof:parent_id":85679661,
     "wof:placetype":"county",

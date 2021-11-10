@@ -31,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:hun_x_preferred":[
+        "Manyara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1360139567,
-    "wof:lastmodified":1566590764,
+    "wof:lastmodified":1636501531,
     "wof:name":"Manyara",
     "wof:parent_id":1108692903,
     "wof:placetype":"locality",

@@ -59,10 +59,16 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0aa8\u0acd\u0a97\u0abf\u0aaf\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05e0\u05d2\u05d0\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u094b\u0902\u0917\u0940\u092f"
     ],
     "name:hrv_x_preferred":[
+        "Songea"
+    ],
+    "name:hun_x_preferred":[
         "Songea"
     ],
     "name:ind_x_preferred":[
@@ -310,7 +316,7 @@
         }
     ],
     "wof:id":421170423,
-    "wof:lastmodified":1582347614,
+    "wof:lastmodified":1636501540,
     "wof:name":"Songea",
     "wof:parent_id":1108692991,
     "wof:placetype":"locality",

@@ -37,6 +37,15 @@
     "name:deu_x_preferred":[
         "Kongolo"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0646\u06af\u0648\u0644\u0648"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e0\u05d2\u05d5\u05dc\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Kongolo"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043d\u0433\u043e\u043b\u043e"
     ],
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":1344034759,
-    "wof:lastmodified":1566590354,
+    "wof:lastmodified":1636501502,
     "wof:name":"Kongolo",
     "wof:parent_id":1108693105,
     "wof:placetype":"locality",

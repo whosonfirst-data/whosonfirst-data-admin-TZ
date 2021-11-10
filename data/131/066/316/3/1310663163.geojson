@@ -46,6 +46,9 @@
     "name:bel_x_preferred":[
         "\u0413\u0435\u0440\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u0997\u09c7\u09b0\u09be"
+    ],
     "name:bos_x_preferred":[
         "Gera"
     ],
@@ -105,6 +108,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u0947\u0930\u093e"
     ],
     "name:hrv_x_preferred":[
         "Gera"
@@ -217,6 +223,9 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u0440\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u06af\u06cc\u0631\u0627"
+    ],
     "name:uzb_x_preferred":[
         "Gera"
     ],
@@ -252,7 +261,7 @@
         }
     ],
     "wof:id":1310663163,
-    "wof:lastmodified":1566590750,
+    "wof:lastmodified":1636501530,
     "wof:name":"Gera",
     "wof:parent_id":1108693099,
     "wof:placetype":"locality",

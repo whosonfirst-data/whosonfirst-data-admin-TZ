@@ -17,8 +17,83 @@
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u0628\u064a\u062a\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09bf\u09ac\u09bf\u09a4\u09bf"
+    ],
+    "name:deu_x_preferred":[
+        "Kibiti"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03bc\u03c0\u03af\u03c4\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Kibiti"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0628\u06cc\u062a\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Mikumi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05d1\u05d9\u05d8\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0940\u092c\u0940\u091f\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Kibiti"
+    ],
+    "name:ind_x_preferred":[
+        "Kibiti"
+    ],
+    "name:ita_x_preferred":[
+        "Kibiti"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30d3\u30c6\u30a3"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0a4\ube44\ud2f0"
+    ],
+    "name:nld_x_preferred":[
+        "Kibiti"
+    ],
+    "name:pol_x_preferred":[
+        "Kibiti"
+    ],
+    "name:por_x_preferred":[
+        "Kibiti"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0431\u0438\u0442\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Kibiti"
+    ],
+    "name:swe_x_preferred":[
+        "Kibiti"
+    ],
+    "name:tur_x_preferred":[
+        "Kibiti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0431\u0456\u0442\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0628\u06cc\u062a\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Kibiti"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u57fa\u6bd4\u8482"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u57fa\u6bd4\u8482"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tanzania",
@@ -157,7 +232,7 @@
         }
     ],
     "wof:id":421175247,
-    "wof:lastmodified":1566590822,
+    "wof:lastmodified":1636501538,
     "wof:name":"Kibiti",
     "wof:parent_id":421182255,
     "wof:placetype":"locality",

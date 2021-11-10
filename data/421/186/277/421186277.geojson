@@ -39,6 +39,9 @@
         "Manyoni"
     ],
     "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bd\u03b9\u03cc\u03bd\u03b9"
+    ],
+    "name:ell_x_variant":[
         "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039c\u03b1\u03bd\u03c5\u03cc\u03bd\u03b9"
     ],
     "name:eng_x_preferred":[
@@ -47,14 +50,71 @@
     "name:eng_x_variant":[
         "Manyoni District"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0646\u06cc\u0648\u0646\u06cc"
+    ],
     "name:fra_x_preferred":[
+        "Manyoni"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e0\u05d9\u05d5\u05e0\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0928\u094d\u092f\u094b\u0928\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Manyoni"
+    ],
+    "name:ind_x_preferred":[
+        "Manyoni"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30cb\u30e7\u30fc\u30cb"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9cc\ub2c8\ub2c8"
+    ],
+    "name:nld_x_preferred":[
+        "Manyoni"
+    ],
+    "name:pol_x_preferred":[
+        "Manyoni"
+    ],
+    "name:por_x_preferred":[
         "Manyoni"
     ],
     "name:ron_x_preferred":[
         "Manyoni"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u044c\u043e\u043d\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Manyoni"
+    ],
     "name:swa_x_preferred":[
         "Wilaya ya Manyoni"
+    ],
+    "name:swe_x_preferred":[
+        "Manyoni"
+    ],
+    "name:tur_x_preferred":[
+        "Manyoni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043d\u044c\u0439\u043e\u043d\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0646\u06cc\u0648\u0646\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Manyoni"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u9a6c\u5c3c\u5965\u5c3c"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u99ac\u5c3c\u5967\u5c3c"
     ],
     "name:zho_x_preferred":[
         "\u7a46\u7d22\u99ac"
@@ -123,7 +183,7 @@
         }
     ],
     "wof:id":421186277,
-    "wof:lastmodified":1627522866,
+    "wof:lastmodified":1636501537,
     "wof:name":"Manyoni",
     "wof:parent_id":85679727,
     "wof:placetype":"county",

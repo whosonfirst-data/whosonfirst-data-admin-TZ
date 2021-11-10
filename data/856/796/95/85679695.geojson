@@ -76,11 +76,17 @@
     "name:guj_x_preferred":[
         "\u0a9d\u0abe\u0a82\u0a9d\u0ac0\u0aac\u0abe\u0ab0 \u0a89\u0aa4\u0acd\u0aa4\u0ab0 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e1\u05e7\u05d0\u05d6\u05d9\u05e0\u05d9-\u05d0\u05d5\u05e0\u05d2\u05d5\u05d2'\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u091c\u0902\u091c\u093c\u0940\u092c\u093e\u0930 \u0909\u0924\u094d\u0924\u0930\u0940 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
     ],
     "name:hrv_x_preferred":[
         "Zanzibar Sjever"
+    ],
+    "name:hun_x_preferred":[
+        "Kaskazini-Unguja"
     ],
     "name:ind_x_preferred":[
         "Wilayah Utara Zanzibar"
@@ -313,7 +319,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896130,
+    "wof:lastmodified":1636501508,
     "wof:name":"Kaskazini-Unguja",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

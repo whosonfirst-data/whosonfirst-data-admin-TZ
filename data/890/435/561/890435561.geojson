@@ -22,11 +22,20 @@
     "name:ara_x_preferred":[
         "\u0627\u064a\u062a\u064a\u062c\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u0987\u09a4\u09bf\u0997\u09bf"
+    ],
     "name:bul_x_preferred":[
         "\u0418\u0442\u0438\u0433\u0438"
     ],
     "name:ceb_x_preferred":[
         "Itigi"
+    ],
+    "name:deu_x_preferred":[
+        "Itigi"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03c4\u03af\u03b3\u03ba\u03b9"
     ],
     "name:eng_x_preferred":[
         "Itigi"
@@ -34,10 +43,37 @@
     "name:epo_x_preferred":[
         "Itigio"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u062a\u06cc\u062c\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Itigi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d8\u05d9\u05d2\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0907\u091f\u093f\u0917\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Itigi"
+    ],
+    "name:ind_x_preferred":[
+        "Itigi"
+    ],
     "name:ita_x_preferred":[
         "Itigi Mjini"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30c6\u30a3\u30ae"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\ud2f0"
+    ],
     "name:nld_x_preferred":[
+        "Itigi"
+    ],
+    "name:pol_x_preferred":[
         "Itigi"
     ],
     "name:por_x_preferred":[
@@ -46,11 +82,32 @@
     "name:rus_x_preferred":[
         "\u0418\u0442\u0438\u0433\u0438"
     ],
+    "name:spa_x_preferred":[
+        "Itigi"
+    ],
     "name:swa_x_preferred":[
+        "Itigi"
+    ],
+    "name:swe_x_preferred":[
+        "Itigi"
+    ],
+    "name:tur_x_preferred":[
         "Itigi"
     ],
     "name:ukr_x_preferred":[
         "\u0406\u0442\u0456\u0491\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06cc\u06af\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Itigi"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4f0a\u8482\u5409"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4f0a\u63d0\u57fa"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tanzania",
@@ -177,7 +234,7 @@
         }
     ],
     "wof:id":890435561,
-    "wof:lastmodified":1566590846,
+    "wof:lastmodified":1636501544,
     "wof:name":"Itigi",
     "wof:parent_id":421186277,
     "wof:placetype":"locality",

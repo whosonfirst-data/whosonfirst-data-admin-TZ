@@ -50,7 +50,13 @@
         "Geita"
     ],
     "name:ita_x_preferred":[
+        "Geita"
+    ],
+    "name:ita_x_variant":[
         "Mbogwe"
+    ],
+    "name:kor_x_preferred":[
+        "\uac8c\uc774\ud0c0"
     ],
     "name:nob_x_preferred":[
         "Geita"
@@ -60,6 +66,12 @@
     ],
     "name:swa_x_preferred":[
         "Wilaya ya Geita"
+    ],
+    "name:swe_x_preferred":[
+        "Geita"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u06cc\u062a\u0627"
     ],
     "name:vie_x_preferred":[
         "Geita"
@@ -100,7 +112,7 @@
         }
     ],
     "wof:id":1108693163,
-    "wof:lastmodified":1627522859,
+    "wof:lastmodified":1636501529,
     "wof:name":"Geita",
     "wof:parent_id":85679761,
     "wof:placetype":"county",

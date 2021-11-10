@@ -85,11 +85,17 @@
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0ab2\u0ac0\u0aae\u0a82\u0a9c\u0abe\u0ab0\u0acb \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05dc\u05d9\u05de\u05e0\u05d2'\u05e8\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u093f\u0932\u0940\u092e\u0902\u091c\u093e\u0930\u094b \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
     "name:hrv_x_preferred":[
         "Kilimand\u017earo"
+    ],
+    "name:hun_x_preferred":[
+        "Kilimandzs\u00e1r\u00f3"
     ],
     "name:ind_x_preferred":[
         "Wilayah Kilimanjaro"
@@ -319,7 +325,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1617130652,
+    "wof:lastmodified":1636501506,
     "wof:name":"Kilimanjaro",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

@@ -20,13 +20,49 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u064a\u0647\u0627\u0631\u0627\u0645\u0648\u0644\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09bf\u09b9\u09be\u09b0\u09be\u09ae\u09c1\u09b2\u09cb"
+    ],
     "name:ceb_x_preferred":[
         "Biharamulo"
+    ],
+    "name:deu_x_preferred":[
+        "Biharamulo"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b9\u03c7\u03b1\u03c1\u03b1\u03bc\u03bf\u03cd\u03bb\u03bf"
     ],
     "name:eng_x_preferred":[
         "Biharamulo"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0647\u0627\u0631\u0627\u0645\u0648\u0644\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Biharamulo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05d7\u05e8\u05de\u05d5\u05dc\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093f\u0939\u093e\u0930\u093e\u092e\u0942\u0932\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Biharamulo"
+    ],
+    "name:ind_x_preferred":[
+        "Biharamulo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30cf\u30e9\u30e0\u30ed"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\ud558\ub77c\ubb3c\ub85c"
+    ],
     "name:nld_x_preferred":[
+        "Biharamulo"
+    ],
+    "name:pol_x_preferred":[
         "Biharamulo"
     ],
     "name:por_x_preferred":[
@@ -38,7 +74,16 @@
     "name:rus_x_preferred":[
         "\u0411\u0438\u0445\u0430\u0440\u0430\u043c\u0443\u043b\u043e"
     ],
+    "name:spa_x_preferred":[
+        "Biharamulo"
+    ],
     "name:swa_x_preferred":[
+        "Biharamulo"
+    ],
+    "name:swe_x_preferred":[
+        "Biharamulo"
+    ],
+    "name:tur_x_preferred":[
         "Biharamulo"
     ],
     "name:ukr_x_preferred":[
@@ -46,6 +91,18 @@
     ],
     "name:und_x_variant":[
         "Usuwi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06c1\u0627\u0631\u0627\u0645\u0648\u0644\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Biharamulo"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6bd4\u54c8\u62c9\u7a46\u6d1b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6bd4\u54c8\u62c9\u7a46\u6d1b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tanzania",
@@ -194,7 +251,7 @@
         }
     ],
     "wof:id":421198579,
-    "wof:lastmodified":1566590825,
+    "wof:lastmodified":1636501538,
     "wof:name":"Biharamulo",
     "wof:parent_id":1108693093,
     "wof:placetype":"locality",

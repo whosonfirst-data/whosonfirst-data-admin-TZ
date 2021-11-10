@@ -94,6 +94,9 @@
     "name:hrv_x_preferred":[
         "Tanga"
     ],
+    "name:hun_x_preferred":[
+        "Tanga"
+    ],
     "name:ind_x_preferred":[
         "Wilayah Tanga"
     ],
@@ -318,7 +321,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1617131224,
+    "wof:lastmodified":1636501507,
     "wof:name":"Tanga",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

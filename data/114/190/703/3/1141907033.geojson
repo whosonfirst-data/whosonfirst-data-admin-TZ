@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"34.9000296618,-5.7796097627,34.9000296618,-5.7796097627",
+    "geom:bbox":"34.90003,-5.77961,34.90003,-5.77961",
     "geom:latitude":-5.77961,
     "geom:longitude":34.90003,
     "iso:country":"TZ",
@@ -19,10 +19,70 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bd\u03b9\u03cc\u03bd\u03b9"
+    ],
+    "name:ell_x_variant":[
         "\u039c\u03b1\u03bd\u03c5\u03cc\u03bd\u03b9"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0646\u06cc\u0648\u0646\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Manyoni"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e0\u05d9\u05d5\u05e0\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0928\u094d\u092f\u094b\u0928\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Manyoni"
+    ],
+    "name:ind_x_preferred":[
+        "Manyoni"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30cb\u30e7\u30fc\u30cb"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9cc\ub2c8\ub2c8"
+    ],
+    "name:nld_x_preferred":[
+        "Manyoni"
+    ],
+    "name:pol_x_preferred":[
+        "Manyoni"
+    ],
+    "name:por_x_preferred":[
+        "Manyoni"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u044c\u043e\u043d\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Manyoni"
+    ],
+    "name:swe_x_preferred":[
+        "Manyoni"
+    ],
+    "name:tur_x_preferred":[
+        "Manyoni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043d\u044c\u0439\u043e\u043d\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0646\u06cc\u0648\u0646\u06cc"
     ],
     "name:vie_x_preferred":[
         "Manyoni"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u9a6c\u5c3c\u5965\u5c3c"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u99ac\u5c3c\u5967\u5c3c"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tanzania",
@@ -130,7 +190,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1499130672,
-    "wof:geomhash":"5f7bc0a2e566f16d93b55d641f530817",
+    "wof:geomhash":"195c3baa61cc7ccde46a535db28fb1ca",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -141,7 +201,7 @@
         }
     ],
     "wof:id":1141907033,
-    "wof:lastmodified":1566591057,
+    "wof:lastmodified":1636501553,
     "wof:name":"Manyoni",
     "wof:parent_id":421186277,
     "wof:placetype":"locality",
@@ -151,10 +211,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    34.90002966181089,
-    -5.77960976270197,
-    34.90002966181089,
-    -5.77960976270197
+    34.90003,
+    -5.77961,
+    34.90003,
+    -5.77961
 ],
-  "geometry": {"coordinates":[34.90002966181089,-5.77960976270197],"type":"Point"}
+  "geometry": {"coordinates":[34.90003,-5.77961],"type":"Point"}
 }

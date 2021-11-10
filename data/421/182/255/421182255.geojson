@@ -35,6 +35,12 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u0641\u064a\u062c\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09c1\u09ab\u09bf\u099c\u09bf"
+    ],
     "name:cat_x_preferred":[
         "Rufiji"
     ],
@@ -47,8 +53,29 @@
     "name:eng_x_variant":[
         "Rufiji"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0641\u06cc\u062c\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Rufiji"
+    ],
+    "name:hun_x_preferred":[
+        "Rufiji"
+    ],
+    "name:ind_x_preferred":[
+        "Rufiji"
+    ],
+    "name:kor_x_preferred":[
+        "\ub8e8\ud53c\uc9c0"
+    ],
+    "name:tur_x_preferred":[
+        "Rufiji"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0641\u06cc\u062c\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Rufiji"
     ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"ADM2",
@@ -113,7 +140,7 @@
         }
     ],
     "wof:id":421182255,
-    "wof:lastmodified":1627522874,
+    "wof:lastmodified":1636501541,
     "wof:name":"Rufiji",
     "wof:parent_id":85679691,
     "wof:placetype":"county",

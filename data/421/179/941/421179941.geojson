@@ -20,7 +20,13 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0644\u0648\u0632\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09bf\u09b2\u09cb\u09b8\u09be"
+    ],
     "name:ceb_x_preferred":[
+        "Kilosa"
+    ],
+    "name:deu_x_preferred":[
         "Kilosa"
     ],
     "name:ell_x_preferred":[
@@ -29,11 +35,35 @@
     "name:eng_x_preferred":[
         "Kilosa"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0644\u0648\u0632\u0627"
+    ],
     "name:fin_x_preferred":[
         "Kilosa"
     ],
     "name:fra_x_preferred":[
         "Kilosa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05dc\u05d5\u05e1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093f\u0932\u094b\u0938\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Kilosa"
+    ],
+    "name:ind_x_preferred":[
+        "Kilosa"
+    ],
+    "name:ita_x_preferred":[
+        "Kilosa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30ed\u30b5"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0ac\ub85c\uc0ac"
     ],
     "name:nld_x_preferred":[
         "Kilosa"
@@ -53,14 +83,35 @@
     "name:rus_x_preferred":[
         "\u041a\u0438\u043b\u043e\u0441\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Kilosa"
+    ],
     "name:swa_x_preferred":[
         "Liuli"
+    ],
+    "name:swe_x_preferred":[
+        "Kilosa"
+    ],
+    "name:tur_x_preferred":[
+        "Kilosa"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0456\u043b\u043e\u0441\u0430"
     ],
     "name:und_x_variant":[
         "Kilossa"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0644\u0648\u0633\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Kilosa"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u57fa\u6d1b\u8428"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u57fa\u6d1b\u85a9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tanzania",
@@ -201,7 +252,7 @@
         }
     ],
     "wof:id":421179941,
-    "wof:lastmodified":1566590832,
+    "wof:lastmodified":1636501541,
     "wof:name":"Kilosa",
     "wof:parent_id":421204027,
     "wof:placetype":"locality",

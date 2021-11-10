@@ -64,6 +64,9 @@
     "name:fra_x_preferred":[
         "Kindu"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05e0\u05d3\u05d5"
+    ],
     "name:hrv_x_preferred":[
         "Kindu"
     ],
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":1343913847,
-    "wof:lastmodified":1566590299,
+    "wof:lastmodified":1636501500,
     "wof:name":"Kindu",
     "wof:parent_id":1108693051,
     "wof:placetype":"locality",

@@ -70,6 +70,9 @@
     "name:fra_x_preferred":[
         "Tabora"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d1\u05d5\u05e8\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Tabora"
     ],
@@ -95,6 +98,9 @@
         "Tabora"
     ],
     "name:pol_x_preferred":[
+        "Tabora"
+    ],
+    "name:por_x_preferred":[
         "Tabora"
     ],
     "name:ron_x_preferred":[
@@ -150,7 +156,7 @@
         }
     ],
     "wof:id":1310100029,
-    "wof:lastmodified":1566590745,
+    "wof:lastmodified":1636501530,
     "wof:name":"Tabora",
     "wof:parent_id":1108693013,
     "wof:placetype":"locality",

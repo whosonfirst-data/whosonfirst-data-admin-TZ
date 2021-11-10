@@ -31,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0995\u09bf\u09ae\u09cd\u09ac\u09c7"
+    ],
     "name:bre_x_preferred":[
         "Kimbe"
     ],
@@ -40,6 +43,9 @@
     "name:deu_x_preferred":[
         "Kimbe"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03af\u03bc\u03c0\u03b5"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u06cc\u0645\u0628\u0647"
     ],
@@ -47,6 +53,18 @@
         "Kimbe"
     ],
     "name:glg_x_preferred":[
+        "Kimbe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05de\u05d1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093f\u092e\u094d\u092c\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Kimbe"
+    ],
+    "name:ind_x_preferred":[
         "Kimbe"
     ],
     "name:ita_x_preferred":[
@@ -70,8 +88,17 @@
     "name:tpi_x_preferred":[
         "Kimbe"
     ],
+    "name:tur_x_preferred":[
+        "Kimbe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u043c\u0431\u0435"
+    ],
     "name:urd_x_preferred":[
         "\u06a9\u0645\u0628\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Kimbe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -90,7 +117,7 @@
         }
     ],
     "wof:id":1209082053,
-    "wof:lastmodified":1566590563,
+    "wof:lastmodified":1636501520,
     "wof:name":"Kimbe",
     "wof:parent_id":85632227,
     "wof:placetype":"locality",

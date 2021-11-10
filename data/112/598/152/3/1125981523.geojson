@@ -25,19 +25,52 @@
     "name:ara_x_preferred":[
         "\u062e\u0644\u064a\u062c \u0645\u0628\u0627\u0645\u0628\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u098f\u09ae\u09cd\u09ac\u09be\u09ae\u09cd\u09ac\u09be \u09ac\u09c7"
+    ],
     "name:ceb_x_preferred":[
         "Mbamba Bay"
     ],
     "name:deu_x_preferred":[
         "Mbamba Bay"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03bc\u03c0\u03b1 \u039c\u03c0\u03ad\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Mbamba Bay"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u0627\u0645\u0628\u0627 \u0628\u06cc"
     ],
     "name:fra_x_preferred":[
         "Mbamba Bay"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e4\u05e8\u05e5 \u05de\u05d1\u05de\u05d1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094d\u092c\u092e\u094d\u092c\u093e \u092c\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Mbamba Bay"
+    ],
+    "name:ind_x_preferred":[
+        "Mbamba Bay"
+    ],
+    "name:ita_x_preferred":[
+        "Mbamba Bay"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30d0\u30f3\u30d0\u30d9\u30a4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc74c\ubc24\ubc14 \ubca0\uc774"
+    ],
     "name:nld_x_preferred":[
+        "Mbamba Bay"
+    ],
+    "name:pol_x_preferred":[
         "Mbamba Bay"
     ],
     "name:por_x_preferred":[
@@ -46,11 +79,32 @@
     "name:ron_x_preferred":[
         "Mbamba Bay"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0431\u0430\u043c\u0431\u0430-\u0411\u044d\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Mbamba Bay"
+    ],
     "name:swa_x_preferred":[
         "Mbamba Bay"
     ],
+    "name:swe_x_preferred":[
+        "Mbamba Bay"
+    ],
+    "name:tur_x_preferred":[
+        "Mbamba Bay"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0431\u0430\u043c\u0431\u0430-\u0411\u0435\u0439"
+    ],
     "name:und_x_variant":[
         "Mbamba"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0645\u0628\u0627 \u0628\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Mbamba Bay"
     ],
     "qs_pg:aaroncc":"TZ",
     "qs_pg:gn_country":"TZ",
@@ -88,7 +142,7 @@
         }
     ],
     "wof:id":1125981523,
-    "wof:lastmodified":1566590854,
+    "wof:lastmodified":1636501545,
     "wof:name":"Mbamba Bay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

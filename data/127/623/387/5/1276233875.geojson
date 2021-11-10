@@ -73,6 +73,9 @@
     "name:glg_x_preferred":[
         "Morogoro"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e1\u05d8\u05d0\u05d2\u05e0\u05dd"
+    ],
     "name:hrv_x_preferred":[
         "Morogoro"
     ],
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":1276233875,
-    "wof:lastmodified":1566590529,
+    "wof:lastmodified":1636501519,
     "wof:name":"Morogoro",
     "wof:parent_id":1108693001,
     "wof:placetype":"locality",

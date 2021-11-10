@@ -95,6 +95,9 @@
         "Lindi"
     ],
     "name:ind_x_preferred":[
+        "Lindi"
+    ],
+    "name:ind_x_variant":[
         "Wilayah Lindi"
     ],
     "name:ita_x_preferred":[
@@ -321,7 +324,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1617130625,
+    "wof:lastmodified":1636501508,
     "wof:name":"Lindi",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

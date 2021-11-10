@@ -35,7 +35,13 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u0995\u09bf\u09b2\u09cb\u09b8\u09be"
+    ],
     "name:ceb_x_preferred":[
+        "Kilosa"
+    ],
+    "name:deu_x_preferred":[
         "Kilosa"
     ],
     "name:ell_x_preferred":[
@@ -47,10 +53,37 @@
     "name:eng_x_variant":[
         "Kilosa District"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0644\u0648\u0632\u0627"
+    ],
     "name:fra_x_preferred":[
         "Kilosa"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05dc\u05d5\u05e1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093f\u0932\u094b\u0938\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Kilosa"
+    ],
+    "name:ind_x_preferred":[
+        "Kilosa"
+    ],
+    "name:ita_x_preferred":[
+        "Kilosa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30ed\u30b5"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0ac\ub85c\uc0ac"
+    ],
     "name:ron_x_preferred":[
+        "Kilosa"
+    ],
+    "name:spa_x_preferred":[
         "Kilosa"
     ],
     "name:swa_x_preferred":[
@@ -59,8 +92,23 @@
     "name:swa_x_variant":[
         "Utende"
     ],
+    "name:swe_x_preferred":[
+        "Kilosa"
+    ],
+    "name:tur_x_preferred":[
+        "Kilosa"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0644\u0648\u0633\u0627"
+    ],
     "name:vie_x_preferred":[
         "Kilosa"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u57fa\u6d1b\u8428"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u57fa\u6d1b\u85a9"
     ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"ADM2",
@@ -126,7 +174,7 @@
         }
     ],
     "wof:id":421204027,
-    "wof:lastmodified":1627522863,
+    "wof:lastmodified":1636501534,
     "wof:name":"Kilosa",
     "wof:parent_id":85679677,
     "wof:placetype":"county",

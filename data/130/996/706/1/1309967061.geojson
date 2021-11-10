@@ -47,9 +47,15 @@
         "Kasese"
     ],
     "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05e1\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05e7\u05e1\u05e1\u05d4"
     ],
     "name:hrv_x_preferred":[
+        "Kasese"
+    ],
+    "name:hun_x_preferred":[
         "Kasese"
     ],
     "name:ita_x_preferred":[
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1309967061,
-    "wof:lastmodified":1566590781,
+    "wof:lastmodified":1636501531,
     "wof:name":"Kasese",
     "wof:parent_id":1108693149,
     "wof:placetype":"locality",

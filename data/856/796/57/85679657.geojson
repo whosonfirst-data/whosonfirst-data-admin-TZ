@@ -82,11 +82,17 @@
     "name:guj_x_preferred":[
         "\u0ab6\u0abf\u0aa8\u0acd\u0aaf\u0a82\u0a97\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d9\u05e0\u05d9\u05d0\u05e0\u05d2\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0936\u093f\u0928\u094d\u092f\u093e\u0902\u0917\u093e \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
     "name:hrv_x_preferred":[
         "\u0160injanga"
+    ],
+    "name:hun_x_preferred":[
+        "Shinyanga"
     ],
     "name:ind_x_preferred":[
         "Wilayah Shinyanga"
@@ -313,7 +319,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896130,
+    "wof:lastmodified":1636501509,
     "wof:name":"Shinyanga",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

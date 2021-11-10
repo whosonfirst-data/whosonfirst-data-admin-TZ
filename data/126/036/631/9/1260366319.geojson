@@ -34,6 +34,9 @@
     "name:azb_x_preferred":[
         "\u0627\u0645\u067e\u0627\u0646\u062f\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u098f\u09ae\u09cd\u09aa\u09be\u09a8\u09cd\u09a1\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Mpanda"
     ],
@@ -49,8 +52,23 @@
     "name:fra_x_preferred":[
         "Mpanda"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e4\u05e0\u05d3\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0902\u092a\u093e\u0902\u0921\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Mpanda"
+    ],
+    "name:ind_x_preferred":[
+        "Mpanda"
+    ],
     "name:ita_x_preferred":[
         "Mpanda"
+    ],
+    "name:kor_x_preferred":[
+        "\uc74c\ud310\ub2e4"
     ],
     "name:pol_x_preferred":[
         "Mpanda"
@@ -67,8 +85,17 @@
     "name:swe_x_preferred":[
         "Mpanda"
     ],
+    "name:tur_x_preferred":[
+        "Mpanda"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u043f\u0430\u043d\u0434\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0646\u0688\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Mpanda"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -82,7 +109,7 @@
         "gn:id":153177
     },
     "wof:country":"TZ",
-    "wof:geomhash":"0238779d382f7e9a30bfac0ecd7daced",
+    "wof:geomhash":"c330140936863d734cbe67932aae26a8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +120,7 @@
         }
     ],
     "wof:id":1260366319,
-    "wof:lastmodified":1566590652,
+    "wof:lastmodified":1636501524,
     "wof:name":"Mpanda",
     "wof:parent_id":1108693047,
     "wof:placetype":"locality",
@@ -103,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.61667000000001,
+    31.61667,
     -4.66667,
-    31.61667000000001,
+    31.61667,
     -4.66667
 ],
-  "geometry": {"coordinates":[31.61667000000001,-4.66667],"type":"Point"}
+  "geometry": {"coordinates":[31.61667,-4.66667],"type":"Point"}
 }

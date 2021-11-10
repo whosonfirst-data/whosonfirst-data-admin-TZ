@@ -35,6 +35,12 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u099a\u09c7\u0995 \u099a\u09c7\u0995"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03ac\u03ba\u03b5 \u03c4\u03c3\u03ac\u03ba\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Chake Chake"
     ],
@@ -42,8 +48,41 @@
         "Chake Chake",
         "Chake"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u06a9\u0647 \u0686\u0627\u06a9\u0647"
+    ],
     "name:fra_x_preferred":[
         "Chake-Chake"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u093e\u0915\u0947 \u091a\u093e\u0915\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Chake Chake"
+    ],
+    "name:ind_x_preferred":[
+        "Chake Chake"
+    ],
+    "name:kor_x_preferred":[
+        "\uccb4\uc774\ud06c \uccb4\uc774\ud06c"
+    ],
+    "name:pol_x_preferred":[
+        "Chake Chake"
+    ],
+    "name:spa_x_preferred":[
+        "Chake Chake"
+    ],
+    "name:tur_x_preferred":[
+        "Chake Chake"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u043a\u0435-\u0427\u0430\u043a\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u06cc\u06a9 \u0686\u06cc\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Chake Chake"
     ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"ADM2",
@@ -107,7 +146,7 @@
         }
     ],
     "wof:id":421187955,
-    "wof:lastmodified":1627522858,
+    "wof:lastmodified":1636501536,
     "wof:name":"Chake Chake",
     "wof:parent_id":85679687,
     "wof:placetype":"county",

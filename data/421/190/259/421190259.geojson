@@ -35,6 +35,15 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0648\u064a\u062a\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0993\u09df\u09c7\u099f\u09c7"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03ad\u03c4\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Wete"
     ],
@@ -48,8 +57,38 @@
     "name:fra_x_preferred":[
         "Wete"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u0947\u0924\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Wete"
+    ],
+    "name:ind_x_preferred":[
+        "Wete"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6e8\ud14c"
+    ],
+    "name:pol_x_preferred":[
+        "Wete"
+    ],
+    "name:por_x_preferred":[
+        "Wete"
+    ],
+    "name:spa_x_preferred":[
+        "Wete"
+    ],
     "name:swa_x_preferred":[
         "Wilaya ya Wete"
+    ],
+    "name:tur_x_preferred":[
+        "Wete"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0679\u06cc"
     ],
     "name:vie_x_preferred":[
         "Wete"
@@ -118,7 +157,7 @@
         }
     ],
     "wof:id":421190259,
-    "wof:lastmodified":1627522879,
+    "wof:lastmodified":1636501538,
     "wof:name":"Wete",
     "wof:parent_id":85679683,
     "wof:placetype":"county",

@@ -43,6 +43,12 @@
     "name:fra_x_preferred":[
         "Kalinga"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05dc\u05d9\u05e0\u05d2\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Kalinga"
+    ],
     "name:ita_x_preferred":[
         "Kalinga"
     ],
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1242683835,
-    "wof:lastmodified":1566590878,
+    "wof:lastmodified":1636501546,
     "wof:name":"Kalinga",
     "wof:parent_id":1108692997,
     "wof:placetype":"locality",

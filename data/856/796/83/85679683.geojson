@@ -80,11 +80,17 @@
     "name:guj_x_preferred":[
         "\u0a89\u0aa4\u0acd\u0aa4\u0ab0 \u0aaa\u0ac7\u0aae\u0acd\u0aac\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e1\u05e7\u05d0\u05d6\u05d9\u05e0\u05d9-\u05e4\u05de\u05d1\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930\u0940 \u092a\u093f\u092e\u094d\u092c\u093e \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
     ],
     "name:hrv_x_preferred":[
         "Pemba Sjever"
+    ],
+    "name:hun_x_preferred":[
+        "Kaskazini-Pemba"
     ],
     "name:ind_x_preferred":[
         "Wilayah Pemba Utara"
@@ -317,7 +323,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1617131281,
+    "wof:lastmodified":1636501515,
     "wof:name":"Kaskazini-Pemba",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

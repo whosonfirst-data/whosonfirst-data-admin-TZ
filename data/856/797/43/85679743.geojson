@@ -91,6 +91,9 @@
     "name:hrv_x_preferred":[
         "Mara"
     ],
+    "name:hun_x_preferred":[
+        "Mara"
+    ],
     "name:ind_x_preferred":[
         "Wilayah Mara"
     ],
@@ -318,7 +321,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1617131416,
+    "wof:lastmodified":1636501505,
     "wof:name":"Mara",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

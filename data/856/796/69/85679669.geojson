@@ -97,6 +97,9 @@
     "name:hrv_x_preferred":[
         "Kigoma"
     ],
+    "name:hun_x_preferred":[
+        "Kigoma"
+    ],
     "name:ind_x_preferred":[
         "Wilayah Kigoma"
     ],
@@ -324,7 +327,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896131,
+    "wof:lastmodified":1636501509,
     "wof:name":"Kigoma",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

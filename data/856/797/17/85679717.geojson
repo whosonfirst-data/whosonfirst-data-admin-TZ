@@ -59,6 +59,9 @@
         "Mtwara"
     ],
     "name:ell_x_preferred":[
+        "\u039c\u03c4\u03b2\u03ac\u03c1\u03b1"
+    ],
+    "name:ell_x_variant":[
         "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039c\u03c4\u03bf\u03c5\u03ac\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
@@ -85,10 +88,16 @@
     "name:guj_x_preferred":[
         "\u0aae\u0aa4\u0ab5\u0abe\u0ab0\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05d1\u05d0\u05e8\u05e7 \u05d0\u05dc-\u05db\u05d1\u05d9\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0924\u094d\u0924\u0935\u093e\u0930 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
     ],
     "name:hrv_x_preferred":[
+        "Mtwara"
+    ],
+    "name:hun_x_preferred":[
         "Mtwara"
     ],
     "name:ind_x_preferred":[
@@ -318,7 +327,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1617130626,
+    "wof:lastmodified":1636501505,
     "wof:name":"Mtwara",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

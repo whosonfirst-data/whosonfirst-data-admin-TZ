@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0643\u0648\u064a\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u099f\u09c1\u0995\u09c1\u09df\u09c1"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0443\u043a\u0443\u044e"
     ],
@@ -31,8 +34,14 @@
     "name:deu_x_preferred":[
         "Tukuyu"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03c5\u03ba\u03bf\u03c5\u03b3\u03b9\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Tukuyu"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u06a9\u0648\u06cc\u0648"
     ],
     "name:fin_x_preferred":[
         "Tukuyu"
@@ -40,7 +49,31 @@
     "name:fra_x_preferred":[
         "Tukuyu"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e7\u05d5\u05d9\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u0941\u0915\u0941\u092f\u0941"
+    ],
+    "name:hun_x_preferred":[
+        "Tukuyu"
+    ],
+    "name:ind_x_preferred":[
+        "Tukuyu"
+    ],
+    "name:ita_x_preferred":[
+        "Tukuyu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a5\u30af\u30e6"
+    ],
+    "name:kor_x_preferred":[
+        "\ud22c\ucfe0\uc720"
+    ],
     "name:nld_x_preferred":[
+        "Tukuyu"
+    ],
+    "name:pol_x_preferred":[
         "Tukuyu"
     ],
     "name:por_x_preferred":[
@@ -49,11 +82,32 @@
     "name:ron_x_preferred":[
         "Tukuyu"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u043a\u0443\u044e"
+    ],
+    "name:spa_x_preferred":[
+        "Tukuyu"
+    ],
     "name:swa_x_preferred":[
         "Tukuyu"
     ],
+    "name:swe_x_preferred":[
+        "Tukuyu"
+    ],
+    "name:tur_x_preferred":[
+        "Tukuyu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u043a\u0443\u044e"
+    ],
     "name:und_x_variant":[
         "Neu-Langenberg"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0648\u06a9\u0648\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Tukuyu"
     ],
     "name:zho_x_preferred":[
         "\u5716\u5eab\u5c24"
@@ -185,7 +239,7 @@
         }
     ],
     "wof:id":890420633,
-    "wof:lastmodified":1566590844,
+    "wof:lastmodified":1636501544,
     "wof:name":"Tukuyu",
     "wof:parent_id":1108693009,
     "wof:placetype":"locality",

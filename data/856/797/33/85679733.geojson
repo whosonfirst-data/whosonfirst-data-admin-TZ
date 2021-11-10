@@ -91,6 +91,9 @@
     "name:hrv_x_preferred":[
         "Manyara"
     ],
+    "name:hun_x_preferred":[
+        "Manyara"
+    ],
     "name:ind_x_preferred":[
         "Wilayah Manyara"
     ],
@@ -315,7 +318,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896128,
+    "wof:lastmodified":1636501504,
     "wof:name":"Manyara",
     "wof:parent_id":85632227,
     "wof:placetype":"region",
