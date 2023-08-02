@@ -37,6 +37,9 @@
     "name:ara_x_variant":[
         "\u0625\u0642\u0644\u064a\u0645 \u0628\u0648\u0627\u0646\u064a"
     ],
+    "name:avk_x_preferred":[
+        "TanzaniaPwaniGola"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0432\u0430\u043d\u0456"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:ceb_x_preferred":[
         "Coast Region"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06be\u06d5\u0631\u06ce\u0645\u06cc \u067e\u0648\u0627\u0646\u06cc"
     ],
     "name:dan_x_preferred":[
         "Pwani"
@@ -72,6 +78,9 @@
     "name:epo_x_preferred":[
         "Regiono Pwani"
     ],
+    "name:est_x_preferred":[
+        "Pwani piirkond"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u067e\u0648\u0627\u0646\u06cc"
     ],
@@ -79,6 +88,9 @@
         "Pwanin alue"
     ],
     "name:fra_x_preferred":[
+        "Pwani"
+    ],
+    "name:frr_x_preferred":[
         "Pwani"
     ],
     "name:glg_x_preferred":[
@@ -116,6 +128,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud504\uc640\ub2c8 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud504\uc640\ub2c8\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Pvani re\u0123ions"
@@ -200,6 +215,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6ff1\u6d77\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Pwani Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TZA",
@@ -326,7 +344,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501511,
+    "wof:lastmodified":1690876094,
     "wof:name":"Pwani",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

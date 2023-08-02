@@ -38,11 +38,17 @@
     "name:ceb_x_preferred":[
         "Hanang District"
     ],
+    "name:deu_x_preferred":[
+        "Hanang"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03a7\u03ac\u03bd\u03b1\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Hanang"
+    ],
+    "name:eng_x_variant":[
+        "Hanang District"
     ],
     "name:fra_x_preferred":[
         "Hanang"
@@ -58,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "Hanang"
+    ],
+    "name:zul_x_preferred":[
+        "Hanang District"
     ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"ADM2",
@@ -123,7 +132,7 @@
         }
     ],
     "wof:id":421171039,
-    "wof:lastmodified":1627522859,
+    "wof:lastmodified":1690876144,
     "wof:name":"Hanang",
     "wof:parent_id":85679733,
     "wof:placetype":"county",

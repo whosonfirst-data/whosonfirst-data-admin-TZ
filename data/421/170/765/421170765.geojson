@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Kibondo"
+    ],
+    "name:deu_x_preferred":[
+        "Kibondo"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039a\u03b9\u03bc\u03c0\u03cc\u03bd\u03c4\u03bf"
     ],
@@ -25,6 +31,9 @@
     ],
     "name:vie_x_preferred":[
         "Kibondo"
+    ],
+    "name:zul_x_preferred":[
+        "Kibondo District"
     ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"PPL",
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":421170765,
-    "wof:lastmodified":1566590829,
+    "wof:lastmodified":1690876138,
     "wof:name":"Kibondo",
     "wof:parent_id":1108693059,
     "wof:placetype":"locality",

@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Ngudu"
+    ],
+    "name:ceb_x_preferred":[
+        "Ngudu"
+    ],
     "name:ell_x_preferred":[
         "\u039d\u03b3\u03ba\u03bf\u03cd\u03bd\u03c4\u03bf\u03c5"
     ],
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":421166975,
-    "wof:lastmodified":1566590806,
+    "wof:lastmodified":1690876122,
     "wof:name":"Ngudu",
     "wof:parent_id":1108693111,
     "wof:placetype":"locality",

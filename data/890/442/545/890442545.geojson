@@ -28,10 +28,16 @@
     "name:eng_x_preferred":[
         "Kyaka"
     ],
+    "name:fra_x_preferred":[
+        "Kyaka"
+    ],
     "name:ita_x_preferred":[
         "Kyaka"
     ],
     "name:ron_x_preferred":[
+        "Kyaka"
+    ],
+    "name:swa_x_preferred":[
         "Kyaka"
     ],
     "qs:name":"Kyaka",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":890442545,
-    "wof:lastmodified":1566590844,
+    "wof:lastmodified":1690876150,
     "wof:name":"Kyaka",
     "wof:parent_id":1108693099,
     "wof:placetype":"locality",

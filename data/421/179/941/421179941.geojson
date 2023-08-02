@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0644\u0648\u0632\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u064a\u0644\u0648\u0632\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09b2\u09cb\u09b8\u09be"
     ],
@@ -252,7 +255,7 @@
         }
     ],
     "wof:id":421179941,
-    "wof:lastmodified":1636501541,
+    "wof:lastmodified":1690876141,
     "wof:name":"Kilosa",
     "wof:parent_id":421204027,
     "wof:placetype":"locality",

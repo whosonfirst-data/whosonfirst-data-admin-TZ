@@ -41,6 +41,12 @@
     "name:ben_x_preferred":[
         "\u09aa\u09be\u0982\u0997\u09be\u09a8\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Pangani"
+    ],
+    "name:deu_x_preferred":[
+        "Pangani"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03a0\u03b1\u03bd\u03b3\u03ba\u03ac\u03bd\u03b9"
     ],
@@ -48,7 +54,6 @@
         "Pangani"
     ],
     "name:eng_x_variant":[
-        "Pangani",
         "Pangani District"
     ],
     "name:fas_x_preferred":[
@@ -89,6 +94,12 @@
     ],
     "name:vie_x_preferred":[
         "S\u00f4ng Pangani"
+    ],
+    "name:vie_x_variant":[
+        "Pangani"
+    ],
+    "name:zul_x_preferred":[
+        "Pangani District"
     ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"ADM2",
@@ -153,7 +164,7 @@
         }
     ],
     "wof:id":421203229,
-    "wof:lastmodified":1636501534,
+    "wof:lastmodified":1690876125,
     "wof:name":"Pangani",
     "wof:parent_id":85679747,
     "wof:placetype":"county",

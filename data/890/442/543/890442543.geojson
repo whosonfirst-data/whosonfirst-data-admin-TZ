@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Maswa District"
     ],
+    "name:deu_x_preferred":[
+        "Maswa"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039c\u03ac\u03c3\u03bf\u03c5\u03b1"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:vie_x_preferred":[
         "Maswa"
+    ],
+    "name:zul_x_preferred":[
+        "Maswa District"
     ],
     "qs:name":"Lalago",
     "qs:photos_9r":0,
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":890442543,
-    "wof:lastmodified":1566590844,
+    "wof:lastmodified":1690876150,
     "wof:name":"Lalago",
     "wof:parent_id":1108693157,
     "wof:placetype":"locality",

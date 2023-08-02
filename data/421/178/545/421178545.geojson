@@ -35,6 +35,9 @@
     "name:swa_x_preferred":[
         "Wilaya ya Mbinga"
     ],
+    "name:swa_x_variant":[
+        "Mbinga"
+    ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":877998,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421178545,
-    "wof:lastmodified":1566590832,
+    "wof:lastmodified":1690876142,
     "wof:name":"Mbunga",
     "wof:parent_id":1108692989,
     "wof:placetype":"locality",

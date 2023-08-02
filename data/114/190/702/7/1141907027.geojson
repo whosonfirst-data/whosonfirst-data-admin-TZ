@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0646\u062f\u0648\u0631\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0648\u0646\u062f\u0648\u0631\u0648"
+    ],
     "name:bar_x_preferred":[
         "Tunduru"
     ],
@@ -78,6 +81,9 @@
     "name:ron_x_preferred":[
         "Districtul Tunduru"
     ],
+    "name:ron_x_variant":[
+        "Tunduru"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0443\u043d\u0434\u0443\u0440\u0443"
     ],
@@ -86,6 +92,9 @@
     ],
     "name:swa_x_preferred":[
         "Wilaya ya Tunduru"
+    ],
+    "name:swa_x_variant":[
+        "Tunduru"
     ],
     "name:swe_x_preferred":[
         "Tunduru"
@@ -98,6 +107,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062a\u0646\u062f\u0648\u0631\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Tunduru"
     ],
     "name:zho_cn_x_preferred":[
         "\u901a\u675c\u9c81"
@@ -224,7 +236,7 @@
         }
     ],
     "wof:id":1141907027,
-    "wof:lastmodified":1636501553,
+    "wof:lastmodified":1690876160,
     "wof:name":"Tunduru",
     "wof:parent_id":1108692985,
     "wof:placetype":"locality",

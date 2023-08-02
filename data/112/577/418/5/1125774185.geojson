@@ -34,6 +34,9 @@
     "name:ita_x_preferred":[
         "Poli"
     ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30fc\u30ea"
+    ],
     "name:nld_x_preferred":[
         "Poli"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1125774185,
-    "wof:lastmodified":1566590857,
+    "wof:lastmodified":1690876159,
     "wof:name":"Poli",
     "wof:parent_id":1108692905,
     "wof:placetype":"locality",

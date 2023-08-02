@@ -37,6 +37,12 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09ac\u09be\u09a4\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Babati District"
+    ],
+    "name:deu_x_preferred":[
+        "Babati"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039c\u03c0\u03b1\u03bc\u03c0\u03ac\u03c4\u03b9"
     ],
@@ -44,11 +50,13 @@
         "Babati"
     ],
     "name:eng_x_variant":[
-        "Babati",
         "Babati District"
     ],
     "name:fra_x_preferred":[
         "Babati"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05e4\u05ea \u05d1\u05d1\u05d0\u05d8\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u092c\u092c\u093e\u0924\u0940"
@@ -107,7 +115,7 @@
         }
     ],
     "wof:id":1108693123,
-    "wof:lastmodified":1636501527,
+    "wof:lastmodified":1690876110,
     "wof:name":"Babati",
     "wof:parent_id":85679733,
     "wof:placetype":"county",

@@ -35,6 +35,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Morogoro"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03c3\u03c4\u03b9\u03ba\u03ae \u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039c\u03bf\u03c1\u03bf\u03b3\u03ba\u03cc\u03c1\u03bf"
     ],
@@ -59,6 +62,9 @@
     ],
     "name:ita_x_preferred":[
         "Distretto urbano di Morogoro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30ed\u30b4\u30ed\u90fd\u5e02\u770c"
     ],
     "name:swa_x_preferred":[
         "Morogoro Mjini"
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":421193165,
-    "wof:lastmodified":1636501534,
+    "wof:lastmodified":1690876124,
     "wof:name":"Morogoro",
     "wof:parent_id":85679677,
     "wof:placetype":"county",

@@ -37,6 +37,9 @@
     "name:ceb_x_preferred":[
         "Kilindi District"
     ],
+    "name:deu_x_preferred":[
+        "Kilindi"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039a\u03b9\u03bb\u03af\u03bd\u03c4\u03b9"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:vie_x_preferred":[
         "Kilindi"
+    ],
+    "name:zul_x_preferred":[
+        "Kilindi District"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1108692925,
-    "wof:lastmodified":1627522863,
+    "wof:lastmodified":1690876107,
     "wof:name":"Kilindi",
     "wof:parent_id":85679747,
     "wof:placetype":"county",

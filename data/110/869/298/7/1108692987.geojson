@@ -34,6 +34,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ceb_x_preferred":[
+        "Songea"
+    ],
     "name:deu_x_preferred":[
         "Songea Rural"
     ],
@@ -42,17 +45,22 @@
     ],
     "name:eng_x_variant":[
         "Songea",
-        "Songea Rural",
         "Songea Rural District"
     ],
     "name:fra_x_preferred":[
         "Songea Rural"
+    ],
+    "name:spa_x_preferred":[
+        "Songea"
     ],
     "name:swa_x_preferred":[
         "Songea Vijijini"
     ],
     "name:vie_x_preferred":[
         "Songea Rural"
+    ],
+    "name:zul_x_preferred":[
+        "Songea Rural District"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -90,7 +98,7 @@
         }
     ],
     "wof:id":1108692987,
-    "wof:lastmodified":1627522877,
+    "wof:lastmodified":1690876113,
     "wof:name":"Songea Rural",
     "wof:parent_id":85679723,
     "wof:placetype":"county",

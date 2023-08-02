@@ -17,10 +17,19 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Bariadi"
+    ],
     "name:ceb_x_preferred":[
         "Bariadi"
     ],
+    "name:deu_x_preferred":[
+        "Bariadi"
+    ],
     "name:eng_x_preferred":[
+        "Bariadi"
+    ],
+    "name:epo_x_preferred":[
         "Bariadi"
     ],
     "name:fin_x_preferred":[
@@ -49,6 +58,9 @@
     ],
     "name:yue_x_preferred":[
         "\u5df4\u91cc\u4e9e\u8fea"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u91cc\u4e9a\u8fea"
     ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"PPL",
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":421178423,
-    "wof:lastmodified":1566590832,
+    "wof:lastmodified":1690876142,
     "wof:name":"Bariadi",
     "wof:parent_id":421187951,
     "wof:placetype":"locality",

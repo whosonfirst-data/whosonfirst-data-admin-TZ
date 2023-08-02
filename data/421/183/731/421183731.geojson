@@ -20,14 +20,26 @@
     "name:ell_x_preferred":[
         "\u039a\u03b9\u03bc\u03ac\u03bc\u03c0\u03b1 '\u0391'"
     ],
+    "name:ell_x_variant":[
+        "\u039a\u03b9\u03bc\u03ac\u03bc\u03c0\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Kimamba 'A'"
+    ],
+    "name:eng_x_variant":[
+        "Kimamba"
     ],
     "name:ita_x_preferred":[
         "Kimamba A"
     ],
+    "name:ita_x_variant":[
+        "Kimamba"
+    ],
     "name:swa_x_preferred":[
         "Kimamba 'A'"
+    ],
+    "name:swa_x_variant":[
+        "Kimamba"
     ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"PPL",
@@ -76,7 +88,7 @@
         }
     ],
     "wof:id":421183731,
-    "wof:lastmodified":1566590831,
+    "wof:lastmodified":1690876141,
     "wof:name":"Kimamba",
     "wof:parent_id":421204027,
     "wof:placetype":"locality",

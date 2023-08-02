@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0631\u064a\u0646\u063a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Iringa"
+    ],
+    "name:avk_x_preferred":[
+        "Iringa"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u06cc\u0631\u06cc\u0646\u0642\u0627"
     ],
@@ -101,6 +107,9 @@
     "name:nld_x_preferred":[
         "Iringa"
     ],
+    "name:nno_x_preferred":[
+        "Iringa"
+    ],
     "name:nob_x_preferred":[
         "Iringa"
     ],
@@ -163,6 +172,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u6797\u52a0"
+    ],
+    "name:zul_x_preferred":[
+        "Iringa"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tanzania",
@@ -313,7 +325,7 @@
         }
     ],
     "wof:id":421181605,
-    "wof:lastmodified":1582347612,
+    "wof:lastmodified":1690876132,
     "wof:name":"Iringa",
     "wof:parent_id":421198449,
     "wof:placetype":"locality",

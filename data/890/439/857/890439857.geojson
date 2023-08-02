@@ -34,6 +34,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0438\u0432\u0435\u043d\u0433\u0432\u0430"
     ],
+    "name:swa_x_preferred":[
+        "Kiwengwa"
+    ],
     "name:und_x_variant":[
         "Kiwengwo"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890439857,
-    "wof:lastmodified":1566590842,
+    "wof:lastmodified":1690876147,
     "wof:name":"Kiwengwa",
     "wof:parent_id":421194823,
     "wof:placetype":"locality",

@@ -49,6 +49,9 @@
     "name:vie_x_preferred":[
         "Mtwara Rural"
     ],
+    "name:vie_x_variant":[
+        "Lindi Urban"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108692967,
-    "wof:lastmodified":1627522865,
+    "wof:lastmodified":1690876113,
     "wof:name":"Lindi Urban",
     "wof:parent_id":85679713,
     "wof:placetype":"county",

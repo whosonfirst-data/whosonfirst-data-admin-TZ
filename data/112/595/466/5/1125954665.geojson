@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0646\u062c\u064a\u062f\u0648"
+    ],
     "name:ceb_x_preferred":[
         "Longido"
     ],
@@ -37,11 +40,17 @@
     "name:nld_x_preferred":[
         "Longido"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043d\u0433\u0438\u0434\u043e"
+    ],
     "name:swa_x_preferred":[
         "Longido"
     ],
     "name:swa_x_variant":[
         "Ifakara"
+    ],
+    "name:zho_x_preferred":[
+        "\u6717\u5409\u591a"
     ],
     "qs_pg:aaroncc":"TZ",
     "qs_pg:gn_country":"TZ",
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":1125954665,
-    "wof:lastmodified":1566590851,
+    "wof:lastmodified":1690876156,
     "wof:name":"Longido",
     "wof:parent_id":1108692911,
     "wof:placetype":"locality",

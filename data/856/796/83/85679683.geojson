@@ -37,6 +37,9 @@
     "name:ara_x_variant":[
         "\u0625\u0642\u0644\u064a\u0645 \u0634\u0645\u0627\u0644 \u0628\u064a\u0645\u0628\u0627"
     ],
+    "name:avk_x_preferred":[
+        "TanzaniaPembaNorthGola"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09b0\u09cd\u09a5 \u09aa\u09c7\u09ae\u09cd\u09ac\u09be \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -109,6 +112,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud3a8\ubc14 \ubd81\ubd80 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud3a8\ubc14 \ubd81\ubd80\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Zieme\u013cpembas re\u0123ions"
@@ -323,7 +329,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501515,
+    "wof:lastmodified":1690876098,
     "wof:name":"Kaskazini-Pemba",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

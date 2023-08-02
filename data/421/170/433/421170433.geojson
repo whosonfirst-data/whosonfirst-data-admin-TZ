@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0643-\u062a\u0634\u0627\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0634\u0627\u0643 \u062a\u0634\u0627\u0643"
+    ],
     "name:ben_x_preferred":[
         "\u099a\u09c7\u0995 \u099a\u09c7\u0995"
     ],
@@ -86,8 +89,14 @@
     "name:ron_x_preferred":[
         "Chake Chake"
     ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043a\u0435-\u0427\u0430\u043a\u0435"
+    ],
     "name:spa_x_preferred":[
         "Chake Chake"
+    ],
+    "name:spa_x_variant":[
+        "Chake-Chake"
     ],
     "name:swa_x_preferred":[
         "Chake Chake"
@@ -112,6 +121,9 @@
     ],
     "name:zho_x_preferred":[
         "\u67e5\u51f1\u67e5\u51f1"
+    ],
+    "name:zul_x_preferred":[
+        "Chake Chake"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tanzania",
@@ -260,7 +272,7 @@
         }
     ],
     "wof:id":421170433,
-    "wof:lastmodified":1636501540,
+    "wof:lastmodified":1690876140,
     "wof:name":"Chake Chake",
     "wof:parent_id":421187955,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0646\u0647\u0631 \u0623\u0648\u0633\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Usa River"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421170447,
-    "wof:lastmodified":1566590829,
+    "wof:lastmodified":1690876138,
     "wof:name":"Usa River",
     "wof:parent_id":1108692905,
     "wof:placetype":"locality",

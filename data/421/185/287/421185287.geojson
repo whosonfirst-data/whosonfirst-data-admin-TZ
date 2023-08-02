@@ -20,11 +20,23 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0628\u0648\u0631\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0627\u0628\u0648\u0631\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Tabora"
+    ],
+    "name:avk_x_preferred":[
+        "Tabora"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u0627\u0628\u0648\u0631\u0627"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u0430\u0431\u043e\u0440\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0422\u0430\u0431\u043e\u0440\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09ac\u09cb\u09b0\u09be"
@@ -62,6 +74,9 @@
     "name:fra_x_preferred":[
         "Tabora"
     ],
+    "name:gle_x_preferred":[
+        "Tabora"
+    ],
     "name:guj_x_preferred":[
         "\u0aa4\u0aac\u0acb\u0ab0\u0abe"
     ],
@@ -88,6 +103,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c9f\u0cbe\u0cac\u0cb0\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10d1\u10dd\u10e0\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ud0c0\ubcf4\ub77c"
@@ -155,6 +173,9 @@
     "name:urd_x_preferred":[
         "\u062a\u0627\u0628\u0648\u0631\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Tabora"
+    ],
     "name:vie_x_preferred":[
         "Tabora"
     ],
@@ -163,6 +184,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5854\u6ce2\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Tabora"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tanzania",
@@ -313,7 +337,7 @@
         }
     ],
     "wof:id":421185287,
-    "wof:lastmodified":1636501543,
+    "wof:lastmodified":1690876145,
     "wof:name":"Tabora",
     "wof:parent_id":1108693045,
     "wof:placetype":"locality",

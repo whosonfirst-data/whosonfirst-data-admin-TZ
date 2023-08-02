@@ -24,10 +24,19 @@
     "name:ara_x_preferred":[
         "\u0645\u0643\u0648\u0643\u0648\u062a\u0648\u0646\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0643\u0648\u0643\u0648\u062a\u0648\u0646\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Mkokotoni"
+    ],
     "name:ben_x_preferred":[
         "\u098f\u09ae\u0995\u09cb\u0995\u09cb\u099f\u09cb\u09a8\u09bf"
     ],
     "name:ceb_x_preferred":[
+        "Mkokotoni"
+    ],
+    "name:deu_x_preferred":[
         "Mkokotoni"
     ],
     "name:ell_x_preferred":[
@@ -110,6 +119,9 @@
     ],
     "name:yor_x_preferred":[
         "Mkokotoni"
+    ],
+    "name:zho_x_preferred":[
+        "\u59c6\u79d1\u79d1\u6258\u5c3c"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tanzania",
@@ -244,7 +256,7 @@
         }
     ],
     "wof:id":1141906075,
-    "wof:lastmodified":1636501554,
+    "wof:lastmodified":1690876161,
     "wof:name":"Mkokotoni",
     "wof:parent_id":890451535,
     "wof:placetype":"locality",

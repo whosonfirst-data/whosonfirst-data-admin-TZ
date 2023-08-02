@@ -37,6 +37,9 @@
     "name:ara_x_variant":[
         "\u0625\u0642\u0644\u064a\u0645 \u0645\u0648\u0627\u0646\u0632\u0627"
     ],
+    "name:avk_x_preferred":[
+        "TanzaniaMwanzaGola"
+    ],
     "name:ben_x_preferred":[
         "\u098f\u09ae\u0993\u09af\u09bc\u09be\u099e\u09cd\u099c\u09be \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -79,11 +82,17 @@
     "name:fra_x_preferred":[
         "Mwanza"
     ],
+    "name:frr_x_preferred":[
+        "Mwanza"
+    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Mwanza"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acd\u0ab5\u0abe\u0aa8\u0acd\u0a9d\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05d5\u05d0\u05e0\u05d6\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0935\u093e\u0928\u094d\u091c\u093c\u093e \u092a\u094d\u0930\u0926\u0947\u0936"
@@ -110,7 +119,8 @@
         "\ubbc0\uc644\uc790"
     ],
     "name:kor_x_variant":[
-        "\ubbc0\uc644\uc790 \uc8fc"
+        "\ubbc0\uc644\uc790 \uc8fc",
+        "\ubbc0\uc644\uc790\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Mvanzas re\u0123ions"
@@ -207,6 +217,9 @@
     ],
     "name:zho_x_variant":[
         "\u59c6\u842c\u7d2e\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Mwanza Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TZA",
@@ -333,7 +346,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501514,
+    "wof:lastmodified":1690876096,
     "wof:name":"Mwanza",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

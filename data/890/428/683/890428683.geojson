@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Ilembo"
+    ],
     "name:eng_x_preferred":[
         "Ilembo"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890428683,
-    "wof:lastmodified":1566590843,
+    "wof:lastmodified":1690876148,
     "wof:name":"Ilembo",
     "wof:parent_id":1108693007,
     "wof:placetype":"locality",

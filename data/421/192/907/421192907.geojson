@@ -35,6 +35,15 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0643\u0633\u0631\u0627\u0648\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Kisarawe"
+    ],
+    "name:deu_x_preferred":[
+        "Kisarawe"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039a\u03b9\u03c3\u03b1\u03c1\u03ac\u03bf\u03c5\u03b5"
     ],
@@ -42,7 +51,6 @@
         "Kisarawe"
     ],
     "name:eng_x_variant":[
-        "Kisarawe",
         "Kisarawe District"
     ],
     "name:fra_x_preferred":[
@@ -56,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "Kisarawe"
+    ],
+    "name:zul_x_preferred":[
+        "Kisarawe District"
     ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"ADM2",
@@ -121,7 +132,7 @@
         }
     ],
     "wof:id":421192907,
-    "wof:lastmodified":1627522864,
+    "wof:lastmodified":1690876123,
     "wof:name":"Kisarawe",
     "wof:parent_id":85679691,
     "wof:placetype":"county",

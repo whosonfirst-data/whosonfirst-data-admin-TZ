@@ -28,13 +28,25 @@
     "name:ceb_x_preferred":[
         "Mlimba"
     ],
+    "name:deu_x_preferred":[
+        "Mlimba"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bb\u03af\u03bc\u03c0\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Mlimba"
     ],
     "name:fin_x_preferred":[
         "Mlimba"
     ],
+    "name:fra_x_preferred":[
+        "Mlimba"
+    ],
     "name:nld_x_preferred":[
+        "Mlimba"
+    ],
+    "name:swe_x_preferred":[
         "Mlimba"
     ],
     "qs_pg:aaroncc":"TZ",
@@ -76,7 +88,7 @@
         }
     ],
     "wof:id":1125950647,
-    "wof:lastmodified":1566590850,
+    "wof:lastmodified":1690876155,
     "wof:name":"Mlimba",
     "wof:parent_id":1108692935,
     "wof:placetype":"locality",

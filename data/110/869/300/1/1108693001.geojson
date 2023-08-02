@@ -70,6 +70,9 @@
     "name:vie_x_preferred":[
         "Kilolo"
     ],
+    "name:zul_x_preferred":[
+        "Kilolo District"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1108693001,
-    "wof:lastmodified":1627522863,
+    "wof:lastmodified":1690876103,
     "wof:name":"Kilolo",
     "wof:parent_id":85679711,
     "wof:placetype":"county",

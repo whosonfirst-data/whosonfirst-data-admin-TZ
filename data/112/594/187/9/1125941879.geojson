@@ -25,7 +25,16 @@
     "name:ara_x_preferred":[
         "\u064a\u0648\u0641\u064a\u0646\u0632\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u064a\u0648\u0641\u064a\u0646\u0632\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Uvinza"
+    ],
     "name:ceb_x_preferred":[
+        "Uvinza"
+    ],
+    "name:deu_x_preferred":[
         "Uvinza"
     ],
     "name:ell_x_preferred":[
@@ -36,6 +45,9 @@
     ],
     "name:ita_x_preferred":[
         "Uvinza"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30d3\u30f3\u30b6"
     ],
     "name:nld_x_preferred":[
         "Uvinza"
@@ -76,6 +88,9 @@
     "name:zho_tw_x_preferred":[
         "\u70cf\u6eab\u624e"
     ],
+    "name:zul_x_preferred":[
+        "Uvinza District"
+    ],
     "qs_pg:aaroncc":"TZ",
     "qs_pg:gn_country":"TZ",
     "qs_pg:gn_fcode":"PPL",
@@ -115,7 +130,7 @@
         }
     ],
     "wof:id":1125941879,
-    "wof:lastmodified":1636501544,
+    "wof:lastmodified":1690876154,
     "wof:name":"Uvinza",
     "wof:parent_id":1108693065,
     "wof:placetype":"locality",

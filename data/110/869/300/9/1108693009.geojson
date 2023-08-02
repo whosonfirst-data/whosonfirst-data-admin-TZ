@@ -37,6 +37,12 @@
     "name:ceb_x_preferred":[
         "Rungwe"
     ],
+    "name:deu_x_preferred":[
+        "Rungwe"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03a1\u03bf\u03cd\u03bd\u03b3\u03ba\u03bf\u03c5\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Rungwe"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Rungwe"
+    ],
+    "name:zul_x_preferred":[
+        "Rungwe District"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":1108693009,
-    "wof:lastmodified":1627522875,
+    "wof:lastmodified":1690876102,
     "wof:name":"Rungwe",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

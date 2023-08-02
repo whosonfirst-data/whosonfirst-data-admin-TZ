@@ -55,11 +55,17 @@
     "name:fra_x_preferred":[
         "Namtumbo"
     ],
+    "name:spa_x_preferred":[
+        "Namtumbo"
+    ],
     "name:swa_x_preferred":[
         "Wilaya ya Namtumbo"
     ],
     "name:vie_x_preferred":[
         "Namtumbo"
+    ],
+    "name:zul_x_preferred":[
+        "Namtumbo District"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1108692993,
-    "wof:lastmodified":1627522871,
+    "wof:lastmodified":1690876116,
     "wof:name":"Namtumbo",
     "wof:parent_id":85679723,
     "wof:placetype":"county",

@@ -50,6 +50,9 @@
     "name:vie_x_preferred":[
         "Karatu"
     ],
+    "name:zul_x_preferred":[
+        "Karatu District"
+    ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":158324,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421192391,
-    "wof:lastmodified":1566590807,
+    "wof:lastmodified":1690876123,
     "wof:name":"Karatu",
     "wof:parent_id":421187711,
     "wof:placetype":"locality",

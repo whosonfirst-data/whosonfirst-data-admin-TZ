@@ -65,6 +65,9 @@
     "name:zho_x_preferred":[
         "\u6851\u7d66\u5df4\u723e"
     ],
+    "name:zul_x_preferred":[
+        "Serengeti District"
+    ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"ADM2",
     "qs:gn_id":150095,
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421170243,
-    "wof:lastmodified":1627522876,
+    "wof:lastmodified":1690876139,
     "wof:name":"Serengeti",
     "wof:parent_id":85679743,
     "wof:placetype":"county",

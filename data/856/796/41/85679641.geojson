@@ -37,6 +37,9 @@
     "name:ara_x_variant":[
         "\u0625\u0642\u0644\u064a\u0645 \u0645\u0628\u064a\u0627"
     ],
+    "name:avk_x_preferred":[
+        "TanzaniaMbeyaGola"
+    ],
     "name:ben_x_preferred":[
         "\u098f\u09ae\u09ac\u09c7\u09af\u09bc\u09be \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03ad\u03b3\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03ad\u03c5\u03b1"
     ],
     "name:eng_x_preferred":[
         "Mbeya"
@@ -79,11 +85,17 @@
     "name:fra_x_preferred":[
         "Mbeya"
     ],
+    "name:frr_x_preferred":[
+        "Mbeya"
+    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Mbeya"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acd\u0aac\u0ac7\u0aaf\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d1\u05d9\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0947\u092c\u093f\u092f\u093e \u092a\u094d\u0930\u0926\u0947\u0936"
@@ -111,6 +123,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubbc0\ubca0\uc57c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubbc0\ubca0\uc57c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Mbejas re\u0123ions"
@@ -195,6 +210,9 @@
     ],
     "name:zho_x_preferred":[
         "\u59c6\u8c9d\u4e9e\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Mbeya Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TZA",
@@ -321,7 +339,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501515,
+    "wof:lastmodified":1690876097,
     "wof:name":"Mbeya",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

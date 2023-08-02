@@ -34,10 +34,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0645\u064a\u0644\u064a\u0628\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Muleba"
     ],
     "name:cym_x_preferred":[
+        "Muleba"
+    ],
+    "name:deu_x_preferred":[
         "Muleba"
     ],
     "name:eng_x_preferred":[
@@ -66,6 +72,9 @@
     ],
     "name:vie_x_preferred":[
         "Muleba"
+    ],
+    "name:zul_x_preferred":[
+        "Muleba District"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":1108693091,
-    "wof:lastmodified":1627522871,
+    "wof:lastmodified":1690876103,
     "wof:name":"Muleba",
     "wof:parent_id":85679665,
     "wof:placetype":"county",

@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Pangani"
+    ],
     "name:ceb_x_preferred":[
         "Pangani"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421168503,
-    "wof:lastmodified":1636501533,
+    "wof:lastmodified":1690876120,
     "wof:name":"Pangani",
     "wof:parent_id":421203229,
     "wof:placetype":"locality",

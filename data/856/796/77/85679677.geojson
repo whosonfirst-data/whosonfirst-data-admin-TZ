@@ -37,6 +37,9 @@
     "name:ara_x_variant":[
         "\u0625\u0642\u0644\u064a\u0645 \u0645\u0648\u0631\u0648\u063a\u0648\u0631\u0648"
     ],
+    "name:avk_x_preferred":[
+        "TanzaniaMorogoroGola"
+    ],
     "name:bar_x_preferred":[
         "Morogoro"
     ],
@@ -82,6 +85,9 @@
     "name:fra_x_preferred":[
         "Morogoro"
     ],
+    "name:frr_x_preferred":[
+        "Morogoro"
+    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Morogoro"
     ],
@@ -100,6 +106,12 @@
     "name:hun_x_preferred":[
         "Morogoro"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0580\u0578\u0563\u0578\u0580\u0578"
+    ],
+    "name:ibo_x_preferred":[
+        "Morogoro Region"
+    ],
     "name:ind_x_preferred":[
         "Wilayah Morogoro"
     ],
@@ -117,6 +129,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubaa8\ub85c\uace0\ub85c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubaa8\ub85c\uace0\ub85c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Morogoro re\u0123ions"
@@ -169,6 +184,9 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bca\u0bb0\u0bcb\u0b95\u0bcb\u0bb0\u0bcb  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bca\u0bb0\u0bcb\u0b95\u0bcb\u0bb0\u0bcb \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c4b\u0c30\u0c4b\u0c17\u0c4b\u0c30\u0c4b \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
     ],
@@ -201,6 +219,9 @@
     ],
     "name:zho_x_preferred":[
         "\u83ab\u7f57\u6208\u7f57\u533a"
+    ],
+    "name:zul_x_preferred":[
+        "Morogoro Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TZA",
@@ -327,7 +348,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501516,
+    "wof:lastmodified":1690876098,
     "wof:name":"Morogoro",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

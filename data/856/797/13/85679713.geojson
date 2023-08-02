@@ -37,6 +37,9 @@
     "name:ara_x_variant":[
         "\u0625\u0642\u0644\u064a\u0645 \u0644\u064a\u0646\u062f\u064a"
     ],
+    "name:avk_x_preferred":[
+        "TanzaniaLindiGola"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u09a8\u09cd\u09a1\u09bf \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -79,6 +82,9 @@
     "name:fra_x_preferred":[
         "Lindi"
     ],
+    "name:frr_x_preferred":[
+        "Lindi"
+    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Lindi"
     ],
@@ -114,6 +120,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub9b0\ub514 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub9b0\ub514\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Lindi re\u0123ions"
@@ -198,6 +207,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6797\u8fea\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Lindi Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TZA",
@@ -324,7 +336,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501508,
+    "wof:lastmodified":1690876089,
     "wof:name":"Lindi",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

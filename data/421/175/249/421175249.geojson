@@ -23,6 +23,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09ae"
     ],
+    "name:ceb_x_preferred":[
+        "Same"
+    ],
     "name:deu_x_preferred":[
         "Same"
     ],
@@ -245,7 +248,7 @@
         }
     ],
     "wof:id":421175249,
-    "wof:lastmodified":1636501538,
+    "wof:lastmodified":1690876134,
     "wof:name":"Same",
     "wof:parent_id":1108692913,
     "wof:placetype":"locality",

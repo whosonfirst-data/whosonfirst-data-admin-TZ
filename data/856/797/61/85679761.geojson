@@ -33,13 +33,28 @@
     "name:ara_x_preferred":[
         "\u063a\u064a\u062a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u062c\u064a\u062a\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u062c\u064a\u062a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Geita"
+    ],
     "name:ceb_x_preferred":[
+        "Geita"
+    ],
+    "name:deu_x_preferred":[
         "Geita"
     ],
     "name:eng_x_preferred":[
         "Kagera"
     ],
     "name:eng_x_variant":[
+        "Geita"
+    ],
+    "name:epo_x_preferred":[
         "Geita"
     ],
     "name:fin_x_preferred":[
@@ -68,6 +83,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0413\u0435\u0438\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Geita"
     ],
     "name:swa_x_preferred":[
         "Geita"
@@ -219,7 +237,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501503,
+    "wof:lastmodified":1690876083,
     "wof:name":"Geita",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

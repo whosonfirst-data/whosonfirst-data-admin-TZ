@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0625\u064a\u0631\u0627\u0645\u0628\u0648"
+    ],
     "name:ceb_x_preferred":[
         "Urambo"
     ],
@@ -29,6 +32,9 @@
     "name:eng_x_preferred":[
         "Urambo District"
     ],
+    "name:spa_x_preferred":[
+        "Urambo"
+    ],
     "name:swa_x_preferred":[
         "Wilaya ya Urambo"
     ],
@@ -37,6 +43,9 @@
     ],
     "name:vie_x_variant":[
         "Tarime"
+    ],
+    "name:zul_x_preferred":[
+        "Urambo District"
     ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"PPL",
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":421175251,
-    "wof:lastmodified":1566590822,
+    "wof:lastmodified":1690876133,
     "wof:name":"Urambo",
     "wof:parent_id":1108693041,
     "wof:placetype":"locality",

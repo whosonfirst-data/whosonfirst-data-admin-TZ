@@ -23,8 +23,14 @@
     "name:ast_x_preferred":[
         "Stone Town"
     ],
+    "name:avk_x_preferred":[
+        "Stone Town"
+    ],
     "name:aze_x_preferred":[
         "Stoun Taun"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u099f\u09cb\u09a8 \u099f\u09be\u0989\u09a8"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u0435\u043d \u0433\u0440\u0430\u0434"
@@ -50,11 +56,20 @@
     "name:epo_x_preferred":[
         "\u015ctonurbo"
     ],
+    "name:eus_x_preferred":[
+        "Harrizko Hiria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631 \u0633\u0646\u06af\u06cc \u0632\u0646\u06af\u0628\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "Stone Town"
     ],
     "name:fra_x_preferred":[
         "Stone Town"
+    ],
+    "name:hau_x_preferred":[
+        "Garin Dutse"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d8\u05d5\u05df \u05d8\u05d0\u05d5\u05df"
@@ -146,6 +161,9 @@
     "name:urd_x_preferred":[
         "\u0633\u0679\u0648\u0646 \u0679\u0627\u0624\u0646"
     ],
+    "name:urd_x_variant":[
+        "\u0634\u06c1\u0631 \u0633\u0646\u06af \u0632\u0646\u062c\u0628\u0627\u0631"
+    ],
     "name:vie_x_preferred":[
         "Th\u1ecb tr\u1ea5n \u0110\u00e1 Zanzibar"
     ],
@@ -202,7 +220,7 @@
         }
     ],
     "wof:id":421189835,
-    "wof:lastmodified":1566590819,
+    "wof:lastmodified":1690876131,
     "wof:name":"Stone Town",
     "wof:parent_id":1108693173,
     "wof:placetype":"locality",

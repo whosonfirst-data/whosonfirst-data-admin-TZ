@@ -26,6 +26,12 @@
     "name:ceb_x_preferred":[
         "Tunduma"
     ],
+    "name:deu_x_preferred":[
+        "Tunduma"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03c5\u03bd\u03c4\u03bf\u03cd\u03bc\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Tunduma"
     ],
@@ -106,6 +112,12 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u901a\u675c\u99ac"
+    ],
+    "name:zho_x_preferred":[
+        "\u6566\u675c\u99ac"
+    ],
+    "name:zul_x_preferred":[
+        "Tunduma"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tanzania",
@@ -247,7 +259,7 @@
         }
     ],
     "wof:id":421199089,
-    "wof:lastmodified":1636501539,
+    "wof:lastmodified":1690876137,
     "wof:name":"Tunduma",
     "wof:parent_id":1108693021,
     "wof:placetype":"locality",

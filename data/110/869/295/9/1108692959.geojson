@@ -34,6 +34,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0646\u0627\u0634\u064a\u0646\u063a\u0648\u064a\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Nachingwea"
+    ],
+    "name:deu_x_preferred":[
+        "Nachingwea"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039d\u03b1\u03c4\u03c3\u03b9\u03bd\u03b3\u03ba\u03bf\u03c5\u03ad\u03b1"
     ],
@@ -41,8 +50,10 @@
         "Nachingwea"
     ],
     "name:eng_x_variant":[
-        "Nachingwea",
         "Nachingwea District"
+    ],
+    "name:epo_x_preferred":[
+        "Distrikto Na\u0109ing\u016dea"
     ],
     "name:fra_x_preferred":[
         "Nachingwea"
@@ -50,8 +61,17 @@
     "name:jpn_x_preferred":[
         "\u30ca\u30c1\u30f3\u30b0\u30a6\u30a7\u30a2"
     ],
+    "name:spa_x_preferred":[
+        "Nachingwea"
+    ],
     "name:swa_x_preferred":[
         "Nachingwea"
+    ],
+    "name:zho_x_preferred":[
+        "\u7eb3\u94a6\u572d\u963f"
+    ],
+    "name:zul_x_preferred":[
+        "Nachingwea District"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -89,7 +109,7 @@
         }
     ],
     "wof:id":1108692959,
-    "wof:lastmodified":1627522871,
+    "wof:lastmodified":1690876107,
     "wof:name":"Nachingwea",
     "wof:parent_id":85679713,
     "wof:placetype":"county",

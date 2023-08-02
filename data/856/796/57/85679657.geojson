@@ -37,6 +37,9 @@
     "name:ara_x_variant":[
         "\u0625\u0642\u0644\u064a\u0645 \u0634\u064a\u0646\u064a\u0627\u0646\u063a\u0627"
     ],
+    "name:avk_x_preferred":[
+        "TanzaniaShinyangaGola"
+    ],
     "name:ben_x_preferred":[
         "\u09b6\u09bf\u09a8\u09bf\u09af\u09bc\u09be\u0999\u09cd\u0997\u09be \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -67,6 +70,9 @@
     "name:epo_x_preferred":[
         "Regiono Shinyanga"
     ],
+    "name:est_x_preferred":[
+        "Shinyanga piirkond"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0634\u06cc\u0646\u06cc\u0627\u0646\u06af\u0627"
     ],
@@ -74,6 +80,9 @@
         "Shinyangan alue"
     ],
     "name:fra_x_preferred":[
+        "Shinyanga"
+    ],
+    "name:frr_x_preferred":[
         "Shinyanga"
     ],
     "name:glg_x_preferred":[
@@ -111,6 +120,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc2dc\ub2c8\uc559\uac00 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc2dc\ub2c8\uc559\uac00\uc8fc"
     ],
     "name:lav_x_preferred":[
         "\u0160i\u0146angas re\u0123ions"
@@ -195,6 +207,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6b23\u5ef6\u52a0\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Shinyanga Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TZA",
@@ -319,7 +334,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501509,
+    "wof:lastmodified":1690876090,
     "wof:name":"Shinyanga",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

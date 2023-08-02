@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0633\u0627\u0633\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0645\u0627\u0633\u0627\u0633\u064a"
+    ],
+    "name:dan_x_preferred":[
+        "Masasi"
+    ],
     "name:deu_x_preferred":[
         "Masasi"
     ],
@@ -30,6 +36,9 @@
     ],
     "name:eng_x_preferred":[
         "Masasi"
+    ],
+    "name:eng_x_variant":[
+        "Masasi District"
     ],
     "name:fin_x_preferred":[
         "Masasi"
@@ -64,6 +73,12 @@
     "name:vie_x_preferred":[
         "Lulindi"
     ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u8428\u897f"
+    ],
+    "name:zul_x_preferred":[
+        "Masasi District"
+    ],
     "qs:name":"Nanganga",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -97,7 +112,7 @@
         }
     ],
     "wof:id":890441729,
-    "wof:lastmodified":1566590841,
+    "wof:lastmodified":1690876146,
     "wof:name":"Nanganga",
     "wof:parent_id":1108692957,
     "wof:placetype":"locality",

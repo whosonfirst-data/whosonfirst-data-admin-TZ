@@ -20,7 +20,13 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u063a\u0648\u0645\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u064a\u062c\u0648\u0645\u0627"
+    ],
     "name:ast_x_preferred":[
+        "Kigoma"
+    ],
+    "name:avk_x_preferred":[
         "Kigoma"
     ],
     "name:azb_x_preferred":[
@@ -28,6 +34,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0456\u0433\u043e\u043c\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u041a\u0456\u0433\u043e\u043c\u0430"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u0997\u09c1\u09ae\u09be"
@@ -66,6 +75,9 @@
         "Kigoma"
     ],
     "name:fra_x_preferred":[
+        "Kigoma"
+    ],
+    "name:gle_x_preferred":[
         "Kigoma"
     ],
     "name:guj_x_preferred":[
@@ -117,6 +129,9 @@
         "Kigoma"
     ],
     "name:nld_x_preferred":[
+        "Kigoma"
+    ],
+    "name:nno_x_preferred":[
         "Kigoma"
     ],
     "name:nob_x_preferred":[
@@ -176,6 +191,9 @@
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u06af\u0648\u0645\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Kigoma"
+    ],
     "name:vie_x_preferred":[
         "Kigoma"
     ],
@@ -190,6 +208,9 @@
     ],
     "name:zho_x_preferred":[
         "\u57fa\u6208\u99ac"
+    ],
+    "name:zul_x_preferred":[
+        "Kigoma"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tanzania",
@@ -337,7 +358,7 @@
         }
     ],
     "wof:id":421189817,
-    "wof:lastmodified":1582347611,
+    "wof:lastmodified":1690876130,
     "wof:name":"Kigoma",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:eng_x_preferred":[
         "Mikumi"
     ],
+    "name:epo_x_preferred":[
+        "Mikumi"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u06cc\u06a9\u0648\u0645\u06cc"
     ],
@@ -88,6 +91,9 @@
     "name:spa_x_preferred":[
         "Mikumi"
     ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u043a\u0443\u043c\u0438"
+    ],
     "name:swa_x_preferred":[
         "Mikumi"
     ],
@@ -105,6 +111,9 @@
     ],
     "name:vie_x_preferred":[
         "Mikumi"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u5e93\u7c73"
     ],
     "qs_pg:aaroncc":"TZ",
     "qs_pg:gn_country":"TZ",
@@ -145,7 +154,7 @@
         }
     ],
     "wof:id":1125818979,
-    "wof:lastmodified":1636501545,
+    "wof:lastmodified":1690876156,
     "wof:name":"Mikumi",
     "wof:parent_id":421204027,
     "wof:placetype":"locality",

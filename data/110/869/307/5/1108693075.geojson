@@ -37,6 +37,9 @@
     "name:ceb_x_preferred":[
         "Shinyanga Urban"
     ],
+    "name:deu_x_preferred":[
+        "Shinyanga"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03c3\u03c4\u03b9\u03ba\u03ae \u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03a3\u03b9\u03bd\u03c5\u03ac\u03bd\u03b3\u03ba\u03b1"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Shinyanga Urban"
+    ],
+    "name:zul_x_preferred":[
+        "Shinyanga Urban District"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108693075,
-    "wof:lastmodified":1627522876,
+    "wof:lastmodified":1690876102,
     "wof:name":"Shinyanga Urban",
     "wof:parent_id":85679657,
     "wof:placetype":"county",

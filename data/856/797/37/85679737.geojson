@@ -37,8 +37,14 @@
     "name:ara_x_variant":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0644\u064a\u0645\u0646\u062c\u0627\u0631\u0648"
     ],
+    "name:avk_x_preferred":[
+        "TanzaniaKilimanjaroGola"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09b2\u09bf\u09ae\u09be\u099e\u09cd\u099c\u09be\u09b0\u09cb \u0985\u099e\u09cd\u099a\u09b2"
+    ],
+    "name:bre_x_preferred":[
+        "rannvro Kilimanjaro"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0438\u043b\u0438\u043c\u0430\u043d\u0434\u0436\u0430\u0440\u043e"
@@ -79,6 +85,9 @@
     "name:fra_x_preferred":[
         "Kilimandjaro"
     ],
+    "name:frr_x_preferred":[
+        "Kilimandscharo"
+    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n do Kilimanjaro"
     ],
@@ -97,6 +106,9 @@
     "name:hun_x_preferred":[
         "Kilimandzs\u00e1r\u00f3"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u056b\u056c\u056b\u0574\u0561\u0576\u057b\u0561\u0580\u0578 \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Wilayah Kilimanjaro"
     ],
@@ -114,6 +126,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud0ac\ub9ac\ub9cc\uc790\ub85c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud0ac\ub9ac\ub9cc\uc790\ub85c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Kilimand\u017earo re\u0123ions"
@@ -190,6 +205,9 @@
     "name:vie_x_preferred":[
         "Kilimanjaro"
     ],
+    "name:yid_x_preferred":[
+        "\u05e7\u05d9\u05dc\u05d9\u05de\u05d0\u05e0\u05d3\u05d6\u05e9\u05d0\u05e8\u05d0"
+    ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 Kilimanjaro"
     ],
@@ -198,6 +216,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4e5e\u529b\u99ac\u624e\u7f85\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Kilimanjaro Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TZA",
@@ -325,7 +346,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501506,
+    "wof:lastmodified":1690876087,
     "wof:name":"Kilimanjaro",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

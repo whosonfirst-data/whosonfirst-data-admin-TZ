@@ -16,6 +16,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Kurasini"
+    ],
     "name:eng_x_preferred":[
         "Kurasini"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421185145,
-    "wof:lastmodified":1566590840,
+    "wof:lastmodified":1690876146,
     "wof:name":"Kurasini",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

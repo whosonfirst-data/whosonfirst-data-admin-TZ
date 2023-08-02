@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0646\u0629 \u0628\u0648\u0646\u062f\u0627"
+    ],
     "name:deu_x_preferred":[
         "Bunda"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421189387,
-    "wof:lastmodified":1566590819,
+    "wof:lastmodified":1690876131,
     "wof:name":"Bunda",
     "wof:parent_id":421187953,
     "wof:placetype":"locality",

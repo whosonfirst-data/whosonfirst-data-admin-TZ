@@ -40,6 +40,9 @@
     "name:ben_x_preferred":[
         "\u098f\u09ae\u09cd\u09ac\u09c1\u09b2\u09c1"
     ],
+    "name:ceb_x_preferred":[
+        "Mbulu"
+    ],
     "name:deu_x_preferred":[
         "Mbulu"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:eng_x_preferred":[
         "Mbulu"
+    ],
+    "name:eng_x_variant":[
+        "Mbulu District"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0645\u0628\u0648\u0644\u0648"
@@ -115,6 +121,9 @@
     "name:zho_tw_x_preferred":[
         "\u59c6\u5e03\u76e7"
     ],
+    "name:zul_x_preferred":[
+        "Mbulu District"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -151,7 +160,7 @@
         }
     ],
     "wof:id":1108693127,
-    "wof:lastmodified":1636501527,
+    "wof:lastmodified":1690876109,
     "wof:name":"Mbulu",
     "wof:parent_id":85679733,
     "wof:placetype":"county",

@@ -34,11 +34,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ceb_x_preferred":[
+        "Mbarali district"
+    ],
+    "name:deu_x_preferred":[
+        "Mbarali"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039c\u03c0\u03b1\u03c1\u03ac\u03bb\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Mbarali"
     ],
     "name:eng_x_variant":[
-        "Mbarali",
         "Mbarali District"
     ],
     "name:fra_x_preferred":[
@@ -49,6 +57,9 @@
     ],
     "name:vie_x_preferred":[
         "Mbarali"
+    ],
+    "name:zul_x_preferred":[
+        "Mbarali District"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -86,7 +97,7 @@
         }
     ],
     "wof:id":1108693015,
-    "wof:lastmodified":1627522866,
+    "wof:lastmodified":1690876105,
     "wof:name":"Mbarali",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

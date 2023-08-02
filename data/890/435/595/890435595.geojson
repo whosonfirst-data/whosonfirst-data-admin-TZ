@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Isaka"
+    ],
+    "name:deu_x_preferred":[
+        "Isaka"
+    ],
     "name:eng_x_preferred":[
         "Isaka"
     ],
@@ -39,6 +45,9 @@
     ],
     "name:swa_x_preferred":[
         "Isaka"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u8428\u5361"
     ],
     "qs:name":"Isaka",
     "qs:photos_9r":0,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":890435595,
-    "wof:lastmodified":1566590846,
+    "wof:lastmodified":1690876152,
     "wof:name":"Isaka",
     "wof:parent_id":1108693081,
     "wof:placetype":"locality",

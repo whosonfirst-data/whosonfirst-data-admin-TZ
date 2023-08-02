@@ -37,6 +37,9 @@
     "name:ara_x_variant":[
         "\u0625\u0642\u0644\u064a\u0645 \u062c\u0646\u0648\u0628 \u0628\u064a\u0645\u0628\u0627"
     ],
+    "name:avk_x_preferred":[
+        "TanzaniaPembaSouthGola"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u0989\u09a5 \u09aa\u09c7\u09ae\u09cd\u09ac\u09be \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -109,6 +112,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud3a8\ubc14 \ub0a8\ubd80 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud3a8\ubc14 \ub0a8\ubd80\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Dienvidpembas re\u0123ions"
@@ -320,7 +326,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501510,
+    "wof:lastmodified":1690876092,
     "wof:name":"Kusini-Pemba",
     "wof:parent_id":85632227,
     "wof:placetype":"region",
