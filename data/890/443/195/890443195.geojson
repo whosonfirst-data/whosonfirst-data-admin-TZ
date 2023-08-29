@@ -22,11 +22,23 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0634\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0648\u0634\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Moshi"
+    ],
+    "name:avk_x_preferred":[
+        "Moshi"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0648\u0634\u06cc"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u043e\u0448\u044b"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u043e\u0448\u044b"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09b8\u09bf"
@@ -59,6 +71,9 @@
         "Moshi"
     ],
     "name:fra_x_preferred":[
+        "Moshi"
+    ],
+    "name:gle_x_preferred":[
         "Moshi"
     ],
     "name:guj_x_preferred":[
@@ -145,6 +160,9 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bcb\u0bb7\u0bbf"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u043e\u0448\u0438"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c4b\u0c37\u0c3f"
     ],
@@ -166,6 +184,9 @@
     "name:urd_x_variant":[
         "\u0645\u0648\u0634\u06cc"
     ],
+    "name:vec_x_preferred":[
+        "Moshi"
+    ],
     "name:vie_x_preferred":[
         "Moshi"
     ],
@@ -177,6 +198,9 @@
     ],
     "name:zho_x_preferred":[
         "\u83ab\u5e0c"
+    ],
+    "name:zul_x_preferred":[
+        "Moshi"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tanzania",
@@ -303,7 +327,7 @@
         }
     ],
     "wof:id":890443195,
-    "wof:lastmodified":1566590843,
+    "wof:lastmodified":1690876149,
     "wof:name":"Moshi",
     "wof:parent_id":1108692915,
     "wof:placetype":"locality",

@@ -20,6 +20,15 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0646\u062c\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0648\u0646\u062c\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Songea"
+    ],
+    "name:avk_x_preferred":[
+        "Songea"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u0627\u0646\u0642\u06cc"
     ],
@@ -30,6 +39,9 @@
         "\u0421\u043e\u043d\u0433\u0435\u044f"
     ],
     "name:ceb_x_preferred":[
+        "Songea"
+    ],
+    "name:ces_x_preferred":[
         "Songea"
     ],
     "name:dan_x_preferred":[
@@ -166,6 +178,9 @@
     ],
     "name:zho_x_preferred":[
         "\u677e\u84cb\u963f"
+    ],
+    "name:zul_x_preferred":[
+        "Songea"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tanzania",
@@ -316,7 +331,7 @@
         }
     ],
     "wof:id":421170423,
-    "wof:lastmodified":1636501540,
+    "wof:lastmodified":1690876139,
     "wof:name":"Songea",
     "wof:parent_id":1108692991,
     "wof:placetype":"locality",

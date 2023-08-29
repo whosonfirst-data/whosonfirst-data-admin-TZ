@@ -35,6 +35,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Moshi"
+    ],
     "name:eng_x_preferred":[
         "Moshi"
     ],
@@ -49,6 +52,9 @@
         "Ngorongoro"
     ],
     "name:vie_x_variant":[
+        "Moshi Urban"
+    ],
+    "name:zul_x_preferred":[
         "Moshi Urban"
     ],
     "qs:gn_country":"TZ",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421171043,
-    "wof:lastmodified":1642551752,
+    "wof:lastmodified":1690876145,
     "wof:name":"Moshi",
     "wof:parent_id":85679737,
     "wof:placetype":"county",

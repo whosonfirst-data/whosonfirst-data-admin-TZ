@@ -20,6 +20,15 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u064a\u0646\u063a\u064a\u062f\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u064a\u0646\u063a\u064a\u062f\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u064a\u0646\u062c\u064a\u062f\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Singida"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u0999\u09cd\u0997\u09bf\u09a6\u09be"
     ],
@@ -77,6 +86,9 @@
     "name:kor_x_preferred":[
         "\uc2f1\uc774\ub2e4"
     ],
+    "name:mdf_x_preferred":[
+        "\u0421\u0438\u043d\u0433\u0438\u0434\u0430"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u0438\u043d\u0433\u0438\u0434\u0430"
     ],
@@ -127,6 +139,12 @@
     ],
     "name:yue_x_preferred":[
         "\u8f9b\u57fa\u9054"
+    ],
+    "name:zho_x_preferred":[
+        "\u8f9b\u5409\u9054"
+    ],
+    "name:zul_x_preferred":[
+        "Singida"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tanzania",
@@ -275,7 +293,7 @@
         }
     ],
     "wof:id":421177213,
-    "wof:lastmodified":1636501540,
+    "wof:lastmodified":1690876140,
     "wof:name":"Singida",
     "wof:parent_id":1108693027,
     "wof:placetype":"locality",

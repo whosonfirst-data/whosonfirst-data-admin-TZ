@@ -34,11 +34,22 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0634\u0648\u0646\u064a\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Chunya"
+    ],
+    "name:deu_x_preferred":[
+        "Chunya"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03a4\u03c3\u03bf\u03cd\u03bd\u03c5\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Chunya"
     ],
     "name:eng_x_variant":[
-        "Chunya",
         "Chunya District"
     ],
     "name:fra_x_preferred":[
@@ -55,6 +66,9 @@
     ],
     "name:vie_x_preferred":[
         "Chunya"
+    ],
+    "name:zul_x_preferred":[
+        "Chunya District"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -92,7 +106,7 @@
         }
     ],
     "wof:id":1108693005,
-    "wof:lastmodified":1627522858,
+    "wof:lastmodified":1690876103,
     "wof:name":"Chunya",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

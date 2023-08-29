@@ -17,7 +17,13 @@
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0625\u063a\u064a\u0646\u063a\u0627"
+    ],
     "name:ceb_x_preferred":[
+        "Igunga"
+    ],
+    "name:deu_x_preferred":[
         "Igunga"
     ],
     "name:ell_x_preferred":[
@@ -29,8 +35,14 @@
     "name:ita_x_preferred":[
         "Ruangwa"
     ],
+    "name:spa_x_preferred":[
+        "Igunga"
+    ],
     "name:swa_x_preferred":[
         "Wilaya ya Igunga"
+    ],
+    "name:zul_x_preferred":[
+        "Igunga District"
     ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"PPL",
@@ -79,7 +91,7 @@
         }
     ],
     "wof:id":421167003,
-    "wof:lastmodified":1566590809,
+    "wof:lastmodified":1690876124,
     "wof:name":"Igunga",
     "wof:parent_id":1108693037,
     "wof:placetype":"locality",

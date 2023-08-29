@@ -74,6 +74,9 @@
     "name:spa_x_preferred":[
         "Karema"
     ],
+    "name:swa_x_preferred":[
+        "Karema"
+    ],
     "name:swe_x_preferred":[
         "Karema"
     ],
@@ -234,7 +237,7 @@
         }
     ],
     "wof:id":421166981,
-    "wof:lastmodified":1636501533,
+    "wof:lastmodified":1690876122,
     "wof:name":"Karema",
     "wof:parent_id":1108693149,
     "wof:placetype":"locality",

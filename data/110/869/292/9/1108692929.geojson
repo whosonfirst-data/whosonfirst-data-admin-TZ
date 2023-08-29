@@ -34,17 +34,32 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ceb_x_preferred":[
+        "Mkinga"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0642\u06d5\u0632\u0627\u06cc \u0645\u06a9\u06cc\u0646\u06af\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Mkinga"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039c\u03ba\u03af\u03bd\u03b3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Mkinga"
     ],
+    "name:eng_x_variant":[
+        "Mkinga District"
+    ],
     "name:fra_x_preferred":[
         "Mkinga"
     ],
     "name:swa_x_preferred":[
         "Wilaya ya Mkinga"
+    ],
+    "name:zul_x_preferred":[
+        "Mkinga District"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -69,7 +84,7 @@
         }
     ],
     "wof:id":1108692929,
-    "wof:lastmodified":1627522868,
+    "wof:lastmodified":1690876106,
     "wof:name":"Mkinga",
     "wof:parent_id":85679747,
     "wof:placetype":"county",

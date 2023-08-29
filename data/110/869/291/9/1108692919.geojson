@@ -40,6 +40,9 @@
     "name:ceb_x_preferred":[
         "Korogwe District"
     ],
+    "name:deu_x_preferred":[
+        "Korogwe"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u039a\u03bf\u03c1\u03cc\u03b3\u03ba\u03bf\u03c5\u03b5"
     ],
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1108692919,
-    "wof:lastmodified":1636501528,
+    "wof:lastmodified":1690876114,
     "wof:name":"Korogwe",
     "wof:parent_id":85679747,
     "wof:placetype":"county",

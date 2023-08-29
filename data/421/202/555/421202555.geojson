@@ -35,6 +35,12 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u062d\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Hai"
+    ],
     "name:deu_x_preferred":[
         "Hai"
     ],
@@ -48,7 +54,6 @@
         "Hai"
     ],
     "name:eng_x_variant":[
-        "Hai",
         "Hai District"
     ],
     "name:fra_x_preferred":[
@@ -77,6 +82,9 @@
     ],
     "name:vie_x_preferred":[
         "Hai"
+    ],
+    "name:zul_x_preferred":[
+        "Hai District"
     ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"ADM2",
@@ -142,7 +150,7 @@
         }
     ],
     "wof:id":421202555,
-    "wof:lastmodified":1636501535,
+    "wof:lastmodified":1690876126,
     "wof:name":"Hai",
     "wof:parent_id":85679737,
     "wof:placetype":"county",

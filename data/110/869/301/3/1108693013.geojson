@@ -61,11 +61,17 @@
     "name:jpn_x_variant":[
         "Ileje"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0431\u043e\u0437\u0438"
+    ],
     "name:swa_x_preferred":[
         "Mbozi"
     ],
     "name:vie_x_preferred":[
         "Mbozi"
+    ],
+    "name:zul_x_preferred":[
+        "Mbozi District"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1108693013,
-    "wof:lastmodified":1627522867,
+    "wof:lastmodified":1690876104,
     "wof:name":"Mbozi",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

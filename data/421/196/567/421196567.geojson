@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Nachingwea"
+    ],
     "name:deu_x_preferred":[
         "Nachingwea"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421196567,
-    "wof:lastmodified":1566590825,
+    "wof:lastmodified":1690876135,
     "wof:name":"Nachingwea",
     "wof:parent_id":1108692959,
     "wof:placetype":"locality",

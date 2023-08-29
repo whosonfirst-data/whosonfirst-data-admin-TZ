@@ -37,6 +37,9 @@
     "name:ara_x_variant":[
         "\u0625\u0642\u0644\u064a\u0645 \u0623\u0631\u0648\u0634\u0627"
     ],
+    "name:avk_x_preferred":[
+        "TanzaniaArushaGola"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09cb\u09b6\u09be \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -82,6 +85,9 @@
     "name:fra_x_variant":[
         "Arusha"
     ],
+    "name:frr_x_preferred":[
+        "Arusha"
+    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Arusha"
     ],
@@ -122,7 +128,8 @@
         "\uc544\ub8e8\uc0e4"
     ],
     "name:kor_x_variant":[
-        "\uc544\ub8e8\uc0e4 \uc8fc"
+        "\uc544\ub8e8\uc0e4 \uc8fc",
+        "\uc544\ub8e8\uc0e4\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Aru\u0161as re\u0123ions"
@@ -138,6 +145,9 @@
     ],
     "name:nld_x_preferred":[
         "Arusha"
+    ],
+    "name:nno_x_preferred":[
+        "Arusha-regionen"
     ],
     "name:nob_x_preferred":[
         "Arusha"
@@ -207,6 +217,9 @@
     ],
     "name:zho_x_variant":[
         "\u963f\u9c81\u6c99\u533a"
+    ],
+    "name:zul_x_preferred":[
+        "Arusha Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TZA",
@@ -333,7 +346,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501506,
+    "wof:lastmodified":1690876086,
     "wof:name":"Arusha",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

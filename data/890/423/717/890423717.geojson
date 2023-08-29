@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Same"
     ],
+    "name:deu_x_preferred":[
+        "Same"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03a3\u03ac\u03bc\u03b5"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7d0d\u66fc\u52a0"
+    ],
+    "name:zul_x_preferred":[
+        "Same District"
     ],
     "qs:name":"Hedaru",
     "qs:photos_9r":0,
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":890423717,
-    "wof:lastmodified":1566590842,
+    "wof:lastmodified":1690876147,
     "wof:name":"Hedaru",
     "wof:parent_id":1108692913,
     "wof:placetype":"locality",

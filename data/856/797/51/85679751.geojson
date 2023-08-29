@@ -36,6 +36,9 @@
     "name:ara_x_variant":[
         "\u0625\u0642\u0644\u064a\u0645 \u0631\u0648\u0643\u0648\u0627"
     ],
+    "name:avk_x_preferred":[
+        "TanzaniaRukwaGola"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u09c1\u0995\u0993\u09af\u09bc\u09be \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -66,6 +69,12 @@
     "name:epo_x_preferred":[
         "Regiono Rukwa"
     ],
+    "name:est_x_preferred":[
+        "Rukwa piirkond"
+    ],
+    "name:eus_x_preferred":[
+        "Rukwa"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0631\u0648\u06a9\u0627\u0648\u0627"
     ],
@@ -73,6 +82,9 @@
         "Rukwan alue"
     ],
     "name:fra_x_preferred":[
+        "Rukwa"
+    ],
+    "name:frr_x_preferred":[
         "Rukwa"
     ],
     "name:glg_x_preferred":[
@@ -110,6 +122,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub8e8\ucf70 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub8e8\ucf70\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Rukvas re\u0123ions"
@@ -194,6 +209,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9b6f\u5938\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Rukwa Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TZA",
@@ -319,7 +337,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501503,
+    "wof:lastmodified":1690876083,
     "wof:name":"Katavi",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

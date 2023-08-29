@@ -28,13 +28,25 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u062f\u0648\u0645\u0627"
     ],
+    "name:arg_x_preferred":[
+        "Dodoma"
+    ],
+    "name:ary_x_preferred":[
+        "\u0636\u0648\u0636\u0648\u0645\u0627"
+    ],
     "name:ast_x_preferred":[
+        "Dodoma"
+    ],
+    "name:avk_x_preferred":[
         "Dodoma"
     ],
     "name:azb_x_preferred":[
         "\u062f\u0648\u062f\u0648\u0645\u0627"
     ],
     "name:aze_x_preferred":[
+        "Dodoma"
+    ],
+    "name:ban_x_preferred":[
         "Dodoma"
     ],
     "name:bel_x_preferred":[
@@ -136,6 +148,9 @@
     "name:hat_x_preferred":[
         "Dodoma"
     ],
+    "name:hau_x_preferred":[
+        "Dodoma"
+    ],
     "name:hbs_x_preferred":[
         "Dodoma"
     ],
@@ -196,6 +211,9 @@
     "name:kbp_x_preferred":[
         "Todoma"
     ],
+    "name:kcg_x_preferred":[
+        "Dodoma"
+    ],
     "name:kin_x_preferred":[
         "Dodoma"
     ],
@@ -226,6 +244,9 @@
     "name:lit_x_preferred":[
         "Dodoma"
     ],
+    "name:lld_x_preferred":[
+        "Dodoma"
+    ],
     "name:lmo_x_preferred":[
         "Dodoma"
     ],
@@ -238,10 +259,16 @@
     "name:mar_x_preferred":[
         "\u0921\u094b\u0921\u094b\u092e\u093e"
     ],
+    "name:mdf_x_preferred":[
+        "\u0414\u043e\u0434\u043e\u043c\u0430"
+    ],
     "name:mkd_x_preferred":[
         "\u0414\u043e\u0434\u043e\u043c\u0430"
     ],
     "name:mlg_x_preferred":[
+        "Dodoma"
+    ],
+    "name:mlt_x_preferred":[
         "Dodoma"
     ],
     "name:mri_x_preferred":[
@@ -252,6 +279,9 @@
     ],
     "name:msa_x_preferred":[
         "Dodoma"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062f\u0648\u062f\u0648\u0645\u0627"
     ],
     "name:nah_x_preferred":[
         "Dodoma"
@@ -276,6 +306,9 @@
     ],
     "name:oci_x_preferred":[
         "Dodoma"
+    ],
+    "name:oss_x_preferred":[
+        "\u0414\u043e\u0434\u043e\u043c\u00e6"
     ],
     "name:pan_x_preferred":[
         "\u0a26\u0a4b\u0a26\u0a4b\u0a2e\u0a3e"
@@ -319,6 +352,9 @@
     "name:slv_x_preferred":[
         "Dodoma"
     ],
+    "name:smn_x_preferred":[
+        "Dodoma"
+    ],
     "name:sna_x_preferred":[
         "Dodoma"
     ],
@@ -331,13 +367,22 @@
     "name:sqi_x_preferred":[
         "Dodoma"
     ],
+    "name:srd_x_preferred":[
+        "Dodoma"
+    ],
     "name:srp_x_preferred":[
         "\u0414\u043e\u0434\u043e\u043c\u0430"
+    ],
+    "name:ssw_x_preferred":[
+        "Dodoma"
     ],
     "name:swa_x_preferred":[
         "Dodoma"
     ],
     "name:swe_x_preferred":[
+        "Dodoma"
+    ],
+    "name:szl_x_preferred":[
         "Dodoma"
     ],
     "name:tam_x_preferred":[
@@ -388,6 +433,9 @@
     "name:vie_x_preferred":[
         "Dodoma"
     ],
+    "name:vol_x_preferred":[
+        "Dodoma"
+    ],
     "name:war_x_preferred":[
         "Dodoma"
     ],
@@ -417,6 +465,9 @@
     ],
     "name:zho_yue_x_preferred":[
         "\u675c\u7be4\u746a"
+    ],
+    "name:zul_x_preferred":[
+        "Dodoma"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tanzania",
@@ -537,8 +588,8 @@
     "wof:belongsto":[
         102191573,
         85632227,
-        421187957,
-        85679705
+        85679705,
+        421187957
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -570,7 +621,7 @@
         }
     ],
     "wof:id":421192689,
-    "wof:lastmodified":1607390874,
+    "wof:lastmodified":1690876123,
     "wof:name":"Dodoma",
     "wof:parent_id":421187957,
     "wof:placetype":"locality",

@@ -34,12 +34,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0646\u064a\u0627\u0646\u063a\u0647\u0648\u0627\u0644\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Nyang'hwale"
+    ],
+    "name:deu_x_preferred":[
+        "Nyang'hwale"
+    ],
     "name:eng_x_preferred":[
         "Nyang'wale"
     ],
     "name:eng_x_variant":[
         "Nyang'hwale",
-        "Nyang'wale",
         "Nyang'hwale District"
     ],
     "name:fra_x_preferred":[
@@ -48,11 +56,17 @@
     "name:nob_x_preferred":[
         "Nyang'hwale"
     ],
+    "name:spa_x_preferred":[
+        "Nyang'hwale"
+    ],
     "name:swa_x_preferred":[
         "Wilaya ya Nyang'hwale"
     ],
     "name:tur_x_preferred":[
         "Geita"
+    ],
+    "name:zul_x_preferred":[
+        "Nyang'hwale District"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -77,7 +91,7 @@
         }
     ],
     "wof:id":1108693165,
-    "wof:lastmodified":1627522872,
+    "wof:lastmodified":1690876119,
     "wof:name":"Nyang'wale",
     "wof:parent_id":85679761,
     "wof:placetype":"county",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0644\u064a\u0646\u062f\u0648\u0646\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u064a\u0644\u064a\u0646\u062f\u0648\u0646\u0649"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09b2\u09bf\u09a8\u09a6\u09cb\u09a8\u09bf"
     ],
@@ -62,8 +65,14 @@
     "name:ita_x_preferred":[
         "Dongobesh"
     ],
+    "name:ita_x_variant":[
+        "Kilindoni"
+    ],
     "name:jpn_x_preferred":[
         "\u30ad\u30ea\u30f3\u30c9\u30cb"
+    ],
+    "name:jpn_x_variant":[
+        "\u30ad\u30ea\u30f3\u30c9\u30fc\u30cb"
     ],
     "name:kor_x_preferred":[
         "\ud0ac\ub9b0\ub3c4\ub2c8"
@@ -256,7 +265,7 @@
         }
     ],
     "wof:id":421174945,
-    "wof:lastmodified":1636501535,
+    "wof:lastmodified":1690876127,
     "wof:name":"Kilindoni",
     "wof:parent_id":1108692951,
     "wof:placetype":"locality",

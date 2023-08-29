@@ -35,6 +35,9 @@
     "name:swa_x_preferred":[
         "Nansio"
     ],
+    "name:zho_x_preferred":[
+        "\u6960\u897f\u5965"
+    ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":151920,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421176895,
-    "wof:lastmodified":1566590838,
+    "wof:lastmodified":1690876144,
     "wof:name":"Nansio",
     "wof:parent_id":85679655,
     "wof:placetype":"locality",

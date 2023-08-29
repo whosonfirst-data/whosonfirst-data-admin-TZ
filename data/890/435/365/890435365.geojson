@@ -22,6 +22,9 @@
     "name:ast_x_preferred":[
         "Mahenge"
     ],
+    "name:deu_x_preferred":[
+        "Mahenge"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03c7\u03ad\u03bd\u03b3\u03ba\u03b5"
     ],
@@ -30,6 +33,12 @@
     ],
     "name:fra_x_preferred":[
         "monts Mahenge"
+    ],
+    "name:fra_x_variant":[
+        "Mahenge"
+    ],
+    "name:ita_x_preferred":[
+        "Mahenge"
     ],
     "name:nld_x_preferred":[
         "Mahenge"
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":890435365,
-    "wof:lastmodified":1566590846,
+    "wof:lastmodified":1690876152,
     "wof:name":"Mahenge",
     "wof:parent_id":1108692937,
     "wof:placetype":"locality",

@@ -35,6 +35,12 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Arusha District"
+    ],
+    "name:deu_x_preferred":[
+        "Arusha"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03c3\u03c4\u03b9\u03ba\u03ae \u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u0391\u03c1\u03bf\u03cd\u03c3\u03b1"
     ],
@@ -42,7 +48,6 @@
         "Arusha"
     ],
     "name:eng_x_variant":[
-        "Arusha",
         "Arusha District"
     ],
     "name:fas_x_preferred":[
@@ -59,6 +64,9 @@
     ],
     "name:ita_x_preferred":[
         "Distretto di Arusha"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30fc\u30b7\u30e3\u5730\u533a"
     ],
     "name:nld_x_preferred":[
         "Arusha District"
@@ -133,7 +141,7 @@
         }
     ],
     "wof:id":421175227,
-    "wof:lastmodified":1636501537,
+    "wof:lastmodified":1690876133,
     "wof:name":"Arusha",
     "wof:parent_id":85679731,
     "wof:placetype":"county",

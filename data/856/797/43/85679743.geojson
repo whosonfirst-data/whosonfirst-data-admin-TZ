@@ -37,6 +37,9 @@
     "name:ara_x_variant":[
         "\u0627\u0642\u0644\u064a\u0645 \u0645\u0627\u0631\u0627"
     ],
+    "name:avk_x_preferred":[
+        "TanzaniaMaraGola"
+    ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u0440\u0430"
     ],
@@ -70,6 +73,9 @@
     "name:epo_x_preferred":[
         "Regiono Mara"
     ],
+    "name:est_x_preferred":[
+        "Mara piirkond"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0645\u0627\u0631\u0627"
     ],
@@ -79,11 +85,17 @@
     "name:fra_x_preferred":[
         "Mara"
     ],
+    "name:frr_x_preferred":[
+        "Mara"
+    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Mara"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0ab0\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05de\u05d0\u05e8\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u092e\u093e\u0930\u093e \u092a\u094d\u0930\u0926\u0947\u0936"
@@ -111,6 +123,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub9c8\ub77c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub9c8\ub77c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Mara re\u0123ions"
@@ -195,6 +210,9 @@
     ],
     "name:zho_x_preferred":[
         "\u99ac\u62c9\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Mara Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TZA",
@@ -321,7 +339,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501505,
+    "wof:lastmodified":1690876086,
     "wof:name":"Mara",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

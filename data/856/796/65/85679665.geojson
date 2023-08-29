@@ -37,6 +37,9 @@
     "name:ara_x_variant":[
         "\u0625\u0642\u0644\u064a\u0645 \u0643\u0627\u062c\u064a\u0631\u0627"
     ],
+    "name:avk_x_preferred":[
+        "TanzaniaKageraGola"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u0997\u09c7\u09b0\u09be \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -79,6 +82,9 @@
     "name:fra_x_preferred":[
         "Kagera"
     ],
+    "name:frr_x_preferred":[
+        "Kagera"
+    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Kagera"
     ],
@@ -108,6 +114,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce74\uac8c\ub77c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uce74\uac8c\ub77c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Kageras re\u0123ions"
@@ -195,6 +204,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u84cb\u62c9\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Kagera Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TZA",
@@ -319,7 +331,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501513,
+    "wof:lastmodified":1690876095,
     "wof:name":"Kagera",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

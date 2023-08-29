@@ -23,11 +23,23 @@
     "name:ara_x_preferred":[
         "\u0623\u0631\u0648\u0634\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0631\u0648\u0634\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Arusha"
+    ],
+    "name:avk_x_preferred":[
+        "Arusha"
+    ],
     "name:azb_x_preferred":[
         "\u0622\u0631\u0648\u0634\u0627"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0440\u0443\u0448\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u0440\u0443\u0448\u0430"
     ],
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09c1\u09b6\u09be"
@@ -80,6 +92,9 @@
     "name:fra_x_preferred":[
         "Arusha"
     ],
+    "name:gle_x_preferred":[
+        "Arusha"
+    ],
     "name:glg_x_preferred":[
         "Arusha"
     ],
@@ -99,6 +114,12 @@
         "Arusha"
     ],
     "name:hun_x_preferred":[
+        "Arusha"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0578\u0582\u0577\u0561"
+    ],
+    "name:ile_x_preferred":[
         "Arusha"
     ],
     "name:ind_x_preferred":[
@@ -127,6 +148,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0905\u0930\u0941\u0936\u093e"
+    ],
+    "name:mlg_x_preferred":[
+        "Arusha"
     ],
     "name:mri_x_preferred":[
         "Arusha"
@@ -176,7 +200,13 @@
     "name:sin_x_preferred":[
         "\u0d85\u0dbb\u0dd4\u0dc2\u0dcf"
     ],
+    "name:slv_x_preferred":[
+        "Aru\u0161a"
+    ],
     "name:spa_x_preferred":[
+        "Arusha"
+    ],
+    "name:sqi_x_preferred":[
         "Arusha"
     ],
     "name:srp_x_preferred":[
@@ -209,11 +239,17 @@
     "name:urd_x_preferred":[
         "\u0627\u0631\u0648\u0634\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Arusha"
+    ],
     "name:vie_x_preferred":[
         "Arusha"
     ],
     "name:war_x_preferred":[
         "Arusha"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u9c81\u6c99"
     ],
     "name:yor_x_preferred":[
         "Arusha"
@@ -223,6 +259,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u9c81\u6c99"
+    ],
+    "name:zul_x_preferred":[
+        "Arusha"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tanzania",
@@ -367,7 +406,7 @@
         }
     ],
     "wof:id":421181459,
-    "wof:lastmodified":1566590821,
+    "wof:lastmodified":1690876132,
     "wof:name":"Arusha",
     "wof:parent_id":1108692907,
     "wof:placetype":"locality",

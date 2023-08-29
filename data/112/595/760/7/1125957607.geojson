@@ -34,11 +34,17 @@
     "name:ita_x_preferred":[
         "Kaliua"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30ea\u30a6\u30a2"
+    ],
     "name:nld_x_preferred":[
         "Kaliua"
     ],
     "name:swa_x_preferred":[
         "Kaliua"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u67f3\u963f"
     ],
     "qs_pg:aaroncc":"TZ",
     "qs_pg:gn_country":"TZ",
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1125957607,
-    "wof:lastmodified":1566590850,
+    "wof:lastmodified":1690876155,
     "wof:name":"Kaliua",
     "wof:parent_id":1108693047,
     "wof:placetype":"locality",

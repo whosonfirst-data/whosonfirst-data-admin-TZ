@@ -34,11 +34,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ceb_x_preferred":[
+        "Karagwe"
+    ],
+    "name:deu_x_preferred":[
+        "Karagwe"
+    ],
     "name:eng_x_preferred":[
         "Karagwe"
     ],
     "name:eng_x_variant":[
-        "Karagwe",
         "Karagwe District"
     ],
     "name:fra_x_preferred":[
@@ -50,11 +55,17 @@
     "name:nob_x_preferred":[
         "Karagwe"
     ],
+    "name:spa_x_preferred":[
+        "Karagwe"
+    ],
     "name:swa_x_preferred":[
         "Karagwe"
     ],
     "name:vie_x_preferred":[
         "Karagwe"
+    ],
+    "name:zul_x_preferred":[
+        "Karagwe District"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -92,7 +103,7 @@
         }
     ],
     "wof:id":1108693085,
-    "wof:lastmodified":1627522861,
+    "wof:lastmodified":1690876104,
     "wof:name":"Karagwe",
     "wof:parent_id":85679665,
     "wof:placetype":"county",

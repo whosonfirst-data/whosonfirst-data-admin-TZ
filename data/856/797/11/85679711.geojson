@@ -37,6 +37,9 @@
     "name:ara_x_variant":[
         "\u0625\u0642\u0644\u064a\u0645 \u0625\u064a\u0631\u064a\u0646\u063a\u0627"
     ],
+    "name:avk_x_preferred":[
+        "TanzaniaIringaGola"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09b0\u09bf\u0982\u0997\u09be \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -79,6 +82,9 @@
     "name:fra_x_preferred":[
         "Iringa"
     ],
+    "name:frr_x_preferred":[
+        "Iringa"
+    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Iringa"
     ],
@@ -114,6 +120,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc774\ub9c1\uac00 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc774\ub9c1\uac00\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Iringas re\u0123ions"
@@ -166,6 +175,9 @@
     "name:tam_x_preferred":[
         "\u0bb0\u0bbf\u0b99\u0bcd\u0b95\u0bbe  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
+    "name:tam_x_variant":[
+        "\u0bb0\u0bbf\u0b99\u0bcd\u0b95\u0bbe \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
     "name:tel_x_preferred":[
         "\u0c07\u0c30\u0c3f\u0c02\u0c17\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
     ],
@@ -201,6 +213,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u6797\u52a0\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Iringa Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TZA",
@@ -325,7 +340,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501505,
+    "wof:lastmodified":1690876085,
     "wof:name":"Iringa",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

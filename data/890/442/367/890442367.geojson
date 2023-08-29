@@ -31,6 +31,12 @@
     "name:dan_x_preferred":[
         "Butiama"
     ],
+    "name:deu_x_preferred":[
+        "Butiama"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03c4\u03b9\u03ac\u03bc\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Butiama"
     ],
@@ -55,6 +61,12 @@
     "name:nob_x_preferred":[
         "Butiama"
     ],
+    "name:por_x_preferred":[
+        "Butiama"
+    ],
+    "name:spa_x_preferred":[
+        "Butiama"
+    ],
     "name:swa_x_preferred":[
         "Butiama"
     ],
@@ -63,6 +75,9 @@
     ],
     "name:und_x_variant":[
         "Buliama"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u8482\u4e9a\u9a6c"
     ],
     "qs:name":"Butiama",
     "qs:photos_9r":0,
@@ -97,7 +112,7 @@
         }
     ],
     "wof:id":890442367,
-    "wof:lastmodified":1566590844,
+    "wof:lastmodified":1690876151,
     "wof:name":"Butiama",
     "wof:parent_id":1108693121,
     "wof:placetype":"locality",

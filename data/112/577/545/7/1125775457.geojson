@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Misungwi"
     ],
+    "name:ita_x_preferred":[
+        "Misungwi"
+    ],
     "name:nld_x_preferred":[
         "Misungwi"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1125775457,
-    "wof:lastmodified":1566590857,
+    "wof:lastmodified":1690876158,
     "wof:name":"Missungwi",
     "wof:parent_id":1108693115,
     "wof:placetype":"locality",

@@ -25,11 +25,20 @@
     "name:ceb_x_preferred":[
         "Makumbako"
     ],
+    "name:deu_x_preferred":[
+        "Makambako"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03ba\u03b1\u03bc\u03c0\u03ac\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Makambako"
+    ],
+    "name:epo_x_preferred":[
+        "Makambako"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06a9\u0627\u0645\u0628\u0627\u06a9\u0648"
     ],
     "name:fin_x_preferred":[
         "Makambako"
@@ -52,11 +61,20 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u043a\u0430\u043c\u0431\u0430\u043a\u043e"
     ],
+    "name:spa_x_preferred":[
+        "Makambako"
+    ],
     "name:swa_x_preferred":[
         "Makambako"
     ],
     "name:swa_x_variant":[
         "Usagara"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u574e\u5df4\u79d1"
+    ],
+    "name:zul_x_preferred":[
+        "Makambako"
     ],
     "qs:name":"Makumbako",
     "qs:photos_9r":0,
@@ -89,7 +107,7 @@
         }
     ],
     "wof:id":890435625,
-    "wof:lastmodified":1566590846,
+    "wof:lastmodified":1690876153,
     "wof:name":"Makumbako",
     "wof:parent_id":1108693145,
     "wof:placetype":"locality",

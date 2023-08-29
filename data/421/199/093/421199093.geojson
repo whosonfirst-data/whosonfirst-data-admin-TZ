@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0631\u064a\u0645"
+    ],
+    "name:ast_x_preferred":[
+        "Tarime"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03b1\u03c1\u03af\u03bc\u03b5"
     ],
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":421199093,
-    "wof:lastmodified":1566590828,
+    "wof:lastmodified":1690876137,
     "wof:name":"Tarime",
     "wof:parent_id":421175441,
     "wof:placetype":"locality",

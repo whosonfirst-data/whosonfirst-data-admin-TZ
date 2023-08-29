@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0648\u063a\u0648\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0631\u0648\u062c\u0648\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Korogwe"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09b0\u09cb\u0997\u09cb\u09df\u09c7"
     ],
@@ -58,6 +64,9 @@
     ],
     "name:ita_x_preferred":[
         "Korogwe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30ed\u30b0\u30a6\u30a7"
     ],
     "name:kor_x_preferred":[
         "\ucf54\ub85c\uadf8\uc6e8"
@@ -103,6 +112,9 @@
     ],
     "name:zho_x_preferred":[
         "\u79d1\u7f85\u572d"
+    ],
+    "name:zul_x_preferred":[
+        "Korogwe"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tanzania",
@@ -251,7 +263,7 @@
         }
     ],
     "wof:id":421166987,
-    "wof:lastmodified":1636501533,
+    "wof:lastmodified":1690876122,
     "wof:name":"Korogwe",
     "wof:parent_id":1108692931,
     "wof:placetype":"locality",

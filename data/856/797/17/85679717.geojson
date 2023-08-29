@@ -37,6 +37,9 @@
     "name:ara_x_variant":[
         "\u0625\u0642\u0644\u064a\u0645 \u0645\u062a\u0648\u0627\u0631\u0627"
     ],
+    "name:avk_x_preferred":[
+        "TanzaniaMtwaraGola"
+    ],
     "name:bel_x_preferred":[
         "\u041c\u0442\u0432\u0430\u0440\u0430"
     ],
@@ -73,6 +76,9 @@
     "name:epo_x_preferred":[
         "Regiono Mtwara"
     ],
+    "name:est_x_preferred":[
+        "Mtwara piirkond"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0627\u0645\u062a\u0648\u0627\u0631\u0627"
     ],
@@ -80,6 +86,9 @@
         "Mtwaran alue"
     ],
     "name:fra_x_preferred":[
+        "Mtwara"
+    ],
+    "name:frr_x_preferred":[
         "Mtwara"
     ],
     "name:glg_x_preferred":[
@@ -117,6 +126,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubbc0\ud2b8\uc640\ub77c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubbc0\ud2b8\uc640\ub77c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Mtvaras re\u0123ions"
@@ -201,6 +213,9 @@
     ],
     "name:zho_x_preferred":[
         "\u59c6\u7279\u74e6\u62c9\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Mtwara Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TZA",
@@ -327,7 +342,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501505,
+    "wof:lastmodified":1690876085,
     "wof:name":"Mtwara",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

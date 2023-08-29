@@ -35,7 +35,13 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u062a\u0627\u0631\u064a\u0645"
+    ],
     "name:ceb_x_preferred":[
+        "Tarime"
+    ],
+    "name:deu_x_preferred":[
         "Tarime"
     ],
     "name:ell_x_preferred":[
@@ -61,6 +67,9 @@
     ],
     "name:vie_x_variant":[
         "Arusha"
+    ],
+    "name:zul_x_preferred":[
+        "Tarime District"
     ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"ADM2",
@@ -126,7 +135,7 @@
         }
     ],
     "wof:id":421175441,
-    "wof:lastmodified":1627522877,
+    "wof:lastmodified":1690876133,
     "wof:name":"Tarime",
     "wof:parent_id":85679743,
     "wof:placetype":"county",

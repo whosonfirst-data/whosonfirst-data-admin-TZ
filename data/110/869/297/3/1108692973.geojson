@@ -37,8 +37,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0633\u0627\u0633\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0645\u0627\u0633\u0627\u0633\u064a"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b8\u09be\u0987"
+    ],
+    "name:dan_x_preferred":[
+        "Masasi"
     ],
     "name:deu_x_preferred":[
         "Masasi"
@@ -48,6 +54,9 @@
     ],
     "name:eng_x_preferred":[
         "Masasi"
+    ],
+    "name:eng_x_variant":[
+        "Masasi District"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u0633\u0627\u0633\u06cc"
@@ -124,6 +133,12 @@
     "name:zho_x_preferred":[
         "Newala"
     ],
+    "name:zho_x_variant":[
+        "\u9a6c\u8428\u897f"
+    ],
+    "name:zul_x_preferred":[
+        "Masasi District"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -160,7 +175,7 @@
         }
     ],
     "wof:id":1108692973,
-    "wof:lastmodified":1636501529,
+    "wof:lastmodified":1690876115,
     "wof:name":"Masasi",
     "wof:parent_id":85679717,
     "wof:placetype":"county",

@@ -37,6 +37,9 @@
     "name:ara_x_variant":[
         "\u0625\u0642\u0644\u064a\u0645 \u0631\u0648\u0641\u0648\u0645\u0627"
     ],
+    "name:avk_x_preferred":[
+        "TanzaniaRuvumaGola"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u09c1\u09ad\u09c1\u09ae\u09be \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -58,6 +61,9 @@
     "name:ell_x_preferred":[
         "\u03a1\u03bf\u03c5\u03b2\u03bf\u03cd\u03bc\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a1\u03bf\u03c5\u03b2\u03bf\u03cd\u03bc\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Ruvuma"
     ],
@@ -67,6 +73,9 @@
     "name:epo_x_preferred":[
         "Regiono Ruvuma"
     ],
+    "name:est_x_preferred":[
+        "Ruvuma piirkond"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0631\u0648\u0648\u0648\u0645\u0627"
     ],
@@ -74,6 +83,9 @@
         "Ruvuman alue"
     ],
     "name:fra_x_preferred":[
+        "Ruvuma"
+    ],
+    "name:frr_x_preferred":[
         "Ruvuma"
     ],
     "name:glg_x_preferred":[
@@ -105,6 +117,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub8e8\ubd80\ub9c8 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub8e8\ubd80\ub9c8\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Ruvumas re\u0123ions"
@@ -198,6 +213,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9b6f\u4f0d\u99ac\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Ruvuma Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TZA",
@@ -324,7 +342,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501507,
+    "wof:lastmodified":1690876088,
     "wof:name":"Ruvuma",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

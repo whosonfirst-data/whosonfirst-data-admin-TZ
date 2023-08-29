@@ -37,6 +37,9 @@
     "name:ara_x_variant":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u0627\u0646\u063a\u0627"
     ],
+    "name:avk_x_preferred":[
+        "TanzaniaTangaGola"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u0982\u0997\u09be \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:ceb_x_preferred":[
         "Tanga Region"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06be\u06d5\u0631\u06ce\u0645\u06cc \u062a\u0627\u0646\u06af\u0627"
     ],
     "name:dan_x_preferred":[
         "Tanga"
@@ -82,11 +88,17 @@
     "name:fra_x_preferred":[
         "Tanga"
     ],
+    "name:frr_x_preferred":[
+        "Tanga"
+    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Tanga"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0a82\u0a97\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d8\u05e0\u05d2\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u091f\u0902\u0917\u093e \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
@@ -95,6 +107,12 @@
         "Tanga"
     ],
     "name:hun_x_preferred":[
+        "Tanga"
+    ],
+    "name:hun_x_variant":[
+        "Tanga r\u00e9gi\u00f3"
+    ],
+    "name:ibo_x_preferred":[
         "Tanga"
     ],
     "name:ind_x_preferred":[
@@ -115,6 +133,9 @@
     "name:kor_x_preferred":[
         "\ud0d5\uac00 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud0d5\uac00\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Tangas re\u0123ions"
     ],
@@ -129,6 +150,9 @@
     ],
     "name:nld_x_preferred":[
         "Tanga"
+    ],
+    "name:nno_x_preferred":[
+        "Tanga-regionen"
     ],
     "name:nob_x_preferred":[
         "Tanga"
@@ -195,6 +219,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5766\u5676\u533a"
+    ],
+    "name:zul_x_preferred":[
+        "Tanga Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TZA",
@@ -321,7 +348,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501507,
+    "wof:lastmodified":1690876088,
     "wof:name":"Tanga",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

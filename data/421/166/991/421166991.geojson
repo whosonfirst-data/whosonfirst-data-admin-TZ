@@ -17,7 +17,13 @@
     "mz:is_current":-1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0643\u0633\u0631\u0627\u0648\u064a"
+    ],
     "name:ceb_x_preferred":[
+        "Kisarawe"
+    ],
+    "name:deu_x_preferred":[
         "Kisarawe"
     ],
     "name:ell_x_preferred":[
@@ -31,6 +37,9 @@
     ],
     "name:vie_x_preferred":[
         "Kisarawe"
+    ],
+    "name:zul_x_preferred":[
+        "Kisarawe District"
     ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"PPL",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":421166991,
-    "wof:lastmodified":1566590805,
+    "wof:lastmodified":1690876120,
     "wof:name":"Kisarawe",
     "wof:parent_id":421192907,
     "wof:placetype":"locality",

@@ -38,8 +38,17 @@
     "name:ara_x_preferred":[
         "\u0648\u064a\u062a\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0648\u064a\u062a\u064a"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u09df\u09c7\u099f\u09c7"
+    ],
+    "name:ceb_x_preferred":[
+        "Wete District"
+    ],
+    "name:deu_x_preferred":[
+        "Wete"
     ],
     "name:ell_x_preferred":[
         "\u039f\u03c5\u03ad\u03c4\u03b5"
@@ -48,7 +57,6 @@
         "Wete"
     ],
     "name:eng_x_variant":[
-        "Wete",
         "Wete District"
     ],
     "name:fas_x_preferred":[
@@ -68,6 +76,9 @@
     ],
     "name:ind_x_preferred":[
         "Wete"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a7\u30c6\u770c"
     ],
     "name:kor_x_preferred":[
         "\uc6e8\ud14c"
@@ -157,7 +168,7 @@
         }
     ],
     "wof:id":421190259,
-    "wof:lastmodified":1636501538,
+    "wof:lastmodified":1690876136,
     "wof:name":"Wete",
     "wof:parent_id":85679683,
     "wof:placetype":"county",

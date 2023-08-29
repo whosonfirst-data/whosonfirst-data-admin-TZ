@@ -37,6 +37,9 @@
     "name:ceb_x_preferred":[
         "Biharamulo District"
     ],
+    "name:deu_x_preferred":[
+        "Biharamulo"
+    ],
     "name:eng_x_preferred":[
         "Biharamulo"
     ],
@@ -97,6 +100,9 @@
     "name:zho_tw_x_preferred":[
         "\u6bd4\u54c8\u62c9\u7a46\u6d1b"
     ],
+    "name:zul_x_preferred":[
+        "Biharamulo District"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":1108693093,
-    "wof:lastmodified":1636501524,
+    "wof:lastmodified":1690876104,
     "wof:name":"Biharamulo",
     "wof:parent_id":85679665,
     "wof:placetype":"county",

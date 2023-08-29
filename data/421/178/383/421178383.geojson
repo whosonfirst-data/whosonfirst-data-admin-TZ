@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0633\u0627\u0633\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0645\u0627\u0633\u0627\u0633\u064a"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b8\u09be\u0987"
+    ],
+    "name:dan_x_preferred":[
+        "Masasi"
     ],
     "name:deu_x_preferred":[
         "Masasi"
@@ -31,6 +37,9 @@
     ],
     "name:eng_x_preferred":[
         "Masasi"
+    ],
+    "name:eng_x_variant":[
+        "Masasi District"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u0633\u0627\u0633\u06cc"
@@ -109,6 +118,12 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u99ac\u85a9\u897f"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u8428\u897f"
+    ],
+    "name:zul_x_preferred":[
+        "Masasi District"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tanzania",
@@ -249,7 +264,7 @@
         }
     ],
     "wof:id":421178383,
-    "wof:lastmodified":1636501541,
+    "wof:lastmodified":1690876142,
     "wof:name":"Masasi",
     "wof:parent_id":1108692983,
     "wof:placetype":"locality",

@@ -38,6 +38,9 @@
     "name:ceb_x_preferred":[
         "Ilemela District"
     ],
+    "name:deu_x_preferred":[
+        "Ilemela"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u0399\u03bb\u03b5\u03bc\u03ad\u03bb\u03b1"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "Ilemela"
+    ],
+    "name:zul_x_preferred":[
+        "Ilemela District"
     ],
     "qs:gn_country":"TZ",
     "qs:gn_fcode":"ADM2",
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":421191925,
-    "wof:lastmodified":1627522860,
+    "wof:lastmodified":1690876136,
     "wof:name":"Ilemela",
     "wof:parent_id":85679655,
     "wof:placetype":"county",
