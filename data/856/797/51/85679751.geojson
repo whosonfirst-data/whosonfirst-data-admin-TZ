@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.832379,
-    "geom:area_square_m":47091840777.534477,
+    "geom:area_square_m":47091840868.729706,
     "geom:bbox":"29.903001,-7.611911,32.758813,-5.133377",
     "geom:latitude":-6.385262,
     "geom:longitude":31.345777,
@@ -312,15 +312,17 @@
         "gn:id":-99,
         "gp:id":-2347375,
         "hasc:id":"TZ.KA",
+        "iso:code":"TZ-28",
         "iso:id":"TZ-28",
         "unlc:id":"TZ-28",
         "wd:id":"Q153329"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ffb7dc94c72209ad4f870ac9f96de084",
+    "wof:geomhash":"ecdc8d1e318eed1a0fe17ed8fbf93379",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -337,7 +339,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876083,
+    "wof:lastmodified":1695884884,
     "wof:name":"Katavi",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

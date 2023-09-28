@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038777,
-    "geom:area_square_m":477413286.358835,
+    "geom:area_square_m":477413222.954241,
     "geom:bbox":"39.56271,-5.487027,39.855784,-5.15853",
     "geom:latitude":-5.320267,
     "geom:longitude":39.736204,
@@ -299,17 +299,19 @@
         "gn:id":150732,
         "gp:id":2347371,
         "hasc:id":"TZ.PS",
+        "iso:code":"TZ-10",
         "iso:id":"TZ-10",
         "qs_pg:id":221187,
         "unlc:id":"TZ-10",
         "wd:id":"Q498067",
         "wk:page":"Pemba South Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5a5ad033b5c8dc167ffc3a0d81da77de",
+    "wof:geomhash":"123c9c4d0973303d1e2ba76cac02a464",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -326,7 +328,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876092,
+    "wof:lastmodified":1695884889,
     "wof:name":"Kusini-Pemba",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

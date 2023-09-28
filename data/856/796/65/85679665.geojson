@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.154179,
-    "geom:area_square_m":26618423332.920521,
+    "geom:area_square_m":26618424235.481045,
     "geom:bbox":"30.410674,-3.360234,32.617735,-0.983143",
     "geom:latitude":-2.028889,
     "geom:longitude":31.184128,
@@ -305,16 +305,18 @@
         "gn:id":148679,
         "gp:id":2347370,
         "hasc:id":"TZ.KG",
+        "iso:code":"TZ-05",
         "iso:id":"TZ-05",
         "qs_pg:id":891340,
         "wd:id":"Q309190",
         "wk:page":"Kagera Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6dfb25dabfd6a51be946f1b47d381394",
+    "wof:geomhash":"4901a8b1fe9dadc566c6a7317228aa99",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -331,7 +333,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876095,
+    "wof:lastmodified":1695884892,
     "wof:name":"Kagera",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

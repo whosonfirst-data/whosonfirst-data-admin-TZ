@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.940995,
-    "geom:area_square_m":11621827357.442118,
+    "geom:area_square_m":11621826644.517038,
     "geom:bbox":"31.93281,-3.43541,33.789809,-1.667174",
     "geom:latitude":-2.767529,
     "geom:longitude":33.004505,
@@ -319,17 +319,19 @@
         "gn:id":152219,
         "gp:id":2347363,
         "hasc:id":"TZ.MZ",
+        "iso:code":"TZ-18",
         "iso:id":"TZ-18",
         "qs_pg:id":1285541,
         "unlc:id":"TZ-18",
         "wd:id":"Q331153",
         "wk:page":"Mwanza Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ca6c69d3e093a11ae8034afee0f8bf0e",
+    "wof:geomhash":"1002e3f04fadcad30e1f632079b51208",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -346,7 +348,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876096,
+    "wof:lastmodified":1695884893,
     "wof:name":"Mwanza",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

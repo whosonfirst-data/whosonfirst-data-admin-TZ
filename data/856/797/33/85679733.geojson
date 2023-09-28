@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.786449,
-    "geom:area_square_m":46671347421.737999,
+    "geom:area_square_m":46671347411.017166,
     "geom:bbox":"34.86441,-5.951309,38.000054,-3.448487",
     "geom:latitude":-4.533697,
     "geom:longitude":36.548099,
@@ -306,17 +306,19 @@
         "gn:id":435764,
         "gp:id":56025085,
         "hasc:id":"TZ.MY",
+        "iso:code":"TZ-26",
         "iso:id":"TZ-26",
         "qs_pg:id":1081970,
         "unlc:id":"TZ-26",
         "wd:id":"Q331117",
         "wk:page":"Manyara Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"68cf17465229e7225ea4ecb57c4a88c4",
+    "wof:geomhash":"4919edfdf1d5e9e98d474b436f325b75",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -333,7 +335,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876083,
+    "wof:lastmodified":1695884885,
     "wof:name":"Manyara",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

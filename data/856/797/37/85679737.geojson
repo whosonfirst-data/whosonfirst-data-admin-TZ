@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.073609,
-    "geom:area_square_m":13246317756.768799,
+    "geom:area_square_m":13246318348.542793,
     "geom:bbox":"36.889585,-4.61371,38.403605,-2.849522",
     "geom:latitude":-3.760131,
     "geom:longitude":37.640144,
@@ -319,17 +319,19 @@
         "gn:id":157449,
         "gp:id":2347357,
         "hasc:id":"TZ.KL",
+        "iso:code":"TZ-09",
         "iso:id":"TZ-09",
         "qs_pg:id":219628,
         "unlc:id":"TZ-09",
         "wd:id":"Q328922",
         "wk:page":"Kilimanjaro Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d633259d12c8f5e1c88d377e6d7c747f",
+    "wof:geomhash":"17beabe19dc2793f82cb3c5ee259593d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -346,7 +348,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876087,
+    "wof:lastmodified":1695884886,
     "wof:name":"Kilimanjaro",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

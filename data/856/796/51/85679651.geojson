@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072333,
-    "geom:area_square_m":889117940.482669,
+    "geom:area_square_m":889118114.517875,
     "geom:bbox":"39.269071,-6.478158,39.580349,-6.021441",
     "geom:latitude":-6.238768,
     "geom:longitude":39.423212,
@@ -269,15 +269,17 @@
         "gn:id":148728,
         "gp:id":2347372,
         "hasc:id":"TZ.ZS",
+        "iso:code":"TZ-11",
         "iso:id":"TZ-11",
         "qs_pg:id":1135420,
         "wd:id":"Q643120"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bee3003a4319b85c6b36bbf7fbf5d413",
+    "wof:geomhash":"fa7ba62bbb605762df73cfb10e9794b3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -294,7 +296,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876091,
+    "wof:lastmodified":1695885131,
     "wof:name":"Zanzibar South and Central",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

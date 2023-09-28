@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042902,
-    "geom:area_square_m":528438212.312796,
+    "geom:area_square_m":528438482.702534,
     "geom:bbox":"39.630091,-5.208608,39.876199,-4.864378",
     "geom:latitude":-5.043164,
     "geom:longitude":39.770983,
@@ -302,17 +302,19 @@
         "gn:id":150733,
         "gp:id":2347364,
         "hasc:id":"TZ.PN",
+        "iso:code":"TZ-06",
         "iso:id":"TZ-06",
         "qs_pg:id":1285545,
         "unlc:id":"TZ-06",
         "wd:id":"Q498073",
         "wk:page":"Pemba North Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"41287c19c768a4d5175c902ca1f0a0e8",
+    "wof:geomhash":"018f9e2fd532f3fe2f6059ce793b16cb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -329,7 +331,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876098,
+    "wof:lastmodified":1695884895,
     "wof:name":"Kaskazini-Pemba",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

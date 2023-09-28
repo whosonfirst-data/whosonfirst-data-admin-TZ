@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037896,
-    "geom:area_square_m":466088571.877253,
+    "geom:area_square_m":466088572.445428,
     "geom:bbox":"39.181401,-6.040009,39.401207,-5.721897",
     "geom:latitude":-5.918897,
     "geom:longitude":39.287957,
@@ -301,17 +301,19 @@
         "gn:id":148725,
         "gp:id":2347373,
         "hasc:id":"TZ.ZN",
+        "iso:code":"TZ-07",
         "iso:id":"TZ-07",
         "qs_pg:id":221188,
         "unlc:id":"TZ-07",
         "wd:id":"Q147116",
         "wk:page":"Unguja North Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dfc171c1cfae6b78367750d914fc4dba",
+    "wof:geomhash":"124b8f148b6f09e9fbe7cfb6479a9ad9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -328,7 +330,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876089,
+    "wof:lastmodified":1695884888,
     "wof:name":"Kaskazini-Unguja",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

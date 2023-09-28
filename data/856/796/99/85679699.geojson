@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019054,
-    "geom:area_square_m":234246831.0791,
+    "geom:area_square_m":234246732.848787,
     "geom:bbox":"39.185588,-6.321643,39.309957,-6.027276",
     "geom:latitude":-6.167597,
     "geom:longitude":39.248609,
@@ -317,15 +317,17 @@
         "gn:id":148724,
         "gp:id":2347376,
         "hasc:id":"TZ.ZW",
+        "iso:code":"TZ-15",
         "iso:id":"TZ-15",
         "qs_pg:id":1135421,
         "wd:id":"Q180822"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ea6e2ab62a2e23a92fd6e7a97bd5052e",
+    "wof:geomhash":"5a358fc117f2e0c11a2d413a1bcfef6c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -342,7 +344,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876096,
+    "wof:lastmodified":1695885132,
     "wof:name":"Zanzibar West",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

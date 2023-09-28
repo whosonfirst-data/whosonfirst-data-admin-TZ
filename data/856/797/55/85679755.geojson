@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.967786,
-    "geom:area_square_m":24297117424.672802,
+    "geom:area_square_m":24297117340.315876,
     "geom:bbox":"33.423074,-4.084633,35.223437,-2.178633",
     "geom:latitude":-3.040795,
     "geom:longitude":34.29276,
@@ -303,15 +303,17 @@
         "gn:id":-99,
         "gp:id":-2347366,
         "hasc:id":"TZ.SI",
+        "iso:code":"TZ-30",
         "iso:id":"TZ-30",
         "unlc:id":"TZ-30",
         "wd:id":"Q153339"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0232358773b0b65380afa598580fb5fc",
+    "wof:geomhash":"32c273889f04d428b85f280de6c14d5d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -328,7 +330,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876087,
+    "wof:lastmodified":1695884887,
     "wof:name":"Simiyu",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

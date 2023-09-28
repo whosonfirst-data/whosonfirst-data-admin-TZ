@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.964692,
-    "geom:area_square_m":48771368461.212845,
+    "geom:area_square_m":48771366121.758331,
     "geom:bbox":"33.486549,-7.534773,35.356383,-3.800776",
     "geom:latitude":-5.745442,
     "geom:longitude":34.495386,
@@ -303,17 +303,19 @@
         "gn:id":149876,
         "gp:id":2347367,
         "hasc:id":"TZ.SD",
+        "iso:code":"TZ-23",
         "iso:id":"TZ-23",
         "qs_pg:id":1285546,
         "unlc:id":"TZ-23",
         "wd:id":"Q153326",
         "wk:page":"Singida Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fc59bbba6143f1d3efa35a1616f43cee",
+    "wof:geomhash":"0ada8ee3ae7b374b73719ab384fba1e4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -330,7 +332,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876084,
+    "wof:lastmodified":1695884885,
     "wof:name":"Singida",
     "wof:parent_id":85632227,
     "wof:placetype":"region",
