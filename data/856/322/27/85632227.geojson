@@ -1173,6 +1173,7 @@
         "hasc:id":"TZ",
         "icao:code":"5H",
         "ioc:id":"TAN",
+        "iso:code":"TZ",
         "itu:id":"TZA",
         "loc:id":"n80121275",
         "m49:code":"834",
@@ -1187,6 +1188,7 @@
         "wk:page":"Tanzania",
         "wmo:id":"TN"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:country_alpha3":"TZA",
     "wof:geom_alt":[
@@ -1210,7 +1212,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1694639535,
+    "wof:lastmodified":1695881193,
     "wof:name":"Tanzania",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
