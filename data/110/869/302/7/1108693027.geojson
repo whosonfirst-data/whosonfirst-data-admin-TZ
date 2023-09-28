@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058742,
-    "geom:area_square_m":723778084.572219,
+    "geom:area_square_m":723778206.339545,
     "geom:bbox":"34.549757,-4.966344,34.885875,-4.661023",
     "geom:latitude":-4.831538,
     "geom:longitude":34.720363,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.SD.SU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326989,
-    "wof:geomhash":"80c69b321e814f1df3e2c9acbf4bcd4b",
+    "wof:geomhash":"d0397b91b17d09557aa6095fbff6fb57",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108693027,
-    "wof:lastmodified":1627522877,
+    "wof:lastmodified":1695886033,
     "wof:name":"Singida Urban",
     "wof:parent_id":85679727,
     "wof:placetype":"county",

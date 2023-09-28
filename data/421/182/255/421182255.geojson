@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.045363,
-    "geom:area_square_m":12802121697.490126,
+    "geom:area_square_m":12802121126.50243,
     "geom:bbox":"37.794138,-8.512519,39.446613,-7.470222",
     "geom:latitude":-7.93905,
     "geom:longitude":38.62841,
@@ -125,12 +125,13 @@
         "hasc:id":"TZ.PW.RU",
         "qs_pg:id":896708
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459009323,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f7b88bbf6668e6732f81e1e69400c89c",
+    "wof:geomhash":"40472fa9508c4905ada2b3d9a035856a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":421182255,
-    "wof:lastmodified":1636501541,
+    "wof:lastmodified":1695886786,
     "wof:name":"Rufiji",
     "wof:parent_id":85679691,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.282664,
-    "geom:area_square_m":3451726144.924033,
+    "geom:area_square_m":3451725431.090078,
     "geom:bbox":"34.272464,-9.443814,34.895114,-8.663164",
     "geom:latitude":-9.04316,
     "geom:longitude":34.56889,
@@ -57,7 +57,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474327073,
-    "wof:geomhash":"b500f9d671b2cbd3d2fff604cbcea033",
+    "wof:geomhash":"efbb2404af9bcf2d13dde004d0330e85",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":1108693135,
-    "wof:lastmodified":1627522879,
+    "wof:lastmodified":1695886035,
     "wof:name":"Wanging'ombe",
     "wof:parent_id":85679765,
     "wof:placetype":"county",

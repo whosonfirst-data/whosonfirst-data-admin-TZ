@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.975991,
-    "geom:area_square_m":12020338358.126308,
+    "geom:area_square_m":12020338558.424242,
     "geom:bbox":"32.196729,-5.706855,34.242038,-4.173647",
     "geom:latitude":-5.103366,
     "geom:longitude":33.288096,
@@ -91,9 +91,10 @@
         "hasc:id":"TZ.TB.UY",
         "wd:id":"Q7904403"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326997,
-    "wof:geomhash":"c14a91918900464a86f8bc147f01d437",
+    "wof:geomhash":"ab14fba3d3a27518fa549e275f8c67f3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108693039,
-    "wof:lastmodified":1690876111,
+    "wof:lastmodified":1695886035,
     "wof:name":"Uyui",
     "wof:parent_id":85679661,
     "wof:placetype":"county",

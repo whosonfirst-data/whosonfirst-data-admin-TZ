@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.798411,
-    "geom:area_square_m":21854494820.660259,
+    "geom:area_square_m":21854495043.291996,
     "geom:bbox":"35.645112,-11.762349,37.141159,-9.584492",
     "geom:latitude":-10.636934,
     "geom:longitude":36.317497,
@@ -91,9 +91,10 @@
         "hasc:id":"TZ.RV.NA",
         "wd:id":"Q1964386"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326960,
-    "wof:geomhash":"ddb79ca64c5725b7f57996f9882ef525",
+    "wof:geomhash":"2efd1c03fbbeed1053e05238d69aada2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108692993,
-    "wof:lastmodified":1690876116,
+    "wof:lastmodified":1695886591,
     "wof:name":"Namtumbo",
     "wof:parent_id":85679723,
     "wof:placetype":"county",

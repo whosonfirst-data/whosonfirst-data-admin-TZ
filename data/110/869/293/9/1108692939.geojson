@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023586,
-    "geom:area_square_m":289610039.926232,
+    "geom:area_square_m":289610747.739964,
     "geom:bbox":"37.583241,-6.914719,37.7513,-6.656876",
     "geom:latitude":-6.778727,
     "geom:longitude":37.663501,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.MO.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326913,
-    "wof:geomhash":"f8bcd9c9e5b0fd7cc130118b4ad53582",
+    "wof:geomhash":"9fa4f7100b08b41bdc68ee5745dc5bb5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108692939,
-    "wof:lastmodified":1627522869,
+    "wof:lastmodified":1695886589,
     "wof:name":"Morogoro Urban",
     "wof:parent_id":85679677,
     "wof:placetype":"county",

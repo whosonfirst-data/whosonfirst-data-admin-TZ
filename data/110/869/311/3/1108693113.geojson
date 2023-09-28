@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.25641,
-    "geom:area_square_m":3167284200.48272,
+    "geom:area_square_m":3167283971.609046,
     "geom:bbox":"31.93281,-3.009382,32.876348,-2.15392",
     "geom:latitude":-2.597105,
     "geom:longitude":32.517473,
@@ -97,9 +97,10 @@
         "hasc:id":"TZ.MZ.SE",
         "wd:id":"Q1888290"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327050,
-    "wof:geomhash":"864c863fe3da3085926b25f90d789304",
+    "wof:geomhash":"e7b2cb17282bbc6fb07f5336a3aab02b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108693113,
-    "wof:lastmodified":1690876117,
+    "wof:lastmodified":1695886029,
     "wof:name":"Sengerema",
     "wof:parent_id":85679655,
     "wof:placetype":"county",

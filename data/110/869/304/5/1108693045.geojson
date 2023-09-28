@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119118,
-    "geom:area_square_m":1467327749.1487,
+    "geom:area_square_m":1467327533.505791,
     "geom:bbox":"32.632594,-5.212525,32.993943,-4.670307",
     "geom:latitude":-4.992899,
     "geom:longitude":32.795384,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.TB.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327001,
-    "wof:geomhash":"8ce225bb0dcb38cac710312451dba689",
+    "wof:geomhash":"d55e887589735d5fc282856f771e55b2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108693045,
-    "wof:lastmodified":1627522877,
+    "wof:lastmodified":1695886033,
     "wof:name":"Tabora Urban",
     "wof:parent_id":85679661,
     "wof:placetype":"county",

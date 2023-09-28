@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.124698,
-    "geom:area_square_m":1541453864.505468,
+    "geom:area_square_m":1541453788.085105,
     "geom:bbox":"34.164187,-1.605831,34.783026,-1.186327",
     "geom:latitude":-1.392734,
     "geom:longitude":34.467131,
@@ -120,12 +120,13 @@
         "wd:id":"Q7194958",
         "wk:page":"Tarime District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459009067,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e937ccc515615ff4874fc47d892e8868",
+    "wof:geomhash":"51860add421048d202b1bc6d4c42eb01",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421175441,
-    "wof:lastmodified":1690876133,
+    "wof:lastmodified":1695886032,
     "wof:name":"Tarime",
     "wof:parent_id":85679743,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007198,
-    "geom:area_square_m":87834362.871172,
+    "geom:area_square_m":87834507.763144,
     "geom:bbox":"32.728116,-9.370253,32.875817,-9.23669",
     "geom:latitude":-9.298802,
     "geom:longitude":32.799349,
@@ -129,7 +129,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474326983,
-    "wof:geomhash":"73922d69f2128ab64be76ed5ea36cf7b",
+    "wof:geomhash":"241ac3879a9002057a518189697ddbfd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -139,7 +139,7 @@
         }
     ],
     "wof:id":1108693021,
-    "wof:lastmodified":1636501528,
+    "wof:lastmodified":1695886783,
     "wof:name":"Tunduma",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.381469,
-    "geom:area_square_m":4711102236.504322,
+    "geom:area_square_m":4711101485.031426,
     "geom:bbox":"33.651003,-3.104193,35.194691,-2.671208",
     "geom:latitude":-2.84943,
     "geom:longitude":34.467018,
@@ -54,7 +54,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474327085,
-    "wof:geomhash":"ae83fb5f17ba06a5fc6681ce128df916",
+    "wof:geomhash":"3dcc2a02ad1e34f4623553f333f87f44",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1108693153,
-    "wof:lastmodified":1627522861,
+    "wof:lastmodified":1695886575,
     "wof:name":"Itilima",
     "wof:parent_id":85679755,
     "wof:placetype":"county",

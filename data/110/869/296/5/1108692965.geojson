@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.207471,
-    "geom:area_square_m":2526033652.892429,
+    "geom:area_square_m":2526033659.985758,
     "geom:bbox":"38.713158,-10.51211,39.194358,-9.667763",
     "geom:latitude":-10.049899,
     "geom:longitude":38.986179,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.LI.RU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326940,
-    "wof:geomhash":"feb98628dbefa4daf18ffeca41e29bc9",
+    "wof:geomhash":"dbd2b4a3879f25be84eb00dc13b98738",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108692965,
-    "wof:lastmodified":1627522873,
+    "wof:lastmodified":1695886027,
     "wof:name":"Ruangwa",
     "wof:parent_id":85679713,
     "wof:placetype":"county",

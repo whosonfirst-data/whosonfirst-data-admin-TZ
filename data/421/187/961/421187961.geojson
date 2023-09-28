@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.233793,
-    "geom:area_square_m":15063400871.762012,
+    "geom:area_square_m":15063400856.563099,
     "geom:bbox":"38.436247,-9.920367,39.663797,-8.257188",
     "geom:latitude":-9.108351,
     "geom:longitude":39.016196,
@@ -132,12 +132,13 @@
         "wd:id":"Q2221197",
         "wk:page":"Kilwa District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459009529,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"143ff0f79e5d0b3ccd22b112e77fd35f",
+    "wof:geomhash":"940433acf2ee2d495ec389f25d905d34",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":421187961,
-    "wof:lastmodified":1690876128,
+    "wof:lastmodified":1695886788,
     "wof:name":"Kilwa",
     "wof:parent_id":85679713,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.617099,
-    "geom:area_square_m":7546486662.46686,
+    "geom:area_square_m":7546486884.859016,
     "geom:bbox":"34.683211,-9.040651,35.982014,-8.099443",
     "geom:latitude":-8.510303,
     "geom:longitude":35.271988,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.IG.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326965,
-    "wof:geomhash":"be0309e92ab2db528f6ea70b84d4fd44",
+    "wof:geomhash":"e62dcf34343d0d86a2be9bc84eb883c4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1108692997,
-    "wof:lastmodified":1627522870,
+    "wof:lastmodified":1695886590,
     "wof:name":"Mufindi",
     "wof:parent_id":85679711,
     "wof:placetype":"county",

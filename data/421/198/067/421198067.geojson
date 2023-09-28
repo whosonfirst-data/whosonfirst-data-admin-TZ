@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018841,
-    "geom:area_square_m":232099262.028202,
+    "geom:area_square_m":232099392.274944,
     "geom:bbox":"39.672829,-5.048808,39.876199,-4.864378",
     "geom:latitude":-4.971815,
     "geom:longitude":39.77609,
@@ -110,12 +110,13 @@
         "qs_pg:id":354502,
         "wd:id":"Q6837342"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459009935,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c8d12f28dc5f6d93a6b639ee1465beb9",
+    "wof:geomhash":"d87d7b00c198b4b7e9ea292a9e229ebf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":421198067,
-    "wof:lastmodified":1690876134,
+    "wof:lastmodified":1695886583,
     "wof:name":"Micheweni",
     "wof:parent_id":85679683,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062247,
-    "geom:area_square_m":759063509.607298,
+    "geom:area_square_m":759063525.371686,
     "geom:bbox":"33.66816,-9.718722,34.089749,-9.368431",
     "geom:latitude":-9.531766,
     "geom:longitude":33.871108,
@@ -113,12 +113,13 @@
         "qs_pg:id":1182989,
         "wd:id":"Q995244"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459009753,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"36f927c7edc46150f9c22adc4e444c63",
+    "wof:geomhash":"d24151deac74eb142ef28df62061c669",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":421192909,
-    "wof:lastmodified":1690876122,
+    "wof:lastmodified":1695886788,
     "wof:name":"Kyela",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

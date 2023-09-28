@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.804941,
-    "geom:area_square_m":9866756141.620731,
+    "geom:area_square_m":9866756565.383221,
     "geom:bbox":"30.49938,-8.288596,31.522572,-6.884823",
     "geom:latitude":-7.552078,
     "geom:longitude":31.005097,
@@ -91,9 +91,10 @@
         "hasc:id":"TZ.RU.NK",
         "wd:id":"Q3711254"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327007,
-    "wof:geomhash":"cb4c4c1c66b97d5fe98e2ac767705587",
+    "wof:geomhash":"0b88afa310842f7da7a122bf29b25964",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108693055,
-    "wof:lastmodified":1690876112,
+    "wof:lastmodified":1695886026,
     "wof:name":"Nkasi",
     "wof:parent_id":85679645,
     "wof:placetype":"county",

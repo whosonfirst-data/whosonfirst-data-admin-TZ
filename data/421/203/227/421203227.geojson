@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.160167,
-    "geom:area_square_m":1976287130.476675,
+    "geom:area_square_m":1976287563.096793,
     "geom:bbox":"37.409485,-3.937223,37.952809,-3.430986",
     "geom:latitude":-3.731624,
     "geom:longitude":37.641787,
@@ -114,12 +114,13 @@
         "wd:id":"Q6944667",
         "wk:page":"Mwanga District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459010144,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"68e5bb2f534fce54dbc468bea93e9029",
+    "wof:geomhash":"2c983c779c5b508b83cf23cbc91ee3ca",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":421203227,
-    "wof:lastmodified":1690876126,
+    "wof:lastmodified":1695886590,
     "wof:name":"Mwanga",
     "wof:parent_id":85679737,
     "wof:placetype":"county",

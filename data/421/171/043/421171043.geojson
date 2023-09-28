@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109523,
-    "geom:area_square_m":1351920368.983311,
+    "geom:area_square_m":1351920172.592007,
     "geom:bbox":"37.248947,-3.648024,37.615524,-3.091511",
     "geom:latitude":-3.376007,
     "geom:longitude":37.421,
@@ -106,12 +106,13 @@
         "wd:id":"Q6916218",
         "wk:page":"Moshi District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459008879,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"75ae0334cc48951872c5266288eb212d",
+    "wof:geomhash":"bc83764c51590bfffa4512a68617deba",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":421171043,
-    "wof:lastmodified":1690876145,
+    "wof:lastmodified":1695886509,
     "wof:name":"Moshi",
     "wof:parent_id":85679737,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.929486,
-    "geom:area_square_m":23560710720.595261,
+    "geom:area_square_m":23560710209.560863,
     "geom:bbox":"35.673306,-9.921631,37.437572,-8.164594",
     "geom:latitude":-9.052334,
     "geom:longitude":36.613334,
@@ -103,9 +103,10 @@
         "hasc:id":"TZ.MO.UL",
         "wd:id":"Q7878736"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326912,
-    "wof:geomhash":"1113a402da3c462f03413501b36acdae",
+    "wof:geomhash":"42acec56d59f7b9ba5a3bf5ecccca339",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108692937,
-    "wof:lastmodified":1690876108,
+    "wof:lastmodified":1695886033,
     "wof:name":"Ulanga",
     "wof:parent_id":85679677,
     "wof:placetype":"county",

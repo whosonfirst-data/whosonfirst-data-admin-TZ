@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.291175,
-    "geom:area_square_m":3550895531.975828,
+    "geom:area_square_m":3550895646.147794,
     "geom:bbox":"34.391222,-9.763936,35.306744,-9.171282",
     "geom:latitude":-9.515381,
     "geom:longitude":34.886493,
@@ -54,7 +54,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474327071,
-    "wof:geomhash":"6d91a88e35a38d5c41c897d2c0bdc35e",
+    "wof:geomhash":"2317c5e91446cba0be307c6d4c07aab6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1108693133,
-    "wof:lastmodified":1627522872,
+    "wof:lastmodified":1695886027,
     "wof:name":"Njombe Urban",
     "wof:parent_id":85679765,
     "wof:placetype":"county",

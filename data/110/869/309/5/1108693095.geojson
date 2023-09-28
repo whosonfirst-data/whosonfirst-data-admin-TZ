@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.268785,
-    "geom:area_square_m":3320033291.896575,
+    "geom:area_square_m":3320033089.922594,
     "geom:bbox":"30.410674,-2.99735,31.065507,-2.254746",
     "geom:latitude":-2.64172,
     "geom:longitude":30.71095,
@@ -129,9 +129,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.KG.NG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327037,
-    "wof:geomhash":"bc3adee032e74dc70f6def42c7340443",
+    "wof:geomhash":"6ca854ef78b30d709f7582acaa9c8f90",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108693095,
-    "wof:lastmodified":1636501525,
+    "wof:lastmodified":1695886781,
     "wof:name":"Ngara",
     "wof:parent_id":85679665,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.506695,
-    "geom:area_square_m":6248389713.197632,
+    "geom:area_square_m":6248390342.697858,
     "geom:bbox":"37.459497,-4.61371,38.403605,-3.792515",
     "geom:latitude":-4.216697,
     "geom:longitude":37.897885,
@@ -142,9 +142,10 @@
         "hasc:id":"TZ.KL.SA",
         "wd:id":"Q7193222"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326889,
-    "wof:geomhash":"ce2e4a3bbe4f91ad2da876e301033c9b",
+    "wof:geomhash":"56dd65f7da1b8f87ad5c582c4deb90d7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":1108692913,
-    "wof:lastmodified":1690876114,
+    "wof:lastmodified":1695886783,
     "wof:name":"Same",
     "wof:parent_id":85679737,
     "wof:placetype":"county",

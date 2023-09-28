@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.130712,
-    "geom:area_square_m":1613838915.240389,
+    "geom:area_square_m":1613839540.350504,
     "geom:bbox":"32.382301,-3.457163,32.792927,-2.899108",
     "geom:latitude":-3.14955,
     "geom:longitude":32.604833,
@@ -81,7 +81,7 @@
     },
     "wof:country":"TZ",
     "wof:created":1474327093,
-    "wof:geomhash":"722242812b613ba38947944ee5b8c870",
+    "wof:geomhash":"c18018988ec5db53a9c59689882bda71",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1108693165,
-    "wof:lastmodified":1690876119,
+    "wof:lastmodified":1695886027,
     "wof:name":"Nyang'wale",
     "wof:parent_id":85679761,
     "wof:placetype":"county",

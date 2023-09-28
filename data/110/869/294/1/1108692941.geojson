@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.542184,
-    "geom:area_square_m":6660672510.811008,
+    "geom:area_square_m":6660672171.730926,
     "geom:bbox":"37.187902,-7.397552,38.079389,-5.800069",
     "geom:latitude":-6.519537,
     "geom:longitude":37.545176,
@@ -97,9 +97,10 @@
         "hasc:id":"TZ.MO.MV",
         "wd:id":"Q3711212"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326915,
-    "wof:geomhash":"b9f12a1f004aaf29963e96570b50c75c",
+    "wof:geomhash":"669e68b067824db6ddbed8815db298b9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108692941,
-    "wof:lastmodified":1690876107,
+    "wof:lastmodified":1695886591,
     "wof:name":"Mvomero",
     "wof:parent_id":85679677,
     "wof:placetype":"county",

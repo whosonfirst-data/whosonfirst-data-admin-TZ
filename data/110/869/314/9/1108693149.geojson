@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.383639,
-    "geom:area_square_m":17016427968.309845,
+    "geom:area_square_m":17016427331.133263,
     "geom:bbox":"29.903001,-6.937128,31.186918,-5.133377",
     "geom:latitude":-5.942623,
     "geom:longitude":30.600203,
@@ -54,9 +54,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.RK.MP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327082,
-    "wof:geomhash":"c83608ea65432ca0df60df0ac1514586",
+    "wof:geomhash":"c3cfd529a4296f603a995159843b92b3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108693149,
-    "wof:lastmodified":1627522870,
+    "wof:lastmodified":1695886590,
     "wof:name":"Mpanda Rural",
     "wof:parent_id":85679751,
     "wof:placetype":"county",

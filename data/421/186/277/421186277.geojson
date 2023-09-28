@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.365093,
-    "geom:area_square_m":29060793784.837898,
+    "geom:area_square_m":29060791764.433823,
     "geom:bbox":"33.486549,-7.534773,35.356383,-5.277075",
     "geom:latitude":-6.411144,
     "geom:longitude":34.451358,
@@ -183,12 +183,13 @@
         "qs_pg:id":1063167,
         "wd:id":"Q6753411"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459009476,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3b77ef41d3de861af1ef66467b3e879b",
+    "wof:geomhash":"379c5ce517afe72932cab5009ae3a85e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -198,7 +199,7 @@
         }
     ],
     "wof:id":421186277,
-    "wof:lastmodified":1690876132,
+    "wof:lastmodified":1695886785,
     "wof:name":"Manyoni",
     "wof:parent_id":85679727,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01486,
-    "geom:area_square_m":183553355.847747,
+    "geom:area_square_m":183553251.245772,
     "geom:bbox":"32.860094,-2.652789,33.027543,-2.498352",
     "geom:latitude":-2.587659,
     "geom:longitude":32.94324,
@@ -88,9 +88,10 @@
         "hasc:id":"TZ.MZ.NY",
         "wd:id":"Q7070845"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327047,
-    "wof:geomhash":"477d899635e4785371131d1e46d09023",
+    "wof:geomhash":"2ab9a8e20983ce198958491d2b76bef4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108693109,
-    "wof:lastmodified":1690876119,
+    "wof:lastmodified":1695886027,
     "wof:name":"Nyamagana",
     "wof:parent_id":85679655,
     "wof:placetype":"county",

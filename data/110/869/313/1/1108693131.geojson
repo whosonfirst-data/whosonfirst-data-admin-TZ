@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038365,
-    "geom:area_square_m":473112069.397362,
+    "geom:area_square_m":473112031.832755,
     "geom:bbox":"35.60739,-4.355082,35.846312,-4.071951",
     "geom:latitude":-4.199871,
     "geom:longitude":35.744678,
@@ -54,7 +54,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474327070,
-    "wof:geomhash":"4905363fe6a91f7cd33f3abfc7453580",
+    "wof:geomhash":"eab70dd2c87edd29c14e17c2ae6e7458",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1108693131,
-    "wof:lastmodified":1627522857,
+    "wof:lastmodified":1695886570,
     "wof:name":"Babati Urban",
     "wof:parent_id":85679733,
     "wof:placetype":"county",

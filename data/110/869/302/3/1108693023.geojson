@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.368348,
-    "geom:area_square_m":4541031397.160008,
+    "geom:area_square_m":4541030926.027736,
     "geom:bbox":"33.913544,-4.843372,34.573271,-3.929613",
     "geom:latitude":-4.433693,
     "geom:longitude":34.287132,
@@ -91,9 +91,10 @@
         "hasc:id":"TZ.SD.IR",
         "wd:id":"Q6066646"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326984,
-    "wof:geomhash":"48cf1cf7c6551b269ba4c1331c3d7f5d",
+    "wof:geomhash":"b0fc0981265a5ce9d89e43ada150c76c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108693023,
-    "wof:lastmodified":1690876112,
+    "wof:lastmodified":1695886574,
     "wof:name":"Iramba",
     "wof:parent_id":85679727,
     "wof:placetype":"county",

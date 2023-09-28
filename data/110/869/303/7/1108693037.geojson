@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.575539,
-    "geom:area_square_m":7096146998.795798,
+    "geom:area_square_m":7096147232.328734,
     "geom:bbox":"33.342567,-4.879929,34.17373,-3.876684",
     "geom:latitude":-4.343733,
     "geom:longitude":33.687961,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.TB.IG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326995,
-    "wof:geomhash":"eef8299a5b6a0566b346a33d7602a914",
+    "wof:geomhash":"9784b9ac79c4d0d05499b52d9a9233cd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108693037,
-    "wof:lastmodified":1627522859,
+    "wof:lastmodified":1695886573,
     "wof:name":"Igunga",
     "wof:parent_id":85679661,
     "wof:placetype":"county",

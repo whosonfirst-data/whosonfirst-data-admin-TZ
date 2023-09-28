@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.640735,
-    "geom:area_square_m":7899521808.571315,
+    "geom:area_square_m":7899522195.740546,
     "geom:bbox":"32.53549,-4.900738,33.419362,-3.8984",
     "geom:latitude":-4.387762,
     "geom:longitude":33.012428,
@@ -139,9 +139,10 @@
         "hasc:id":"TZ.TB.NZ",
         "wd:id":"Q6272309"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326994,
-    "wof:geomhash":"daec312b36e95f039ab166bd33100d68",
+    "wof:geomhash":"8143e1e438944fac45dfbb255317069c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1108693033,
-    "wof:lastmodified":1690876111,
+    "wof:lastmodified":1695886782,
     "wof:name":"Nzega",
     "wof:parent_id":85679661,
     "wof:placetype":"county",

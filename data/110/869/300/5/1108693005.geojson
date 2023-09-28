@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.350154,
-    "geom:area_square_m":28794627954.496513,
+    "geom:area_square_m":28794627320.094765,
     "geom:bbox":"32.042197,-8.746744,34.271152,-6.86511",
     "geom:latitude":-7.737444,
     "geom:longitude":33.138083,
@@ -94,9 +94,10 @@
         "hasc:id":"TZ.MB.CH",
         "wd:id":"Q1888356"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326970,
-    "wof:geomhash":"fabbe216369a12165067b1d6dc596de7",
+    "wof:geomhash":"9e64231c1ca36fc01f1473d74066d518",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108693005,
-    "wof:lastmodified":1690876103,
+    "wof:lastmodified":1695886571,
     "wof:name":"Chunya",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

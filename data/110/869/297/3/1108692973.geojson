@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.331104,
-    "geom:area_square_m":4021596532.310194,
+    "geom:area_square_m":4021596329.476509,
     "geom:bbox":"38.264241,-11.176288,39.377769,-10.346942",
     "geom:latitude":-10.80132,
     "geom:longitude":38.895918,
@@ -163,9 +163,10 @@
         "hasc:id":"TZ.MT.MA",
         "wd:id":"Q1003089"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326946,
-    "wof:geomhash":"8c25d26ec71d6883bea6b41784dfaddf",
+    "wof:geomhash":"d1ecf87c85e6cd1ecad76e291e908c19",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -175,7 +176,7 @@
         }
     ],
     "wof:id":1108692973,
-    "wof:lastmodified":1690876115,
+    "wof:lastmodified":1695886783,
     "wof:name":"Masasi",
     "wof:parent_id":85679717,
     "wof:placetype":"county",

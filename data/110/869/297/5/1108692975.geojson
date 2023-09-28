@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.169295,
-    "geom:area_square_m":2056843032.415511,
+    "geom:area_square_m":2056842836.712264,
     "geom:bbox":"39.322603,-10.994339,39.914462,-10.332127",
     "geom:latitude":-10.716338,
     "geom:longitude":39.566982,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.MT.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326947,
-    "wof:geomhash":"5a019cf777ac0744f62042714d0b5e27",
+    "wof:geomhash":"9d84bcac90d89680770aa01cfee803ba",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108692975,
-    "wof:lastmodified":1627522877,
+    "wof:lastmodified":1695886032,
     "wof:name":"Tandahimba",
     "wof:parent_id":85679717,
     "wof:placetype":"county",

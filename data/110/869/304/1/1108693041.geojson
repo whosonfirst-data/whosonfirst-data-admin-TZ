@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.44181,
-    "geom:area_square_m":5439868260.309776,
+    "geom:area_square_m":5439868737.881553,
     "geom:bbox":"31.845351,-5.776605,32.488376,-4.689983",
     "geom:latitude":-5.275716,
     "geom:longitude":32.134969,
@@ -94,9 +94,10 @@
         "hasc:id":"TZ.TB.UR",
         "wd:id":"Q2500021"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326998,
-    "wof:geomhash":"94469711609ec7e68c5870cd59a2f614",
+    "wof:geomhash":"dfef566b098a4c4d4637199182c93f2b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108693041,
-    "wof:lastmodified":1690876111,
+    "wof:lastmodified":1695886034,
     "wof:name":"Urambo",
     "wof:parent_id":85679661,
     "wof:placetype":"county",

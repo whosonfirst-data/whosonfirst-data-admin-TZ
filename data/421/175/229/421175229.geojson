@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.333433,
-    "geom:area_square_m":4109947679.675257,
+    "geom:area_square_m":4109949033.027227,
     "geom:bbox":"38.115186,-4.98352,38.759904,-4.10869",
     "geom:latitude":-4.549834,
     "geom:longitude":38.440527,
@@ -116,12 +116,13 @@
         "qs_pg:id":361748,
         "wd:id":"Q1877698"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459009060,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f4ebf2d458d514a04b344baa36792fdd",
+    "wof:geomhash":"18fb377d7615da14dd4e356f204fc37d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":421175229,
-    "wof:lastmodified":1690876133,
+    "wof:lastmodified":1695886580,
     "wof:name":"Lushoto",
     "wof:parent_id":85679747,
     "wof:placetype":"county",

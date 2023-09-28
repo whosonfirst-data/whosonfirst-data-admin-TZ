@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112675,
-    "geom:area_square_m":1379746308.026222,
+    "geom:area_square_m":1379746394.400199,
     "geom:bbox":"31.404141,-8.185812,31.853022,-7.765109",
     "geom:latitude":-7.981096,
     "geom:longitude":31.615159,
@@ -91,9 +91,10 @@
         "hasc:id":"TZ.RU.SU",
         "wd:id":"Q3710549"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327009,
-    "wof:geomhash":"421a4dbf0dabedbc0b163e5adb785dd5",
+    "wof:geomhash":"bb6925fc5497c29856473d9935c155e6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108693057,
-    "wof:lastmodified":1690876111,
+    "wof:lastmodified":1695886033,
     "wof:name":"Sumbawanga Urban",
     "wof:parent_id":85679645,
     "wof:placetype":"county",

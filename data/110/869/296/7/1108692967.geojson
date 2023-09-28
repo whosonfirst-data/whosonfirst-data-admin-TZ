@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087715,
-    "geom:area_square_m":1068273849.489095,
+    "geom:area_square_m":1068274487.768038,
     "geom:bbox":"39.389159,-10.147128,39.807591,-9.77469",
     "geom:latitude":-9.95711,
     "geom:longitude":39.633411,
@@ -76,9 +76,10 @@
         "hasc:id":"TZ.LI.LU",
         "wd:id":"Q6552506"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326941,
-    "wof:geomhash":"063827f5cdcf815a0c2da29264edaf31",
+    "wof:geomhash":"ec0d2d272e855fd579da03674d68b5a9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1108692967,
-    "wof:lastmodified":1690876113,
+    "wof:lastmodified":1695886581,
     "wof:name":"Lindi Urban",
     "wof:parent_id":85679713,
     "wof:placetype":"county",

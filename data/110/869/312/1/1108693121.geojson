@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.176195,
-    "geom:area_square_m":2177736414.881642,
+    "geom:area_square_m":2177736414.881529,
     "geom:bbox":"33.614404678,-1.952215177,34.306580595,-1.387569999",
     "geom:latitude":-1.683107,
     "geom:longitude":33.970723,
@@ -67,7 +67,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474327062,
-    "wof:geomhash":"c127f111839adc8799ce14ce61644d03",
+    "wof:geomhash":"5607feab7ef0e637176cf0033c1cb923",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":1108693121,
-    "wof:lastmodified":1566590687,
+    "wof:lastmodified":1695886675,
     "wof:name":"Butiama",
     "wof:parent_id":85679743,
     "wof:placetype":"county",

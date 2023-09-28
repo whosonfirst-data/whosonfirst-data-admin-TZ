@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.254207,
-    "geom:area_square_m":3134859780.824366,
+    "geom:area_square_m":3134859846.229636,
     "geom:bbox":"34.504447,-4.623432,34.990251,-3.800776",
     "geom:latitude":-4.199944,
     "geom:longitude":34.715559,
@@ -54,7 +54,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474326992,
-    "wof:geomhash":"a0fdd8b3a53a9bd4f8e0a44a2574549e",
+    "wof:geomhash":"6a7e33166c70139306019991ab27e628",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1108693031,
-    "wof:lastmodified":1627522868,
+    "wof:lastmodified":1695886585,
     "wof:name":"Mkalama",
     "wof:parent_id":85679727,
     "wof:placetype":"county",

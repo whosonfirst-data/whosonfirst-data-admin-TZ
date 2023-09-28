@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.549968,
-    "geom:area_square_m":6785056394.359704,
+    "geom:area_square_m":6785056935.055246,
     "geom:bbox":"31.682261,-4.3243,33.000673,-3.195402",
     "geom:latitude":-3.84768,
     "geom:longitude":32.368702,
@@ -111,9 +111,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.SY.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327028,
-    "wof:geomhash":"ab65429305494d11a768cb4d9790b714",
+    "wof:geomhash":"cf23b2be120da7bfb7dd1da9c40f47f9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108693081,
-    "wof:lastmodified":1636501525,
+    "wof:lastmodified":1695886781,
     "wof:name":"Kahama",
     "wof:parent_id":85679657,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.264751,
-    "geom:area_square_m":3269026765.358308,
+    "geom:area_square_m":3269027086.156143,
     "geom:bbox":"32.915981,-3.43541,33.617843,-2.640178",
     "geom:latitude":-3.053201,
     "geom:longitude":33.289248,
@@ -88,9 +88,10 @@
         "hasc:id":"TZ.MZ.KW",
         "wd:id":"Q6450445"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327048,
-    "wof:geomhash":"1b8117f2b04b2125bf8272d2a18b6469",
+    "wof:geomhash":"233456921edddddbcdf7782a5d724c09",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108693111,
-    "wof:lastmodified":1690876116,
+    "wof:lastmodified":1695886580,
     "wof:name":"Kwimba",
     "wof:parent_id":85679655,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.387006,
-    "geom:area_square_m":4728733514.485018,
+    "geom:area_square_m":4728733514.485118,
     "geom:bbox":"32.020008337,-9.337281464,32.912441225,-8.240072512",
     "geom:latitude":-8.822948,
     "geom:longitude":32.423892,
@@ -60,7 +60,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474326981,
-    "wof:geomhash":"9ee5c1ca3508cc17224497d26dcb2367",
+    "wof:geomhash":"02e078a171bcd173ced3279a1adb9b14",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1108693019,
-    "wof:lastmodified":1566590672,
+    "wof:lastmodified":1695886674,
     "wof:name":"Momba",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.284208,
-    "geom:area_square_m":3468817772.020087,
+    "geom:area_square_m":3468817927.268151,
     "geom:bbox":"34.753044,-9.647761,35.523169,-8.920829",
     "geom:latitude":-9.225419,
     "geom:longitude":35.18956,
@@ -74,9 +74,10 @@
         "hasc:id":"TZ.IR.NJ",
         "wd:id":"Q846037"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327076,
-    "wof:geomhash":"4e930a1896f13c8013b9a8cdb847ea2b",
+    "wof:geomhash":"94357d4d8e61277ef9f049a0637032d0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108693139,
-    "wof:lastmodified":1627522873,
+    "wof:lastmodified":1695886028,
     "wof:name":"Njombe Rural",
     "wof:parent_id":85679765,
     "wof:placetype":"county",

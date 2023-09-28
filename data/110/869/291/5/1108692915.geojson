@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005159,
-    "geom:area_square_m":63677545.10751,
+    "geom:area_square_m":63677601.145746,
     "geom:bbox":"37.286457,-3.38601,37.399349,-3.306616",
     "geom:latitude":-3.348019,
     "geom:longitude":37.341712,
@@ -85,9 +85,10 @@
         "hasc:id":"TZ.KL.MU",
         "wd:id":"Q6916218"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326892,
-    "wof:geomhash":"7b171d0f85b64c3a17c8aa4edb852d5a",
+    "wof:geomhash":"e0ffd7dd16c64437b4edba3ff134156a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108692915,
-    "wof:lastmodified":1690876115,
+    "wof:lastmodified":1695886589,
     "wof:name":"Moshi Municipal",
     "wof:parent_id":85679737,
     "wof:placetype":"county",

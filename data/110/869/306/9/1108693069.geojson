@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.17972,
-    "geom:area_square_m":2218722712.711555,
+    "geom:area_square_m":2218722221.871448,
     "geom:bbox":"30.501897,-3.592032,31.19646,-2.827975",
     "geom:latitude":-3.233518,
     "geom:longitude":30.899886,
@@ -106,7 +106,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474327020,
-    "wof:geomhash":"f17525f122d3f0f104fa56c0c1b3d02c",
+    "wof:geomhash":"45216d7644721b5e94e1052a09a63b18",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":1108693069,
-    "wof:lastmodified":1636501525,
+    "wof:lastmodified":1695886781,
     "wof:name":"Kakonko",
     "wof:parent_id":85679669,
     "wof:placetype":"county",

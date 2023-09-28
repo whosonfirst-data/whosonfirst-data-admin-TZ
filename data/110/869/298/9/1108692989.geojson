@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.400076,
-    "geom:area_square_m":4859762448.68501,
+    "geom:area_square_m":4859761824.822001,
     "geom:bbox":"34.687239,-11.269538,35.348049,-10.136031",
     "geom:latitude":-10.773726,
     "geom:longitude":34.988772,
@@ -88,9 +88,10 @@
         "hasc:id":"TZ.RV.MB",
         "wd:id":"Q696985"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326956,
-    "wof:geomhash":"46281c1ed9dba2a3519ac503ed0b6fad",
+    "wof:geomhash":"5598cda5719f132110e50ada0df40344",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108692989,
-    "wof:lastmodified":1690876113,
+    "wof:lastmodified":1695886675,
     "wof:name":"Mbinga",
     "wof:parent_id":85679723,
     "wof:placetype":"county",

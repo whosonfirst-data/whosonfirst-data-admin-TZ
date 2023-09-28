@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078876,
-    "geom:area_square_m":972011404.431798,
+    "geom:area_square_m":972010889.950114,
     "geom:bbox":"29.598407,-4.95784,29.988831,-4.443656",
     "geom:latitude":-4.719504,
     "geom:longitude":29.741811,
@@ -92,12 +92,13 @@
         "hasc:id":"TZ.KM.KR",
         "qs_pg:id":424742
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459009249,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5a936ea2f96c046174574d2b4225bb3c",
+    "wof:geomhash":"8630554f5a0a5463a57221c3d01eb3ab",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":421180247,
-    "wof:lastmodified":1627522862,
+    "wof:lastmodified":1695886576,
     "wof:name":"Kigoma Rural",
     "wof:parent_id":85679669,
     "wof:placetype":"county",

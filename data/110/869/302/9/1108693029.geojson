@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.722681,
-    "geom:area_square_m":8900214369.648737,
+    "geom:area_square_m":8900214474.1366,
     "geom:bbox":"33.913473,-5.62859,35.1856,-4.618804",
     "geom:latitude":-5.13145,
     "geom:longitude":34.518281,
@@ -66,7 +66,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474326990,
-    "wof:geomhash":"50ca1a81528f3bf6844bfbda82f77324",
+    "wof:geomhash":"a72e25329b92480a96414dd7f35dd58f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":1108693029,
-    "wof:lastmodified":1627522859,
+    "wof:lastmodified":1695886572,
     "wof:name":"Ikungi",
     "wof:parent_id":85679727,
     "wof:placetype":"county",

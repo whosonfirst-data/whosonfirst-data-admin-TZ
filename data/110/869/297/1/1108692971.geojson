@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.16138,
-    "geom:area_square_m":1960670483.976279,
+    "geom:area_square_m":1960670503.696044,
     "geom:bbox":"39.010763,-11.075818,39.511422,-10.325021",
     "geom:latitude":-10.719138,
     "geom:longitude":39.283495,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.MT.NE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326944,
-    "wof:geomhash":"49d43d1ef2610c0d64ba8346d5258112",
+    "wof:geomhash":"e5190e11b691d352545872ac4ee821c4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108692971,
-    "wof:lastmodified":1642551772,
+    "wof:lastmodified":1695886515,
     "wof:name":"Newala",
     "wof:parent_id":85679717,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.430477,
-    "geom:area_square_m":5224590063.009455,
+    "geom:area_square_m":5224590426.845524,
     "geom:bbox":"37.999048,-11.417696,38.887572,-10.683508",
     "geom:latitude":-11.029379,
     "geom:longitude":38.410019,
@@ -54,7 +54,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474326950,
-    "wof:geomhash":"30d63047f9135c4efd23723431031b84",
+    "wof:geomhash":"fd81b680977cd891c6aeb628870ebd7b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1108692979,
-    "wof:lastmodified":1627522872,
+    "wof:lastmodified":1695886025,
     "wof:name":"Nanyumbu",
     "wof:parent_id":85679717,
     "wof:placetype":"county",

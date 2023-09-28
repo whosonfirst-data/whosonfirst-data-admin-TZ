@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.162674,
-    "geom:area_square_m":2010971554.475199,
+    "geom:area_square_m":2010971431.237931,
     "geom:bbox":"33.762381,-1.570791,34.376663,-1.026221",
     "geom:latitude":-1.305915,
     "geom:longitude":34.074188,
@@ -54,7 +54,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474327060,
-    "wof:geomhash":"d9131e04397a1ca2fd3f474a9cd109f6",
+    "wof:geomhash":"4528e118f409516a347fc4830d277b8a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1108693119,
-    "wof:lastmodified":1627522873,
+    "wof:lastmodified":1695886028,
     "wof:name":"Rorya",
     "wof:parent_id":85679743,
     "wof:placetype":"county",

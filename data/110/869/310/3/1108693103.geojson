@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051058,
-    "geom:area_square_m":630963046.354025,
+    "geom:area_square_m":630963059.989659,
     "geom:bbox":"32.776045,-2.175638,33.430959,-1.667174",
     "geom:latitude":-1.99813,
     "geom:longitude":33.014368,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.MZ.UK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327043,
-    "wof:geomhash":"42aefd0787a2a5bc364baa8c645af1d1",
+    "wof:geomhash":"1e1257aca8849f0e23ae8dc29b68af97",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108693103,
-    "wof:lastmodified":1642551718,
+    "wof:lastmodified":1695886499,
     "wof:name":"Ukerewe",
     "wof:parent_id":85679655,
     "wof:placetype":"county",

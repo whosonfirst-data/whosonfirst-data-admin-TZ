@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.532886,
-    "geom:area_square_m":6558125494.062165,
+    "geom:area_square_m":6558125001.545038,
     "geom:bbox":"37.691029,-6.019738,38.734372,-4.96809",
     "geom:latitude":-5.565083,
     "geom:longitude":38.300139,
@@ -94,9 +94,10 @@
         "hasc:id":"TZ.TN.HA",
         "wd:id":"Q3299071"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326900,
-    "wof:geomhash":"dd25e4f2df02a470a35618218d10deab",
+    "wof:geomhash":"e53da869af9b1128a180da6881cabf0d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108692923,
-    "wof:lastmodified":1690876106,
+    "wof:lastmodified":1695886572,
     "wof:name":"Handeni",
     "wof:parent_id":85679747,
     "wof:placetype":"county",

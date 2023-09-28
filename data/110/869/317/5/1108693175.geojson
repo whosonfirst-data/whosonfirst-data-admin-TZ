@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02089,
-    "geom:area_square_m":257170164.822276,
+    "geom:area_square_m":257170177.867379,
     "geom:bbox":"39.56271,-5.487027,39.809722,-5.281792",
     "geom:latitude":-5.380464,
     "geom:longitude":39.706554,
@@ -99,9 +99,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.PS.MK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327109,
-    "wof:geomhash":"2e6feccef654e0f501a287af9010e710",
+    "wof:geomhash":"cc3f009e1236a52e00b012d96a7d4c77",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108693175,
-    "wof:lastmodified":1627522868,
+    "wof:lastmodified":1695886586,
     "wof:name":"Mkoani",
     "wof:parent_id":85679687,
     "wof:placetype":"county",

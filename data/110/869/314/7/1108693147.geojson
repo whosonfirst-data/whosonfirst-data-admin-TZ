@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026029,
-    "geom:area_square_m":319837547.204141,
+    "geom:area_square_m":319837693.829374,
     "geom:bbox":"30.846712,-6.542715,31.131198,-6.275439",
     "geom:latitude":-6.410213,
     "geom:longitude":30.990148,
@@ -54,7 +54,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474327080,
-    "wof:geomhash":"a5a7a5d48e5e0d5eff12c3d086a9ea70",
+    "wof:geomhash":"a56edce8412e5e2990f57121e17b2d5d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1108693147,
-    "wof:lastmodified":1627522870,
+    "wof:lastmodified":1695886590,
     "wof:name":"Mpanda Urban",
     "wof:parent_id":85679751,
     "wof:placetype":"county",

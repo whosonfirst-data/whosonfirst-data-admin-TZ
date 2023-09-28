@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048649,
-    "geom:area_square_m":599156464.784271,
+    "geom:area_square_m":599156464.784312,
     "geom:bbox":"38.898438135,-5.292823067,39.135625951,-4.959637428",
     "geom:latitude":-5.113995,
     "geom:longitude":39.016292,
@@ -159,12 +159,13 @@
         "hasc:id":"TZ.TN.TA",
         "qs_pg:id":1105192
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459009588,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0721adbba08e099497472925fd384878",
+    "wof:geomhash":"4dd2b0b8d916f602a61af95812a53aa7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -174,7 +175,7 @@
         }
     ],
     "wof:id":421188923,
-    "wof:lastmodified":1582347611,
+    "wof:lastmodified":1695886788,
     "wof:name":"Tanga",
     "wof:parent_id":85679747,
     "wof:placetype":"county",

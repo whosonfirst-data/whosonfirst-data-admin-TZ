@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.122179,
-    "geom:area_square_m":1504592040.246908,
+    "geom:area_square_m":1504591889.805777,
     "geom:bbox":"38.575342,-5.426086,39.072702,-4.932191",
     "geom:latitude":-5.180976,
     "geom:longitude":38.763903,
@@ -85,9 +85,10 @@
         "hasc:id":"TZ.TN.MU",
         "wd:id":"Q6933027"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326897,
-    "wof:geomhash":"3631f43c2925c52b9fc047ddcbb8d758",
+    "wof:geomhash":"2eca10732c2e3c5179eb810e66f6c9a4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108692921,
-    "wof:lastmodified":1690876106,
+    "wof:lastmodified":1695886589,
     "wof:name":"Muheza",
     "wof:parent_id":85679747,
     "wof:placetype":"county",

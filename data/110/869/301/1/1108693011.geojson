@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.154792,
-    "geom:area_square_m":1888242907.49324,
+    "geom:area_square_m":1888242558.577523,
     "geom:bbox":"32.873831,-9.623978,33.690104,-9.155336",
     "geom:latitude":-9.416515,
     "geom:longitude":33.342353,
@@ -91,9 +91,10 @@
         "hasc:id":"TZ.MB.IL",
         "wd:id":"Q5997501"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326976,
-    "wof:geomhash":"50717bcd840ccd99a162f6be04442abd",
+    "wof:geomhash":"3ce8e0170db62202a2e1955e01a4124e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108693011,
-    "wof:lastmodified":1690876104,
+    "wof:lastmodified":1695886574,
     "wof:name":"Ileje",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.293871,
-    "geom:area_square_m":15981066624.181564,
+    "geom:area_square_m":15981066854.341011,
     "geom:bbox":"34.880811,-3.621804,36.130013,-1.686907",
     "geom:latitude":-2.672196,
     "geom:longitude":35.49482,
@@ -156,12 +156,13 @@
         "wd:id":"Q2559572",
         "wk:page":"Ngorongoro District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459008914,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"30a33d505fc8560d964af0b6193f94f1",
+    "wof:geomhash":"9f670453155bc2e4464551c25ac89400",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -171,7 +172,7 @@
         }
     ],
     "wof:id":421171979,
-    "wof:lastmodified":1690876144,
+    "wof:lastmodified":1695886788,
     "wof:name":"Ngorongoro",
     "wof:parent_id":85679731,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.195621,
-    "geom:area_square_m":2410691058.563691,
+    "geom:area_square_m":2410690940.899889,
     "geom:bbox":"34.598932,-5.039772,35.340652,-4.405092",
     "geom:latitude":-4.718028,
     "geom:longitude":34.981567,
@@ -121,9 +121,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.SD.SI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326986,
-    "wof:geomhash":"494801bcbfa6cf60e207ca108e04c06c",
+    "wof:geomhash":"c5a117c0c1f5972ed6e6bfb7c02c84bf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":1108693025,
-    "wof:lastmodified":1636501528,
+    "wof:lastmodified":1695886783,
     "wof:name":"Singida",
     "wof:parent_id":85679727,
     "wof:placetype":"county",

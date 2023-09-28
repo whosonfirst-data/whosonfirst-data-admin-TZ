@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.185637,
-    "geom:area_square_m":2291238476.842424,
+    "geom:area_square_m":2291237894.961481,
     "geom:bbox":"31.837737,-3.813611,32.415505,-3.125979",
     "geom:latitude":-3.462603,
     "geom:longitude":32.161057,
@@ -54,7 +54,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474327095,
-    "wof:geomhash":"c4e066e0931259925cace801b04abf88",
+    "wof:geomhash":"c8e67c9875d508ccfc571161679c5c62",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1108693167,
-    "wof:lastmodified":1627522867,
+    "wof:lastmodified":1695886585,
     "wof:name":"Mbogwe",
     "wof:parent_id":85679761,
     "wof:placetype":"county",

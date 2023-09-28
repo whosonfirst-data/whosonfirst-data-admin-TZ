@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024061,
-    "geom:area_square_m":296338950.284589,
+    "geom:area_square_m":296339090.427405,
     "geom:bbox":"39.630091,-5.208608,39.872911,-4.974784",
     "geom:latitude":-5.099036,
     "geom:longitude":39.766984,
@@ -153,12 +153,13 @@
         "wd:id":"Q7990058",
         "wk:page":"Wete District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459009652,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"88fe4b0095678d1b2dae9f1e121a5374",
+    "wof:geomhash":"0f141f9af8c752489bc7c60018b1f4d2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -168,7 +169,7 @@
         }
     ],
     "wof:id":421190259,
-    "wof:lastmodified":1690876136,
+    "wof:lastmodified":1695886785,
     "wof:name":"Wete",
     "wof:parent_id":85679683,
     "wof:placetype":"county",

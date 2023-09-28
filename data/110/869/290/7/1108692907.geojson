@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021729,
-    "geom:area_square_m":268196360.455189,
+    "geom:area_square_m":268196525.069367,
     "geom:bbox":"36.583153,-3.555836,36.766304,-3.340424",
     "geom:latitude":-3.435543,
     "geom:longitude":36.674547,
@@ -54,7 +54,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474326881,
-    "wof:geomhash":"d8741dcd38784b5a52fd72e0cea9cb2e",
+    "wof:geomhash":"e5696bdcec62c330470f50a2b2af17d0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1108692907,
-    "wof:lastmodified":1627522859,
+    "wof:lastmodified":1695886572,
     "wof:name":"Arusha Urban",
     "wof:parent_id":85679731,
     "wof:placetype":"county",

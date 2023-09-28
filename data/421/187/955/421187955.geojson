@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017873,
-    "geom:area_square_m":220081543.661037,
+    "geom:area_square_m":220081467.055514,
     "geom:bbox":"39.647472,-5.335593,39.855784,-5.15853",
     "geom:latitude":-5.24984,
     "geom:longitude":39.770848,
@@ -131,12 +131,13 @@
         "hasc:id":"TZ.PS.CH",
         "qs_pg:id":1086847
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459009529,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9019ab9d8aecae7bcb82123308fcab7e",
+    "wof:geomhash":"5242ffe61742ef37aea1c76cb556ca85",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":421187955,
-    "wof:lastmodified":1636501536,
+    "wof:lastmodified":1695886785,
     "wof:name":"Chake Chake",
     "wof:parent_id":85679687,
     "wof:placetype":"county",

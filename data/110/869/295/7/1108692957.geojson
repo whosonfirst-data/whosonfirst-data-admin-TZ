@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.49275,
-    "geom:area_square_m":5999715870.249313,
+    "geom:area_square_m":5999715881.836228,
     "geom:bbox":"39.017755,-10.617914,39.979933,-9.456919",
     "geom:latitude":-10.032566,
     "geom:longitude":39.466797,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.LI.LR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326934,
-    "wof:geomhash":"7f05aba440d26818e5350c9c449af1b4",
+    "wof:geomhash":"88c16e206d9a8d862f077c87187b3327",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1108692957,
-    "wof:lastmodified":1627522865,
+    "wof:lastmodified":1695886581,
     "wof:name":"Lindi Rural",
     "wof:parent_id":85679713,
     "wof:placetype":"county",

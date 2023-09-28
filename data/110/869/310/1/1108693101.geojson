@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.203653,
-    "geom:area_square_m":2517592776.525023,
+    "geom:area_square_m":2517593775.825531,
     "geom:bbox":"30.49806,-1.615052,31.061567,-0.983143",
     "geom:latitude":-1.261062,
     "geom:longitude":30.788344,
@@ -54,7 +54,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474327042,
-    "wof:geomhash":"96302a864f415bc2b8a860ea87f23f59",
+    "wof:geomhash":"ed4f216a5a414c118c0d593c4ce54913",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1108693101,
-    "wof:lastmodified":1627522865,
+    "wof:lastmodified":1695886582,
     "wof:name":"Kyerwa",
     "wof:parent_id":85679665,
     "wof:placetype":"county",

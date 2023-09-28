@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.122738,
-    "geom:area_square_m":1513077989.044336,
+    "geom:area_square_m":1513078050.783616,
     "geom:bbox":"29.7568,-4.839733,30.215945,-4.114805",
     "geom:latitude":-4.459398,
     "geom:longitude":29.953345,
@@ -60,7 +60,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474327018,
-    "wof:geomhash":"22467f6dd5e0de17d5155c89efe6cc13",
+    "wof:geomhash":"d400085ec78440ba31451868bcd133e8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1108693067,
-    "wof:lastmodified":1627522857,
+    "wof:lastmodified":1695886569,
     "wof:name":"Buhigwe",
     "wof:parent_id":85679669,
     "wof:placetype":"county",

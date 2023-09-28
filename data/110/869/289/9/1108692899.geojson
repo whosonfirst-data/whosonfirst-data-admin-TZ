@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.46003,
-    "geom:area_square_m":5655704097.473648,
+    "geom:area_square_m":5655703954.682038,
     "geom:bbox":"35.163814,-6.731604,35.969187,-5.6026",
     "geom:latitude":-6.134872,
     "geom:longitude":35.472197,
@@ -86,7 +86,7 @@
     },
     "wof:country":"TZ",
     "wof:created":1474326875,
-    "wof:geomhash":"c669bfa8919142c2d794d57bb116a99d",
+    "wof:geomhash":"b50846a15338605ffbaaf7f7e2f46526",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1108692899,
-    "wof:lastmodified":1690876105,
+    "wof:lastmodified":1695886569,
     "wof:name":"Bahi",
     "wof:parent_id":85679705,
     "wof:placetype":"county",

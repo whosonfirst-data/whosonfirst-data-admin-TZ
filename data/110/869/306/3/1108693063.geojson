@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007556,
-    "geom:area_square_m":93090492.573109,
+    "geom:area_square_m":93090513.770453,
     "geom:bbox":"29.589529,-4.969158,29.731043,-4.819283",
     "geom:latitude":-4.891769,
     "geom:longitude":29.66589,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.KM.KU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327015,
-    "wof:geomhash":"f82bab42bd73ca371e0d4908d19652e8",
+    "wof:geomhash":"548943e45ac94f09a40ea0b641398fa0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108693063,
-    "wof:lastmodified":1627522863,
+    "wof:lastmodified":1695886579,
     "wof:name":"Kigoma Municipal-Ujiji",
     "wof:parent_id":85679669,
     "wof:placetype":"county",

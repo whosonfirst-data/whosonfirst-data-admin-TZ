@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006764,
-    "geom:area_square_m":83619863.294731,
+    "geom:area_square_m":83619895.716616,
     "geom:bbox":"31.765299,-1.385464,31.868398,-1.257535",
     "geom:latitude":-1.317135,
     "geom:longitude":31.804956,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.KG.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327039,
-    "wof:geomhash":"769824556d118a83ea8eaac7822d703c",
+    "wof:geomhash":"e2b1d37b82cb35c71c2024ac82a68a40",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108693097,
-    "wof:lastmodified":1627522857,
+    "wof:lastmodified":1695886570,
     "wof:name":"Bukoba Urban",
     "wof:parent_id":85679665,
     "wof:placetype":"county",

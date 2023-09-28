@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029863,
-    "geom:area_square_m":366562121.980312,
+    "geom:area_square_m":366562161.436875,
     "geom:bbox":"39.021298,-7.091795,39.300186,-6.790951",
     "geom:latitude":-6.932808,
     "geom:longitude":39.149243,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.DS.IL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326930,
-    "wof:geomhash":"a17f4853ad6c5837d2d8faa7e0611d0d",
+    "wof:geomhash":"519b6eb9c3e10a32ef895b0408bb6eb0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1108692955,
-    "wof:lastmodified":1627522860,
+    "wof:lastmodified":1695886573,
     "wof:name":"Ilala",
     "wof:parent_id":85679675,
     "wof:placetype":"county",
