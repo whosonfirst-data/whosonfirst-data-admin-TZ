@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031013,
-    "geom:area_square_m":381132342.209794,
+    "geom:area_square_m":381132279.1991,
     "geom:bbox":"39.388633,-6.478158,39.580349,-6.175818",
     "geom:latitude":-6.338447,
     "geom:longitude":39.492968,
@@ -91,12 +91,13 @@
         "hasc:id":"TZ.ZS.SO",
         "qs_pg:id":1090326
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459009537,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"42ea4edbb329362053c234209cfd6eac",
+    "wof:geomhash":"9fa3c00e4a3a4327ecc6a90318921408",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":421188197,
-    "wof:lastmodified":1627522864,
+    "wof:lastmodified":1695886579,
     "wof:name":"Kusini",
     "wof:parent_id":85679651,
     "wof:placetype":"county",

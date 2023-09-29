@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018747,
-    "geom:area_square_m":230599043.169845,
+    "geom:area_square_m":230599208.071331,
     "geom:bbox":"39.211521,-5.990818,39.385574,-5.721897",
     "geom:latitude":-5.858446,
     "geom:longitude":39.306423,
@@ -85,12 +85,13 @@
         "hasc:id":"TZ.ZN.NA",
         "qs_pg:id":7346
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1469052783,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"669afeff7a6626059a53966cd1b9e645",
+    "wof:geomhash":"c3f481204b86aee77a3b6eb1c91dbcd3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":890451535,
-    "wof:lastmodified":1627522861,
+    "wof:lastmodified":1695886575,
     "wof:name":"Kaskazini A",
     "wof:parent_id":85679695,
     "wof:placetype":"county",

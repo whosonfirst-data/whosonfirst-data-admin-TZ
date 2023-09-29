@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.284703,
-    "geom:area_square_m":3518429897.86828,
+    "geom:area_square_m":3518430057.709846,
     "geom:bbox":"31.187627,-2.406752,32.617735,-1.439268",
     "geom:latitude":-1.911797,
     "geom:longitude":31.512029,
@@ -100,9 +100,10 @@
         "hasc:id":"TZ.KG.MU",
         "wd:id":"Q6933906"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327034,
-    "wof:geomhash":"3d54d241a49a2c41853d2047ea15cf9b",
+    "wof:geomhash":"0894ab70df92d81f61cb5ad5afc6ae37",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108693091,
-    "wof:lastmodified":1690876103,
+    "wof:lastmodified":1695886592,
     "wof:name":"Muleba",
     "wof:parent_id":85679665,
     "wof:placetype":"county",

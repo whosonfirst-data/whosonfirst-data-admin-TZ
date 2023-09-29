@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001263,
-    "geom:area_square_m":15524665.162793,
+    "geom:area_square_m":15524654.060365,
     "geom:bbox":"39.185588,-6.195518,39.226766,-6.137908",
     "geom:latitude":-6.166239,
     "geom:longitude":39.209399,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.ZW.TO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327104,
-    "wof:geomhash":"ddd0812060de56b88c023a4cb63b0d80",
+    "wof:geomhash":"47c5bb2a45c884e555f0afe0e8c4c2c5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108693173,
-    "wof:lastmodified":1627522868,
+    "wof:lastmodified":1695886586,
     "wof:name":"Mjini",
     "wof:parent_id":85679699,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.323343,
-    "geom:area_square_m":3976164201.433147,
+    "geom:area_square_m":3976165002.417744,
     "geom:bbox":"36.250799,-6.432337,36.963997,-5.516319",
     "geom:latitude":-6.014816,
     "geom:longitude":36.54622,
@@ -103,9 +103,10 @@
         "hasc:id":"TZ.DO.KG",
         "wd:id":"Q1094100"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326871,
-    "wof:geomhash":"3f36bd3dc375fa0c2f7c99a6f16b159d",
+    "wof:geomhash":"97100d5d78e02b7ec7fb8d54eef9d404",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108692895,
-    "wof:lastmodified":1690876105,
+    "wof:lastmodified":1695886579,
     "wof:name":"Kongwa",
     "wof:parent_id":85679705,
     "wof:placetype":"county",

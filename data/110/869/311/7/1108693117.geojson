@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005269,
-    "geom:area_square_m":65131227.836722,
+    "geom:area_square_m":65131189.960528,
     "geom:bbox":"33.738166,-1.56925,33.854439,-1.473466",
     "geom:latitude":-1.522557,
     "geom:longitude":33.795871,
@@ -89,9 +89,10 @@
         "hasc:id":"TZ.MA.MU",
         "wd:id":"Q6943048"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327059,
-    "wof:geomhash":"a408bc60d0d2951987fda56cc37b6d45",
+    "wof:geomhash":"27bd38703d35321b65bb834ce13a11af",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108693117,
-    "wof:lastmodified":1690876116,
+    "wof:lastmodified":1695886025,
     "wof:name":"Musoma Municipal",
     "wof:parent_id":85679743,
     "wof:placetype":"county",

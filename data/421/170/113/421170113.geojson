@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02076,
-    "geom:area_square_m":253618336.302541,
+    "geom:area_square_m":253618140.718348,
     "geom:bbox":"33.360654,-8.979302,33.589989,-8.830657",
     "geom:latitude":-8.897832,
     "geom:longitude":33.47738,
@@ -115,12 +115,13 @@
         "qs_pg:id":218429,
         "wd:id":"Q6799690"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459008837,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2bb65d7ea8cada9d0ac86ca7f27b8168",
+    "wof:geomhash":"7081c53313695b76d49b108e4724c845",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":421170113,
-    "wof:lastmodified":1690876140,
+    "wof:lastmodified":1695886583,
     "wof:name":"Mbeya Urban",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

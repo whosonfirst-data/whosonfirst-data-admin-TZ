@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.122664,
-    "geom:area_square_m":1506038738.241591,
+    "geom:area_square_m":1506038317.028179,
     "geom:bbox":"38.246153,-6.971075,38.974107,-6.640222",
     "geom:latitude":-6.819449,
     "geom:longitude":38.551521,
@@ -159,9 +159,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.PW.KB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326919,
-    "wof:geomhash":"0dd2c88352fddf7b998c9f3697de38aa",
+    "wof:geomhash":"4f8c5bf46b413bfcb764d70d579d764a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -171,7 +172,7 @@
         }
     ],
     "wof:id":1108692949,
-    "wof:lastmodified":1636501526,
+    "wof:lastmodified":1695886782,
     "wof:name":"Kibaha",
     "wof:parent_id":85679691,
     "wof:placetype":"county",

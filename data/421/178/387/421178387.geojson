@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.614492,
-    "geom:area_square_m":19906358002.838379,
+    "geom:area_square_m":19906358109.411053,
     "geom:bbox":"36.290855,-5.193215,38.000054,-3.448487",
     "geom:latitude":-4.316191,
     "geom:longitude":37.091043,
@@ -118,12 +118,13 @@
         "qs_pg:id":117128,
         "wd:id":"Q1888312"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459009180,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c94d67fc683343c1251caa586c420071",
+    "wof:geomhash":"ce25f4cb41db5d75ed8fe0a2a5d3eb90",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421178387,
-    "wof:lastmodified":1690876143,
+    "wof:lastmodified":1695886031,
     "wof:name":"Simanjiro",
     "wof:parent_id":85679733,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.605099,
-    "geom:area_square_m":19813822339.594791,
+    "geom:area_square_m":19813822227.688389,
     "geom:bbox":"31.149676,-4.469112,32.792927,-2.237867",
     "geom:latitude":-3.298882,
     "geom:longitude":31.898657,
@@ -212,15 +212,17 @@
         "fips:code":"TZ28",
         "gp:id":-2347370,
         "hasc:id":"TZ.GE",
+        "iso:code":"TZ-27",
         "iso:id":"TZ-27",
         "unlc:id":"TZ-27",
         "wd:id":"Q4622385"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c2e57baa81a1403a9681aa84279c5d4d",
+    "wof:geomhash":"78123efb277e361c36b4d9012c6836b1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -237,7 +239,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876083,
+    "wof:lastmodified":1695884884,
     "wof:name":"Geita",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

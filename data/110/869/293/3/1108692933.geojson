@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068336,
-    "geom:area_square_m":841128944.670016,
+    "geom:area_square_m":841129389.795615,
     "geom:bbox":"37.695424,-5.630962,38.153112,-5.250668",
     "geom:latitude":-5.475527,
     "geom:longitude":37.967782,
@@ -55,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474326907,
-    "wof:geomhash":"a6e7bb276d8d308e109ec78deb51976c",
+    "wof:geomhash":"8361b7d17a0125e54ceb45ab996b74fb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":1108692933,
-    "wof:lastmodified":1627522859,
+    "wof:lastmodified":1695886572,
     "wof:name":"Handeni Township Authority",
     "wof:parent_id":85679747,
     "wof:placetype":"county",

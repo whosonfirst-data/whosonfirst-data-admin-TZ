@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074309,
-    "geom:area_square_m":915902234.085545,
+    "geom:area_square_m":915902179.742071,
     "geom:bbox":"29.920064,-4.760633,30.259199,-4.404033",
     "geom:latitude":-4.587009,
     "geom:longitude":30.094404,
@@ -54,7 +54,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474327021,
-    "wof:geomhash":"b78b5b221ccc35b785541400e15da9d8",
+    "wof:geomhash":"0201c4d4b8822c9da1e76eda36de3a18",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1108693073,
-    "wof:lastmodified":1627522862,
+    "wof:lastmodified":1695886577,
     "wof:name":"Kasulu Township Authority",
     "wof:parent_id":85679669,
     "wof:placetype":"county",

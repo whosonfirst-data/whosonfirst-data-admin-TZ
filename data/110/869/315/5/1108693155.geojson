@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.733961,
-    "geom:area_square_m":9059077770.130095,
+    "geom:area_square_m":9059078321.359629,
     "geom:bbox":"34.045801,-4.084633,34.890997,-2.928766",
     "geom:latitude":-3.44321,
     "geom:longitude":34.473886,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.SI.ME"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327087,
-    "wof:geomhash":"4a62af14094ea832643206eed8e75194",
+    "wof:geomhash":"18e41a244c9c7173c675499919138757",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108693155,
-    "wof:lastmodified":1627522867,
+    "wof:lastmodified":1695886585,
     "wof:name":"Meatu",
     "wof:parent_id":85679755,
     "wof:placetype":"county",

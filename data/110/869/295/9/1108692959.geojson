@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.493198,
-    "geom:area_square_m":5998645879.125887,
+    "geom:area_square_m":5998645046.911582,
     "geom:bbox":"37.509944,-10.735825,38.927832,-9.918844",
     "geom:latitude":-10.380565,
     "geom:longitude":38.362904,
@@ -97,9 +97,10 @@
         "hasc:id":"TZ.LI.NA",
         "wd:id":"Q7194478"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326937,
-    "wof:geomhash":"977c3a3f08316dd1fe3aad81e7ac4ba4",
+    "wof:geomhash":"6d37b072a33d28e66dc533ce5f88071a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108692959,
-    "wof:lastmodified":1690876107,
+    "wof:lastmodified":1695886591,
     "wof:name":"Nachingwea",
     "wof:parent_id":85679713,
     "wof:placetype":"county",

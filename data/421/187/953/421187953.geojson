@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.251426,
-    "geom:area_square_m":3106956368.889656,
+    "geom:area_square_m":3106955989.096961,
     "geom:bbox":"33.202932,-2.298777,34.322421,-1.772967",
     "geom:latitude":-2.037595,
     "geom:longitude":33.89772,
@@ -126,12 +126,13 @@
         "wd:id":"Q1888276",
         "wk:page":"Bunda District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459009529,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"69da4731ac23323075f796e9d4479d4d",
+    "wof:geomhash":"dba45305454460ea27fca285b45ea0b6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":421187953,
-    "wof:lastmodified":1690876128,
+    "wof:lastmodified":1695886569,
     "wof:name":"Bunda",
     "wof:parent_id":85679743,
     "wof:placetype":"county",

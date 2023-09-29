@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.457394,
-    "geom:area_square_m":5593251447.441164,
+    "geom:area_square_m":5593251385.449854,
     "geom:bbox":"31.02031,-9.073342,32.142196,-8.003113",
     "geom:latitude":-8.523721,
     "geom:longitude":31.571729,
@@ -69,7 +69,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474327004,
-    "wof:geomhash":"029f93a03152169acc5f6844defbd15d",
+    "wof:geomhash":"c6bd7531381fa8dd44161b4fb38370a5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1108693049,
-    "wof:lastmodified":1627522861,
+    "wof:lastmodified":1695886575,
     "wof:name":"Kalambo",
     "wof:parent_id":85679645,
     "wof:placetype":"county",

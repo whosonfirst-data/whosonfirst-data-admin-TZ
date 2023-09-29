@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046999,
-    "geom:area_square_m":574975573.7814,
+    "geom:area_square_m":574975534.222189,
     "geom:bbox":"35.137032,-8.508405,35.408562,-8.216354",
     "geom:latitude":-8.363636,
     "geom:longitude":35.244421,
@@ -54,7 +54,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474326969,
-    "wof:geomhash":"58409a5e7e80e3cc183b5284c678aa5c",
+    "wof:geomhash":"ee019bfc47264bda63138da776fe142e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1108693003,
-    "wof:lastmodified":1627522865,
+    "wof:lastmodified":1695886582,
     "wof:name":"Mafinga Township Authority",
     "wof:parent_id":85679711,
     "wof:placetype":"county",

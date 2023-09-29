@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.568162,
-    "geom:area_square_m":7012962082.3892,
+    "geom:area_square_m":7012962732.536608,
     "geom:bbox":"35.819936,-4.148158,36.649491,-2.756618",
     "geom:latitude":-3.404046,
     "geom:longitude":36.226232,
@@ -94,9 +94,10 @@
         "hasc:id":"TZ.AS.MO",
         "wd:id":"Q2220726"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326878,
-    "wof:geomhash":"5e8526ac0789ea39e39174678f2dc448",
+    "wof:geomhash":"110b5d54172e3b4c7a92a24ca4568ef1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108692903,
-    "wof:lastmodified":1690876115,
+    "wof:lastmodified":1695886675,
     "wof:name":"Monduli",
     "wof:parent_id":85679731,
     "wof:placetype":"county",

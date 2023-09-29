@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.006851,
-    "geom:area_square_m":37129696214.12117,
+    "geom:area_square_m":37129697331.008774,
     "geom:bbox":"34.749262,-4.148158,37.429372,-1.686907",
     "geom:latitude":-2.949007,
     "geom:longitude":35.942628,
@@ -319,17 +319,19 @@
         "gn:id":161322,
         "gp:id":2347352,
         "hasc:id":"TZ.AS",
+        "iso:code":"TZ-01",
         "iso:id":"TZ-01",
         "qs_pg:id":914054,
         "unlc:id":"TZ-01",
         "wd:id":"Q329261",
         "wk:page":"Arusha Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"58f3c16be828873e59718a3911d482a1",
+    "wof:geomhash":"2a11250d3fc7c7a3cd6e6e2dea7420cf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -346,7 +348,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876086,
+    "wof:lastmodified":1695884886,
     "wof:name":"Arusha",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

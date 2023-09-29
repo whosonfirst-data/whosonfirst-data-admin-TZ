@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.159757,
-    "geom:area_square_m":14102901852.971739,
+    "geom:area_square_m":14102903216.945566,
     "geom:bbox":"35.105605,-11.581911,35.945893,-9.248488",
     "geom:latitude":-10.429045,
     "geom:longitude":35.522267,
@@ -86,9 +86,10 @@
         "hasc:id":"TZ.RV.SR",
         "wd:id":"Q1494669"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326955,
-    "wof:geomhash":"14c2c8d033e942f510b440da62e5d622",
+    "wof:geomhash":"bb8c1f3e5bb282777631bf4814d9430c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108692987,
-    "wof:lastmodified":1690876113,
+    "wof:lastmodified":1695886032,
     "wof:name":"Songea Rural",
     "wof:parent_id":85679723,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.893016,
-    "geom:area_square_m":59875983017.146843,
+    "geom:area_square_m":59875982733.287933,
     "geom:bbox":"32.020008,-9.718722,34.968066,-6.86511",
     "geom:latitude":-8.2301,
     "geom:longitude":33.381136,
@@ -312,17 +312,19 @@
         "gn:id":154375,
         "gp:id":2347360,
         "hasc:id":"TZ.MB",
+        "iso:code":"TZ-14",
         "iso:id":"TZ-14",
         "qs_pg:id":319166,
         "unlc:id":"TZ-14",
         "wd:id":"Q458382",
         "wk:page":"Mbeya Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a2c9fa255688abd8039e763618203f1a",
+    "wof:geomhash":"aafeb20f4dc18f191c9f65978028582c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -339,7 +341,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876097,
+    "wof:lastmodified":1695884894,
     "wof:name":"Mbeya",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

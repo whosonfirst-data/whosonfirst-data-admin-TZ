@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059631,
-    "geom:area_square_m":731883641.355804,
+    "geom:area_square_m":731883766.614334,
     "geom:bbox":"39.191582,-7.179419,39.552886,-6.813017",
     "geom:latitude":-6.976037,
     "geom:longitude":39.406205,
@@ -132,12 +132,13 @@
         "wd:id":"Q2571801",
         "wk:page":"Temeke District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459009965,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"61bfd1613f5d874da7a6dd5b790eb552",
+    "wof:geomhash":"1d698dcebca7fa5da53af418db69c29f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":421198913,
-    "wof:lastmodified":1690876134,
+    "wof:lastmodified":1695886789,
     "wof:name":"Temeke",
     "wof:parent_id":85679675,
     "wof:placetype":"county",

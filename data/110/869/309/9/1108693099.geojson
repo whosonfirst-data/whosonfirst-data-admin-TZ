@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.22954,
-    "geom:area_square_m":2837735059.642149,
+    "geom:area_square_m":2837733783.460682,
     "geom:bbox":"30.798149,-1.413813,31.81188,-0.995037",
     "geom:latitude":-1.142268,
     "geom:longitude":31.40938,
@@ -54,7 +54,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474327040,
-    "wof:geomhash":"91385277e41b85729562057678103401",
+    "wof:geomhash":"a498e73785edad6d09f45206a120a408",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1108693099,
-    "wof:lastmodified":1627522867,
+    "wof:lastmodified":1695886585,
     "wof:name":"Missenyi",
     "wof:parent_id":85679665,
     "wof:placetype":"county",

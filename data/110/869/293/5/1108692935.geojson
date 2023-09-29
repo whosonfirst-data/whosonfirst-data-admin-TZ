@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.112112,
-    "geom:area_square_m":13603619371.89617,
+    "geom:area_square_m":13603619158.039726,
     "geom:bbox":"35.323258,-9.489389,37.801057,-7.634064",
     "geom:latitude":-8.399201,
     "geom:longitude":36.558275,
@@ -94,9 +94,10 @@
         "hasc:id":"TZ.MO.KM",
         "wd:id":"Q927705"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326910,
-    "wof:geomhash":"a5fa01032c1efffc9612b569e2970452",
+    "wof:geomhash":"f0e8a39af8fcd65b48943a561afef75d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108692935,
-    "wof:lastmodified":1690876108,
+    "wof:lastmodified":1695886578,
     "wof:name":"Kilombero",
     "wof:parent_id":85679677,
     "wof:placetype":"county",

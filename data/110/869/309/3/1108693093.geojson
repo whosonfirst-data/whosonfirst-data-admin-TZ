@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.607038,
-    "geom:area_square_m":7497460388.751276,
+    "geom:area_square_m":7497460925.58737,
     "geom:bbox":"30.799242,-3.360234,31.721419,-2.184119",
     "geom:latitude":-2.739453,
     "geom:longitude":31.256843,
@@ -127,9 +127,10 @@
         "hasc:id":"TZ.KG.BI",
         "wd:id":"Q6273464"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327036,
-    "wof:geomhash":"cbe64d8690291ecc9a5aa3b143cfbf73",
+    "wof:geomhash":"99b87809adde4b9c02662ffbe25a11ae",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":1108693093,
-    "wof:lastmodified":1690876104,
+    "wof:lastmodified":1695886780,
     "wof:name":"Biharamulo",
     "wof:parent_id":85679665,
     "wof:placetype":"county",

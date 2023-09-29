@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.422712,
-    "geom:area_square_m":29755575262.020367,
+    "geom:area_square_m":29755575843.765804,
     "geom:bbox":"30.926252,-7.611911,32.758813,-5.607114",
     "geom:latitude":-6.63779,
     "geom:longitude":31.775404,
@@ -77,7 +77,7 @@
     },
     "wof:country":"TZ",
     "wof:created":1474327083,
-    "wof:geomhash":"aba772210893b6d47ed8e86b32bd0c71",
+    "wof:geomhash":"51ca4af3dcaa9c67552d4261857a642f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1108693151,
-    "wof:lastmodified":1690876109,
+    "wof:lastmodified":1695886589,
     "wof:name":"Mlele",
     "wof:parent_id":85679751,
     "wof:placetype":"county",

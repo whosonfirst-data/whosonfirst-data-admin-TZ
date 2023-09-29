@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.253545,
-    "geom:area_square_m":3074957744.420774,
+    "geom:area_square_m":3074956912.419854,
     "geom:bbox":"34.568596,-11.573244,35.431975,-10.439795",
     "geom:latitude":-11.240662,
     "geom:longitude":35.017557,
@@ -57,7 +57,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474326962,
-    "wof:geomhash":"a063b1014bb02af49ce4ea2975aaa079",
+    "wof:geomhash":"7f5fd054790dd454fcebe144dc319fcd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":1108692995,
-    "wof:lastmodified":1627522872,
+    "wof:lastmodified":1695886025,
     "wof:name":"Nyasa",
     "wof:parent_id":85679723,
     "wof:placetype":"county",

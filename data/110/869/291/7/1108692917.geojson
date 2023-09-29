@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098991,
-    "geom:area_square_m":1222279731.313374,
+    "geom:area_square_m":1222279816.199205,
     "geom:bbox":"36.889585,-3.367171,37.264025,-2.849522",
     "geom:latitude":-3.071408,
     "geom:longitude":37.083537,
@@ -74,7 +74,7 @@
     },
     "wof:country":"TZ",
     "wof:created":1474326894,
-    "wof:geomhash":"5c40933a1630b524fd79b3f0f11ca995",
+    "wof:geomhash":"c2eeb4c27ce0b70b197ad1c655b5944e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1108692917,
-    "wof:lastmodified":1690876114,
+    "wof:lastmodified":1695886031,
     "wof:name":"Siha",
     "wof:parent_id":85679737,
     "wof:placetype":"county",

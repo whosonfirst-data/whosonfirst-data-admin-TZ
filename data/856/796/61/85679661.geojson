@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.150316,
-    "geom:area_square_m":75723087725.456955,
+    "geom:area_square_m":75723089178.316574,
     "geom:bbox":"31.038017,-6.976729,34.242038,-3.876684",
     "geom:latitude":-5.263757,
     "geom:longitude":32.821586,
@@ -306,17 +306,19 @@
         "gn:id":149653,
         "gp:id":2347368,
         "hasc:id":"TZ.TB",
+        "iso:code":"TZ-24",
         "iso:id":"TZ-24",
         "qs_pg:id":424134,
         "unlc:id":"TZ-24",
         "wd:id":"Q153335",
         "wk:page":"Tabora Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"39b01223ad4d2c5f9c774cee17886b3f",
+    "wof:geomhash":"67070d770c5eb71909472df1e69a8b76",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -333,7 +335,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876089,
+    "wof:lastmodified":1695884887,
     "wof:name":"Tabora",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

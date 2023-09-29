@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.337063,
-    "geom:area_square_m":16497471223.892628,
+    "geom:area_square_m":16497471401.650349,
     "geom:bbox":"31.682261,-4.3243,34.233575,-3.195402",
     "geom:latitude":-3.751946,
     "geom:longitude":32.936085,
@@ -308,16 +308,18 @@
         "gn:id":150004,
         "gp:id":2347366,
         "hasc:id":"TZ.SY",
+        "iso:code":"TZ-22",
         "iso:id":"TZ-22",
         "qs_pg:id":1047577,
         "wd:id":"Q153339",
         "wk:page":"Shinyanga Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a7c9395ec092756207f9d79bd9306e5b",
+    "wof:geomhash":"3b4cbbe9e3171740a8d46d6a3a8d8bfb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -334,7 +336,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876090,
+    "wof:lastmodified":1695884888,
     "wof:name":"Shinyanga",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

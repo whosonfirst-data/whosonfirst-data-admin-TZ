@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018378,
-    "geom:area_square_m":226331159.327571,
+    "geom:area_square_m":226331106.070433,
     "geom:bbox":"38.386096,-5.245489,38.564987,-5.045361",
     "geom:latitude":-5.161623,
     "geom:longitude":38.477408,
@@ -54,7 +54,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474326905,
-    "wof:geomhash":"8d65f28dbadd4dc0f5f869738827026f",
+    "wof:geomhash":"b4ae8bb8feea4c7a0e9ec9930e9b80be",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1108692931,
-    "wof:lastmodified":1627522864,
+    "wof:lastmodified":1695886580,
     "wof:name":"Korogwe Township Authority",
     "wof:parent_id":85679747,
     "wof:placetype":"county",

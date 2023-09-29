@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.472143,
-    "geom:area_square_m":5818123258.272497,
+    "geom:area_square_m":5818122659.54436,
     "geom:bbox":"35.429504,-5.246704,36.345365,-4.312735",
     "geom:latitude":-4.741713,
     "geom:longitude":35.899225,
@@ -97,9 +97,10 @@
         "hasc:id":"TZ.DO.KD",
         "wd:id":"Q1327204"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326868,
-    "wof:geomhash":"b2b32d4f1c333fe35144bf4ed17a4518",
+    "wof:geomhash":"40b2e161a1cd4ddf508407e8f58199e2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108692889,
-    "wof:lastmodified":1690876106,
+    "wof:lastmodified":1695886674,
     "wof:name":"Kondoa",
     "wof:parent_id":85679705,
     "wof:placetype":"county",

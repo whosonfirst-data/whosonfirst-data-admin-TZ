@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.309399,
-    "geom:area_square_m":3816664507.02866,
+    "geom:area_square_m":3816664390.939407,
     "geom:bbox":"34.891196,-4.265694,35.698262,-3.614793",
     "geom:latitude":-3.953212,
     "geom:longitude":35.294652,
@@ -148,9 +148,10 @@
         "hasc:id":"TZ.MY.MB",
         "wd:id":"Q1009154"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327066,
-    "wof:geomhash":"1bcc6ab0e1f210a5122a357be0f7efd4",
+    "wof:geomhash":"539b7d76fb142b8daa3d875a69a6dbdf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -160,7 +161,7 @@
         }
     ],
     "wof:id":1108693127,
-    "wof:lastmodified":1690876109,
+    "wof:lastmodified":1695886783,
     "wof:name":"Mbulu",
     "wof:parent_id":85679733,
     "wof:placetype":"county",

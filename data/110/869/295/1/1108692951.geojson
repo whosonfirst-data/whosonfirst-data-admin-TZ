@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052694,
-    "geom:area_square_m":645430186.642137,
+    "geom:area_square_m":645430186.641783,
     "geom:bbox":"39.503777749,-8.10384956,39.908450024,-7.616327064",
     "geom:latitude":-7.870189,
     "geom:longitude":39.754865,
@@ -276,9 +276,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.PW.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326925,
-    "wof:geomhash":"8cd75a79630e7751d1db72cb9b05b535",
+    "wof:geomhash":"de9eea26cbdec3e5b9d9cdd82904587d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -288,7 +289,7 @@
         }
     ],
     "wof:id":1108692951,
-    "wof:lastmodified":1566590679,
+    "wof:lastmodified":1695886675,
     "wof:name":"Mafia",
     "wof:parent_id":85679691,
     "wof:placetype":"county",

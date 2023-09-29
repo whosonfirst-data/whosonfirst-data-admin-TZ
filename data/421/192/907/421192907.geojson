@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.411915,
-    "geom:area_square_m":5053096790.859604,
+    "geom:area_square_m":5053096844.960845,
     "geom:bbox":"38.266232,-7.579489,39.11795,-6.784949",
     "geom:latitude":-7.210218,
     "geom:longitude":38.669133,
@@ -117,12 +117,13 @@
         "wd:id":"Q6416417",
         "wk:page":"Kisarawe District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459009753,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8ae981cf1b872fa53c8534efd181d8e8",
+    "wof:geomhash":"fdd97b3f10a267a79774c34a30809b2e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421192907,
-    "wof:lastmodified":1690876123,
+    "wof:lastmodified":1695886579,
     "wof:name":"Kisarawe",
     "wof:parent_id":85679691,
     "wof:placetype":"county",

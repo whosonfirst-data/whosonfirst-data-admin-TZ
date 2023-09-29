@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.209819,
-    "geom:area_square_m":2591034090.594485,
+    "geom:area_square_m":2591033617.637788,
     "geom:bbox":"32.765055,-3.303458,33.292536,-2.604267",
     "geom:latitude":-2.936741,
     "geom:longitude":33.011311,
@@ -82,9 +82,10 @@
         "hasc:id":"TZ.MZ.MI",
         "wd:id":"Q16999839"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327053,
-    "wof:geomhash":"4ffd397ea4a214be7bc34a2c4d3c55f9",
+    "wof:geomhash":"ea9240ad3724bae47a6784c3c0b83849",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1108693115,
-    "wof:lastmodified":1690876118,
+    "wof:lastmodified":1695886586,
     "wof:name":"Misungwi",
     "wof:parent_id":85679655,
     "wof:placetype":"county",

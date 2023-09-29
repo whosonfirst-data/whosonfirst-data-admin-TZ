@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.525001,
-    "geom:area_square_m":6461625987.995811,
+    "geom:area_square_m":6461626738.38588,
     "geom:bbox":"37.018946,-6.000518,37.97619,-5.004935",
     "geom:latitude":-5.514496,
     "geom:longitude":37.562689,
@@ -94,9 +94,10 @@
         "hasc:id":"TZ.TN.KI",
         "wd:id":"Q1888326"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326902,
-    "wof:geomhash":"9f4adb914ff7e4d42f6e8da54dcad658",
+    "wof:geomhash":"6d967aa88c127826ef9f4a5ecb5a35d1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108692925,
-    "wof:lastmodified":1690876107,
+    "wof:lastmodified":1695886578,
     "wof:name":"Kilindi",
     "wof:parent_id":85679747,
     "wof:placetype":"county",

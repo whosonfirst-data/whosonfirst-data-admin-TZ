@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.522993,
-    "geom:area_square_m":18488523835.237103,
+    "geom:area_square_m":18488523164.396187,
     "geom:bbox":"36.531067,-11.686576,38.112979,-10.104161",
     "geom:latitude":-10.9557,
     "geom:longitude":37.284662,
@@ -123,9 +123,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.RV.TU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326953,
-    "wof:geomhash":"6582f66061884d64107bb90fe17abebe",
+    "wof:geomhash":"7efda6ebf6a418b2f37a4ef8b7ba749b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108692985,
-    "wof:lastmodified":1636501528,
+    "wof:lastmodified":1695886783,
     "wof:name":"Tunduru",
     "wof:parent_id":85679723,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.655788,
-    "geom:area_square_m":8091852734.411715,
+    "geom:area_square_m":8091852694.060662,
     "geom:bbox":"31.149676,-4.469112,32.157356,-3.107642",
     "geom:latitude":-3.708197,
     "geom:longitude":31.605487,
@@ -91,9 +91,10 @@
         "hasc:id":"TZ.GE.BU",
         "wd:id":"Q4987002"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327096,
-    "wof:geomhash":"d54816e5e5f9369a8ef2c0d63c5758dd",
+    "wof:geomhash":"2c1d004425cfdaf1d27203b661e267fa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108693169,
-    "wof:lastmodified":1690876118,
+    "wof:lastmodified":1695886675,
     "wof:name":"Bukombe",
     "wof:parent_id":85679761,
     "wof:placetype":"county",

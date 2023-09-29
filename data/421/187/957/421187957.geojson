@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.21302,
-    "geom:area_square_m":2619088385.88439,
+    "geom:area_square_m":2619088411.160419,
     "geom:bbox":"35.479494,-6.463677,36.133773,-5.828012",
     "geom:latitude":-6.105878,
     "geom:longitude":35.791215,
@@ -123,12 +123,13 @@
         "wd:id":"Q3710545",
         "wk:page":"Dodoma District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459009529,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"23881c700f5b5f83d96614a64093b7ae",
+    "wof:geomhash":"75257179816db4c5b949b219f5d4f08f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":421187957,
-    "wof:lastmodified":1690876128,
+    "wof:lastmodified":1695886572,
     "wof:name":"Dodoma Urban",
     "wof:parent_id":85679705,
     "wof:placetype":"county",

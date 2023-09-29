@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.17732,
-    "geom:area_square_m":2164195700.8195,
+    "geom:area_square_m":2164195691.545848,
     "geom:bbox":"33.427951,-9.494436,33.984361,-8.978535",
     "geom:latitude":-9.231301,
     "geom:longitude":33.688215,
@@ -88,9 +88,10 @@
         "hasc:id":"TZ.MB.RU",
         "wd:id":"Q7379875"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326974,
-    "wof:geomhash":"10c6cfe0b63e765f6841875f8d22c6f8",
+    "wof:geomhash":"15104135d35ddfde698a3f382fd4ab11",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108693009,
-    "wof:lastmodified":1690876102,
+    "wof:lastmodified":1695886028,
     "wof:name":"Rungwe",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

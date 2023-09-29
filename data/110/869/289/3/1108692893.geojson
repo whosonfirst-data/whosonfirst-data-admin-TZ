@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.609804,
-    "geom:area_square_m":7487828202.37118,
+    "geom:area_square_m":7487828256.787472,
     "geom:bbox":"35.77463,-7.377303,36.749697,-6.149329",
     "geom:latitude":-6.760554,
     "geom:longitude":36.333197,
@@ -135,9 +135,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.DO.MP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326870,
-    "wof:geomhash":"5ffc1d727484707ef9a7148b72eb5294",
+    "wof:geomhash":"1a1db44c86c61c13a07ba5274e19dc67",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108692893,
-    "wof:lastmodified":1636501526,
+    "wof:lastmodified":1695886781,
     "wof:name":"Mpwapwa",
     "wof:parent_id":85679705,
     "wof:placetype":"county",

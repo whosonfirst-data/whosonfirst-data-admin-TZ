@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.143907,
-    "geom:area_square_m":1770951927.812482,
+    "geom:area_square_m":1770951923.026602,
     "geom:bbox":"38.643098,-5.966766,39.042458,-5.263328",
     "geom:latitude":-5.595657,
     "geom:longitude":38.816944,
@@ -149,12 +149,13 @@
         "qs_pg:id":230298,
         "wd:id":"Q15265297"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459010144,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0acfb37895f2f79aa32e7a10f947d536",
+    "wof:geomhash":"8c9961cdeabfd5b4de71fe01bd5d4943",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":421203229,
-    "wof:lastmodified":1690876125,
+    "wof:lastmodified":1695886784,
     "wof:name":"Pangani",
     "wof:parent_id":85679747,
     "wof:placetype":"county",

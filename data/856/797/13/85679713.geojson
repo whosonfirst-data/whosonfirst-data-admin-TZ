@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.339188,
-    "geom:area_square_m":65114053380.092934,
+    "geom:area_square_m":65114053645.552368,
     "geom:bbox":"36.868123,-10.735825,39.979933,-7.932525",
     "geom:latitude":-9.481389,
     "geom:longitude":38.40203,
@@ -309,17 +309,19 @@
         "gn:id":155946,
         "gp:id":2347358,
         "hasc:id":"TZ.LI",
+        "iso:code":"TZ-12",
         "iso:id":"TZ-12",
         "qs_pg:id":319165,
         "unlc:id":"TZ-12",
         "wd:id":"Q309339",
         "wk:page":"Lindi Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3618b5ce01c3ae293a40816f235bc59a",
+    "wof:geomhash":"9f5d56315ae2ba34519cafd6d0358f63",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -336,7 +338,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876089,
+    "wof:lastmodified":1695884888,
     "wof:name":"Lindi",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

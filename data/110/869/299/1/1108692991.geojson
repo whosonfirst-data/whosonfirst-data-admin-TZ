@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047783,
-    "geom:area_square_m":580665513.402932,
+    "geom:area_square_m":580665197.671599,
     "geom:bbox":"35.38861,-10.770277,35.776446,-10.504542",
     "geom:latitude":-10.651678,
     "geom:longitude":35.619265,
@@ -85,9 +85,10 @@
         "hasc:id":"TZ.RV.SU",
         "wd:id":"Q2301409"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326958,
-    "wof:geomhash":"ad2a5ccb9184194437ccef8bce3febcf",
+    "wof:geomhash":"7af023e4440f4ceb583b2a8588e13348",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108692991,
-    "wof:lastmodified":1690876116,
+    "wof:lastmodified":1695886033,
     "wof:name":"Songea Urban",
     "wof:parent_id":85679723,
     "wof:placetype":"county",

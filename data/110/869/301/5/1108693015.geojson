@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.185115,
-    "geom:area_square_m":14500795405.46685,
+    "geom:area_square_m":14500795708.169676,
     "geom:bbox":"33.550156,-8.937819,34.968066,-7.618675",
     "geom:latitude":-8.291427,
     "geom:longitude":34.233418,
@@ -85,9 +85,10 @@
         "hasc:id":"TZ.MB.MB",
         "wd:id":"Q6799622"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326979,
-    "wof:geomhash":"53995426e494806737a7f46f5eb29616",
+    "wof:geomhash":"6f4298e356fbe0ad3896efb22e00aba1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108693015,
-    "wof:lastmodified":1690876105,
+    "wof:lastmodified":1695886582,
     "wof:name":"Mbarali",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

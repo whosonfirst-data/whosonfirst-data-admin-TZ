@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.231259,
-    "geom:area_square_m":2824887178.572088,
+    "geom:area_square_m":2824887615.373691,
     "geom:bbox":"33.010067,-9.334219,33.828213,-8.608591",
     "geom:latitude":-8.930361,
     "geom:longitude":33.405047,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.MB.MR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326972,
-    "wof:geomhash":"a5a134d2dd28c2a155b72a39a5ac1678",
+    "wof:geomhash":"bed1eca5781b9501e3824a749d73165d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1108693007,
-    "wof:lastmodified":1627522867,
+    "wof:lastmodified":1695886584,
     "wof:name":"Mbeya Rural",
     "wof:parent_id":85679641,
     "wof:placetype":"county",

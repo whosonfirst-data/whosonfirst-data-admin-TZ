@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.820567,
-    "geom:area_square_m":10098971477.605728,
+    "geom:area_square_m":10098972137.750616,
     "geom:bbox":"29.699355,-6.570679,31.260787,-4.836705",
     "geom:latitude":-5.522026,
     "geom:longitude":30.24875,
@@ -123,7 +123,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474327016,
-    "wof:geomhash":"104ae8c661a2bc326069d649f3eec1ad",
+    "wof:geomhash":"1e775e093f8c62e5cf35567cea84365f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1108693065,
-    "wof:lastmodified":1636501526,
+    "wof:lastmodified":1695886782,
     "wof:name":"Uvinza",
     "wof:parent_id":85679669,
     "wof:placetype":"county",

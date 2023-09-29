@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.419348,
-    "geom:area_square_m":42051443940.657265,
+    "geom:area_square_m":42051444622.584244,
     "geom:bbox":"35.05273,-7.377303,36.963997,-4.312735",
     "geom:latitude":-5.926967,
     "geom:longitude":35.921518,
@@ -288,17 +288,19 @@
         "gn:id":160192,
         "gp:id":2347354,
         "hasc:id":"TZ.DO",
+        "iso:code":"TZ-03",
         "iso:id":"TZ-03",
         "qs_pg:id":1083878,
         "unlc:id":"TZ-03",
         "wd:id":"Q213268",
         "wk:page":"Dodoma Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6888592422490f940b939ab826ce2ff3",
+    "wof:geomhash":"5611f6098363c168f529acbfa6f2df14",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -315,7 +317,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876084,
+    "wof:lastmodified":1695884884,
     "wof:name":"Dodoma",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

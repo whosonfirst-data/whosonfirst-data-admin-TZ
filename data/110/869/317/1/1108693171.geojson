@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.25006,
-    "geom:area_square_m":3088201546.415627,
+    "geom:area_square_m":3088202014.945668,
     "geom:bbox":"31.402934,-3.396644,31.93012,-2.293049",
     "geom:latitude":-2.84248,
     "geom:longitude":31.681623,
@@ -66,7 +66,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474327098,
-    "wof:geomhash":"d1526285b1620217b716a0edd31f6cdb",
+    "wof:geomhash":"d39348a948ee2352340253d999031174",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":1108693171,
-    "wof:lastmodified":1627522858,
+    "wof:lastmodified":1695886571,
     "wof:name":"Chato",
     "wof:parent_id":85679761,
     "wof:placetype":"county",

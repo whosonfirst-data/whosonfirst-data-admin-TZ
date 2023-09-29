@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057681,
-    "geom:area_square_m":708373623.101232,
+    "geom:area_square_m":708373290.307324,
     "geom:bbox":"38.754063,-6.834541,39.072388,-6.546581",
     "geom:latitude":-6.691961,
     "geom:longitude":38.9137,
@@ -54,7 +54,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474326927,
-    "wof:geomhash":"a88e011f370774085938fa5740cac5ea",
+    "wof:geomhash":"8ff095521f316234dd87a8f5acc857b3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1108692953,
-    "wof:lastmodified":1627522862,
+    "wof:lastmodified":1695886576,
     "wof:name":"Kibaha Urban",
     "wof:parent_id":85679691,
     "wof:placetype":"county",

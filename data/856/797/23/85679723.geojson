@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.182564,
-    "geom:area_square_m":62961306249.784286,
+    "geom:area_square_m":62961305368.270935,
     "geom:bbox":"34.568596,-11.762349,38.112979,-9.248488",
     "geom:latitude":-10.72432,
     "geom:longitude":36.251152,
@@ -315,17 +315,19 @@
         "gn:id":877416,
         "gp:id":2347365,
         "hasc:id":"TZ.RV",
+        "iso:code":"TZ-21",
         "iso:id":"TZ-21",
         "qs_pg:id":235651,
         "unlc:id":"TZ-21",
         "wd:id":"Q115318",
         "wk:page":"Ruvuma Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fa76d15b2432832df5c0e7ac3f911e08",
+    "wof:geomhash":"5b9b219426cb52ac0b95b1f50cb1840e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -342,7 +344,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876088,
+    "wof:lastmodified":1695884887,
     "wof:name":"Ruvuma",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

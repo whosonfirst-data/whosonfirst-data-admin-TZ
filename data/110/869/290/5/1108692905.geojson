@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103017,
-    "geom:area_square_m":1271662067.127968,
+    "geom:area_square_m":1271661935.813805,
     "geom:bbox":"36.746798,-3.595614,37.064416,-3.05098",
     "geom:latitude":-3.334993,
     "geom:longitude":36.901088,
@@ -120,7 +120,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474326880,
-    "wof:geomhash":"2ba6b4fb317e33d0302dbecc3086b8fb",
+    "wof:geomhash":"f57c149b1509cb1f14950265435061fb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1108692905,
-    "wof:lastmodified":1636501529,
+    "wof:lastmodified":1695886783,
     "wof:name":"Meru",
     "wof:parent_id":85679731,
     "wof:placetype":"county",

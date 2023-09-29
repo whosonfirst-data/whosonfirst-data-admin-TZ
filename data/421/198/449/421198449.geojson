@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030255,
-    "geom:area_square_m":370702516.868663,
+    "geom:area_square_m":370702623.454625,
     "geom:bbox":"35.581148,-7.854713,35.823232,-7.641013",
     "geom:latitude":-7.733797,
     "geom:longitude":35.708653,
@@ -91,12 +91,13 @@
         "hasc:id":"TZ.IG.IM",
         "qs_pg:id":424741
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459009948,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"60a89ac7d9d97e07585e1f35326b509a",
+    "wof:geomhash":"c04280dbb9023d5e0e515f1eaacac294",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":421198449,
-    "wof:lastmodified":1627522860,
+    "wof:lastmodified":1695886573,
     "wof:name":"Iringa Urban",
     "wof:parent_id":85679711,
     "wof:placetype":"county",

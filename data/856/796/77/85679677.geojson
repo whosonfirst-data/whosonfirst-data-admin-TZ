@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.751923,
-    "geom:area_square_m":70432656500.908279,
+    "geom:area_square_m":70432654412.007706,
     "geom:bbox":"35.323258,-9.921631,38.515742,-5.800069",
     "geom:latitude":-7.920821,
     "geom:longitude":36.988318,
@@ -321,17 +321,19 @@
         "gn:id":153214,
         "gp:id":2347361,
         "hasc:id":"TZ.MO",
+        "iso:code":"TZ-16",
         "iso:id":"TZ-16",
         "qs_pg:id":319167,
         "unlc:id":"TZ-16",
         "wd:id":"Q458388",
         "wk:page":"Morogoro Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"60cfd8c648a71bb1861d1b8da11b7a19",
+    "wof:geomhash":"20ed12a729fef718707741f1e5dac443",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -348,7 +350,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876098,
+    "wof:lastmodified":1695884895,
     "wof:name":"Morogoro",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

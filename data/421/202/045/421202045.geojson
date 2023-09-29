@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017792,
-    "geom:area_square_m":218722165.946153,
+    "geom:area_square_m":218722082.200065,
     "geom:bbox":"39.199737,-6.321643,39.309957,-6.027276",
     "geom:latitude":-6.167693,
     "geom:longitude":39.251392,
@@ -90,12 +90,13 @@
         "hasc:id":"TZ.ZW.WE",
         "qs_pg:id":218427
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459010102,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c30915e56786f1d9f05c3875c1222792",
+    "wof:geomhash":"567bd89308ba200609d570921fa24ec2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":421202045,
-    "wof:lastmodified":1642551794,
+    "wof:lastmodified":1695886523,
     "wof:name":"Magharibi",
     "wof:parent_id":85679699,
     "wof:placetype":"county",

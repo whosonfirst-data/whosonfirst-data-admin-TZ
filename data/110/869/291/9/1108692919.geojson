@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.261165,
-    "geom:area_square_m":3217429756.506478,
+    "geom:area_square_m":3217429233.078059,
     "geom:bbox":"37.902237,-5.370255,38.768262,-4.491565",
     "geom:latitude":-4.921609,
     "geom:longitude":38.307605,
@@ -121,9 +121,10 @@
         "hasc:id":"TZ.TN.KO",
         "wd:id":"Q6432493"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326896,
-    "wof:geomhash":"d1749f9a46538541704d8e87f5f7c0a6",
+    "wof:geomhash":"12f214d3f949275c2cb1f4439d603dd1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":1108692919,
-    "wof:lastmodified":1690876114,
+    "wof:lastmodified":1695886783,
     "wof:name":"Korogwe",
     "wof:parent_id":85679747,
     "wof:placetype":"county",

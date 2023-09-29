@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.12339,
-    "geom:area_square_m":1524151601.024027,
+    "geom:area_square_m":1524151400.292624,
     "geom:bbox":"33.011484,-2.836402,33.789809,-2.380738",
     "geom:latitude":-2.613088,
     "geom:longitude":33.401455,
@@ -91,9 +91,10 @@
         "hasc:id":"TZ.MZ.MA",
         "wd:id":"Q1888265"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327045,
-    "wof:geomhash":"b64964263847a5e60be9c0a44a7572ca",
+    "wof:geomhash":"666f0cdf204b6649e2a69b79ce65a33e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108693105,
-    "wof:lastmodified":1690876119,
+    "wof:lastmodified":1695886582,
     "wof:name":"Magu",
     "wof:parent_id":85679655,
     "wof:placetype":"county",

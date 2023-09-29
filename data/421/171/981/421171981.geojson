@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119613,
-    "geom:area_square_m":1476876788.891124,
+    "geom:area_square_m":1476876585.28226,
     "geom:bbox":"37.250329,-3.403258,37.710573,-2.849604",
     "geom:latitude":-3.092937,
     "geom:longitude":37.490285,
@@ -111,12 +111,13 @@
         "wd:id":"Q1365107",
         "wk:page":"Rombo District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459008914,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e4c2d5a569a32f5689f4bc1b5f7c7bda",
+    "wof:geomhash":"562c1e12083f5ef3c24d050b15557e28",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421171981,
-    "wof:lastmodified":1690876145,
+    "wof:lastmodified":1695886789,
     "wof:name":"Rombo",
     "wof:parent_id":85679737,
     "wof:placetype":"county",

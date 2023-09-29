@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.991096,
-    "geom:area_square_m":36641892226.044792,
+    "geom:area_square_m":36641892620.649216,
     "geom:bbox":"34.193339,-9.040651,36.844811,-6.886497",
     "geom:latitude":-7.801272,
     "geom:longitude":35.475212,
@@ -314,16 +314,18 @@
         "gn:id":159067,
         "gp:id":2347355,
         "hasc:id":"TZ.IG",
+        "iso:code":"TZ-04",
         "iso:id":"TZ-04",
         "qs_pg:id":1083879,
         "wd:id":"Q309352",
         "wk:page":"Iringa Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"36d2400f6ce0e3d72b76ff22be2ed2a0",
+    "wof:geomhash":"92f1dcbacf5b49a387bbbd55ba42f739",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -340,7 +342,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876085,
+    "wof:lastmodified":1695884885,
     "wof:name":"Iringa",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

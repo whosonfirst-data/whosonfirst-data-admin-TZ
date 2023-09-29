@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062263,
-    "geom:area_square_m":756428617.388629,
+    "geom:area_square_m":756428611.346521,
     "geom:bbox":"38.654075,-10.878401,39.103713,-10.623834",
     "geom:latitude":-10.732367,
     "geom:longitude":38.857328,
@@ -54,7 +54,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474326952,
-    "wof:geomhash":"c0cddf79cabfc729172b76130fb175dd",
+    "wof:geomhash":"633254f6cf40349812ce8745454262c3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1108692983,
-    "wof:lastmodified":1627522866,
+    "wof:lastmodified":1695886582,
     "wof:name":"Masasi Township Authority",
     "wof:parent_id":85679717,
     "wof:placetype":"county",

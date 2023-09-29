@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.824262,
-    "geom:area_square_m":34457983257.228096,
+    "geom:area_square_m":34457983702.43811,
     "geom:bbox":"36.868123,-10.440183,38.717767,-7.932525",
     "geom:latitude":-9.334629,
     "geom:longitude":37.873636,
@@ -91,9 +91,10 @@
         "hasc:id":"TZ.LI.LI",
         "wd:id":"Q6272988"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326938,
-    "wof:geomhash":"4a87169491a44546e7a3d68df17d0897",
+    "wof:geomhash":"6907d8e5aadc4861d091be3738e14c26",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108692961,
-    "wof:lastmodified":1690876114,
+    "wof:lastmodified":1695886581,
     "wof:name":"Liwale",
     "wof:parent_id":85679713,
     "wof:placetype":"county",

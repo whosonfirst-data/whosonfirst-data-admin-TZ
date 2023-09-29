@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107977,
-    "geom:area_square_m":1333993615.50547,
+    "geom:area_square_m":1333993799.325665,
     "geom:bbox":"33.496027,-2.575013,34.025656,-2.178633",
     "geom:latitude":-2.389581,
     "geom:longitude":33.777735,
@@ -54,7 +54,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474327090,
-    "wof:geomhash":"4f882786725a2a80dfaabb543531be50",
+    "wof:geomhash":"f3a656c8ad13aca6b4ec10e9cc12b2ec",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1108693159,
-    "wof:lastmodified":1642551824,
+    "wof:lastmodified":1695886535,
     "wof:name":"Busega",
     "wof:parent_id":85679755,
     "wof:placetype":"county",

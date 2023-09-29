@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045151,
-    "geom:area_square_m":557178372.508597,
+    "geom:area_square_m":557178456.731208,
     "geom:bbox":"33.311663,-3.758406,33.586376,-3.490014",
     "geom:latitude":-3.62573,
     "geom:longitude":33.4453,
@@ -85,9 +85,10 @@
         "hasc:id":"TZ.SY.SU",
         "wd:id":"Q7497842"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327023,
-    "wof:geomhash":"229b46d53aacc6f938ed63cce5ba1dc1",
+    "wof:geomhash":"466d28094917822fdcdb64681a4bf626",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108693075,
-    "wof:lastmodified":1690876102,
+    "wof:lastmodified":1695886031,
     "wof:name":"Shinyanga Urban",
     "wof:parent_id":85679657,
     "wof:placetype":"county",

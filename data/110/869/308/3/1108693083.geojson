@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110991,
-    "geom:area_square_m":1369336193.064202,
+    "geom:area_square_m":1369336272.634303,
     "geom:bbox":"32.366377,-4.050004,32.852319,-3.626967",
     "geom:latitude":-3.843614,
     "geom:longitude":32.597266,
@@ -54,7 +54,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474327029,
-    "wof:geomhash":"eb31c6723dc44866aac188b97b6ffed7",
+    "wof:geomhash":"65774d13c2649c00aa34335b76f93a80",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1108693083,
-    "wof:lastmodified":1627522861,
+    "wof:lastmodified":1695886575,
     "wof:name":"Kahama Township Authority",
     "wof:parent_id":85679657,
     "wof:placetype":"county",

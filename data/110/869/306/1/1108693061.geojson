@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.586315,
-    "geom:area_square_m":7227390322.021139,
+    "geom:area_square_m":7227390261.6056,
     "geom:bbox":"29.892555,-5.094738,30.927918,-3.773478",
     "geom:latitude":-4.504974,
     "geom:longitude":30.423426,
@@ -120,9 +120,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.KM.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327012,
-    "wof:geomhash":"95da1be1efaf8aaf0ae83182502513ed",
+    "wof:geomhash":"86e4289552096e61afe82ec2f1d9f13e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108693061,
-    "wof:lastmodified":1636501525,
+    "wof:lastmodified":1695886781,
     "wof:name":"Kasulu",
     "wof:parent_id":85679669,
     "wof:placetype":"county",

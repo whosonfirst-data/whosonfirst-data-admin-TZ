@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072626,
-    "geom:area_square_m":887212620.625857,
+    "geom:area_square_m":887212616.952169,
     "geom:bbox":"34.687614,-9.03434,35.144915,-8.769074",
     "geom:latitude":-8.901709,
     "geom:longitude":34.947182,
@@ -54,7 +54,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474327079,
-    "wof:geomhash":"f078375d71d26cc4e8a16ea46e0ce022",
+    "wof:geomhash":"050a70565f4af20f36fbe3174d2638d0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1108693145,
-    "wof:lastmodified":1627522866,
+    "wof:lastmodified":1695886583,
     "wof:name":"Makambako Township Authority",
     "wof:parent_id":85679765,
     "wof:placetype":"county",

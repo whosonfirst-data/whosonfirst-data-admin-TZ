@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.2505,
-    "geom:area_square_m":15404452598.799282,
+    "geom:area_square_m":15404451767.851332,
     "geom:bbox":"31.038017,-5.837199,32.494629,-4.053106",
     "geom:latitude":-4.95149,
     "geom:longitude":31.735275,
@@ -66,7 +66,7 @@
     "wof:concordances":{},
     "wof:country":"TZ",
     "wof:created":1474327003,
-    "wof:geomhash":"1a87d2e9a38d308d02a929b5c179a3f3",
+    "wof:geomhash":"6bc4ec13c513ea84c229dc301c6ea651",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":1108693047,
-    "wof:lastmodified":1627522861,
+    "wof:lastmodified":1695886575,
     "wof:name":"Kaliua",
     "wof:parent_id":85679661,
     "wof:placetype":"county",

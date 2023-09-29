@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.691015,
-    "geom:area_square_m":8492680214.10262,
+    "geom:area_square_m":8492680665.499318,
     "geom:bbox":"37.798293,-6.777452,39.121064,-5.841273",
     "geom:latitude":-6.311685,
     "geom:longitude":38.409017,
@@ -159,9 +159,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.PW.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326918,
-    "wof:geomhash":"30910a849709980e842044f5164c5019",
+    "wof:geomhash":"842f7f08f8469396f798d73aca74faaa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -171,7 +172,7 @@
         }
     ],
     "wof:id":1108692947,
-    "wof:lastmodified":1636501526,
+    "wof:lastmodified":1695886782,
     "wof:name":"Bagamoyo",
     "wof:parent_id":85679691,
     "wof:placetype":"county",

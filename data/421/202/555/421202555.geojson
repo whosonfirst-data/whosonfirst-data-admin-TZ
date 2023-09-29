@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073463,
-    "geom:area_square_m":906886476.14621,
+    "geom:area_square_m":906886268.440603,
     "geom:bbox":"37.05414,-3.505821,37.320162,-2.97427",
     "geom:latitude":-3.289209,
     "geom:longitude":37.200541,
@@ -135,12 +135,13 @@
         "wd:id":"Q1364658",
         "wk:page":"Hai District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459010122,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8fa422d5723a46153ee160a2898bcf2e",
+    "wof:geomhash":"33efe775040d6724559d84d8d2f3c09b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":421202555,
-    "wof:lastmodified":1690876126,
+    "wof:lastmodified":1695886784,
     "wof:name":"Hai",
     "wof:parent_id":85679737,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.422659,
-    "geom:area_square_m":5172404465.861801,
+    "geom:area_square_m":5172403648.766559,
     "geom:bbox":"31.375294,-8.762772,32.453776,-7.408074",
     "geom:latitude":-8.227255,
     "geom:longitude":31.943828,
@@ -89,9 +89,10 @@
         "hasc:id":"TZ.RU.SR",
         "wd:id":"Q3710540"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327006,
-    "wof:geomhash":"85dfa91a6d48415d5905c5c4ef11f339",
+    "wof:geomhash":"c7fe644495d78f6001a6f38ce76bc19c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108693051,
-    "wof:lastmodified":1690876112,
+    "wof:lastmodified":1695886033,
     "wof:name":"Sumbawanga Rural",
     "wof:parent_id":85679645,
     "wof:placetype":"county",

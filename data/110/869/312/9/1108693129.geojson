@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.071181,
-    "geom:area_square_m":13190027674.898373,
+    "geom:area_square_m":13190027740.44128,
     "geom:bbox":"36.246409,-5.951309,37.386665,-4.436777",
     "geom:latitude":-5.226486,
     "geom:longitude":36.761577,
@@ -97,9 +97,10 @@
         "hasc:id":"TZ.MY.KI",
         "wd:id":"Q2220741"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327068,
-    "wof:geomhash":"5a1a6715ab92669925b6de535ce0d667",
+    "wof:geomhash":"aa387894b269132e041d8f54f1f439b5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108693129,
-    "wof:lastmodified":1690876109,
+    "wof:lastmodified":1695886580,
     "wof:name":"Kiteto",
     "wof:parent_id":85679733,
     "wof:placetype":"county",

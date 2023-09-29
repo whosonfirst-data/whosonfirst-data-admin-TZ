@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.131478,
-    "geom:area_square_m":1625238127.269361,
+    "geom:area_square_m":1625238110.948837,
     "geom:bbox":"31.328931,-1.702374,31.880005,-1.003834",
     "geom:latitude":-1.431517,
     "geom:longitude":31.586198,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.KG.BR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327032,
-    "wof:geomhash":"fc73a7aa492a89693257dd321e680f4c",
+    "wof:geomhash":"305e658b69c394c8c791632444a8ece1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1108693087,
-    "wof:lastmodified":1627522857,
+    "wof:lastmodified":1695886570,
     "wof:name":"Bukoba Rural",
     "wof:parent_id":85679665,
     "wof:placetype":"county",

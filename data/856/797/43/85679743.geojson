@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.714187,
-    "geom:area_square_m":21184829916.723183,
+    "geom:area_square_m":21184829507.520706,
     "geom:bbox":"33.202932,-2.498291,35.265917,-1.026221",
     "geom:latitude":-1.852783,
     "geom:longitude":34.395288,
@@ -312,17 +312,19 @@
         "gn:id":154775,
         "gp:id":2347359,
         "hasc:id":"TZ.MA",
+        "iso:code":"TZ-13",
         "iso:id":"TZ-13",
         "qs_pg:id":454604,
         "unlc:id":"TZ-13",
         "wd:id":"Q458406",
         "wk:page":"Mara Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2fc74537de8f8c8019ff810a0f50bb94",
+    "wof:geomhash":"6eec61e79d59636fd8bbabc3b1c77795",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -339,7 +341,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876086,
+    "wof:lastmodified":1695884886,
     "wof:name":"Mara",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

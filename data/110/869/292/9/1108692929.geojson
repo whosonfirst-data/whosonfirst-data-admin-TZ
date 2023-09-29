@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.221059,
-    "geom:area_square_m":2724046865.398732,
+    "geom:area_square_m":2724046180.707546,
     "geom:bbox":"38.661295,-5.036694,39.220056,-4.358039",
     "geom:latitude":-4.748237,
     "geom:longitude":38.925209,
@@ -74,7 +74,7 @@
     },
     "wof:country":"TZ",
     "wof:created":1474326904,
-    "wof:geomhash":"7c7cbe41bf5233084a9f7de8d0efa68a",
+    "wof:geomhash":"d28b1f02c4abc0f5ad212c54af995c59",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1108692929,
-    "wof:lastmodified":1690876106,
+    "wof:lastmodified":1695886585,
     "wof:name":"Mkinga",
     "wof:parent_id":85679747,
     "wof:placetype":"county",

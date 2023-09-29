@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.45357,
-    "geom:area_square_m":5594098949.143037,
+    "geom:area_square_m":5594099472.393435,
     "geom:bbox":"35.194567,-4.493571,36.305556,-3.554072",
     "geom:latitude":-4.100097,
     "geom:longitude":35.858246,
@@ -103,9 +103,10 @@
         "hasc:id":"TZ.MY.BA",
         "wd:id":"Q15195819"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327063,
-    "wof:geomhash":"9425d03c3ecdd38da69a1157db70222a",
+    "wof:geomhash":"3516217eca218bfed329ceaf412c72e1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108693123,
-    "wof:lastmodified":1690876110,
+    "wof:lastmodified":1695886782,
     "wof:name":"Babati",
     "wof:parent_id":85679733,
     "wof:placetype":"county",

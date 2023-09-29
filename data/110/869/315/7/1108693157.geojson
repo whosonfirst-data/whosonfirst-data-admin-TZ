@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.298372,
-    "geom:area_square_m":3683549227.430744,
+    "geom:area_square_m":3683549523.995307,
     "geom:bbox":"33.423074,-3.604221,34.149794,-2.79965",
     "geom:latitude":-3.230173,
     "geom:longitude":33.788058,
@@ -88,9 +88,10 @@
         "hasc:id":"TZ.SI.MA",
         "wd:id":"Q6785741"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327089,
-    "wof:geomhash":"4e80789c45d3e5321e255432d0cd2b0e",
+    "wof:geomhash":"00d89106bf12ea0fe3a955d4f4d50ed0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108693157,
-    "wof:lastmodified":1690876108,
+    "wof:lastmodified":1695886583,
     "wof:name":"Maswa",
     "wof:parent_id":85679755,
     "wof:placetype":"county",

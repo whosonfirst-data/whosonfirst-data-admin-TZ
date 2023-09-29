@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.340467,
-    "geom:area_square_m":4201198218.363069,
+    "geom:area_square_m":4201198043.802547,
     "geom:bbox":"33.152624,-4.077654,34.233575,-3.283046",
     "geom:latitude":-3.689174,
     "geom:longitude":33.758639,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.SY.KI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327024,
-    "wof:geomhash":"8fec583f59b2a9f6eb18a9aaac6657b5",
+    "wof:geomhash":"cc1268ea95131ace7546f3741b83745e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108693077,
-    "wof:lastmodified":1627522864,
+    "wof:lastmodified":1695886580,
     "wof:name":"Kishapu",
     "wof:parent_id":85679657,
     "wof:placetype":"county",

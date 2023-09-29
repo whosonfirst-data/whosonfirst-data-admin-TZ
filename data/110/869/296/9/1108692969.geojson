@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.304906,
-    "geom:area_square_m":3707272534.812751,
+    "geom:area_square_m":3707272544.025114,
     "geom:bbox":"39.644577,-10.82835,40.444735,-10.125081",
     "geom:latitude":-10.484051,
     "geom:longitude":40.003378,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.MT.MR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474326943,
-    "wof:geomhash":"7bff0192a1286ffb613469e6c8450f82",
+    "wof:geomhash":"c2aeac494262d8ef309a6f620684ffbe",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108692969,
-    "wof:lastmodified":1627522870,
+    "wof:lastmodified":1695886589,
     "wof:name":"Mtwara Rural",
     "wof:parent_id":85679717,
     "wof:placetype":"county",

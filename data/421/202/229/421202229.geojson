@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044077,
-    "geom:area_square_m":541264521.100291,
+    "geom:area_square_m":541264623.039173,
     "geom:bbox":"39.00629,-6.874,39.288775,-6.564077",
     "geom:latitude":-6.728189,
     "geom:longitude":39.142115,
@@ -91,12 +91,13 @@
         "hasc:id":"TZ.DS.KI",
         "qs_pg:id":220072
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459010109,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"60101460ae1184ddeeeb52c4cb4777f0",
+    "wof:geomhash":"75f4921bf701ab69220e425d3924aeb4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":421202229,
-    "wof:lastmodified":1627522863,
+    "wof:lastmodified":1695886577,
     "wof:name":"Kinondoni",
     "wof:parent_id":85679675,
     "wof:placetype":"county",

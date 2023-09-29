@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.750374,
-    "geom:area_square_m":21349388327.221176,
+    "geom:area_square_m":21349389895.217926,
     "geom:bbox":"33.810973,-10.538403,35.523169,-8.663164",
     "geom:latitude":-9.450256,
     "geom:longitude":34.714039,
@@ -205,15 +205,17 @@
         "gn:id":-99,
         "gp:id":-2347355,
         "hasc:id":"TZ.NJ",
+        "iso:code":"TZ-29",
         "iso:id":"TZ-29",
         "unlc:id":"TZ-29",
         "wd:id":"Q24283486"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ab76b6c1786077f0bcaf065aad457bc8",
+    "wof:geomhash":"dd57eb616ea34b5b89e9546177512e66",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -230,7 +232,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876086,
+    "wof:lastmodified":1695884887,
     "wof:name":"Njombe",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

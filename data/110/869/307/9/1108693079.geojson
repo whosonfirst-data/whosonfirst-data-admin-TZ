@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.290486,
-    "geom:area_square_m":3584701999.593688,
+    "geom:area_square_m":3584701645.426457,
     "geom:bbox":"32.681933,-3.966058,33.532248,-3.229841",
     "geom:latitude":-3.628861,
     "geom:longitude":33.09652,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"TZ.SY.SR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1474327026,
-    "wof:geomhash":"3cc570fe023dadf358f37b0f62a3be8e",
+    "wof:geomhash":"5dd721bfebfde23282e59800787a90dc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1108693079,
-    "wof:lastmodified":1627522876,
+    "wof:lastmodified":1695886032,
     "wof:name":"Shinyanga Rural",
     "wof:parent_id":85679657,
     "wof:placetype":"county",

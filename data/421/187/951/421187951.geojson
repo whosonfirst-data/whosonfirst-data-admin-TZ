@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.446007,
-    "geom:area_square_m":5509394575.092847,
+    "geom:area_square_m":5509394205.860801,
     "geom:bbox":"33.622897,-2.995142,35.223437,-2.205902",
     "geom:latitude":-2.573212,
     "geom:longitude":34.307975,
@@ -129,12 +129,13 @@
         "wd:id":"Q4624506",
         "wk:page":"Bariadi"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TZ",
     "wof:created":1459009529,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3b7eb1c0d5dc3d441052a430ba057a34",
+    "wof:geomhash":"5bafc14082b464381cf6a570db9bf72a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":421187951,
-    "wof:lastmodified":1690876129,
+    "wof:lastmodified":1695886788,
     "wof:name":"Bariadi",
     "wof:parent_id":85679755,
     "wof:placetype":"county",

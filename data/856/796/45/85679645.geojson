@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.797669,
-    "geom:area_square_m":22012158345.553261,
+    "geom:area_square_m":22012157993.99905,
     "geom:bbox":"30.49938,-9.073342,32.453776,-6.884823",
     "geom:latitude":-7.984935,
     "geom:longitude":31.408217,
@@ -311,16 +311,18 @@
         "gn:id":150442,
         "gp:id":2347375,
         "hasc:id":"TZ.RU",
+        "iso:code":"TZ-20",
         "iso:id":"TZ-20",
         "qs_pg:id":1114956,
         "wd:id":"Q153329",
         "wk:page":"Rukwa Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e35591f10bdec485b9845d945f6e3d8f",
+    "wof:geomhash":"42059922d36efae9903d558d36d56c9a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -337,7 +339,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876091,
+    "wof:lastmodified":1695884889,
     "wof:name":"Rukwa",
     "wof:parent_id":85632227,
     "wof:placetype":"region",

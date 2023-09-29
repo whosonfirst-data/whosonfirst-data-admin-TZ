@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.274992,
-    "geom:area_square_m":28013336328.758919,
+    "geom:area_square_m":28013337281.997082,
     "geom:bbox":"37.018946,-6.019738,39.220056,-4.10869",
     "geom:latitude":-5.217078,
     "geom:longitude":38.276488,
@@ -321,17 +321,19 @@
         "gn:id":149595,
         "gp:id":2347369,
         "hasc:id":"TZ.TN",
+        "iso:code":"TZ-25",
         "iso:id":"TZ-25",
         "qs_pg:id":890107,
         "unlc:id":"TZ-25",
         "wd:id":"Q389737",
         "wk:page":"Tanga Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a6ab1b5d79b516eb64b42e44a8f43b96",
+    "wof:geomhash":"42306cd8b90fe851f3076d83034dfcd7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -348,7 +350,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690876088,
+    "wof:lastmodified":1695884887,
     "wof:name":"Tanga",
     "wof:parent_id":85632227,
     "wof:placetype":"region",
