@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":153999
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            153998
+        ]
+    },
     "wof:country":"TZ",
     "wof:geomhash":"996d9a0816ddef7aa2dec743f760524f",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1276188125,
-    "wof:lastmodified":1566590496,
+    "wof:lastmodified":1706240711,
     "wof:name":"Mheza",
     "wof:parent_id":1108692919,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327005879
+    ],
     "wof:tags":[]
 },
   "bbox": [
