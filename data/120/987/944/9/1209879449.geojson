@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":159821
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            159820
+        ]
+    },
     "wof:country":"TZ",
     "wof:geomhash":"339fe742fe9cebac6e7c7f36e4ba0216",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1209879449,
-    "wof:lastmodified":1566590606,
+    "wof:lastmodified":1706240710,
     "wof:name":"Gombelo",
     "wof:parent_id":1108692929,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242850411
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,6 +9,21 @@
     "geom:bbox":"31.50028,-1.39972,31.50028,-1.39972",
     "geom:latitude":-1.39972,
     "geom:longitude":31.50028,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1802",
+    "gn:admin3_code":"1802263",
+    "gn:asciiname":"Katoro",
+    "gn:country_code":"TZ",
+    "gn:dem":1169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":158161,
+    "gn:latitude":-1.39972,
+    "gn:longitude":31.50028,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Katoro",
+    "gn:population":11925,
+    "gn:timezone":"Africa/Dar_es_Salaam",
     "iso:country":"TZ",
     "lbl:bbox":"31.48028,-1.41972,31.52028,-1.37972",
     "lbl:max_zoom":15.0,
@@ -60,7 +75,12 @@
         "qs_pg:id":68659
     },
     "wof:concordances_alt":{
-        "qs_pg:id":122567
+        "gn:id":[
+            158161
+        ],
+        "qs_pg:id":[
+            122567
+        ]
     },
     "wof:country":"TZ",
     "wof:created":1459009181,
@@ -78,7 +98,7 @@
         }
     ],
     "wof:id":421178419,
-    "wof:lastmodified":1582347615,
+    "wof:lastmodified":1706240710,
     "wof:name":"Katoro",
     "wof:parent_id":1108693087,
     "wof:placetype":"locality",
@@ -86,7 +106,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-tz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243033627
+    ],
     "wof:tags":[]
 },
   "bbox": [

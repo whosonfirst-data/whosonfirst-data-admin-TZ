@@ -96,6 +96,11 @@
     "wof:concordances":{
         "gn:id":7390663
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7388966
+        ]
+    },
     "wof:country":"TZ",
     "wof:geomhash":"8a9fa24ea574682a2f511a7657f1218f",
     "wof:hierarchy":[
@@ -108,13 +113,15 @@
         }
     ],
     "wof:id":1209709361,
-    "wof:lastmodified":1566590575,
+    "wof:lastmodified":1706240710,
     "wof:name":"Riva",
     "wof:parent_id":421204027,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326819405
+    ],
     "wof:tags":[]
 },
   "bbox": [
